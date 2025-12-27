@@ -32,7 +32,7 @@ The project demonstrates how to recognize text in image in ASP.NET Core:
    dotnet build AspNetCoreOcrDemo.Net10.csproj
    ```
 
-4. Run compiled application and try to view and annotate images and documents.
+4. Run compiled application and try to recognize text in image.
 
 
 ## Documentation
