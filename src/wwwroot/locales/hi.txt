@@ -1,0 +1,1154 @@
+﻿{
+	"documentViewer": {
+		"fileLabel": {
+			"text": "फ़ाइल"
+		},
+		"viewLabel": {
+			"text": "देखें"
+		},
+		"toolsLabel": {
+			"text": "उपकरण"
+		},
+		"ocrPanelLabel": {
+			"text": "ओसीआर"
+		},
+		"uploadAndOpenFileButton": {
+			"title": "फ़ाइल डाउनलोड करें और खोलें"
+		},
+		"uploadAndAddFileButton": {
+			"title": "फ़ाइल अपलोड करें और जोड़ें"
+		},
+		"previousUploadFilesButton": {
+			"title": "पहले डाउनलोड की गई फ़ाइलों की सूची देखें"
+		},
+		"openFileFromUrlButton": {
+			"title": "URL से फ़ाइल खोलें"
+		},
+		"printImagesButton": {
+			"title": "छवियाँ मुद्रित करें"
+		},
+		"downloadFileButton": {
+			"title": "डाउनलोड फ़ाइल"
+		},
+		"exportAndDownloadFileButton": {
+			"title": "फ़ाइल निर्यात करें और डाउनलोड करें"
+		},
+		"clearSessionCacheButton": {
+			"title": "सत्र कैश साफ़ करें"
+		},
+		"fitToWidthSizeModeButton": {
+			"title": "चौड़ाई के अनुरूप"
+		},
+		"rotateViewsCounterClockwiseButton": {
+			"title": "सभी दृश्यों को वामावर्त घुमाएँ"
+		},
+		"rotateAngleInput": {
+			"title": "घूर्णन कोण"
+		},
+		"rotateViewsClockwiseButton": {
+			"title": "सभी दृश्यों को दक्षिणावर्त घुमाएँ"
+		},
+		"imageViewerSettingsButton": {
+			"title": "छवि दर्शक सेटिंग्स"
+		},
+		"thumbnailViewerSettingsButton": {
+			"title": "थंबनेल व्यूअर सेटिंग्स"
+		},
+		"panToolButton": {
+			"title": "पैन"
+		},
+		"rectangularSelectionToolButton": {
+			"title": "आयताकार चयन"
+		},
+		"magnifierToolButton": {
+			"title": "आवर्धक"
+		},
+		"zoomToolButton": {
+			"title": "पैमाना"
+		},
+		"zoomSelectionToolButton": {
+			"title": "पैमाने का चयन"
+		},
+		"TextSelectionToolButton": {
+			"title": "पाठ को हाइलाइट करें"
+		},
+		"recognizeTextFromAllPagesAndOpenResultButton": {
+			"title": "सभी पृष्ठों से पाठ पहचानें और पहचाने गए पाठ के साथ फ़ाइल खोलें"
+		},
+		"recognizeTextFromAllPagesAndDownloadResultButton": {
+			"title": "सभी पृष्ठों से पाठ पहचानें और पहचाने गए पाठ के साथ फ़ाइल डाउनलोड करें"
+		},
+		"recognizeTextFromFocusedPageAndDownloadResultButton": {
+			"title": "फ़ोकस किए गए पृष्ठ से पाठ पहचानें और पहचाने गए पाठ के साथ फ़ाइल डाउनलोड करें"
+		},
+		"recognizeTextFromRegionOfFocusedPageAndDownloadResultButton": {
+			"title": "फ़ोकस किए गए पृष्ठ के क्षेत्र से पाठ पहचानें और पहचाने गए पाठ के साथ फ़ाइल डाउनलोड करें"
+		},
+		"ocrSettingsButton": {
+			"title": "ओसीआर सेटिंग्स"
+		},
+		"sidePanelCloseButton": {
+			"title": "साइडबार दिखाएँ"
+		},
+		"showThumbnailViewerPanelButton": {
+			"title": "थंबनेल"
+		},
+		"showPanelButton": {
+			"title": "मूर्ति प्रोद्योगिकी"
+		},
+		"showTextSelectionPanelButton": {
+			"title": "पाठ को हाइलाइट करें"
+		},
+		"showTextSearchPanelButton": {
+			"title": "पाठ खोजें"
+		},
+		"imageProcessingPanel": {
+			"parametersButton": {
+				"value": "समायोजन"
+			},
+			"runButton": {
+				"value": "आवेदन करना"
+			}
+		},
+		"textSelectionPanel": {
+			"selectionModeLabel": {
+				"text": "पाठ चयन मोड:"
+			},
+			"rectangleOption": {
+				"text": "आयत"
+			},
+			"fullLinesOption": {
+				"text": "पूर्ण पंक्तियाँ"
+			},
+			"selectionColorLabel": {
+				"text": "चयनित पाठ का रंग:"
+			},
+			"selectedTextLabel": {
+				"text": "चयनित पाठ:"
+			}
+		},
+		"textSearchPanel": {
+			"findLabel": {
+				"text": "ढूंढें:"
+			},
+			"whereLookLabel": {
+				"text": "इस पर खोजें:"
+			},
+			"currentPageOption": {
+				"text": "वर्तमान पृष्ठ"
+			},
+			"allPagesOption": {
+				"text": "सभी पृष्ठ"
+			},
+			"wholeWordLabel": {
+				"text": "पूरा शब्द खोजें"
+			},
+			"caseSensitiveLabel": {
+				"text": "केस संवेदनशील"
+			},
+			"startSearchButton": {
+				"value": "खोज प्रारंभ करें"
+			},
+			"stopSearchButton": {
+				"value": "खोजना बंद करो"
+			},
+			"textNotFoundLabel": {
+				"text": "पाठ नहीं मिला."
+			}
+		},
+		"gotoFirstPageButton": {
+			"title": "पहली छवि पर जाएँ"
+		},
+		"gotoPreviousPageButton": {
+			"title": "पिछली छवि पर जाएँ"
+		},
+		"gotoPageInput": {
+			"title": "पेज"
+		},
+		"gotoNextPageButton": {
+			"title": "अगली छवि पर जाएँ"
+		},
+		"gotoLastPageButton": {
+			"title": "अंतिम छवि पर जाएँ"
+		},
+		"zoomOutButton": {
+			"title": "ज़ूम आउट"
+		},
+		"zoomValueInput": {
+			"title": "पैमाना"
+		},
+		"zoomInButton": {
+			"title": "ज़ूम इन करें"
+		},
+		"ocrSettingsDialog": {
+			"title": "ओसीआर सेटिंग्स",
+			"ImageBinarizationMode": {
+				"text": "ImageBinarizationMode:"
+			},
+			"Languages": {
+				"text": "भाषाएँ:"
+			},
+			"selectAllLabel": {
+				"text": "सबका चयन करें"
+			},
+			"english": {
+				"text": "अंग्रेज़ी"
+			},
+			"french": {
+				"text": "फ्रेंच भाषा"
+			},
+			"german": {
+				"text": "जर्मन भाषा"
+			},
+			"italian": {
+				"text": "इटालियन भाषा"
+			},
+			"osd": {
+				"text": "ओरिएंटेशन का पता लगाना"
+			},
+			"portuguese": {
+				"text": "पुर्तगाली भाषा"
+			},
+			"russian": {
+				"text": "रूसी भाषा"
+			},
+			"spanish": {
+				"text": "स्पेनिश भाषा"
+			},
+			"RecognitionMode": {
+				"text": "RecognitionMode:"
+			},
+			"RecognitionRegionType": {
+				"text": "RecognitionRegionType:"
+			},
+			"ResultFileFormat": {
+				"text": "ResultFileFormat:"
+			},
+			"ResultFileName": {
+				"text": "ResultFileName:"
+			},
+			"okButton": {
+				"value": "ठीक है"
+			}
+		},
+		"normalSizeModeButton": {
+			"title": "सामान्य"
+		},
+		"bestFitSizeModeButton": {
+			"title": "सबसे उपयुक्त"
+		},
+		"fitToHeightSizeModeButton": {
+			"title": "फिट ऊंचाई"
+		},
+		"pixelToPixelSizeModeButton": {
+			"title": "पिक्सेल से पिक्सेल"
+		},
+		"zoomSizeModeButton": {
+			"title": "पैमाना"
+		},
+		"documentPasswordDialog": {
+			"pleaseEnterPasswordLabel": {
+				"text": "यह दस्तावेज़ पासवर्ड से सुरक्षित है. कृपया पासवर्ड दर्ज करें।"
+			},
+			"passwordLabel": {
+				"text": "पासवर्ड:"
+			},
+			"showPasswordLabel": {
+				"text": "पासवर्ड दिखाएँ"
+			},
+			"incorrectPasswordLabel": {
+				"text": "गलत पासवर्ड"
+			},
+			"okButton": {
+				"value": "ठीक है"
+			},
+			"сancelButton": {
+				"value": "रद्द करें"
+			}
+		},
+		"selectImagesDialog": {
+			"imagesLabel": {
+				"text": "छवियाँ:"
+			},
+			"currentImageOption": {
+				"text": "वर्तमान छवि"
+			},
+			"allImagesOption": {
+				"text": "सभी छवियाँ"
+			},
+			"customImagesOption": {
+				"text": "कस्टम"
+			},
+			"imageRangeLabel": {
+				"text": "छवि श्रेणी:"
+			},
+			"invalidRangeErrorMessageLabel": {
+				"text": "अमान्य पृष्ठ श्रेणी. उदाहरण: 1-5, 8, 12-15."
+			},
+			"outOfRangeErrorMessageLabel": {
+				"text": "सूचकांक छवि संग्रह की अनुक्रमणिका सीमा के भीतर नहीं है।"
+			},
+			"okButton": {
+				"value": "ठीक है"
+			},
+			"сancelButton": {
+				"value": "रद्द करें"
+			}
+		},
+		"printImagesDialog": {
+			"imagesLabel": {
+				"text": "छवियाँ:"
+			},
+			"currentImageOption": {
+				"text": "वर्तमान छवि"
+			},
+			"allImagesOption": {
+				"text": "सभी छवियाँ"
+			},
+			"customImagesOption": {
+				"text": "कस्टम"
+			},
+			"imageRangeLabel": {
+				"text": "छवि श्रेणी:"
+			},
+			"invalidRangeErrorMessageLabel": {
+				"text": "अमान्य पृष्ठ श्रेणी. उदाहरण: 1-5, 8, 12-15."
+			},
+			"outOfRangeErrorMessageLabel": {
+				"text": "सूचकांक छवि संग्रह की अनुक्रमणिका सीमा के भीतर नहीं है।"
+			},
+			"okButton": {
+				"value": "ठीक है"
+			},
+			"cancelButton": {
+				"value": "रद्द करें"
+			}
+		},
+		"imageViewerSettingsDialog": {
+			"imageDisplayModeLabel": {
+				"text": "छवि प्रदर्शन मोड:"
+			},
+			"imageAnchorLabel": {
+				"text": "छवि एंकर:"
+			},
+			"noneOption": {
+				"text": "नहीं"
+			},
+			"topLeftOption": {
+				"text": "ऊपर|बाएँ"
+			},
+			"topOption": {
+				"text": "शीर्ष"
+			},
+			"topRightOption": {
+				"text": "शीर्ष|दाएं"
+			},
+			"rightOption": {
+				"text": "सही"
+			},
+			"bottomRightOption": {
+				"text": "नीचे|दाएँ"
+			},
+			"bottomOption": {
+				"text": "नीचे"
+			},
+			"bottomLeftOption": {
+				"text": "नीचे|बाएं"
+			},
+			"leftOption": {
+				"text": "बाएं"
+			},
+			"multipageDisplayModeLabel": {
+				"text": "मल्टी-पेज डिस्प्ले मोड:"
+			},
+			"allImagesOption": {
+				"text": "AllImages"
+			},
+			"fixedImagesOption": {
+				"text": "FixedImages"
+			},
+			"layoutDirectionLabel": {
+				"text": "लेआउट दिशा:"
+			},
+			"horizontalOption": {
+				"text": "क्षैतिज"
+			},
+			"verticalOption": {
+				"text": "ऊर्ध्वाधर"
+			},
+			"rowColumnCountLabel": {
+				"text": "पंक्ति/स्तंभ में छवियाँ:"
+			},
+			"imagePaddingLabel": {
+				"text": "छवियाँ पैडिंग:"
+			},
+			"appearancesLabel": {
+				"text": "उपस्थितियाँ"
+			},
+			"imageAppearanceLabel": {
+				"text": "छवि उपस्थिति"
+			},
+			"imageAppearanceBackColorLabel": {
+				"text": "पृष्ठभूमि का रंग:"
+			},
+			"imageAppearanceBorderColorLabel": {
+				"text": "सीमा रंग:"
+			},
+			"imageAppearanceBorderWidthLabel": {
+				"text": "सीमा चौड़ाई:"
+			},
+			"focusedImageAppearanceLabel": {
+				"text": "इन-फोकस छवि का प्रकटन"
+			},
+			"focusedImageAppearanceBackColorLabel": {
+				"text": "पृष्ठभूमि का रंग:"
+			},
+			"focusedImageAppearanceBorderColorLabel": {
+				"text": "सीमा रंग:"
+			},
+			"focusedImageAppearanceBorderWidthLabel": {
+				"text": "सीमा चौड़ाई:"
+			},
+			"useAppearanceInSinglePageModeLabel": {
+				"text": "एकल पृष्ठ मोड में छवि उपस्थिति का उपयोग करें"
+			},
+			"renderingSettingsLabel": {
+				"text": "रेंडर सेटिंग्स"
+			},
+			"defaultRenderingSettingsLabel": {
+				"text": "डिफ़ॉल्ट सेटिंग्स"
+			},
+			"horizontalResolutionLabel": {
+				"text": "क्षैतिज संकल्प:"
+			},
+			"verticalResolutionLabel ": {
+				"text": "ऊर्ध्वाधर रिज़ॉल्यूशन:"
+			},
+			"smoothingModeLabel": {
+				"text": "स्मूथ मोड:"
+			},
+			"AntiAlias": {
+				"text": "AntiAlias"
+			},
+			"None": {
+				"text": "नहीं"
+			},
+			"interpolationModeLabel": {
+				"text": "इंटरपोलेशन मोड:"
+			},
+			"Bicubic": {
+				"text": "Bicubic"
+			},
+			"Bilinear": {
+				"text": "Bilinear"
+			},
+			"HighQualityBicubic": {
+				"text": "HighQualityBicubic"
+			},
+			"HighQualityBilinear": {
+				"text": "HighQualityBilinear"
+			},
+			"NearestNeighbor": {
+				"text": "NearestNeighbor"
+			},
+			"otherSettingsLabel": {
+				"text": "अन्य सेटिंग्स"
+			},
+			"backgroundColorLabel": {
+				"text": "छवि दर्शक पृष्ठभूमि रंग:"
+			},
+			"centerImageLabel": {
+				"text": "केंद्र छवि:"
+			},
+			"resizeTimeoutLabel ": {
+				"text": "आकार बदलें टाइमआउट:"
+			},
+			"tileSizeLabel": {
+				"text": "टाइल का आकार:"
+			},
+			"colorManagementLabel": {
+				"text": "रंग प्रबंधन सक्षम करें:"
+			},
+			"useVectorRenderingLabel": {
+				"text": "दस्तावेज़ों के लिए वेक्टर रेंडरिंग का उपयोग करें:"
+			},
+			"vectorContentBackgroundColorLabel": {
+				"text": "वेक्टर सामग्री पृष्ठभूमि रंग:"
+			},
+			"okButton": {
+				"value": "ठीक है"
+			},
+			"сancelButton": {
+				"value": "रद्द करें"
+			}
+		},
+		"thumbnailViewerSettingsDialog": {
+			"sizeLabel": {
+				"text": "थंबनेल आकार:"
+			},
+			"scaleLabel": {
+				"text": "थंबनेल स्केल:"
+			},
+			"smallestOption": {
+				"text": "न्यूनतम"
+			},
+			"smallOption": {
+				"text": "छोटा"
+			},
+			"normalOption": {
+				"text": "सामान्य"
+			},
+			"largeOption": {
+				"text": "बड़ा"
+			},
+			"flowStyleLabel": {
+				"text": "थंबनेल प्लेसमेंट शैली:"
+			},
+			"singleColumnOption": {
+				"text": "SingleColumn"
+			},
+			"singleRowOption": {
+				"text": "SingleRow"
+			},
+			"fixedColumnsOption": {
+				"text": "FixedColumns"
+			},
+			"wrappedRowsOption": {
+				"text": "WrappedRows"
+			},
+			"columnCountLabel": {
+				"text": "स्तंभों की संख्या:"
+			},
+			"marginLabel": {
+				"text": "बाहर पैडिंग:"
+			},
+			"paddingTopLabel": {
+				"text": "शीर्ष पैडिंग:"
+			},
+			"paddingRightLabel": {
+				"text": "दायां इंडेंट:"
+			},
+			"paddingBottomLabel": {
+				"text": "बॉटम पैडिंग:"
+			},
+			"paddingLeftLabel": {
+				"text": "बायाँ इंडेंट:"
+			},
+			"showCaptionLabel": {
+				"text": "थंबनेल कैप्शन दिखाएँ:"
+			},
+			"captionFormatLabel": {
+				"text": "हस्ताक्षर प्रारूप:"
+			},
+			"captionAnchorLabel": {
+				"text": "हस्ताक्षर एंकर:"
+			},
+			"topLeftOption": {
+				"text": "ऊपर|बाएँ"
+			},
+			"topOption": {
+				"text": "शीर्ष"
+			},
+			"topRightOption": {
+				"text": "शीर्ष|दाएं"
+			},
+			"rightOption": {
+				"text": "सही"
+			},
+			"bottomRightOption": {
+				"text": "नीचे|दाएँ"
+			},
+			"bottomOption": {
+				"text": "नीचे"
+			},
+			"bottomLeftOption": {
+				"text": "नीचे|बाएं"
+			},
+			"leftOption": {
+				"text": "बाएं"
+			},
+			"centerOption": {
+				"text": "केंद्र संरेखित करें"
+			},
+			"focusOnHoverLabel": {
+				"text": "होवर फोकस:"
+			},
+			"multiSelectLabel": {
+				"text": "एकाधिक थंबनेल चयन की अनुमति दें:"
+			},
+			"useThumbnailCheckboxesLabel": {
+				"text": "थंबनेल के लिए चेकबॉक्स का उपयोग करें:"
+			},
+			"useThumbnailActionsPanelLabel": {
+				"text": "थंबनेल के लिए क्रिया पैनल का उपयोग करें:"
+			},
+			"canDragThumbnailsLabel": {
+				"text": "थंबनेल खींच सकते हैं:"
+			},
+			"canNavigateThumbnailsUsingKeyboardLabel": {
+				"text": "कीबोर्ड का उपयोग करके थंबनेल नेविगेट कर सकते हैं:"
+			},
+			"canSelectThumbnailsUsingKeyboardLabel": {
+				"text": "कीबोर्ड का उपयोग करके थंबनेल चुन सकते हैं:"
+			},
+			"canDeleteThumbnailsUsingKeyboardLabel": {
+				"text": "कीबोर्ड का उपयोग करके थंबनेल हटा सकते हैं:"
+			},
+			"okButton": {
+				"value": "ठीक है"
+			},
+			"сancelButton": {
+				"value": "रद्द करें"
+			}
+		},
+		"uploadImageFromUrlDialog": {
+			"okButton": {
+				"value": "ठीक है"
+			},
+			"cancelButton": {
+				"value": "रद्द करें"
+			}
+		},
+		"imageProcessingSettingsDialog-AutoInvert": {
+			"title": "इमेज प्रोसेसिंग कमांड सेटिंग्स (ऑटोइनवर्ट)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "ठीक है"
+			}
+		},
+		"imageProcessingSettingsDialog-AutoTextOrientation": {
+			"title": "इमेज प्रोसेसिंग कमांड सेटिंग्स (ऑटोटेक्स्टओरिएंटेशन)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"+ Binarization": {
+				"text": "+ बिनरीकरण:"
+			},
+			"BinarizationMode": {
+				"text": "BinarizationMode:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ConvertToBlackLevel": {
+				"text": "ConvertToBlackLevel:"
+			},
+			"ConvertToWhiteLevel": {
+				"text": "ConvertToWhiteLevel:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"LuminanceComputationMode": {
+				"text": "LuminanceComputationMode:"
+			},
+			"MaxLevelDifference": {
+				"text": "MaxLevelDifference:"
+			},
+			"MinLevelDifference": {
+				"text": "MinLevelDifference:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"Threshold": {
+				"text": "सीमा:"
+			},
+			"WindowRadius": {
+				"text": "WindowRadius:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"MinConfidence": {
+				"text": "MinConfidence:"
+			},
+			"StripWidth": {
+				"text": "StripWidth:"
+			},
+			"okButton": {
+				"value": "ठीक है"
+			}
+		},
+		"imageProcessingSettingsDialog-BorderClear": {
+			"title": "इमेज प्रोसेसिंग कमांड सेटिंग्स (बॉर्डरक्लियर)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "ठीक है"
+			}
+		},
+		"imageProcessingSettingsDialog-Deskew": {
+			"title": "इमेज प्रोसेसिंग कमांड सेटिंग्स (डेस्क्यू)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"BorderColor": {
+				"text": "BorderColor:"
+			},
+			"BorderColorType": {
+				"text": "BorderColorType:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"MaxAngle": {
+				"text": "MaxAngle:"
+			},
+			"MinConfidence": {
+				"text": "MinConfidence:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"ScanIntervalX": {
+				"text": "ScanIntervalX:"
+			},
+			"ScanIntervalY": {
+				"text": "ScanIntervalY:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "ठीक है"
+			}
+		},
+		"imageProcessingSettingsDialog-Despeckle": {
+			"title": "इमेज प्रोसेसिंग कमांड सेटिंग्स (डेस्पेकल)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"AutoConfigureLevels": {
+				"text": "AutoConfigureLevels:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"Level1": {
+				"text": "स्तर 1:"
+			},
+			"Level2": {
+				"text": "लेवल 2:"
+			},
+			"Radius": {
+				"text": "त्रिज्या:"
+			},
+			"+ Region": {
+				"text": "+ क्षेत्र:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "चौड़ाई:"
+			},
+			"height": {
+				"text": "ऊंचाई:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "ठीक है"
+			}
+		},
+		"imageProcessingSettingsDialog-HalftoneRemoval": {
+			"title": "इमेज प्रोसेसिंग कमांड सेटिंग्स (हाफटोनरिमूवल)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"AutoThreshold": {
+				"text": "AutoThreshold:"
+			},
+			"BlackPixelRemovalThreshold": {
+				"text": "BlackPixelRemovalThreshold:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"CellSize": {
+				"text": "CellSize:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"MaxSegmentSize": {
+				"text": "MaxSegmentSize:"
+			},
+			"MinHalftoneHeight": {
+				"text": "MinHalftoneHeight:"
+			},
+			"MinHalftoneWidth": {
+				"text": "MinHalftoneWidth:"
+			},
+			"+ Region": {
+				"text": "+ क्षेत्र:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "चौड़ाई:"
+			},
+			"height": {
+				"text": "ऊंचाई:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"WhitePixelRemovalThreshold": {
+				"text": "WhitePixelRemovalThreshold:"
+			},
+			"okButton": {
+				"value": "ठीक है"
+			}
+		},
+		"imageProcessingSettingsDialog-HolePunchRemoval": {
+			"title": "इमेज प्रोसेसिंग कमांड सेटिंग्स (होलपंचरिमूवल)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"+ Binarization": {
+				"text": "+ बिनरीकरण:"
+			},
+			"BinarizationMode": {
+				"text": "BinarizationMode:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ConvertToBlackLevel": {
+				"text": "ConvertToBlackLevel:"
+			},
+			"ConvertToWhiteLevel": {
+				"text": "ConvertToWhiteLevel:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"LuminanceComputationMode": {
+				"text": "LuminanceComputationMode:"
+			},
+			"MaxLevelDifference": {
+				"text": "MaxLevelDifference:"
+			},
+			"MinLevelDifference": {
+				"text": "MinLevelDifference:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"Threshold": {
+				"text": "सीमा:"
+			},
+			"WindowRadius": {
+				"text": "WindowRadius:"
+			},
+			"FillBorderSize": {
+				"text": "FillBorderSize:"
+			},
+			"FillColor": {
+				"text": "FillColor:"
+			},
+			"FillColorAutoDetection": {
+				"text": "FillColorAutoDetection:"
+			},
+			"HolePunchLocation": {
+				"text": "HolePunchLocation:"
+			},
+			"selectAllLabel": {
+				"text": "सबका चयन करें"
+			},
+			"bottom": {
+				"text": "नीचे"
+			},
+			"left": {
+				"text": "बाएं"
+			},
+			"right": {
+				"text": "सही"
+			},
+			"top": {
+				"text": "शीर्ष"
+			},
+			"undefined": {
+				"text": "अपरिभाषित"
+			},
+			"MaxHoleSize": {
+				"text": "MaxHoleSize:"
+			},
+			"MinHoleSize": {
+				"text": "MinHoleSize:"
+			},
+			"+ Region": {
+				"text": "+ क्षेत्र:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "चौड़ाई:"
+			},
+			"height": {
+				"text": "ऊंचाई:"
+			},
+			"okButton": {
+				"value": "ठीक है"
+			}
+		},
+		"imageProcessingSettingsDialog-LineRemoval": {
+			"title": "इमेज प्रोसेसिंग कमांड सेटिंग्स (लाइनरिमूवल)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"+ Binarization": {
+				"text": "+ बिनरीकरण:"
+			},
+			"BinarizationMode": {
+				"text": "BinarizationMode:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ConvertToBlackLevel": {
+				"text": "ConvertToBlackLevel:"
+			},
+			"ConvertToWhiteLevel": {
+				"text": "ConvertToWhiteLevel:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"LuminanceComputationMode": {
+				"text": "LuminanceComputationMode:"
+			},
+			"MaxLevelDifference": {
+				"text": "MaxLevelDifference:"
+			},
+			"MinLevelDifference": {
+				"text": "MinLevelDifference:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"Threshold": {
+				"text": "सीमा:"
+			},
+			"WindowRadius": {
+				"text": "WindowRadius:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"Direction": {
+				"text": "दिशा:"
+			},
+			"selectAllLabel": {
+				"text": "सबका चयन करें"
+			},
+			"horizontal": {
+				"text": "क्षैतिज"
+			},
+			"vertical": {
+				"text": "ऊर्ध्वाधर"
+			},
+			"FillColor": {
+				"text": "FillColor:"
+			},
+			"FillColorAutoDetection": {
+				"text": "FillColorAutoDetection:"
+			},
+			"LineEndsType": {
+				"text": "LineEndsType:"
+			},
+			"LinesType": {
+				"text": "LinesType:"
+			},
+			"MaxCurvature": {
+				"text": "MaxCurvature:"
+			},
+			"MaxDeviationAngle": {
+				"text": "MaxDeviationAngle:"
+			},
+			"MaxGapLength": {
+				"text": "MaxGapLength:"
+			},
+			"MaxLength": {
+				"text": "MaxLength:"
+			},
+			"MaxWidth": {
+				"text": "MaxWidth:"
+			},
+			"MinConfidence": {
+				"text": "MinConfidence:"
+			},
+			"MinLength": {
+				"text": "MinLength:"
+			},
+			"MinSizeRatio": {
+				"text": "MinSizeRatio:"
+			},
+			"MinWidth": {
+				"text": "MinWidth:"
+			},
+			"ReconnectBrokenObjects": {
+				"text": "ReconnectBrokenObjects:"
+			},
+			"+ Region": {
+				"text": "+ क्षेत्र:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "चौड़ाई:"
+			},
+			"height": {
+				"text": "ऊंचाई:"
+			},
+			"okButton": {
+				"value": "ठीक है"
+			}
+		}
+	},
+	"downloadResultLink": {
+		"text": "मान्यता के परिणाम डाउनलोड करें"
+	},
+	"strings": {
+		"vsdv-uploadAndOpenFileButton-uploadFileString": "फ़ाइल डाउनलोड करें और खोलें",
+		"vsdv-uploadAndAddFileButton-addFileString": "फ़ाइल अपलोड करें और जोड़ें",
+		"vsui-imageProcessingPanel-imageProcessingString": "मूर्ति प्रोद्योगिकी",
+		"vsui-textSearchPanel-pageLabel": "पेज",
+		"vsdv-openFile-addFileString": "फ़ाइल जोड़ें",
+		"vsdv-openFile-authenticateFileString": "फ़ाइल प्रमाणित करें",
+		"vsdv-downloadFile-actionMessage": "डाउनलोड फ़ाइल",
+		"vsdv-saveChanges-saveChangesInImages": "छवियों में परिवर्तन सहेजें",
+		"vsui-documentNavigationTool-getActions": "कार्रवाई पाएँ",
+		"vsdv-saveChanges-saveChangesInAnnotations": "एनोटेशन में परिवर्तन सहेजें",
+		"vsdv-saveChanges-burnAnnotationsInImages": "छवियों पर एनोटेशन जलाएँ",
+		"vsui-dialog-okButton": "ठीक है",
+		"vsui-multiselect-noneSelected": "कोई भी चयनित नहीं है",
+		"vsui-multiselect-allSelected": "सभी चयनित",
+		"vsui-multiselect-selected": "चयनित",
+		"vsdv-saveChanges-saveChangesInPdfDocument": "पीडीएफ दस्तावेज़ में परिवर्तन सहेजें",
+		"vsui-documentPasswordDialog-title": "दस्तावेज़ पासवर्ड",
+		"vsui-dialog-cancelButton": "रद्द करें",
+		"vsui-documentPasswordPanel-authenticateFileString": "फ़ाइल प्रमाणित करें",
+		"vsui-imageSelectionDialog-title": "छवियां चुनें",
+		"vsui-imageSelectionDialog-currentImageString": "वर्तमान छवि",
+		"vsui-imageSelectionDialog-allImagesString": "सभी छवियाँ",
+		"vsui-imageSelectionDialog-customImagesString": "कस्टम",
+		"vsui-printImagesDialog-title": "छवियाँ मुद्रित करें",
+		"vsui-printImagesPanel-imagePrintingString": "छवि मुद्रित हो रही है",
+		"vsui-printImagesPanel-withAnnotationsLabel": "एनोटेशन के साथ",
+		"vsui-imageViewerSettingsDialog-title": "छवि दर्शक सेटिंग्स",
+		"vsui-thumbnailViewerSettingDialog-title": "थंबनेल व्यूअर सेटिंग्स",
+		"vsui-thumbnailViewerSettingsDialog-showAnnotationsLabel": "थंबनेल पर एनोटेशन प्रदर्शित करें:",
+		"vsdv-uploadImageFromUrlDialog-title": "यूआरएल से छवि अपलोड करें",
+		"vsdv-dialog-okButton": "ठीक है",
+		"vsdv-dialog-cancelButton": "रद्द करें"
+	}
+}

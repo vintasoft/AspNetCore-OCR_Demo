@@ -1,0 +1,1154 @@
+﻿{
+	"documentViewer": {
+		"fileLabel": {
+			"text": "Fil"
+		},
+		"viewLabel": {
+			"text": "Vis"
+		},
+		"toolsLabel": {
+			"text": "Verktøy"
+		},
+		"ocrPanelLabel": {
+			"text": "OCR"
+		},
+		"uploadAndOpenFileButton": {
+			"title": "Last ned og åpne filen"
+		},
+		"uploadAndAddFileButton": {
+			"title": "Last opp og legg til fil"
+		},
+		"previousUploadFilesButton": {
+			"title": "Vis en liste over tidligere nedlastede filer"
+		},
+		"openFileFromUrlButton": {
+			"title": "Åpne filen fra URL"
+		},
+		"printImagesButton": {
+			"title": "Skriv ut bilder"
+		},
+		"downloadFileButton": {
+			"title": "Last ned fil"
+		},
+		"exportAndDownloadFileButton": {
+			"title": "Eksporter og last ned fil"
+		},
+		"clearSessionCacheButton": {
+			"title": "Tøm øktbufferen"
+		},
+		"fitToWidthSizeModeButton": {
+			"title": "Tilpass til bredde"
+		},
+		"rotateViewsCounterClockwiseButton": {
+			"title": "Roter alle visninger mot klokken"
+		},
+		"rotateAngleInput": {
+			"title": "Rotasjonsvinkel"
+		},
+		"rotateViewsClockwiseButton": {
+			"title": "Roter alle visninger med klokken"
+		},
+		"imageViewerSettingsButton": {
+			"title": "Innstillinger for bildevisning"
+		},
+		"thumbnailViewerSettingsButton": {
+			"title": "Innstillinger for miniatyrbildevisning"
+		},
+		"panToolButton": {
+			"title": "Pan"
+		},
+		"rectangularSelectionToolButton": {
+			"title": "Rektangulært utvalg"
+		},
+		"magnifierToolButton": {
+			"title": "Forstørrelsesglass"
+		},
+		"zoomToolButton": {
+			"title": "Skala"
+		},
+		"zoomSelectionToolButton": {
+			"title": "Skalavalg"
+		},
+		"TextSelectionToolButton": {
+			"title": "Uthev tekst"
+		},
+		"recognizeTextFromAllPagesAndOpenResultButton": {
+			"title": "Gjenkjenne tekst fra alle sider og åpne fil med gjenkjent tekst"
+		},
+		"recognizeTextFromAllPagesAndDownloadResultButton": {
+			"title": "Gjenkjenne tekst fra alle sider og last ned fil med gjenkjent tekst"
+		},
+		"recognizeTextFromFocusedPageAndDownloadResultButton": {
+			"title": "Gjenkjenne tekst fra fokusert side og last ned fil med gjenkjent tekst"
+		},
+		"recognizeTextFromRegionOfFocusedPageAndDownloadResultButton": {
+			"title": "Gjenkjenne tekst fra området på den fokuserte siden og last ned fil med gjenkjent tekst"
+		},
+		"ocrSettingsButton": {
+			"title": "OCR-innstillinger"
+		},
+		"sidePanelCloseButton": {
+			"title": "Vis sidefelt"
+		},
+		"showThumbnailViewerPanelButton": {
+			"title": "Miniatyrbilder"
+		},
+		"showPanelButton": {
+			"title": "Bildebehandling"
+		},
+		"showTextSelectionPanelButton": {
+			"title": "Uthev tekst"
+		},
+		"showTextSearchPanelButton": {
+			"title": "Søk etter tekst"
+		},
+		"imageProcessingPanel": {
+			"parametersButton": {
+				"value": "Innstillinger"
+			},
+			"runButton": {
+				"value": "Søke om"
+			}
+		},
+		"textSelectionPanel": {
+			"selectionModeLabel": {
+				"text": "Tekstvalgmodus:"
+			},
+			"rectangleOption": {
+				"text": "Rektangel"
+			},
+			"fullLinesOption": {
+				"text": "Hele linjer"
+			},
+			"selectionColorLabel": {
+				"text": "Farge på valgt tekst:"
+			},
+			"selectedTextLabel": {
+				"text": "Valgt tekst:"
+			}
+		},
+		"textSearchPanel": {
+			"findLabel": {
+				"text": "Finn:"
+			},
+			"whereLookLabel": {
+				"text": "Søk på:"
+			},
+			"currentPageOption": {
+				"text": "Gjeldende side"
+			},
+			"allPagesOption": {
+				"text": "Alle sider"
+			},
+			"wholeWordLabel": {
+				"text": "Søk i hele ordet"
+			},
+			"caseSensitiveLabel": {
+				"text": "Skiller mellom store og små bokstaver"
+			},
+			"startSearchButton": {
+				"value": "Start søk"
+			},
+			"stopSearchButton": {
+				"value": "Stopp søket"
+			},
+			"textNotFoundLabel": {
+				"text": "Tekst ikke funnet."
+			}
+		},
+		"gotoFirstPageButton": {
+			"title": "Gå til det første bildet"
+		},
+		"gotoPreviousPageButton": {
+			"title": "Gå til forrige bilde"
+		},
+		"gotoPageInput": {
+			"title": "Side"
+		},
+		"gotoNextPageButton": {
+			"title": "Gå til neste bilde"
+		},
+		"gotoLastPageButton": {
+			"title": "Gå til siste bilde"
+		},
+		"zoomOutButton": {
+			"title": "Zoom ut"
+		},
+		"zoomValueInput": {
+			"title": "Skala"
+		},
+		"zoomInButton": {
+			"title": "Zoom inn"
+		},
+		"ocrSettingsDialog": {
+			"title": "OCR-innstillinger",
+			"ImageBinarizationMode": {
+				"text": "ImageBinarizationMode:"
+			},
+			"Languages": {
+				"text": "Språk:"
+			},
+			"selectAllLabel": {
+				"text": "Velg alle"
+			},
+			"english": {
+				"text": "Engelsk"
+			},
+			"french": {
+				"text": "Det franske språket"
+			},
+			"german": {
+				"text": "Det tyske språket"
+			},
+			"italian": {
+				"text": "Det italienske språket"
+			},
+			"osd": {
+				"text": "Orienteringsdeteksjonen"
+			},
+			"portuguese": {
+				"text": "Det portugisiske språket"
+			},
+			"russian": {
+				"text": "Det russiske språket"
+			},
+			"spanish": {
+				"text": "Det spanske språket"
+			},
+			"RecognitionMode": {
+				"text": "RecognitionMode:"
+			},
+			"RecognitionRegionType": {
+				"text": "RecognitionRegionType:"
+			},
+			"ResultFileFormat": {
+				"text": "ResultFileFormat:"
+			},
+			"ResultFileName": {
+				"text": "ResultFileName:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"normalSizeModeButton": {
+			"title": "Normal"
+		},
+		"bestFitSizeModeButton": {
+			"title": "Mest egnet"
+		},
+		"fitToHeightSizeModeButton": {
+			"title": "Tilpass høyde"
+		},
+		"pixelToPixelSizeModeButton": {
+			"title": "Piksel til piksel"
+		},
+		"zoomSizeModeButton": {
+			"title": "Skala"
+		},
+		"documentPasswordDialog": {
+			"pleaseEnterPasswordLabel": {
+				"text": "Dette dokumentet er passordbeskyttet. Vennligst skriv inn et passord."
+			},
+			"passwordLabel": {
+				"text": "Passord:"
+			},
+			"showPasswordLabel": {
+				"text": "Vis passord"
+			},
+			"incorrectPasswordLabel": {
+				"text": "Feil passord"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"сancelButton": {
+				"value": "Avbryt"
+			}
+		},
+		"selectImagesDialog": {
+			"imagesLabel": {
+				"text": "Bilder:"
+			},
+			"currentImageOption": {
+				"text": "Gjeldende bilde"
+			},
+			"allImagesOption": {
+				"text": "Alle bilder"
+			},
+			"customImagesOption": {
+				"text": "Egendefinert"
+			},
+			"imageRangeLabel": {
+				"text": "Bildeområde:"
+			},
+			"invalidRangeErrorMessageLabel": {
+				"text": "Ugyldig sideområde. Eksempel: 1-5, 8, 12-15."
+			},
+			"outOfRangeErrorMessageLabel": {
+				"text": "Indeksen er ikke innenfor indeksområdet til bildesamlingen."
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"сancelButton": {
+				"value": "Avbryt"
+			}
+		},
+		"printImagesDialog": {
+			"imagesLabel": {
+				"text": "Bilder:"
+			},
+			"currentImageOption": {
+				"text": "Gjeldende bilde"
+			},
+			"allImagesOption": {
+				"text": "Alle bilder"
+			},
+			"customImagesOption": {
+				"text": "Egendefinert"
+			},
+			"imageRangeLabel": {
+				"text": "Bildeområde:"
+			},
+			"invalidRangeErrorMessageLabel": {
+				"text": "Ugyldig sideområde. Eksempel: 1-5, 8, 12-15."
+			},
+			"outOfRangeErrorMessageLabel": {
+				"text": "Indeksen er ikke innenfor indeksområdet til bildesamlingen."
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"cancelButton": {
+				"value": "Avbryt"
+			}
+		},
+		"imageViewerSettingsDialog": {
+			"imageDisplayModeLabel": {
+				"text": "Bildevisningsmodus:"
+			},
+			"imageAnchorLabel": {
+				"text": "Bildeanker:"
+			},
+			"noneOption": {
+				"text": "Nei"
+			},
+			"topLeftOption": {
+				"text": "Topp|Venstre"
+			},
+			"topOption": {
+				"text": "Topp"
+			},
+			"topRightOption": {
+				"text": "Topp|Høyre"
+			},
+			"rightOption": {
+				"text": "Høyre"
+			},
+			"bottomRightOption": {
+				"text": "Nederst|Høyre"
+			},
+			"bottomOption": {
+				"text": "Bund"
+			},
+			"bottomLeftOption": {
+				"text": "Nederst|Venstre"
+			},
+			"leftOption": {
+				"text": "Venstre"
+			},
+			"multipageDisplayModeLabel": {
+				"text": "Multi-side display mode:"
+			},
+			"allImagesOption": {
+				"text": "AllImages"
+			},
+			"fixedImagesOption": {
+				"text": "FixedImages"
+			},
+			"layoutDirectionLabel": {
+				"text": "Layoutretning:"
+			},
+			"horizontalOption": {
+				"text": "Horisontal"
+			},
+			"verticalOption": {
+				"text": "Vertikal"
+			},
+			"rowColumnCountLabel": {
+				"text": "Bilder i rad/kolonne:"
+			},
+			"imagePaddingLabel": {
+				"text": "Utfylling av bilder:"
+			},
+			"appearancesLabel": {
+				"text": "Utseende"
+			},
+			"imageAppearanceLabel": {
+				"text": "Bildeutseende"
+			},
+			"imageAppearanceBackColorLabel": {
+				"text": "Bakgrunnsfarge:"
+			},
+			"imageAppearanceBorderColorLabel": {
+				"text": "Kantfarge:"
+			},
+			"imageAppearanceBorderWidthLabel": {
+				"text": "Rammebredde:"
+			},
+			"focusedImageAppearanceLabel": {
+				"text": "Utseendet til bildet i fokus"
+			},
+			"focusedImageAppearanceBackColorLabel": {
+				"text": "Bakgrunnsfarge:"
+			},
+			"focusedImageAppearanceBorderColorLabel": {
+				"text": "Kantfarge:"
+			},
+			"focusedImageAppearanceBorderWidthLabel": {
+				"text": "Rammebredde:"
+			},
+			"useAppearanceInSinglePageModeLabel": {
+				"text": "Bruk bildeutseende i enkeltsidemodus"
+			},
+			"renderingSettingsLabel": {
+				"text": "Gjengivelsesinnstillinger"
+			},
+			"defaultRenderingSettingsLabel": {
+				"text": "Standardinnstillinger"
+			},
+			"horizontalResolutionLabel": {
+				"text": "Horisontal oppløsning:"
+			},
+			"verticalResolutionLabel ": {
+				"text": "Vertikal oppløsning:"
+			},
+			"smoothingModeLabel": {
+				"text": "Glatt modus:"
+			},
+			"AntiAlias": {
+				"text": "AntiAlias"
+			},
+			"None": {
+				"text": "Nei"
+			},
+			"interpolationModeLabel": {
+				"text": "Interpolasjonsmodus:"
+			},
+			"Bicubic": {
+				"text": "Bicubic"
+			},
+			"Bilinear": {
+				"text": "Bilinear"
+			},
+			"HighQualityBicubic": {
+				"text": "HighQualityBicubic"
+			},
+			"HighQualityBilinear": {
+				"text": "HighQualityBilinear"
+			},
+			"NearestNeighbor": {
+				"text": "NearestNeighbor"
+			},
+			"otherSettingsLabel": {
+				"text": "Andre innstillinger"
+			},
+			"backgroundColorLabel": {
+				"text": "Bakgrunnsfarge for bildefremviser:"
+			},
+			"centerImageLabel": {
+				"text": "Senterbilde:"
+			},
+			"resizeTimeoutLabel ": {
+				"text": "Tidsavbrudd for endring av størrelse:"
+			},
+			"tileSizeLabel": {
+				"text": "Flisstørrelse:"
+			},
+			"colorManagementLabel": {
+				"text": "Aktiver fargebehandling:"
+			},
+			"useVectorRenderingLabel": {
+				"text": "Bruk vektorgjengivelse for dokumenter:"
+			},
+			"vectorContentBackgroundColorLabel": {
+				"text": "Bakgrunnsfarge for vektorinnhold:"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"сancelButton": {
+				"value": "Avbryt"
+			}
+		},
+		"thumbnailViewerSettingsDialog": {
+			"sizeLabel": {
+				"text": "Miniatyrbildestørrelse:"
+			},
+			"scaleLabel": {
+				"text": "Miniatyrbildeskala:"
+			},
+			"smallestOption": {
+				"text": "Minst"
+			},
+			"smallOption": {
+				"text": "Liten"
+			},
+			"normalOption": {
+				"text": "Normal"
+			},
+			"largeOption": {
+				"text": "Stor"
+			},
+			"flowStyleLabel": {
+				"text": "Miniatyrplasseringsstil:"
+			},
+			"singleColumnOption": {
+				"text": "SingleColumn"
+			},
+			"singleRowOption": {
+				"text": "SingleRow"
+			},
+			"fixedColumnsOption": {
+				"text": "FixedColumns"
+			},
+			"wrappedRowsOption": {
+				"text": "WrappedRows"
+			},
+			"columnCountLabel": {
+				"text": "Antall kolonner:"
+			},
+			"marginLabel": {
+				"text": "Utvendig polstring:"
+			},
+			"paddingTopLabel": {
+				"text": "Topppolstring:"
+			},
+			"paddingRightLabel": {
+				"text": "Høyre innrykk:"
+			},
+			"paddingBottomLabel": {
+				"text": "Bundpolstring:"
+			},
+			"paddingLeftLabel": {
+				"text": "Venstre innrykk:"
+			},
+			"showCaptionLabel": {
+				"text": "Vis miniatyrbildetekster:"
+			},
+			"captionFormatLabel": {
+				"text": "Signaturformat:"
+			},
+			"captionAnchorLabel": {
+				"text": "Signaturanker:"
+			},
+			"topLeftOption": {
+				"text": "Topp|Venstre"
+			},
+			"topOption": {
+				"text": "Topp"
+			},
+			"topRightOption": {
+				"text": "Topp|Høyre"
+			},
+			"rightOption": {
+				"text": "Høyre"
+			},
+			"bottomRightOption": {
+				"text": "Nederst|Høyre"
+			},
+			"bottomOption": {
+				"text": "Bund"
+			},
+			"bottomLeftOption": {
+				"text": "Nederst|Venstre"
+			},
+			"leftOption": {
+				"text": "Venstre"
+			},
+			"centerOption": {
+				"text": "Senterjuster"
+			},
+			"focusOnHoverLabel": {
+				"text": "Fokus ved markør:"
+			},
+			"multiSelectLabel": {
+				"text": "Tillat valg av flere miniatyrbilder:"
+			},
+			"useThumbnailCheckboxesLabel": {
+				"text": "Bruk avmerkingsbokser for miniatyrbilde:"
+			},
+			"useThumbnailActionsPanelLabel": {
+				"text": "Bruk handlingspanelet for miniatyrbilde:"
+			},
+			"canDragThumbnailsLabel": {
+				"text": "Kan dra miniatyrbilder:"
+			},
+			"canNavigateThumbnailsUsingKeyboardLabel": {
+				"text": "Kan navigere miniatyrbilder ved hjelp av tastatur:"
+			},
+			"canSelectThumbnailsUsingKeyboardLabel": {
+				"text": "Kan velge miniatyrbilder ved hjelp av tastaturet:"
+			},
+			"canDeleteThumbnailsUsingKeyboardLabel": {
+				"text": "Kan slette miniatyrbilder ved hjelp av tastatur:"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"сancelButton": {
+				"value": "Avbryt"
+			}
+		},
+		"uploadImageFromUrlDialog": {
+			"okButton": {
+				"value": "OK"
+			},
+			"cancelButton": {
+				"value": "Avbryt"
+			}
+		},
+		"imageProcessingSettingsDialog-AutoInvert": {
+			"title": "Innstillinger for bildebehandlingskommandoer (AutoInvert)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"imageProcessingSettingsDialog-AutoTextOrientation": {
+			"title": "Innstillinger for bildebehandlingskommandoer (AutoTextOrientation)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"+ Binarization": {
+				"text": "+ Binarisering:"
+			},
+			"BinarizationMode": {
+				"text": "BinarizationMode:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ConvertToBlackLevel": {
+				"text": "ConvertToBlackLevel:"
+			},
+			"ConvertToWhiteLevel": {
+				"text": "ConvertToWhiteLevel:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"LuminanceComputationMode": {
+				"text": "LuminanceComputationMode:"
+			},
+			"MaxLevelDifference": {
+				"text": "MaxLevelDifference:"
+			},
+			"MinLevelDifference": {
+				"text": "MinLevelDifference:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"Threshold": {
+				"text": "Terskel:"
+			},
+			"WindowRadius": {
+				"text": "WindowRadius:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"MinConfidence": {
+				"text": "MinConfidence:"
+			},
+			"StripWidth": {
+				"text": "StripWidth:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"imageProcessingSettingsDialog-BorderClear": {
+			"title": "Innstillinger for bildebehandlingskommandoer (BorderClear)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"imageProcessingSettingsDialog-Deskew": {
+			"title": "Innstillinger for bildebehandlingskommandoer (Deskew)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"BorderColor": {
+				"text": "BorderColor:"
+			},
+			"BorderColorType": {
+				"text": "BorderColorType:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"MaxAngle": {
+				"text": "MaxAngle:"
+			},
+			"MinConfidence": {
+				"text": "MinConfidence:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"ScanIntervalX": {
+				"text": "ScanIntervalX:"
+			},
+			"ScanIntervalY": {
+				"text": "ScanIntervalY:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"imageProcessingSettingsDialog-Despeckle": {
+			"title": "Innstillinger for bildebehandlingskommandoer (flekkfjerne)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"AutoConfigureLevels": {
+				"text": "AutoConfigureLevels:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"Level1": {
+				"text": "Nivå 1:"
+			},
+			"Level2": {
+				"text": "Nivå 2:"
+			},
+			"Radius": {
+				"text": "Radius:"
+			},
+			"+ Region": {
+				"text": "+ Region:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "Bredde:"
+			},
+			"height": {
+				"text": "Høyde:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"imageProcessingSettingsDialog-HalftoneRemoval": {
+			"title": "Innstillinger for bildebehandlingskommandoer (HalftoneRemoval)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"AutoThreshold": {
+				"text": "AutoThreshold:"
+			},
+			"BlackPixelRemovalThreshold": {
+				"text": "BlackPixelRemovalThreshold:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"CellSize": {
+				"text": "CellSize:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"MaxSegmentSize": {
+				"text": "MaxSegmentSize:"
+			},
+			"MinHalftoneHeight": {
+				"text": "MinHalftoneHeight:"
+			},
+			"MinHalftoneWidth": {
+				"text": "MinHalftoneWidth:"
+			},
+			"+ Region": {
+				"text": "+ Region:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "Bredde:"
+			},
+			"height": {
+				"text": "Høyde:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"WhitePixelRemovalThreshold": {
+				"text": "WhitePixelRemovalThreshold:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"imageProcessingSettingsDialog-HolePunchRemoval": {
+			"title": "Innstillinger for bildebehandlingskommandoer (HolePunchRemoval)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"+ Binarization": {
+				"text": "+ Binarisering:"
+			},
+			"BinarizationMode": {
+				"text": "BinarizationMode:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ConvertToBlackLevel": {
+				"text": "ConvertToBlackLevel:"
+			},
+			"ConvertToWhiteLevel": {
+				"text": "ConvertToWhiteLevel:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"LuminanceComputationMode": {
+				"text": "LuminanceComputationMode:"
+			},
+			"MaxLevelDifference": {
+				"text": "MaxLevelDifference:"
+			},
+			"MinLevelDifference": {
+				"text": "MinLevelDifference:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"Threshold": {
+				"text": "Terskel:"
+			},
+			"WindowRadius": {
+				"text": "WindowRadius:"
+			},
+			"FillBorderSize": {
+				"text": "FillBorderSize:"
+			},
+			"FillColor": {
+				"text": "FillColor:"
+			},
+			"FillColorAutoDetection": {
+				"text": "FillColorAutoDetection:"
+			},
+			"HolePunchLocation": {
+				"text": "HolePunchLocation:"
+			},
+			"selectAllLabel": {
+				"text": "Velg alle"
+			},
+			"bottom": {
+				"text": "Bund"
+			},
+			"left": {
+				"text": "Venstre"
+			},
+			"right": {
+				"text": "Høyre"
+			},
+			"top": {
+				"text": "Topp"
+			},
+			"undefined": {
+				"text": "Udefinert"
+			},
+			"MaxHoleSize": {
+				"text": "MaxHoleSize:"
+			},
+			"MinHoleSize": {
+				"text": "MinHoleSize:"
+			},
+			"+ Region": {
+				"text": "+ Region:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "Bredde:"
+			},
+			"height": {
+				"text": "Høyde:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"imageProcessingSettingsDialog-LineRemoval": {
+			"title": "Innstillinger for bildebehandlingskommandoer (LineRemoval)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"+ Binarization": {
+				"text": "+ Binarisering:"
+			},
+			"BinarizationMode": {
+				"text": "BinarizationMode:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ConvertToBlackLevel": {
+				"text": "ConvertToBlackLevel:"
+			},
+			"ConvertToWhiteLevel": {
+				"text": "ConvertToWhiteLevel:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"LuminanceComputationMode": {
+				"text": "LuminanceComputationMode:"
+			},
+			"MaxLevelDifference": {
+				"text": "MaxLevelDifference:"
+			},
+			"MinLevelDifference": {
+				"text": "MinLevelDifference:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"Threshold": {
+				"text": "Terskel:"
+			},
+			"WindowRadius": {
+				"text": "WindowRadius:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"Direction": {
+				"text": "Retning:"
+			},
+			"selectAllLabel": {
+				"text": "Velg alle"
+			},
+			"horizontal": {
+				"text": "Horisontal"
+			},
+			"vertical": {
+				"text": "Vertikal"
+			},
+			"FillColor": {
+				"text": "FillColor:"
+			},
+			"FillColorAutoDetection": {
+				"text": "FillColorAutoDetection:"
+			},
+			"LineEndsType": {
+				"text": "LineEndsType:"
+			},
+			"LinesType": {
+				"text": "LinesType:"
+			},
+			"MaxCurvature": {
+				"text": "MaxCurvature:"
+			},
+			"MaxDeviationAngle": {
+				"text": "MaxDeviationAngle:"
+			},
+			"MaxGapLength": {
+				"text": "MaxGapLength:"
+			},
+			"MaxLength": {
+				"text": "MaxLength:"
+			},
+			"MaxWidth": {
+				"text": "MaxWidth:"
+			},
+			"MinConfidence": {
+				"text": "MinConfidence:"
+			},
+			"MinLength": {
+				"text": "MinLength:"
+			},
+			"MinSizeRatio": {
+				"text": "MinSizeRatio:"
+			},
+			"MinWidth": {
+				"text": "MinWidth:"
+			},
+			"ReconnectBrokenObjects": {
+				"text": "ReconnectBrokenObjects:"
+			},
+			"+ Region": {
+				"text": "+ Region:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "Bredde:"
+			},
+			"height": {
+				"text": "Høyde:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		}
+	},
+	"downloadResultLink": {
+		"text": "Last ned resultater av anerkjennelse"
+	},
+	"strings": {
+		"vsdv-uploadAndOpenFileButton-uploadFileString": "Last ned og åpne filen",
+		"vsdv-uploadAndAddFileButton-addFileString": "Last opp og legg til fil",
+		"vsui-imageProcessingPanel-imageProcessingString": "Bildebehandling",
+		"vsui-textSearchPanel-pageLabel": "Side",
+		"vsdv-openFile-addFileString": "Legg til fil",
+		"vsdv-openFile-authenticateFileString": "Autentiser filen",
+		"vsdv-downloadFile-actionMessage": "Last ned fil",
+		"vsdv-saveChanges-saveChangesInImages": "Lagre endringer i bilder",
+		"vsui-documentNavigationTool-getActions": "Få handlinger",
+		"vsdv-saveChanges-saveChangesInAnnotations": "Lagre endringer i merknader",
+		"vsdv-saveChanges-burnAnnotationsInImages": "Brenn merknader på bilder",
+		"vsui-dialog-okButton": "OK",
+		"vsui-multiselect-noneSelected": "Ingen er valgt",
+		"vsui-multiselect-allSelected": "Alle valgt",
+		"vsui-multiselect-selected": "valgt",
+		"vsdv-saveChanges-saveChangesInPdfDocument": "Lagre endringer i PDF-dokument",
+		"vsui-documentPasswordDialog-title": "Dokumentpassord",
+		"vsui-dialog-cancelButton": "Avbryt",
+		"vsui-documentPasswordPanel-authenticateFileString": "Autentiser filen",
+		"vsui-imageSelectionDialog-title": "Velg bilder",
+		"vsui-imageSelectionDialog-currentImageString": "Gjeldende bilde",
+		"vsui-imageSelectionDialog-allImagesString": "Alle bilder",
+		"vsui-imageSelectionDialog-customImagesString": "Egendefinert",
+		"vsui-printImagesDialog-title": "Skriv ut bilder",
+		"vsui-printImagesPanel-imagePrintingString": "Bildet skrives ut",
+		"vsui-printImagesPanel-withAnnotationsLabel": "med merknader",
+		"vsui-imageViewerSettingsDialog-title": "Innstillinger for bildevisning",
+		"vsui-thumbnailViewerSettingDialog-title": "Innstillinger for miniatyrbildevisning",
+		"vsui-thumbnailViewerSettingsDialog-showAnnotationsLabel": "Vis merknader på miniatyrbilder:",
+		"vsdv-uploadImageFromUrlDialog-title": "Last opp bilde fra URL",
+		"vsdv-dialog-okButton": "OK",
+		"vsdv-dialog-cancelButton": "Avbryt"
+	}
+}

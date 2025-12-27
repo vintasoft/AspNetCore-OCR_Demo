@@ -1,0 +1,1154 @@
+﻿{
+	"documentViewer": {
+		"fileLabel": {
+			"text": "文件"
+		},
+		"viewLabel": {
+			"text": "看法"
+		},
+		"toolsLabel": {
+			"text": "工具"
+		},
+		"ocrPanelLabel": {
+			"text": "光学字符识别"
+		},
+		"uploadAndOpenFileButton": {
+			"title": "上传并打开文件"
+		},
+		"uploadAndAddFileButton": {
+			"title": "上傳並新增文件"
+		},
+		"previousUploadFilesButton": {
+			"title": "之前上传的文件"
+		},
+		"openFileFromUrlButton": {
+			"title": "從 URL 開啟文件"
+		},
+		"printImagesButton": {
+			"title": "打印图像"
+		},
+		"downloadFileButton": {
+			"title": "下载文件"
+		},
+		"exportAndDownloadFileButton": {
+			"title": "导出和下载文件"
+		},
+		"clearSessionCacheButton": {
+			"title": "清除會話快取"
+		},
+		"fitToWidthSizeModeButton": {
+			"title": "适合宽度"
+		},
+		"rotateViewsCounterClockwiseButton": {
+			"title": "逆时针旋转所有视图"
+		},
+		"rotateAngleInput": {
+			"title": "角度"
+		},
+		"rotateViewsClockwiseButton": {
+			"title": "顺时针旋转所有视图"
+		},
+		"imageViewerSettingsButton": {
+			"title": "图像查看器设置"
+		},
+		"thumbnailViewerSettingsButton": {
+			"title": "缩略图查看器设置"
+		},
+		"panToolButton": {
+			"title": "平底锅"
+		},
+		"rectangularSelectionToolButton": {
+			"title": "矩形选择"
+		},
+		"magnifierToolButton": {
+			"title": "放大镜"
+		},
+		"zoomToolButton": {
+			"title": "飞涨"
+		},
+		"zoomSelectionToolButton": {
+			"title": "缩放选择"
+		},
+		"TextSelectionToolButton": {
+			"title": "文本选择"
+		},
+		"recognizeTextFromAllPagesAndOpenResultButton": {
+			"title": "识别所有页面中的文本并打开包含已识别文本的文件"
+		},
+		"recognizeTextFromAllPagesAndDownloadResultButton": {
+			"title": "识别所有页面中的文本并下载包含已识别文本的文件"
+		},
+		"recognizeTextFromFocusedPageAndDownloadResultButton": {
+			"title": "识别焦点页面中的文本并下载包含已识别文本的文件"
+		},
+		"recognizeTextFromRegionOfFocusedPageAndDownloadResultButton": {
+			"title": "识别焦点页面区域中的文本并下载包含已识别文本的文件"
+		},
+		"ocrSettingsButton": {
+			"title": "OCR 设置"
+		},
+		"sidePanelCloseButton": {
+			"title": "显示侧面板"
+		},
+		"showThumbnailViewerPanelButton": {
+			"title": "缩略图"
+		},
+		"showPanelButton": {
+			"title": "图像处理"
+		},
+		"showTextSelectionPanelButton": {
+			"title": "文本选择"
+		},
+		"showTextSearchPanelButton": {
+			"title": "查找文字"
+		},
+		"imageProcessingPanel": {
+			"parametersButton": {
+				"value": "设置"
+			},
+			"runButton": {
+				"value": "申请"
+			}
+		},
+		"textSelectionPanel": {
+			"selectionModeLabel": {
+				"text": "选择方式："
+			},
+			"rectangleOption": {
+				"text": "长方形"
+			},
+			"fullLinesOption": {
+				"text": "全线"
+			},
+			"selectionColorLabel": {
+				"text": "选择颜色："
+			},
+			"selectedTextLabel": {
+				"text": "所选文本："
+			}
+		},
+		"textSearchPanel": {
+			"findLabel": {
+				"text": "寻找："
+			},
+			"whereLookLabel": {
+				"text": "在看："
+			},
+			"currentPageOption": {
+				"text": "当前页面"
+			},
+			"allPagesOption": {
+				"text": "所有页面"
+			},
+			"wholeWordLabel": {
+				"text": "整个词"
+			},
+			"caseSensitiveLabel": {
+				"text": "区分大小写"
+			},
+			"startSearchButton": {
+				"value": "开始"
+			},
+			"stopSearchButton": {
+				"value": "停止"
+			},
+			"textNotFoundLabel": {
+				"text": "未找到文本。"
+			}
+		},
+		"gotoFirstPageButton": {
+			"title": "转到第一张图片"
+		},
+		"gotoPreviousPageButton": {
+			"title": "转到上一张图片"
+		},
+		"gotoPageInput": {
+			"title": "页"
+		},
+		"gotoNextPageButton": {
+			"title": "转到下一张图片"
+		},
+		"gotoLastPageButton": {
+			"title": "转到最后一张图片"
+		},
+		"zoomOutButton": {
+			"title": "缩小"
+		},
+		"zoomValueInput": {
+			"title": "飞涨"
+		},
+		"zoomInButton": {
+			"title": "放大"
+		},
+		"ocrSettingsDialog": {
+			"title": "OCR 设置",
+			"ImageBinarizationMode": {
+				"text": "ImageBinarizationMode:"
+			},
+			"Languages": {
+				"text": "语言："
+			},
+			"selectAllLabel": {
+				"text": "全选"
+			},
+			"english": {
+				"text": "英语"
+			},
+			"french": {
+				"text": "法語"
+			},
+			"german": {
+				"text": "德文"
+			},
+			"italian": {
+				"text": "義大利語"
+			},
+			"osd": {
+				"text": "方向檢測"
+			},
+			"portuguese": {
+				"text": "葡萄牙語"
+			},
+			"russian": {
+				"text": "俄文"
+			},
+			"spanish": {
+				"text": "西班牙語"
+			},
+			"RecognitionMode": {
+				"text": "RecognitionMode:"
+			},
+			"RecognitionRegionType": {
+				"text": "RecognitionRegionType:"
+			},
+			"ResultFileFormat": {
+				"text": "ResultFileFormat:"
+			},
+			"ResultFileName": {
+				"text": "ResultFileName:"
+			},
+			"okButton": {
+				"value": "好的"
+			}
+		},
+		"normalSizeModeButton": {
+			"title": "普通的"
+		},
+		"bestFitSizeModeButton": {
+			"title": "最合适"
+		},
+		"fitToHeightSizeModeButton": {
+			"title": "适合身高"
+		},
+		"pixelToPixelSizeModeButton": {
+			"title": "像素到像素"
+		},
+		"zoomSizeModeButton": {
+			"title": "飞涨"
+		},
+		"documentPasswordDialog": {
+			"pleaseEnterPasswordLabel": {
+				"text": "本文档受密码保护。 请输入密码。"
+			},
+			"passwordLabel": {
+				"text": "密码："
+			},
+			"showPasswordLabel": {
+				"text": "显示密码"
+			},
+			"incorrectPasswordLabel": {
+				"text": "密码错误"
+			},
+			"okButton": {
+				"value": "好的"
+			},
+			"сancelButton": {
+				"value": "取消"
+			}
+		},
+		"selectImagesDialog": {
+			"imagesLabel": {
+				"text": "图片："
+			},
+			"currentImageOption": {
+				"text": "当前图像"
+			},
+			"allImagesOption": {
+				"text": "所有图片"
+			},
+			"customImagesOption": {
+				"text": "风俗"
+			},
+			"imageRangeLabel": {
+				"text": "图像范围："
+			},
+			"invalidRangeErrorMessageLabel": {
+				"text": "页面范围无效。 示例：1-5、8、12-15。"
+			},
+			"outOfRangeErrorMessageLabel": {
+				"text": "索引超出图像集合范围。"
+			},
+			"okButton": {
+				"value": "好的"
+			},
+			"сancelButton": {
+				"value": "取消"
+			}
+		},
+		"printImagesDialog": {
+			"imagesLabel": {
+				"text": "图片："
+			},
+			"currentImageOption": {
+				"text": "当前图像"
+			},
+			"allImagesOption": {
+				"text": "所有图片"
+			},
+			"customImagesOption": {
+				"text": "风俗"
+			},
+			"imageRangeLabel": {
+				"text": "图像范围："
+			},
+			"invalidRangeErrorMessageLabel": {
+				"text": "页面范围无效。 示例：1-5、8、12-15。"
+			},
+			"outOfRangeErrorMessageLabel": {
+				"text": "索引超出图像集合范围。"
+			},
+			"okButton": {
+				"value": "好的"
+			},
+			"cancelButton": {
+				"value": "取消"
+			}
+		},
+		"imageViewerSettingsDialog": {
+			"imageDisplayModeLabel": {
+				"text": "图像显示方式："
+			},
+			"imageAnchorLabel": {
+				"text": "图片锚点："
+			},
+			"noneOption": {
+				"text": "没有任何"
+			},
+			"topLeftOption": {
+				"text": "顶部|左侧"
+			},
+			"topOption": {
+				"text": "顶部"
+			},
+			"topRightOption": {
+				"text": "顶部|右侧"
+			},
+			"rightOption": {
+				"text": "正确的"
+			},
+			"bottomRightOption": {
+				"text": "下|右"
+			},
+			"bottomOption": {
+				"text": "底部"
+			},
+			"bottomLeftOption": {
+				"text": "底部|左"
+			},
+			"leftOption": {
+				"text": "左边"
+			},
+			"multipageDisplayModeLabel": {
+				"text": "多页显示模式："
+			},
+			"allImagesOption": {
+				"text": "AllImages"
+			},
+			"fixedImagesOption": {
+				"text": "FixedImages"
+			},
+			"layoutDirectionLabel": {
+				"text": "布局方向："
+			},
+			"horizontalOption": {
+				"text": "水平的"
+			},
+			"verticalOption": {
+				"text": "垂直的"
+			},
+			"rowColumnCountLabel": {
+				"text": "行/列中的图像："
+			},
+			"imagePaddingLabel": {
+				"text": "图像填充："
+			},
+			"appearancesLabel": {
+				"text": "出场次数"
+			},
+			"imageAppearanceLabel": {
+				"text": "图像外观"
+			},
+			"imageAppearanceBackColorLabel": {
+				"text": "背面颜色："
+			},
+			"imageAppearanceBorderColorLabel": {
+				"text": "边框颜色："
+			},
+			"imageAppearanceBorderWidthLabel": {
+				"text": "边框宽度："
+			},
+			"focusedImageAppearanceLabel": {
+				"text": "聚焦图像外观"
+			},
+			"focusedImageAppearanceBackColorLabel": {
+				"text": "背面颜色："
+			},
+			"focusedImageAppearanceBorderColorLabel": {
+				"text": "边框颜色："
+			},
+			"focusedImageAppearanceBorderWidthLabel": {
+				"text": "边框宽度："
+			},
+			"useAppearanceInSinglePageModeLabel": {
+				"text": "在单页模式下使用图像外观"
+			},
+			"renderingSettingsLabel": {
+				"text": "渲染设置"
+			},
+			"defaultRenderingSettingsLabel": {
+				"text": "默认设置"
+			},
+			"horizontalResolutionLabel": {
+				"text": "水平分辨率："
+			},
+			"verticalResolutionLabel ": {
+				"text": "垂直分辨率："
+			},
+			"smoothingModeLabel": {
+				"text": "平滑模式："
+			},
+			"AntiAlias": {
+				"text": "AntiAlias"
+			},
+			"None": {
+				"text": "没有任何"
+			},
+			"interpolationModeLabel": {
+				"text": "插值模式："
+			},
+			"Bicubic": {
+				"text": "Bicubic"
+			},
+			"Bilinear": {
+				"text": "Bilinear"
+			},
+			"HighQualityBicubic": {
+				"text": "HighQualityBicubic"
+			},
+			"HighQualityBilinear": {
+				"text": "HighQualityBilinear"
+			},
+			"NearestNeighbor": {
+				"text": "NearestNeighbor"
+			},
+			"otherSettingsLabel": {
+				"text": "其他设置"
+			},
+			"backgroundColorLabel": {
+				"text": "查看器背景颜色："
+			},
+			"centerImageLabel": {
+				"text": "中心图像："
+			},
+			"resizeTimeoutLabel ": {
+				"text": "调整超时大小："
+			},
+			"tileSizeLabel": {
+				"text": "瓷砖尺寸："
+			},
+			"colorManagementLabel": {
+				"text": "启用颜色管理："
+			},
+			"useVectorRenderingLabel": {
+				"text": "对文档使用矢量渲染："
+			},
+			"vectorContentBackgroundColorLabel": {
+				"text": "矢量内容背景颜色："
+			},
+			"okButton": {
+				"value": "好的"
+			},
+			"сancelButton": {
+				"value": "取消"
+			}
+		},
+		"thumbnailViewerSettingsDialog": {
+			"sizeLabel": {
+				"text": "尺寸："
+			},
+			"scaleLabel": {
+				"text": "规模："
+			},
+			"smallestOption": {
+				"text": "最小"
+			},
+			"smallOption": {
+				"text": "小的"
+			},
+			"normalOption": {
+				"text": "普通的"
+			},
+			"largeOption": {
+				"text": "大的"
+			},
+			"flowStyleLabel": {
+				"text": "流程风格："
+			},
+			"singleColumnOption": {
+				"text": "SingleColumn"
+			},
+			"singleRowOption": {
+				"text": "SingleRow"
+			},
+			"fixedColumnsOption": {
+				"text": "FixedColumns"
+			},
+			"wrappedRowsOption": {
+				"text": "WrappedRows"
+			},
+			"columnCountLabel": {
+				"text": "列数："
+			},
+			"marginLabel": {
+				"text": "利润："
+			},
+			"paddingTopLabel": {
+				"text": "衬垫上衣："
+			},
+			"paddingRightLabel": {
+				"text": "右填充："
+			},
+			"paddingBottomLabel": {
+				"text": "底部填充："
+			},
+			"paddingLeftLabel": {
+				"text": "左内边距："
+			},
+			"showCaptionLabel": {
+				"text": "显示字幕："
+			},
+			"captionFormatLabel": {
+				"text": "字幕格式："
+			},
+			"captionAnchorLabel": {
+				"text": "标题锚点："
+			},
+			"topLeftOption": {
+				"text": "顶部|左侧"
+			},
+			"topOption": {
+				"text": "顶部"
+			},
+			"topRightOption": {
+				"text": "顶部|右侧"
+			},
+			"rightOption": {
+				"text": "正确的"
+			},
+			"bottomRightOption": {
+				"text": "下|右"
+			},
+			"bottomOption": {
+				"text": "底部"
+			},
+			"bottomLeftOption": {
+				"text": "底部|左"
+			},
+			"leftOption": {
+				"text": "左边"
+			},
+			"centerOption": {
+				"text": "中心"
+			},
+			"focusOnHoverLabel": {
+				"text": "焦点悬停："
+			},
+			"multiSelectLabel": {
+				"text": "多选："
+			},
+			"useThumbnailCheckboxesLabel": {
+				"text": "使用縮圖複選框："
+			},
+			"useThumbnailActionsPanelLabel": {
+				"text": "使用縮圖的操作面板："
+			},
+			"canDragThumbnailsLabel": {
+				"text": "可以拖动缩略图："
+			},
+			"canNavigateThumbnailsUsingKeyboardLabel": {
+				"text": "可以使用键盘浏览缩略图："
+			},
+			"canSelectThumbnailsUsingKeyboardLabel": {
+				"text": "可以使用键盘选择缩略图："
+			},
+			"canDeleteThumbnailsUsingKeyboardLabel": {
+				"text": "可以使用键盘删除缩略图："
+			},
+			"okButton": {
+				"value": "好的"
+			},
+			"сancelButton": {
+				"value": "取消"
+			}
+		},
+		"uploadImageFromUrlDialog": {
+			"okButton": {
+				"value": "好的"
+			},
+			"cancelButton": {
+				"value": "取消"
+			}
+		},
+		"imageProcessingSettingsDialog-AutoInvert": {
+			"title": "图像处理命令设置（自动反转）",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "好的"
+			}
+		},
+		"imageProcessingSettingsDialog-AutoTextOrientation": {
+			"title": "图像处理命令设置（AutoTextOrientation）",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"+ Binarization": {
+				"text": "+ 二值化："
+			},
+			"BinarizationMode": {
+				"text": "BinarizationMode:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ConvertToBlackLevel": {
+				"text": "ConvertToBlackLevel:"
+			},
+			"ConvertToWhiteLevel": {
+				"text": "ConvertToWhiteLevel:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"LuminanceComputationMode": {
+				"text": "LuminanceComputationMode:"
+			},
+			"MaxLevelDifference": {
+				"text": "MaxLevelDifference:"
+			},
+			"MinLevelDifference": {
+				"text": "MinLevelDifference:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"Threshold": {
+				"text": "临界点："
+			},
+			"WindowRadius": {
+				"text": "WindowRadius:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"MinConfidence": {
+				"text": "MinConfidence:"
+			},
+			"StripWidth": {
+				"text": "StripWidth:"
+			},
+			"okButton": {
+				"value": "好的"
+			}
+		},
+		"imageProcessingSettingsDialog-BorderClear": {
+			"title": "图像处理命令设置（BorderClear）",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "好的"
+			}
+		},
+		"imageProcessingSettingsDialog-Deskew": {
+			"title": "图像处理命令设置（倾斜校正）",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"BorderColor": {
+				"text": "BorderColor:"
+			},
+			"BorderColorType": {
+				"text": "BorderColorType:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"MaxAngle": {
+				"text": "MaxAngle:"
+			},
+			"MinConfidence": {
+				"text": "MinConfidence:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"ScanIntervalX": {
+				"text": "ScanIntervalX:"
+			},
+			"ScanIntervalY": {
+				"text": "ScanIntervalY:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "好的"
+			}
+		},
+		"imageProcessingSettingsDialog-Despeckle": {
+			"title": "图像处理命令设置（去斑）",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"AutoConfigureLevels": {
+				"text": "AutoConfigureLevels:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"Level1": {
+				"text": "1级："
+			},
+			"Level2": {
+				"text": "2级："
+			},
+			"Radius": {
+				"text": "半径："
+			},
+			"+ Region": {
+				"text": "+ 地区："
+			},
+			"x": {
+				"text": "X："
+			},
+			"y": {
+				"text": "y："
+			},
+			"width": {
+				"text": "宽度："
+			},
+			"height": {
+				"text": "高度："
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "好的"
+			}
+		},
+		"imageProcessingSettingsDialog-HalftoneRemoval": {
+			"title": "图像处理命令设置（HalftoneRemoval）",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"AutoThreshold": {
+				"text": "AutoThreshold:"
+			},
+			"BlackPixelRemovalThreshold": {
+				"text": "BlackPixelRemovalThreshold:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"CellSize": {
+				"text": "CellSize:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"MaxSegmentSize": {
+				"text": "MaxSegmentSize:"
+			},
+			"MinHalftoneHeight": {
+				"text": "MinHalftoneHeight:"
+			},
+			"MinHalftoneWidth": {
+				"text": "MinHalftoneWidth:"
+			},
+			"+ Region": {
+				"text": "+ 地区："
+			},
+			"x": {
+				"text": "X："
+			},
+			"y": {
+				"text": "y："
+			},
+			"width": {
+				"text": "宽度："
+			},
+			"height": {
+				"text": "高度："
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"WhitePixelRemovalThreshold": {
+				"text": "WhitePixelRemovalThreshold:"
+			},
+			"okButton": {
+				"value": "好的"
+			}
+		},
+		"imageProcessingSettingsDialog-HolePunchRemoval": {
+			"title": "图像处理命令设置（HolePunchRemoval）",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"+ Binarization": {
+				"text": "+ 二值化："
+			},
+			"BinarizationMode": {
+				"text": "BinarizationMode:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ConvertToBlackLevel": {
+				"text": "ConvertToBlackLevel:"
+			},
+			"ConvertToWhiteLevel": {
+				"text": "ConvertToWhiteLevel:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"LuminanceComputationMode": {
+				"text": "LuminanceComputationMode:"
+			},
+			"MaxLevelDifference": {
+				"text": "MaxLevelDifference:"
+			},
+			"MinLevelDifference": {
+				"text": "MinLevelDifference:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"Threshold": {
+				"text": "临界点："
+			},
+			"WindowRadius": {
+				"text": "WindowRadius:"
+			},
+			"FillBorderSize": {
+				"text": "FillBorderSize:"
+			},
+			"FillColor": {
+				"text": "FillColor:"
+			},
+			"FillColorAutoDetection": {
+				"text": "FillColorAutoDetection:"
+			},
+			"HolePunchLocation": {
+				"text": "HolePunchLocation:"
+			},
+			"selectAllLabel": {
+				"text": "全选"
+			},
+			"bottom": {
+				"text": "底部"
+			},
+			"left": {
+				"text": "左边"
+			},
+			"right": {
+				"text": "正确的"
+			},
+			"top": {
+				"text": "顶部"
+			},
+			"undefined": {
+				"text": "不明确的"
+			},
+			"MaxHoleSize": {
+				"text": "MaxHoleSize:"
+			},
+			"MinHoleSize": {
+				"text": "MinHoleSize:"
+			},
+			"+ Region": {
+				"text": "+ 地区："
+			},
+			"x": {
+				"text": "X："
+			},
+			"y": {
+				"text": "y："
+			},
+			"width": {
+				"text": "宽度："
+			},
+			"height": {
+				"text": "高度："
+			},
+			"okButton": {
+				"value": "好的"
+			}
+		},
+		"imageProcessingSettingsDialog-LineRemoval": {
+			"title": "图像处理命令设置（LineRemoval）",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"+ Binarization": {
+				"text": "+ 二值化："
+			},
+			"BinarizationMode": {
+				"text": "BinarizationMode:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ConvertToBlackLevel": {
+				"text": "ConvertToBlackLevel:"
+			},
+			"ConvertToWhiteLevel": {
+				"text": "ConvertToWhiteLevel:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"LuminanceComputationMode": {
+				"text": "LuminanceComputationMode:"
+			},
+			"MaxLevelDifference": {
+				"text": "MaxLevelDifference:"
+			},
+			"MinLevelDifference": {
+				"text": "MinLevelDifference:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"Threshold": {
+				"text": "临界点："
+			},
+			"WindowRadius": {
+				"text": "WindowRadius:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"Direction": {
+				"text": "方向："
+			},
+			"selectAllLabel": {
+				"text": "全选"
+			},
+			"horizontal": {
+				"text": "水平的"
+			},
+			"vertical": {
+				"text": "垂直的"
+			},
+			"FillColor": {
+				"text": "FillColor:"
+			},
+			"FillColorAutoDetection": {
+				"text": "FillColorAutoDetection:"
+			},
+			"LineEndsType": {
+				"text": "LineEndsType:"
+			},
+			"LinesType": {
+				"text": "LinesType:"
+			},
+			"MaxCurvature": {
+				"text": "MaxCurvature:"
+			},
+			"MaxDeviationAngle": {
+				"text": "MaxDeviationAngle:"
+			},
+			"MaxGapLength": {
+				"text": "MaxGapLength:"
+			},
+			"MaxLength": {
+				"text": "MaxLength:"
+			},
+			"MaxWidth": {
+				"text": "MaxWidth:"
+			},
+			"MinConfidence": {
+				"text": "MinConfidence:"
+			},
+			"MinLength": {
+				"text": "MinLength:"
+			},
+			"MinSizeRatio": {
+				"text": "MinSizeRatio:"
+			},
+			"MinWidth": {
+				"text": "MinWidth:"
+			},
+			"ReconnectBrokenObjects": {
+				"text": "ReconnectBrokenObjects:"
+			},
+			"+ Region": {
+				"text": "+ 地区："
+			},
+			"x": {
+				"text": "X："
+			},
+			"y": {
+				"text": "y："
+			},
+			"width": {
+				"text": "宽度："
+			},
+			"height": {
+				"text": "高度："
+			},
+			"okButton": {
+				"value": "好的"
+			}
+		}
+	},
+	"downloadResultLink": {
+		"text": "下载识别结果"
+	},
+	"strings": {
+		"vsdv-uploadAndOpenFileButton-uploadFileString": "上传并打开文件",
+		"vsdv-uploadAndAddFileButton-addFileString": "上傳並新增文件",
+		"vsui-imageProcessingPanel-imageProcessingString": "图像处理",
+		"vsui-textSearchPanel-pageLabel": "页",
+		"vsdv-openFile-addFileString": "添加文件",
+		"vsdv-openFile-authenticateFileString": "验证文件",
+		"vsdv-downloadFile-actionMessage": "下载文件",
+		"vsdv-saveChanges-saveChangesInImages": "保存图像中的更改",
+		"vsui-documentNavigationTool-getActions": "获取操作",
+		"vsdv-saveChanges-saveChangesInAnnotations": "保存注释中的更改",
+		"vsdv-saveChanges-burnAnnotationsInImages": "在图像上刻录注释",
+		"vsui-dialog-okButton": "好的",
+		"vsui-multiselect-noneSelected": "沒有選擇任何一個",
+		"vsui-multiselect-allSelected": "全部選中",
+		"vsui-multiselect-selected": "已選擇",
+		"vsdv-saveChanges-saveChangesInPdfDocument": "保存 PDF 文档中的更改",
+		"vsui-documentPasswordDialog-title": "文档密码",
+		"vsui-dialog-cancelButton": "取消",
+		"vsui-documentPasswordPanel-authenticateFileString": "验证文件",
+		"vsui-imageSelectionDialog-title": "选择图像",
+		"vsui-imageSelectionDialog-currentImageString": "当前图像",
+		"vsui-imageSelectionDialog-allImagesString": "所有图片",
+		"vsui-imageSelectionDialog-customImagesString": "风俗",
+		"vsui-printImagesDialog-title": "打印图像",
+		"vsui-printImagesPanel-imagePrintingString": "图像正在打印",
+		"vsui-printImagesPanel-withAnnotationsLabel": "带注释",
+		"vsui-imageViewerSettingsDialog-title": "图像查看器设置",
+		"vsui-thumbnailViewerSettingDialog-title": "缩略图查看器设置",
+		"vsui-thumbnailViewerSettingsDialog-showAnnotationsLabel": "显示注释：",
+		"vsdv-uploadImageFromUrlDialog-title": "從 URL 上傳圖像",
+		"vsdv-dialog-okButton": "好的",
+		"vsdv-dialog-cancelButton": "取消"
+	}
+}

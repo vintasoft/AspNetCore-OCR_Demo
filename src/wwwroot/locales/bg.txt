@@ -1,0 +1,1154 @@
+﻿{
+	"documentViewer": {
+		"fileLabel": {
+			"text": "Файл"
+		},
+		"viewLabel": {
+			"text": "Преглед"
+		},
+		"toolsLabel": {
+			"text": "Инструменти"
+		},
+		"ocrPanelLabel": {
+			"text": "OCR"
+		},
+		"uploadAndOpenFileButton": {
+			"title": "Изтеглете и отворете файл"
+		},
+		"uploadAndAddFileButton": {
+			"title": "Качете и добавете файл"
+		},
+		"previousUploadFilesButton": {
+			"title": "Вижте списък с предварително изтеглени файлове"
+		},
+		"openFileFromUrlButton": {
+			"title": "Отворете файл от URL"
+		},
+		"printImagesButton": {
+			"title": "Печат на изображения"
+		},
+		"downloadFileButton": {
+			"title": "Свали файл"
+		},
+		"exportAndDownloadFileButton": {
+			"title": "Експортиране и изтегляне на файл"
+		},
+		"clearSessionCacheButton": {
+			"title": "Изчистване на кеша на сесията"
+		},
+		"fitToWidthSizeModeButton": {
+			"title": "Побиране по ширина"
+		},
+		"rotateViewsCounterClockwiseButton": {
+			"title": "Завъртете всички изгледи обратно на часовниковата стрелка"
+		},
+		"rotateAngleInput": {
+			"title": "Ъгъл на въртене"
+		},
+		"rotateViewsClockwiseButton": {
+			"title": "Завъртете всички изгледи по часовниковата стрелка"
+		},
+		"imageViewerSettingsButton": {
+			"title": "Настройки за преглед на изображения"
+		},
+		"thumbnailViewerSettingsButton": {
+			"title": "Настройки за преглед на миниатюри"
+		},
+		"panToolButton": {
+			"title": "Панорамиране"
+		},
+		"rectangularSelectionToolButton": {
+			"title": "Правоъгълна селекция"
+		},
+		"magnifierToolButton": {
+			"title": "Лупа"
+		},
+		"zoomToolButton": {
+			"title": "Мащаб"
+		},
+		"zoomSelectionToolButton": {
+			"title": "Избор на мащаб"
+		},
+		"TextSelectionToolButton": {
+			"title": "Маркирайте текст"
+		},
+		"recognizeTextFromAllPagesAndOpenResultButton": {
+			"title": "Разпознаване на текст от всички страници и отваряне на файл с разпознат текст"
+		},
+		"recognizeTextFromAllPagesAndDownloadResultButton": {
+			"title": "Разпознаване на текст от всички страници и изтегляне на файл с разпознат текст"
+		},
+		"recognizeTextFromFocusedPageAndDownloadResultButton": {
+			"title": "Разпознаване на текст от фокусирана страница и изтегляне на файл с разпознат текст"
+		},
+		"recognizeTextFromRegionOfFocusedPageAndDownloadResultButton": {
+			"title": "Разпознайте текст от региона на фокусираната страница и изтеглете файл с разпознат текст"
+		},
+		"ocrSettingsButton": {
+			"title": "OCR настройки"
+		},
+		"sidePanelCloseButton": {
+			"title": "Показване на страничната лента"
+		},
+		"showThumbnailViewerPanelButton": {
+			"title": "Миниатюри"
+		},
+		"showPanelButton": {
+			"title": "Обработка на изображение"
+		},
+		"showTextSelectionPanelButton": {
+			"title": "Маркирайте текст"
+		},
+		"showTextSearchPanelButton": {
+			"title": "Търсене на текст"
+		},
+		"imageProcessingPanel": {
+			"parametersButton": {
+				"value": "Настройки"
+			},
+			"runButton": {
+				"value": "Приложи"
+			}
+		},
+		"textSelectionPanel": {
+			"selectionModeLabel": {
+				"text": "Режим за избор на текст:"
+			},
+			"rectangleOption": {
+				"text": "Правоъгълник"
+			},
+			"fullLinesOption": {
+				"text": "Цели редове"
+			},
+			"selectionColorLabel": {
+				"text": "Цвят на избрания текст:"
+			},
+			"selectedTextLabel": {
+				"text": "Избран текст:"
+			}
+		},
+		"textSearchPanel": {
+			"findLabel": {
+				"text": "Намерете:"
+			},
+			"whereLookLabel": {
+				"text": "Търсене на:"
+			},
+			"currentPageOption": {
+				"text": "Текуща страница"
+			},
+			"allPagesOption": {
+				"text": "Всички страници"
+			},
+			"wholeWordLabel": {
+				"text": "Търсене на цялата дума"
+			},
+			"caseSensitiveLabel": {
+				"text": "Регистърът на буквите е чувствителен"
+			},
+			"startSearchButton": {
+				"value": "Стартирайте търсенето"
+			},
+			"stopSearchButton": {
+				"value": "Спрете търсенето"
+			},
+			"textNotFoundLabel": {
+				"text": "Текстът не е намерен."
+			}
+		},
+		"gotoFirstPageButton": {
+			"title": "Отидете на първото изображение"
+		},
+		"gotoPreviousPageButton": {
+			"title": "Отидете на предишното изображение"
+		},
+		"gotoPageInput": {
+			"title": "Страница"
+		},
+		"gotoNextPageButton": {
+			"title": "Отидете на следващото изображение"
+		},
+		"gotoLastPageButton": {
+			"title": "Отидете на последното изображение"
+		},
+		"zoomOutButton": {
+			"title": "Намаляване"
+		},
+		"zoomValueInput": {
+			"title": "Мащаб"
+		},
+		"zoomInButton": {
+			"title": "Увеличаване"
+		},
+		"ocrSettingsDialog": {
+			"title": "OCR настройки",
+			"ImageBinarizationMode": {
+				"text": "ImageBinarizationMode:"
+			},
+			"Languages": {
+				"text": "Езици:"
+			},
+			"selectAllLabel": {
+				"text": "Избери всички"
+			},
+			"english": {
+				"text": "Английски"
+			},
+			"french": {
+				"text": "Френският език"
+			},
+			"german": {
+				"text": "Немският език"
+			},
+			"italian": {
+				"text": "Италианският език"
+			},
+			"osd": {
+				"text": "Откриване на ориентация"
+			},
+			"portuguese": {
+				"text": "Португалският език"
+			},
+			"russian": {
+				"text": "Руският език"
+			},
+			"spanish": {
+				"text": "Испанският език"
+			},
+			"RecognitionMode": {
+				"text": "RecognitionMode:"
+			},
+			"RecognitionRegionType": {
+				"text": "RecognitionRegionType:"
+			},
+			"ResultFileFormat": {
+				"text": "ResultFileFormat:"
+			},
+			"ResultFileName": {
+				"text": "ResultFileName:"
+			},
+			"okButton": {
+				"value": "ОК"
+			}
+		},
+		"normalSizeModeButton": {
+			"title": "Нормално"
+		},
+		"bestFitSizeModeButton": {
+			"title": "Най-подходящ"
+		},
+		"fitToHeightSizeModeButton": {
+			"title": "Подходяща височина"
+		},
+		"pixelToPixelSizeModeButton": {
+			"title": "Пиксел към пиксел"
+		},
+		"zoomSizeModeButton": {
+			"title": "Мащаб"
+		},
+		"documentPasswordDialog": {
+			"pleaseEnterPasswordLabel": {
+				"text": "Този документ е защитен с парола. Моля, въведете парола."
+			},
+			"passwordLabel": {
+				"text": "Парола:"
+			},
+			"showPasswordLabel": {
+				"text": "Покажи паролата"
+			},
+			"incorrectPasswordLabel": {
+				"text": "Грешна парола"
+			},
+			"okButton": {
+				"value": "ОК"
+			},
+			"сancelButton": {
+				"value": "Отказ"
+			}
+		},
+		"selectImagesDialog": {
+			"imagesLabel": {
+				"text": "Изображения:"
+			},
+			"currentImageOption": {
+				"text": "Текущо изображение"
+			},
+			"allImagesOption": {
+				"text": "Всички изображения"
+			},
+			"customImagesOption": {
+				"text": "По избор"
+			},
+			"imageRangeLabel": {
+				"text": "Обхват на изображението:"
+			},
+			"invalidRangeErrorMessageLabel": {
+				"text": "Невалиден диапазон от страници. Пример: 1-5, 8, 12-15."
+			},
+			"outOfRangeErrorMessageLabel": {
+				"text": "Индексът не е в обхвата на индекса на колекцията от изображения."
+			},
+			"okButton": {
+				"value": "ОК"
+			},
+			"сancelButton": {
+				"value": "Отказ"
+			}
+		},
+		"printImagesDialog": {
+			"imagesLabel": {
+				"text": "Изображения:"
+			},
+			"currentImageOption": {
+				"text": "Текущо изображение"
+			},
+			"allImagesOption": {
+				"text": "Всички изображения"
+			},
+			"customImagesOption": {
+				"text": "По избор"
+			},
+			"imageRangeLabel": {
+				"text": "Обхват на изображението:"
+			},
+			"invalidRangeErrorMessageLabel": {
+				"text": "Невалиден диапазон от страници. Пример: 1-5, 8, 12-15."
+			},
+			"outOfRangeErrorMessageLabel": {
+				"text": "Индексът не е в обхвата на индекса на колекцията от изображения."
+			},
+			"okButton": {
+				"value": "ОК"
+			},
+			"cancelButton": {
+				"value": "Отказ"
+			}
+		},
+		"imageViewerSettingsDialog": {
+			"imageDisplayModeLabel": {
+				"text": "Режим на показване на изображението:"
+			},
+			"imageAnchorLabel": {
+				"text": "Котва на изображение:"
+			},
+			"noneOption": {
+				"text": "Не"
+			},
+			"topLeftOption": {
+				"text": "Горе|Вляво"
+			},
+			"topOption": {
+				"text": "Най-горе"
+			},
+			"topRightOption": {
+				"text": "Горе|Вдясно"
+			},
+			"rightOption": {
+				"text": "Точно"
+			},
+			"bottomRightOption": {
+				"text": "Долу|вдясно"
+			},
+			"bottomOption": {
+				"text": "Отдолу"
+			},
+			"bottomLeftOption": {
+				"text": "Долу|Вляво"
+			},
+			"leftOption": {
+				"text": "Наляво"
+			},
+			"multipageDisplayModeLabel": {
+				"text": "Режим на показване на много страници:"
+			},
+			"allImagesOption": {
+				"text": "AllImages"
+			},
+			"fixedImagesOption": {
+				"text": "FixedImages"
+			},
+			"layoutDirectionLabel": {
+				"text": "Посока на оформлението:"
+			},
+			"horizontalOption": {
+				"text": "Хоризонтално"
+			},
+			"verticalOption": {
+				"text": "Вертикално"
+			},
+			"rowColumnCountLabel": {
+				"text": "Изображения в ред/колона:"
+			},
+			"imagePaddingLabel": {
+				"text": "Подложка на изображения:"
+			},
+			"appearancesLabel": {
+				"text": "Появи"
+			},
+			"imageAppearanceLabel": {
+				"text": "Външен вид на изображението"
+			},
+			"imageAppearanceBackColorLabel": {
+				"text": "Цвят на фона:"
+			},
+			"imageAppearanceBorderColorLabel": {
+				"text": "Цвят на рамката:"
+			},
+			"imageAppearanceBorderWidthLabel": {
+				"text": "Ширина на границата:"
+			},
+			"focusedImageAppearanceLabel": {
+				"text": "Външен вид на фокусирано изображение"
+			},
+			"focusedImageAppearanceBackColorLabel": {
+				"text": "Цвят на фона:"
+			},
+			"focusedImageAppearanceBorderColorLabel": {
+				"text": "Цвят на рамката:"
+			},
+			"focusedImageAppearanceBorderWidthLabel": {
+				"text": "Ширина на границата:"
+			},
+			"useAppearanceInSinglePageModeLabel": {
+				"text": "Използване на изгледа на изображението в режим на една страница"
+			},
+			"renderingSettingsLabel": {
+				"text": "Настройки за изобразяване"
+			},
+			"defaultRenderingSettingsLabel": {
+				"text": "Настройки по подразбиране"
+			},
+			"horizontalResolutionLabel": {
+				"text": "Хоризонтална разделителна способност:"
+			},
+			"verticalResolutionLabel ": {
+				"text": "Вертикална разделителна способност:"
+			},
+			"smoothingModeLabel": {
+				"text": "Плавен режим:"
+			},
+			"AntiAlias": {
+				"text": "AntiAlias"
+			},
+			"None": {
+				"text": "Не"
+			},
+			"interpolationModeLabel": {
+				"text": "Режим на интерполация:"
+			},
+			"Bicubic": {
+				"text": "Bicubic"
+			},
+			"Bilinear": {
+				"text": "Bilinear"
+			},
+			"HighQualityBicubic": {
+				"text": "HighQualityBicubic"
+			},
+			"HighQualityBilinear": {
+				"text": "HighQualityBilinear"
+			},
+			"NearestNeighbor": {
+				"text": "NearestNeighbor"
+			},
+			"otherSettingsLabel": {
+				"text": "Други настройки"
+			},
+			"backgroundColorLabel": {
+				"text": "Цвят на фона на програмата за преглед на изображения:"
+			},
+			"centerImageLabel": {
+				"text": "Централно изображение:"
+			},
+			"resizeTimeoutLabel ": {
+				"text": "Изчакване за преоразмеряване:"
+			},
+			"tileSizeLabel": {
+				"text": "Размер на плочката:"
+			},
+			"colorManagementLabel": {
+				"text": "Активиране на управлението на цветовете:"
+			},
+			"useVectorRenderingLabel": {
+				"text": "Използване на векторно изобразяване за документи:"
+			},
+			"vectorContentBackgroundColorLabel": {
+				"text": "Цвят на фона на векторното съдържание:"
+			},
+			"okButton": {
+				"value": "ОК"
+			},
+			"сancelButton": {
+				"value": "Отказ"
+			}
+		},
+		"thumbnailViewerSettingsDialog": {
+			"sizeLabel": {
+				"text": "Размер на миниатюра:"
+			},
+			"scaleLabel": {
+				"text": "Мащаб на миниатюри:"
+			},
+			"smallestOption": {
+				"text": "Най-малко"
+			},
+			"smallOption": {
+				"text": "Малък"
+			},
+			"normalOption": {
+				"text": "Нормално"
+			},
+			"largeOption": {
+				"text": "Голям"
+			},
+			"flowStyleLabel": {
+				"text": "Стил на разположение на миниатюри:"
+			},
+			"singleColumnOption": {
+				"text": "SingleColumn"
+			},
+			"singleRowOption": {
+				"text": "SingleRow"
+			},
+			"fixedColumnsOption": {
+				"text": "FixedColumns"
+			},
+			"wrappedRowsOption": {
+				"text": "WrappedRows"
+			},
+			"columnCountLabel": {
+				"text": "Брой колони:"
+			},
+			"marginLabel": {
+				"text": "Външна подложка:"
+			},
+			"paddingTopLabel": {
+				"text": "Горна подложка:"
+			},
+			"paddingRightLabel": {
+				"text": "Десен отстъп:"
+			},
+			"paddingBottomLabel": {
+				"text": "Долна подложка:"
+			},
+			"paddingLeftLabel": {
+				"text": "Ляв отстъп:"
+			},
+			"showCaptionLabel": {
+				"text": "Показване на надписи с миниатюри:"
+			},
+			"captionFormatLabel": {
+				"text": "Формат на подписа:"
+			},
+			"captionAnchorLabel": {
+				"text": "Котва на подписа:"
+			},
+			"topLeftOption": {
+				"text": "Горе|Вляво"
+			},
+			"topOption": {
+				"text": "Най-горе"
+			},
+			"topRightOption": {
+				"text": "Горе|Вдясно"
+			},
+			"rightOption": {
+				"text": "Точно"
+			},
+			"bottomRightOption": {
+				"text": "Долу|вдясно"
+			},
+			"bottomOption": {
+				"text": "Отдолу"
+			},
+			"bottomLeftOption": {
+				"text": "Долу|Вляво"
+			},
+			"leftOption": {
+				"text": "Наляво"
+			},
+			"centerOption": {
+				"text": "Подравняване в центъра"
+			},
+			"focusOnHoverLabel": {
+				"text": "Фокус при задържане на курсора на мишката:"
+			},
+			"multiSelectLabel": {
+				"text": "Разрешаване на избор на няколко миниатюри:"
+			},
+			"useThumbnailCheckboxesLabel": {
+				"text": "Използвайте квадратчета за отметка за миниизображение:"
+			},
+			"useThumbnailActionsPanelLabel": {
+				"text": "Използвайте панела с действия за миниатюра:"
+			},
+			"canDragThumbnailsLabel": {
+				"text": "Може да плъзгате миниатюри:"
+			},
+			"canNavigateThumbnailsUsingKeyboardLabel": {
+				"text": "Може да навигира в миниатюри с помощта на клавиатура:"
+			},
+			"canSelectThumbnailsUsingKeyboardLabel": {
+				"text": "Може да избира миниатюри с помощта на клавиатура:"
+			},
+			"canDeleteThumbnailsUsingKeyboardLabel": {
+				"text": "Може да изтрие миниатюри с помощта на клавиатура:"
+			},
+			"okButton": {
+				"value": "ОК"
+			},
+			"сancelButton": {
+				"value": "Отказ"
+			}
+		},
+		"uploadImageFromUrlDialog": {
+			"okButton": {
+				"value": "ОК"
+			},
+			"cancelButton": {
+				"value": "Отказ"
+			}
+		},
+		"imageProcessingSettingsDialog-AutoInvert": {
+			"title": "Настройки на командите за обработка на изображения (AutoInvert)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "ОК"
+			}
+		},
+		"imageProcessingSettingsDialog-AutoTextOrientation": {
+			"title": "Настройки на командите за обработка на изображения (AutoTextOrientation)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"+ Binarization": {
+				"text": "+ Бинаризация:"
+			},
+			"BinarizationMode": {
+				"text": "BinarizationMode:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ConvertToBlackLevel": {
+				"text": "ConvertToBlackLevel:"
+			},
+			"ConvertToWhiteLevel": {
+				"text": "ConvertToWhiteLevel:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"LuminanceComputationMode": {
+				"text": "LuminanceComputationMode:"
+			},
+			"MaxLevelDifference": {
+				"text": "MaxLevelDifference:"
+			},
+			"MinLevelDifference": {
+				"text": "MinLevelDifference:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"Threshold": {
+				"text": "Праг:"
+			},
+			"WindowRadius": {
+				"text": "WindowRadius:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"MinConfidence": {
+				"text": "MinConfidence:"
+			},
+			"StripWidth": {
+				"text": "StripWidth:"
+			},
+			"okButton": {
+				"value": "ОК"
+			}
+		},
+		"imageProcessingSettingsDialog-BorderClear": {
+			"title": "Настройки на командите за обработка на изображения (BorderClear)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "ОК"
+			}
+		},
+		"imageProcessingSettingsDialog-Deskew": {
+			"title": "Настройки на командите за обработка на изображения (Deskew)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"BorderColor": {
+				"text": "BorderColor:"
+			},
+			"BorderColorType": {
+				"text": "BorderColorType:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"MaxAngle": {
+				"text": "MaxAngle:"
+			},
+			"MinConfidence": {
+				"text": "MinConfidence:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"ScanIntervalX": {
+				"text": "ScanIntervalX:"
+			},
+			"ScanIntervalY": {
+				"text": "ScanIntervalY:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "ОК"
+			}
+		},
+		"imageProcessingSettingsDialog-Despeckle": {
+			"title": "Настройки на командите за обработка на изображения (Despeckle)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"AutoConfigureLevels": {
+				"text": "AutoConfigureLevels:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"Level1": {
+				"text": "Ниво 1:"
+			},
+			"Level2": {
+				"text": "Ниво 2:"
+			},
+			"Radius": {
+				"text": "Радиус:"
+			},
+			"+ Region": {
+				"text": "+ Регион:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "Ширина:"
+			},
+			"height": {
+				"text": "Височина:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "ОК"
+			}
+		},
+		"imageProcessingSettingsDialog-HalftoneRemoval": {
+			"title": "Настройки на командите за обработка на изображения (HalftoneRemoval)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"AutoThreshold": {
+				"text": "AutoThreshold:"
+			},
+			"BlackPixelRemovalThreshold": {
+				"text": "BlackPixelRemovalThreshold:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"CellSize": {
+				"text": "CellSize:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"MaxSegmentSize": {
+				"text": "MaxSegmentSize:"
+			},
+			"MinHalftoneHeight": {
+				"text": "MinHalftoneHeight:"
+			},
+			"MinHalftoneWidth": {
+				"text": "MinHalftoneWidth:"
+			},
+			"+ Region": {
+				"text": "+ Регион:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "Ширина:"
+			},
+			"height": {
+				"text": "Височина:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"WhitePixelRemovalThreshold": {
+				"text": "WhitePixelRemovalThreshold:"
+			},
+			"okButton": {
+				"value": "ОК"
+			}
+		},
+		"imageProcessingSettingsDialog-HolePunchRemoval": {
+			"title": "Настройки на командите за обработка на изображения (HolePunchRemoval)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"+ Binarization": {
+				"text": "+ Бинаризация:"
+			},
+			"BinarizationMode": {
+				"text": "BinarizationMode:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ConvertToBlackLevel": {
+				"text": "ConvertToBlackLevel:"
+			},
+			"ConvertToWhiteLevel": {
+				"text": "ConvertToWhiteLevel:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"LuminanceComputationMode": {
+				"text": "LuminanceComputationMode:"
+			},
+			"MaxLevelDifference": {
+				"text": "MaxLevelDifference:"
+			},
+			"MinLevelDifference": {
+				"text": "MinLevelDifference:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"Threshold": {
+				"text": "Праг:"
+			},
+			"WindowRadius": {
+				"text": "WindowRadius:"
+			},
+			"FillBorderSize": {
+				"text": "FillBorderSize:"
+			},
+			"FillColor": {
+				"text": "FillColor:"
+			},
+			"FillColorAutoDetection": {
+				"text": "FillColorAutoDetection:"
+			},
+			"HolePunchLocation": {
+				"text": "HolePunchLocation:"
+			},
+			"selectAllLabel": {
+				"text": "Избери всички"
+			},
+			"bottom": {
+				"text": "Отдолу"
+			},
+			"left": {
+				"text": "Наляво"
+			},
+			"right": {
+				"text": "Точно"
+			},
+			"top": {
+				"text": "Най-горе"
+			},
+			"undefined": {
+				"text": "Недефиниран"
+			},
+			"MaxHoleSize": {
+				"text": "MaxHoleSize:"
+			},
+			"MinHoleSize": {
+				"text": "MinHoleSize:"
+			},
+			"+ Region": {
+				"text": "+ Регион:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "Ширина:"
+			},
+			"height": {
+				"text": "Височина:"
+			},
+			"okButton": {
+				"value": "ОК"
+			}
+		},
+		"imageProcessingSettingsDialog-LineRemoval": {
+			"title": "Настройки на командите за обработка на изображения (LineRemoval)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"+ Binarization": {
+				"text": "+ Бинаризация:"
+			},
+			"BinarizationMode": {
+				"text": "BinarizationMode:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ConvertToBlackLevel": {
+				"text": "ConvertToBlackLevel:"
+			},
+			"ConvertToWhiteLevel": {
+				"text": "ConvertToWhiteLevel:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"LuminanceComputationMode": {
+				"text": "LuminanceComputationMode:"
+			},
+			"MaxLevelDifference": {
+				"text": "MaxLevelDifference:"
+			},
+			"MinLevelDifference": {
+				"text": "MinLevelDifference:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"Threshold": {
+				"text": "Праг:"
+			},
+			"WindowRadius": {
+				"text": "WindowRadius:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"Direction": {
+				"text": "Посока:"
+			},
+			"selectAllLabel": {
+				"text": "Избери всички"
+			},
+			"horizontal": {
+				"text": "Хоризонтално"
+			},
+			"vertical": {
+				"text": "Вертикално"
+			},
+			"FillColor": {
+				"text": "FillColor:"
+			},
+			"FillColorAutoDetection": {
+				"text": "FillColorAutoDetection:"
+			},
+			"LineEndsType": {
+				"text": "LineEndsType:"
+			},
+			"LinesType": {
+				"text": "LinesType:"
+			},
+			"MaxCurvature": {
+				"text": "MaxCurvature:"
+			},
+			"MaxDeviationAngle": {
+				"text": "MaxDeviationAngle:"
+			},
+			"MaxGapLength": {
+				"text": "MaxGapLength:"
+			},
+			"MaxLength": {
+				"text": "MaxLength:"
+			},
+			"MaxWidth": {
+				"text": "MaxWidth:"
+			},
+			"MinConfidence": {
+				"text": "MinConfidence:"
+			},
+			"MinLength": {
+				"text": "MinLength:"
+			},
+			"MinSizeRatio": {
+				"text": "MinSizeRatio:"
+			},
+			"MinWidth": {
+				"text": "MinWidth:"
+			},
+			"ReconnectBrokenObjects": {
+				"text": "ReconnectBrokenObjects:"
+			},
+			"+ Region": {
+				"text": "+ Регион:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "Ширина:"
+			},
+			"height": {
+				"text": "Височина:"
+			},
+			"okButton": {
+				"value": "ОК"
+			}
+		}
+	},
+	"downloadResultLink": {
+		"text": "Изтеглете резултатите от разпознаването"
+	},
+	"strings": {
+		"vsdv-uploadAndOpenFileButton-uploadFileString": "Изтеглете и отворете файл",
+		"vsdv-uploadAndAddFileButton-addFileString": "Качете и добавете файл",
+		"vsui-imageProcessingPanel-imageProcessingString": "Обработка на изображение",
+		"vsui-textSearchPanel-pageLabel": "Страница",
+		"vsdv-openFile-addFileString": "Добави файл",
+		"vsdv-openFile-authenticateFileString": "Удостоверете файла",
+		"vsdv-downloadFile-actionMessage": "Свали файл",
+		"vsdv-saveChanges-saveChangesInImages": "Запазете промените в изображенията",
+		"vsui-documentNavigationTool-getActions": "Вземете действия",
+		"vsdv-saveChanges-saveChangesInAnnotations": "Запазете промените в анотациите",
+		"vsdv-saveChanges-burnAnnotationsInImages": "Записване на анотации върху изображения",
+		"vsui-dialog-okButton": "ОК",
+		"vsui-multiselect-noneSelected": "Нито един не е избран",
+		"vsui-multiselect-allSelected": "Всички избрани",
+		"vsui-multiselect-selected": "избрани",
+		"vsdv-saveChanges-saveChangesInPdfDocument": "Запазете промените в PDF документ",
+		"vsui-documentPasswordDialog-title": "Парола за документ",
+		"vsui-dialog-cancelButton": "Отказ",
+		"vsui-documentPasswordPanel-authenticateFileString": "Удостоверете файла",
+		"vsui-imageSelectionDialog-title": "Изберете изображения",
+		"vsui-imageSelectionDialog-currentImageString": "Текущо изображение",
+		"vsui-imageSelectionDialog-allImagesString": "Всички изображения",
+		"vsui-imageSelectionDialog-customImagesString": "По избор",
+		"vsui-printImagesDialog-title": "Печат на изображения",
+		"vsui-printImagesPanel-imagePrintingString": "Изображението се отпечатва",
+		"vsui-printImagesPanel-withAnnotationsLabel": "с анотации",
+		"vsui-imageViewerSettingsDialog-title": "Настройки за преглед на изображения",
+		"vsui-thumbnailViewerSettingDialog-title": "Настройки за преглед на миниатюри",
+		"vsui-thumbnailViewerSettingsDialog-showAnnotationsLabel": "Показване на пояснения върху миниатюри:",
+		"vsdv-uploadImageFromUrlDialog-title": "Качете изображение от URL",
+		"vsdv-dialog-okButton": "ОК",
+		"vsdv-dialog-cancelButton": "Отказ"
+	}
+}

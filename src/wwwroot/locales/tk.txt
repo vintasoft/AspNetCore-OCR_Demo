@@ -1,0 +1,1154 @@
+﻿{
+	"documentViewer": {
+		"fileLabel": {
+			"text": "Faýl"
+		},
+		"viewLabel": {
+			"text": "Gör"
+		},
+		"toolsLabel": {
+			"text": "Gurallar"
+		},
+		"ocrPanelLabel": {
+			"text": "OCR"
+		},
+		"uploadAndOpenFileButton": {
+			"title": "Faýly ýükläň we açyň"
+		},
+		"uploadAndAddFileButton": {
+			"title": "Faýl ýükläň we goşuň"
+		},
+		"previousUploadFilesButton": {
+			"title": "Öň ýüklenen faýllar"
+		},
+		"openFileFromUrlButton": {
+			"title": "URL-den faýl açyň"
+		},
+		"printImagesButton": {
+			"title": "Suratlary çap ediň"
+		},
+		"downloadFileButton": {
+			"title": "Faýly göçürip al"
+		},
+		"exportAndDownloadFileButton": {
+			"title": "Faýly eksport ediň we göçürip alyň"
+		},
+		"clearSessionCacheButton": {
+			"title": "Sessiýa keşini arassalaň"
+		},
+		"fitToWidthSizeModeButton": {
+			"title": "Inine laýyk"
+		},
+		"rotateViewsCounterClockwiseButton": {
+			"title": "Viewshli görnüşleri sagat tersine öwüriň"
+		},
+		"rotateAngleInput": {
+			"title": "Burç"
+		},
+		"rotateViewsClockwiseButton": {
+			"title": "Viewshli görnüşleri sagat ugruna öwüriň"
+		},
+		"imageViewerSettingsButton": {
+			"title": "Surat görüjiniň sazlamalary"
+		},
+		"thumbnailViewerSettingsButton": {
+			"title": "Kiçijik tomaşaçy sazlamalary"
+		},
+		"panToolButton": {
+			"title": "Pan"
+		},
+		"rectangularSelectionToolButton": {
+			"title": "Gönüburçly saýlama"
+		},
+		"magnifierToolButton": {
+			"title": "Ulaldyjy"
+		},
+		"zoomToolButton": {
+			"title": "Ulaltmak"
+		},
+		"zoomSelectionToolButton": {
+			"title": "Ulaltmak"
+		},
+		"TextSelectionToolButton": {
+			"title": "Tekst saýlamak"
+		},
+		"recognizeTextFromAllPagesAndOpenResultButton": {
+			"title": "Pageshli sahypalardan teksti tanadyň we tanalýan tekst bilen faýly açyň"
+		},
+		"recognizeTextFromAllPagesAndDownloadResultButton": {
+			"title": "Pageshli sahypalardan teksti tanadyň we tanalýan tekst bilen faýly göçürip alyň"
+		},
+		"recognizeTextFromFocusedPageAndDownloadResultButton": {
+			"title": "Fokusirlenen sahypadan teksti tanadyň we tanalýan tekst bilen faýly göçürip alyň"
+		},
+		"recognizeTextFromRegionOfFocusedPageAndDownloadResultButton": {
+			"title": "Fokusirlenen sahypanyň sebitinden teksti tanadyň we tanalýan tekst bilen faýly göçürip alyň"
+		},
+		"ocrSettingsButton": {
+			"title": "OCR sazlamalary"
+		},
+		"sidePanelCloseButton": {
+			"title": "Tarap paneli görkez"
+		},
+		"showThumbnailViewerPanelButton": {
+			"title": "Suratlar"
+		},
+		"showPanelButton": {
+			"title": "Suraty gaýtadan işlemek"
+		},
+		"showTextSelectionPanelButton": {
+			"title": "Tekst saýlamak"
+		},
+		"showTextSearchPanelButton": {
+			"title": "Tekst tapyň"
+		},
+		"imageProcessingPanel": {
+			"parametersButton": {
+				"value": "Sazlamalar"
+			},
+			"runButton": {
+				"value": "Giriş"
+			}
+		},
+		"textSelectionPanel": {
+			"selectionModeLabel": {
+				"text": "Saýlaw tertibi:"
+			},
+			"rectangleOption": {
+				"text": "Gönüburçluk"
+			},
+			"fullLinesOption": {
+				"text": "Doly setirler"
+			},
+			"selectionColorLabel": {
+				"text": "Saýlaw reňki:"
+			},
+			"selectedTextLabel": {
+				"text": "Saýlanan tekst:"
+			}
+		},
+		"textSearchPanel": {
+			"findLabel": {
+				"text": "Tapmak:"
+			},
+			"whereLookLabel": {
+				"text": "Serediň:"
+			},
+			"currentPageOption": {
+				"text": "Häzirki sahypa"
+			},
+			"allPagesOption": {
+				"text": "Allhli sahypalar"
+			},
+			"wholeWordLabel": {
+				"text": "Bütin söz"
+			},
+			"caseSensitiveLabel": {
+				"text": "Ýagdaýa bagly"
+			},
+			"startSearchButton": {
+				"value": "Başla"
+			},
+			"stopSearchButton": {
+				"value": "Dur"
+			},
+			"textNotFoundLabel": {
+				"text": "Tekst tapylmady."
+			}
+		},
+		"gotoFirstPageButton": {
+			"title": "Birinji surata geçiň"
+		},
+		"gotoPreviousPageButton": {
+			"title": "Öňki surata geçiň"
+		},
+		"gotoPageInput": {
+			"title": "Sahypa"
+		},
+		"gotoNextPageButton": {
+			"title": "Indiki surata geçiň"
+		},
+		"gotoLastPageButton": {
+			"title": "Iň soňky surata geçiň"
+		},
+		"zoomOutButton": {
+			"title": "Ulaltmak"
+		},
+		"zoomValueInput": {
+			"title": "Ulaltmak"
+		},
+		"zoomInButton": {
+			"title": "Ýakynlaşdyrmak"
+		},
+		"ocrSettingsDialog": {
+			"title": "OCR sazlamalary",
+			"ImageBinarizationMode": {
+				"text": "ImageBinarizationMode:"
+			},
+			"Languages": {
+				"text": "Diller:"
+			},
+			"selectAllLabel": {
+				"text": "Ählisini seç"
+			},
+			"english": {
+				"text": "Iňlis"
+			},
+			"french": {
+				"text": "Fransuz dili"
+			},
+			"german": {
+				"text": "Nemes dili"
+			},
+			"italian": {
+				"text": "Italýan dili"
+			},
+			"osd": {
+				"text": "Ugry kesgitlemek"
+			},
+			"portuguese": {
+				"text": "Portugal dili"
+			},
+			"russian": {
+				"text": "Rus dili"
+			},
+			"spanish": {
+				"text": "Ispan dili"
+			},
+			"RecognitionMode": {
+				"text": "RecognitionMode:"
+			},
+			"RecognitionRegionType": {
+				"text": "RecognitionRegionType:"
+			},
+			"ResultFileFormat": {
+				"text": "ResultFileFormat:"
+			},
+			"ResultFileName": {
+				"text": "ResultFileName:"
+			},
+			"okButton": {
+				"value": "Bolýar"
+			}
+		},
+		"normalSizeModeButton": {
+			"title": "Adaty"
+		},
+		"bestFitSizeModeButton": {
+			"title": "Iň oňat"
+		},
+		"fitToHeightSizeModeButton": {
+			"title": "Boýuna laýyk"
+		},
+		"pixelToPixelSizeModeButton": {
+			"title": "Pikselden piksel"
+		},
+		"zoomSizeModeButton": {
+			"title": "Ulaltmak"
+		},
+		"documentPasswordDialog": {
+			"pleaseEnterPasswordLabel": {
+				"text": "Bu resminama parol bilen goralandyr. Parol giriziň"
+			},
+			"passwordLabel": {
+				"text": "Parol:"
+			},
+			"showPasswordLabel": {
+				"text": "Paroly görkez"
+			},
+			"incorrectPasswordLabel": {
+				"text": "nädogry parol"
+			},
+			"okButton": {
+				"value": "Bolýar"
+			},
+			"сancelButton": {
+				"value": "Elatyr"
+			}
+		},
+		"selectImagesDialog": {
+			"imagesLabel": {
+				"text": "Suratlar:"
+			},
+			"currentImageOption": {
+				"text": "Häzirki surat"
+			},
+			"allImagesOption": {
+				"text": "Imageshli suratlar"
+			},
+			"customImagesOption": {
+				"text": "Omörite"
+			},
+			"imageRangeLabel": {
+				"text": "Surat aralygy:"
+			},
+			"invalidRangeErrorMessageLabel": {
+				"text": "Nädogry sahypa aralygy. Mysal: 1-5, 8, 12-15."
+			},
+			"outOfRangeErrorMessageLabel": {
+				"text": "Surat ýygnamagyň çäginden çykma."
+			},
+			"okButton": {
+				"value": "Bolýar"
+			},
+			"сancelButton": {
+				"value": "Elatyr"
+			}
+		},
+		"printImagesDialog": {
+			"imagesLabel": {
+				"text": "Suratlar:"
+			},
+			"currentImageOption": {
+				"text": "Häzirki surat"
+			},
+			"allImagesOption": {
+				"text": "Imageshli suratlar"
+			},
+			"customImagesOption": {
+				"text": "Omörite"
+			},
+			"imageRangeLabel": {
+				"text": "Surat aralygy:"
+			},
+			"invalidRangeErrorMessageLabel": {
+				"text": "Nädogry sahypa aralygy. Mysal: 1-5, 8, 12-15."
+			},
+			"outOfRangeErrorMessageLabel": {
+				"text": "Surat ýygnamagyň çäginden çykma."
+			},
+			"okButton": {
+				"value": "Bolýar"
+			},
+			"cancelButton": {
+				"value": "Elatyr"
+			}
+		},
+		"imageViewerSettingsDialog": {
+			"imageDisplayModeLabel": {
+				"text": "Surat görkezmek tertibi:"
+			},
+			"imageAnchorLabel": {
+				"text": "Surat labyry:"
+			},
+			"noneOption": {
+				"text": "Hiç"
+			},
+			"topLeftOption": {
+				"text": "Topokarky | Çep"
+			},
+			"topOption": {
+				"text": "Topokarky"
+			},
+			"topRightOption": {
+				"text": "Topokarky | Dogry"
+			},
+			"rightOption": {
+				"text": "Dogry"
+			},
+			"bottomRightOption": {
+				"text": "Aşakda | Dogry"
+			},
+			"bottomOption": {
+				"text": "Aşakda"
+			},
+			"bottomLeftOption": {
+				"text": "Aşakda | Çep"
+			},
+			"leftOption": {
+				"text": "Çep"
+			},
+			"multipageDisplayModeLabel": {
+				"text": "Köp basgançakly re modeim:"
+			},
+			"allImagesOption": {
+				"text": "AllImages"
+			},
+			"fixedImagesOption": {
+				"text": "FixedImages"
+			},
+			"layoutDirectionLabel": {
+				"text": "Salgy ugry:"
+			},
+			"horizontalOption": {
+				"text": "Gorizontal"
+			},
+			"verticalOption": {
+				"text": "Dik"
+			},
+			"rowColumnCountLabel": {
+				"text": "Setir / sütündäki suratlar:"
+			},
+			"imagePaddingLabel": {
+				"text": "Suratlar ýerleşdirilýär:"
+			},
+			"appearancesLabel": {
+				"text": "Daş görnüşler"
+			},
+			"imageAppearanceLabel": {
+				"text": "Surat görnüşi"
+			},
+			"imageAppearanceBackColorLabel": {
+				"text": "Yzky reňk:"
+			},
+			"imageAppearanceBorderColorLabel": {
+				"text": "Serhet reňki:"
+			},
+			"imageAppearanceBorderWidthLabel": {
+				"text": "Serhet giňligi:"
+			},
+			"focusedImageAppearanceLabel": {
+				"text": "Fokusirlenen şekil"
+			},
+			"focusedImageAppearanceBackColorLabel": {
+				"text": "Yzky reňk:"
+			},
+			"focusedImageAppearanceBorderColorLabel": {
+				"text": "Serhet reňki:"
+			},
+			"focusedImageAppearanceBorderWidthLabel": {
+				"text": "Serhet giňligi:"
+			},
+			"useAppearanceInSinglePageModeLabel": {
+				"text": "Bir sahypalyk re modeimde şekil görnüşini ulanyň"
+			},
+			"renderingSettingsLabel": {
+				"text": "Sazlamalary görkezmek"
+			},
+			"defaultRenderingSettingsLabel": {
+				"text": "Bellenen sazlamalar"
+			},
+			"horizontalResolutionLabel": {
+				"text": "Gorizontal çözgüt:"
+			},
+			"verticalResolutionLabel ": {
+				"text": "Dik çözgüt:"
+			},
+			"smoothingModeLabel": {
+				"text": "Düzeltmek tertibi:"
+			},
+			"AntiAlias": {
+				"text": "AntiAlias"
+			},
+			"None": {
+				"text": "Hiç"
+			},
+			"interpolationModeLabel": {
+				"text": "Interpolýasiýa tertibi:"
+			},
+			"Bicubic": {
+				"text": "Bicubic"
+			},
+			"Bilinear": {
+				"text": "Bilinear"
+			},
+			"HighQualityBicubic": {
+				"text": "HighQualityBicubic"
+			},
+			"HighQualityBilinear": {
+				"text": "HighQualityBilinear"
+			},
+			"NearestNeighbor": {
+				"text": "NearestNeighbor"
+			},
+			"otherSettingsLabel": {
+				"text": "Beýleki sazlamalar"
+			},
+			"backgroundColorLabel": {
+				"text": "Tomaşaçylaryň fon reňki:"
+			},
+			"centerImageLabel": {
+				"text": "Merkeziň suraty:"
+			},
+			"resizeTimeoutLabel ": {
+				"text": "Wagtyň ölçegini üýtgediň:"
+			},
+			"tileSizeLabel": {
+				"text": "Kafeliň ululygy:"
+			},
+			"colorManagementLabel": {
+				"text": "Reňk dolandyryşyny işjeňleşdiriň:"
+			},
+			"useVectorRenderingLabel": {
+				"text": "Resminamalar üçin wektor görnüşini ulanyň:"
+			},
+			"vectorContentBackgroundColorLabel": {
+				"text": "Wektor mazmunynyň fon reňki:"
+			},
+			"okButton": {
+				"value": "Bolýar"
+			},
+			"сancelButton": {
+				"value": "Elatyr"
+			}
+		},
+		"thumbnailViewerSettingsDialog": {
+			"sizeLabel": {
+				"text": "Ölçegi:"
+			},
+			"scaleLabel": {
+				"text": "Terezisi:"
+			},
+			"smallestOption": {
+				"text": "Iň kiçi"
+			},
+			"smallOption": {
+				"text": "Kiçi"
+			},
+			"normalOption": {
+				"text": "Adaty"
+			},
+			"largeOption": {
+				"text": "Uly"
+			},
+			"flowStyleLabel": {
+				"text": "Akym stili:"
+			},
+			"singleColumnOption": {
+				"text": "SingleColumn"
+			},
+			"singleRowOption": {
+				"text": "SingleRow"
+			},
+			"fixedColumnsOption": {
+				"text": "FixedColumns"
+			},
+			"wrappedRowsOption": {
+				"text": "WrappedRows"
+			},
+			"columnCountLabel": {
+				"text": "Sütüniň sany:"
+			},
+			"marginLabel": {
+				"text": "Margin:"
+			},
+			"paddingTopLabel": {
+				"text": "Padding Top:"
+			},
+			"paddingRightLabel": {
+				"text": "Padding sag:"
+			},
+			"paddingBottomLabel": {
+				"text": "Aşakdaky gaplama:"
+			},
+			"paddingLeftLabel": {
+				"text": "Çep gaplama:"
+			},
+			"showCaptionLabel": {
+				"text": "Tionsazgylary görkez:"
+			},
+			"captionFormatLabel": {
+				"text": "Tionazgynyň formaty:"
+			},
+			"captionAnchorLabel": {
+				"text": "Tionazgy ýazgysy:"
+			},
+			"topLeftOption": {
+				"text": "Topokarky | Çep"
+			},
+			"topOption": {
+				"text": "Topokarky"
+			},
+			"topRightOption": {
+				"text": "Topokarky | Dogry"
+			},
+			"rightOption": {
+				"text": "Dogry"
+			},
+			"bottomRightOption": {
+				"text": "Aşakda | Dogry"
+			},
+			"bottomOption": {
+				"text": "Aşakda"
+			},
+			"bottomLeftOption": {
+				"text": "Aşakda | Çep"
+			},
+			"leftOption": {
+				"text": "Çep"
+			},
+			"centerOption": {
+				"text": "Merkez"
+			},
+			"focusOnHoverLabel": {
+				"text": "Üns beriň:"
+			},
+			"multiSelectLabel": {
+				"text": "Köp saýlaw:"
+			},
+			"useThumbnailCheckboxesLabel": {
+				"text": "Eskiz üçin bellik gutularyny ulanyň:"
+			},
+			"useThumbnailActionsPanelLabel": {
+				"text": "Eskiz üçin hereketler panelini ulanyň:"
+			},
+			"canDragThumbnailsLabel": {
+				"text": "Suratlary süýräp biler:"
+			},
+			"canNavigateThumbnailsUsingKeyboardLabel": {
+				"text": "Klawiaturany ulanyp, kiçijik suratlary dolandyryp bilersiňiz:"
+			},
+			"canSelectThumbnailsUsingKeyboardLabel": {
+				"text": "Klawiaturany ulanyp kiçijik suratlary saýlap bilersiňiz:"
+			},
+			"canDeleteThumbnailsUsingKeyboardLabel": {
+				"text": "Klawiatura arkaly kiçijik suratlary pozup bilersiňiz:"
+			},
+			"okButton": {
+				"value": "Bolýar"
+			},
+			"сancelButton": {
+				"value": "Elatyr"
+			}
+		},
+		"uploadImageFromUrlDialog": {
+			"okButton": {
+				"value": "Bolýar"
+			},
+			"cancelButton": {
+				"value": "Elatyr"
+			}
+		},
+		"imageProcessingSettingsDialog-AutoInvert": {
+			"title": "Suraty gaýtadan işlemek buýruk sazlamalary (AutoInvert)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "Bolýar"
+			}
+		},
+		"imageProcessingSettingsDialog-AutoTextOrientation": {
+			"title": "Suraty gaýtadan işlemek buýruk sazlamalary (AutoTextOrientation)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"+ Binarization": {
+				"text": "+ Ikitaraplaýynlaşdyrma:"
+			},
+			"BinarizationMode": {
+				"text": "BinarizationMode:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ConvertToBlackLevel": {
+				"text": "ConvertToBlackLevel:"
+			},
+			"ConvertToWhiteLevel": {
+				"text": "ConvertToWhiteLevel:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"LuminanceComputationMode": {
+				"text": "LuminanceComputationMode:"
+			},
+			"MaxLevelDifference": {
+				"text": "MaxLevelDifference:"
+			},
+			"MinLevelDifference": {
+				"text": "MinLevelDifference:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"Threshold": {
+				"text": "Bosgun:"
+			},
+			"WindowRadius": {
+				"text": "WindowRadius:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"MinConfidence": {
+				"text": "MinConfidence:"
+			},
+			"StripWidth": {
+				"text": "StripWidth:"
+			},
+			"okButton": {
+				"value": "Bolýar"
+			}
+		},
+		"imageProcessingSettingsDialog-BorderClear": {
+			"title": "Suraty gaýtadan işlemek buýruk sazlamalary (BorderClear)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "Bolýar"
+			}
+		},
+		"imageProcessingSettingsDialog-Deskew": {
+			"title": "Suraty gaýtadan işlemek buýruk sazlamalary (Deskew)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"BorderColor": {
+				"text": "BorderColor:"
+			},
+			"BorderColorType": {
+				"text": "BorderColorType:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"MaxAngle": {
+				"text": "MaxAngle:"
+			},
+			"MinConfidence": {
+				"text": "MinConfidence:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"ScanIntervalX": {
+				"text": "ScanIntervalX:"
+			},
+			"ScanIntervalY": {
+				"text": "ScanIntervalY:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "Bolýar"
+			}
+		},
+		"imageProcessingSettingsDialog-Despeckle": {
+			"title": "Suraty gaýtadan işlemek buýruk sazlamalary (Despeckle)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"AutoConfigureLevels": {
+				"text": "AutoConfigureLevels:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"Level1": {
+				"text": "1-nji dereje:"
+			},
+			"Level2": {
+				"text": "2-nji dereje:"
+			},
+			"Radius": {
+				"text": "Radius:"
+			},
+			"+ Region": {
+				"text": "+ Sebit:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "ini:"
+			},
+			"height": {
+				"text": "beýikligi:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "Bolýar"
+			}
+		},
+		"imageProcessingSettingsDialog-HalftoneRemoval": {
+			"title": "Suraty gaýtadan işlemek buýruk sazlamalary (HalftoneRemoval)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"AutoThreshold": {
+				"text": "AutoThreshold:"
+			},
+			"BlackPixelRemovalThreshold": {
+				"text": "BlackPixelRemovalThreshold:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"CellSize": {
+				"text": "CellSize:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"MaxSegmentSize": {
+				"text": "MaxSegmentSize:"
+			},
+			"MinHalftoneHeight": {
+				"text": "MinHalftoneHeight:"
+			},
+			"MinHalftoneWidth": {
+				"text": "MinHalftoneWidth:"
+			},
+			"+ Region": {
+				"text": "+ Sebit:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "ini:"
+			},
+			"height": {
+				"text": "beýikligi:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"WhitePixelRemovalThreshold": {
+				"text": "WhitePixelRemovalThreshold:"
+			},
+			"okButton": {
+				"value": "Bolýar"
+			}
+		},
+		"imageProcessingSettingsDialog-HolePunchRemoval": {
+			"title": "Suraty gaýtadan işlemek buýruk sazlamalary (HolePunchRemoval)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"+ Binarization": {
+				"text": "+ Ikitaraplaýynlaşdyrma:"
+			},
+			"BinarizationMode": {
+				"text": "BinarizationMode:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ConvertToBlackLevel": {
+				"text": "ConvertToBlackLevel:"
+			},
+			"ConvertToWhiteLevel": {
+				"text": "ConvertToWhiteLevel:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"LuminanceComputationMode": {
+				"text": "LuminanceComputationMode:"
+			},
+			"MaxLevelDifference": {
+				"text": "MaxLevelDifference:"
+			},
+			"MinLevelDifference": {
+				"text": "MinLevelDifference:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"Threshold": {
+				"text": "Bosgun:"
+			},
+			"WindowRadius": {
+				"text": "WindowRadius:"
+			},
+			"FillBorderSize": {
+				"text": "FillBorderSize:"
+			},
+			"FillColor": {
+				"text": "FillColor:"
+			},
+			"FillColorAutoDetection": {
+				"text": "FillColorAutoDetection:"
+			},
+			"HolePunchLocation": {
+				"text": "HolePunchLocation:"
+			},
+			"selectAllLabel": {
+				"text": "Ählisini seç"
+			},
+			"bottom": {
+				"text": "Aşakda"
+			},
+			"left": {
+				"text": "Çep"
+			},
+			"right": {
+				"text": "Dogry"
+			},
+			"top": {
+				"text": "Topokarky"
+			},
+			"undefined": {
+				"text": "Kesgitlenmedik"
+			},
+			"MaxHoleSize": {
+				"text": "MaxHoleSize:"
+			},
+			"MinHoleSize": {
+				"text": "MinHoleSize:"
+			},
+			"+ Region": {
+				"text": "+ Sebit:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "ini:"
+			},
+			"height": {
+				"text": "beýikligi:"
+			},
+			"okButton": {
+				"value": "Bolýar"
+			}
+		},
+		"imageProcessingSettingsDialog-LineRemoval": {
+			"title": "Suraty gaýtadan işlemek buýruk sazlamalary (LineRemoval)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"+ Binarization": {
+				"text": "+ Ikitaraplaýynlaşdyrma:"
+			},
+			"BinarizationMode": {
+				"text": "BinarizationMode:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ConvertToBlackLevel": {
+				"text": "ConvertToBlackLevel:"
+			},
+			"ConvertToWhiteLevel": {
+				"text": "ConvertToWhiteLevel:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"LuminanceComputationMode": {
+				"text": "LuminanceComputationMode:"
+			},
+			"MaxLevelDifference": {
+				"text": "MaxLevelDifference:"
+			},
+			"MinLevelDifference": {
+				"text": "MinLevelDifference:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"Threshold": {
+				"text": "Bosgun:"
+			},
+			"WindowRadius": {
+				"text": "WindowRadius:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"Direction": {
+				"text": "Ectionol görkezmesi:"
+			},
+			"selectAllLabel": {
+				"text": "Ählisini seç"
+			},
+			"horizontal": {
+				"text": "Gorizontal"
+			},
+			"vertical": {
+				"text": "Dik"
+			},
+			"FillColor": {
+				"text": "FillColor:"
+			},
+			"FillColorAutoDetection": {
+				"text": "FillColorAutoDetection:"
+			},
+			"LineEndsType": {
+				"text": "LineEndsType:"
+			},
+			"LinesType": {
+				"text": "LinesType:"
+			},
+			"MaxCurvature": {
+				"text": "MaxCurvature:"
+			},
+			"MaxDeviationAngle": {
+				"text": "MaxDeviationAngle:"
+			},
+			"MaxGapLength": {
+				"text": "MaxGapLength:"
+			},
+			"MaxLength": {
+				"text": "MaxLength:"
+			},
+			"MaxWidth": {
+				"text": "MaxWidth:"
+			},
+			"MinConfidence": {
+				"text": "MinConfidence:"
+			},
+			"MinLength": {
+				"text": "MinLength:"
+			},
+			"MinSizeRatio": {
+				"text": "MinSizeRatio:"
+			},
+			"MinWidth": {
+				"text": "MinWidth:"
+			},
+			"ReconnectBrokenObjects": {
+				"text": "ReconnectBrokenObjects:"
+			},
+			"+ Region": {
+				"text": "+ Sebit:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "ini:"
+			},
+			"height": {
+				"text": "beýikligi:"
+			},
+			"okButton": {
+				"value": "Bolýar"
+			}
+		}
+	},
+	"downloadResultLink": {
+		"text": "Ykrar etmegiň netijelerini göçürip alyň"
+	},
+	"strings": {
+		"vsdv-uploadAndOpenFileButton-uploadFileString": "Faýly ýükläň we açyň",
+		"vsdv-uploadAndAddFileButton-addFileString": "Faýl ýükläň we goşuň",
+		"vsui-imageProcessingPanel-imageProcessingString": "Suraty gaýtadan işlemek",
+		"vsui-textSearchPanel-pageLabel": "Sahypa",
+		"vsdv-openFile-addFileString": "Faýl goşuň",
+		"vsdv-openFile-authenticateFileString": "Faýly tassyklamak",
+		"vsdv-downloadFile-actionMessage": "Faýly göçürip al",
+		"vsdv-saveChanges-saveChangesInImages": "Suratlardaky üýtgeşmeleri ýazdyryň",
+		"vsui-documentNavigationTool-getActions": "Hereket ediň",
+		"vsdv-saveChanges-saveChangesInAnnotations": "Annotasiýalarda üýtgeşmeleri ýazdyryň",
+		"vsdv-saveChanges-burnAnnotationsInImages": "Suratlara düşündirişleri ýakyň",
+		"vsui-dialog-okButton": "Bolýar",
+		"vsui-multiselect-noneSelected": "Hiç biri saýlanmady",
+		"vsui-multiselect-allSelected": "Hemmesi saýlandy",
+		"vsui-multiselect-selected": "saýlandy",
+		"vsdv-saveChanges-saveChangesInPdfDocument": "PDF resminamasyndaky üýtgeşmeleri ýazdyryň",
+		"vsui-documentPasswordDialog-title": "Resminamanyň paroly",
+		"vsui-dialog-cancelButton": "Elatyr",
+		"vsui-documentPasswordPanel-authenticateFileString": "Faýly tassyklamak",
+		"vsui-imageSelectionDialog-title": "Suratlary saýlaň",
+		"vsui-imageSelectionDialog-currentImageString": "Häzirki surat",
+		"vsui-imageSelectionDialog-allImagesString": "Imageshli suratlar",
+		"vsui-imageSelectionDialog-customImagesString": "Omörite",
+		"vsui-printImagesDialog-title": "Suratlary çap ediň",
+		"vsui-printImagesPanel-imagePrintingString": "Surat çap edilýär",
+		"vsui-printImagesPanel-withAnnotationsLabel": "düşündirişler bilen",
+		"vsui-imageViewerSettingsDialog-title": "Surat görüjiniň sazlamalary",
+		"vsui-thumbnailViewerSettingDialog-title": "Kiçijik tomaşaçy sazlamalary",
+		"vsui-thumbnailViewerSettingsDialog-showAnnotationsLabel": "Annotasiýalary görkez:",
+		"vsdv-uploadImageFromUrlDialog-title": "Suraty URL-den ýükläň",
+		"vsdv-dialog-okButton": "Bolýar",
+		"vsdv-dialog-cancelButton": "Elatyr"
+	}
+}

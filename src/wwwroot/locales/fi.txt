@@ -1,0 +1,1154 @@
+﻿{
+	"documentViewer": {
+		"fileLabel": {
+			"text": "Tiedosto"
+		},
+		"viewLabel": {
+			"text": "Näytä"
+		},
+		"toolsLabel": {
+			"text": "Työkalut"
+		},
+		"ocrPanelLabel": {
+			"text": "OCR"
+		},
+		"uploadAndOpenFileButton": {
+			"title": "Lataa ja avaa tiedosto"
+		},
+		"uploadAndAddFileButton": {
+			"title": "Lataa ja lisää tiedosto"
+		},
+		"previousUploadFilesButton": {
+			"title": "Näytä luettelo aiemmin ladatuista tiedostoista"
+		},
+		"openFileFromUrlButton": {
+			"title": "Avaa tiedosto URL-osoitteesta"
+		},
+		"printImagesButton": {
+			"title": "Tulosta kuvat"
+		},
+		"downloadFileButton": {
+			"title": "Lataa tiedosto"
+		},
+		"exportAndDownloadFileButton": {
+			"title": "Vie ja lataa tiedosto"
+		},
+		"clearSessionCacheButton": {
+			"title": "Tyhjennä istunnon välimuisti"
+		},
+		"fitToWidthSizeModeButton": {
+			"title": "Sovita leveyteen"
+		},
+		"rotateViewsCounterClockwiseButton": {
+			"title": "Kierrä kaikkia näkymiä vastapäivään"
+		},
+		"rotateAngleInput": {
+			"title": "Kiertokulma"
+		},
+		"rotateViewsClockwiseButton": {
+			"title": "Kierrä kaikkia näkymiä myötäpäivään"
+		},
+		"imageViewerSettingsButton": {
+			"title": "Kuvankatseluohjelman asetukset"
+		},
+		"thumbnailViewerSettingsButton": {
+			"title": "Pikkukuvien katseluohjelman asetukset"
+		},
+		"panToolButton": {
+			"title": "Pan"
+		},
+		"rectangularSelectionToolButton": {
+			"title": "Suorakaiteen muotoinen valinta"
+		},
+		"magnifierToolButton": {
+			"title": "Suurennuslasi"
+		},
+		"zoomToolButton": {
+			"title": "Asteikko"
+		},
+		"zoomSelectionToolButton": {
+			"title": "Skaalan valinta"
+		},
+		"TextSelectionToolButton": {
+			"title": "Korosta teksti"
+		},
+		"recognizeTextFromAllPagesAndOpenResultButton": {
+			"title": "Tunnista teksti kaikilta sivuilta ja avaa tiedosto tunnistetulla tekstillä"
+		},
+		"recognizeTextFromAllPagesAndDownloadResultButton": {
+			"title": "Tunnista teksti kaikilta sivuilta ja lataa tiedosto tunnistetulla tekstillä"
+		},
+		"recognizeTextFromFocusedPageAndDownloadResultButton": {
+			"title": "Tunnista teksti kohdistetulta sivulta ja lataa tiedosto tunnistetulla tekstillä"
+		},
+		"recognizeTextFromRegionOfFocusedPageAndDownloadResultButton": {
+			"title": "Tunnista teksti kohdistetun sivun alueelta ja lataa tiedosto tunnistetulla tekstillä"
+		},
+		"ocrSettingsButton": {
+			"title": "OCR-asetukset"
+		},
+		"sidePanelCloseButton": {
+			"title": "Näytä sivupalkki"
+		},
+		"showThumbnailViewerPanelButton": {
+			"title": "Pikkukuvat"
+		},
+		"showPanelButton": {
+			"title": "Kuvankäsittely"
+		},
+		"showTextSelectionPanelButton": {
+			"title": "Korosta teksti"
+		},
+		"showTextSearchPanelButton": {
+			"title": "Etsi tekstiä"
+		},
+		"imageProcessingPanel": {
+			"parametersButton": {
+				"value": "asetukset"
+			},
+			"runButton": {
+				"value": "Käytä"
+			}
+		},
+		"textSelectionPanel": {
+			"selectionModeLabel": {
+				"text": "Tekstin valintatila:"
+			},
+			"rectangleOption": {
+				"text": "Suorakaide"
+			},
+			"fullLinesOption": {
+				"text": "Täydet rivit"
+			},
+			"selectionColorLabel": {
+				"text": "Valitun tekstin väri:"
+			},
+			"selectedTextLabel": {
+				"text": "Valittu teksti:"
+			}
+		},
+		"textSearchPanel": {
+			"findLabel": {
+				"text": "Etsi:"
+			},
+			"whereLookLabel": {
+				"text": "Haku:"
+			},
+			"currentPageOption": {
+				"text": "Nykyinen sivu"
+			},
+			"allPagesOption": {
+				"text": "Kaikki sivut"
+			},
+			"wholeWordLabel": {
+				"text": "Hae koko sana"
+			},
+			"caseSensitiveLabel": {
+				"text": "Kirjainkoolla on merkitystä"
+			},
+			"startSearchButton": {
+				"value": "Aloita haku"
+			},
+			"stopSearchButton": {
+				"value": "Lopeta haku"
+			},
+			"textNotFoundLabel": {
+				"text": "Tekstiä ei löydy."
+			}
+		},
+		"gotoFirstPageButton": {
+			"title": "Siirry ensimmäiseen kuvaan"
+		},
+		"gotoPreviousPageButton": {
+			"title": "Siirry edelliseen kuvaan"
+		},
+		"gotoPageInput": {
+			"title": "Sivu"
+		},
+		"gotoNextPageButton": {
+			"title": "Siirry seuraavaan kuvaan"
+		},
+		"gotoLastPageButton": {
+			"title": "Siirry viimeiseen kuvaan"
+		},
+		"zoomOutButton": {
+			"title": "Loitonna"
+		},
+		"zoomValueInput": {
+			"title": "Asteikko"
+		},
+		"zoomInButton": {
+			"title": "Lähennä"
+		},
+		"ocrSettingsDialog": {
+			"title": "OCR-asetukset",
+			"ImageBinarizationMode": {
+				"text": "ImageBinarizationMode:"
+			},
+			"Languages": {
+				"text": "Kieli (kielet:"
+			},
+			"selectAllLabel": {
+				"text": "Valitse kaikki"
+			},
+			"english": {
+				"text": "Englanti"
+			},
+			"french": {
+				"text": "Ranskankieli"
+			},
+			"german": {
+				"text": "Saksan kieli"
+			},
+			"italian": {
+				"text": "Italian kieli"
+			},
+			"osd": {
+				"text": "Suunnan tunnistus"
+			},
+			"portuguese": {
+				"text": "Portugalin kieli"
+			},
+			"russian": {
+				"text": "Venäjän kieli"
+			},
+			"spanish": {
+				"text": "Espanjan kieli"
+			},
+			"RecognitionMode": {
+				"text": "RecognitionMode:"
+			},
+			"RecognitionRegionType": {
+				"text": "RecognitionRegionType:"
+			},
+			"ResultFileFormat": {
+				"text": "ResultFileFormat:"
+			},
+			"ResultFileName": {
+				"text": "ResultFileName:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"normalSizeModeButton": {
+			"title": "Normaali"
+		},
+		"bestFitSizeModeButton": {
+			"title": "Sopivin"
+		},
+		"fitToHeightSizeModeButton": {
+			"title": "Sovituskorkeus"
+		},
+		"pixelToPixelSizeModeButton": {
+			"title": "Pixel to Pixel"
+		},
+		"zoomSizeModeButton": {
+			"title": "Asteikko"
+		},
+		"documentPasswordDialog": {
+			"pleaseEnterPasswordLabel": {
+				"text": "Tämä asiakirja on suojattu salasanalla. Ole hyvä ja anna salasana."
+			},
+			"passwordLabel": {
+				"text": "Salasana:"
+			},
+			"showPasswordLabel": {
+				"text": "Näytä salasana"
+			},
+			"incorrectPasswordLabel": {
+				"text": "Väärä salasana"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"сancelButton": {
+				"value": "Peruuta"
+			}
+		},
+		"selectImagesDialog": {
+			"imagesLabel": {
+				"text": "Kuvat:"
+			},
+			"currentImageOption": {
+				"text": "Nykyinen kuva"
+			},
+			"allImagesOption": {
+				"text": "Kaikki kuvat"
+			},
+			"customImagesOption": {
+				"text": "Mukautettu"
+			},
+			"imageRangeLabel": {
+				"text": "Kuvaalue:"
+			},
+			"invalidRangeErrorMessageLabel": {
+				"text": "Virheellinen sivualue. Esimerkki: 1-5, 8, 12-15."
+			},
+			"outOfRangeErrorMessageLabel": {
+				"text": "Hakemisto ei ole kuvakokoelman indeksialueella."
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"сancelButton": {
+				"value": "Peruuta"
+			}
+		},
+		"printImagesDialog": {
+			"imagesLabel": {
+				"text": "Kuvat:"
+			},
+			"currentImageOption": {
+				"text": "Nykyinen kuva"
+			},
+			"allImagesOption": {
+				"text": "Kaikki kuvat"
+			},
+			"customImagesOption": {
+				"text": "Mukautettu"
+			},
+			"imageRangeLabel": {
+				"text": "Kuvaalue:"
+			},
+			"invalidRangeErrorMessageLabel": {
+				"text": "Virheellinen sivualue. Esimerkki: 1-5, 8, 12-15."
+			},
+			"outOfRangeErrorMessageLabel": {
+				"text": "Hakemisto ei ole kuvakokoelman indeksialueella."
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"cancelButton": {
+				"value": "Peruuta"
+			}
+		},
+		"imageViewerSettingsDialog": {
+			"imageDisplayModeLabel": {
+				"text": "Kuvan näyttötila:"
+			},
+			"imageAnchorLabel": {
+				"text": "Kuvan ankkuri:"
+			},
+			"noneOption": {
+				"text": "Ei"
+			},
+			"topLeftOption": {
+				"text": "Ylä|Vasen"
+			},
+			"topOption": {
+				"text": "Yläosa"
+			},
+			"topRightOption": {
+				"text": "Yläosa|Oikea"
+			},
+			"rightOption": {
+				"text": "Oikein"
+			},
+			"bottomRightOption": {
+				"text": "Alhaalla|Oikealla"
+			},
+			"bottomOption": {
+				"text": "Pohja"
+			},
+			"bottomLeftOption": {
+				"text": "Alhaalla|Vasen"
+			},
+			"leftOption": {
+				"text": "Vasen"
+			},
+			"multipageDisplayModeLabel": {
+				"text": "Monisivuinen näyttötila:"
+			},
+			"allImagesOption": {
+				"text": "AllImages"
+			},
+			"fixedImagesOption": {
+				"text": "FixedImages"
+			},
+			"layoutDirectionLabel": {
+				"text": "Asettelusuunta:"
+			},
+			"horizontalOption": {
+				"text": "Vaaka"
+			},
+			"verticalOption": {
+				"text": "Pysty"
+			},
+			"rowColumnCountLabel": {
+				"text": "Kuvat rivissä/sarakkeessa:"
+			},
+			"imagePaddingLabel": {
+				"text": "Kuvien täyte:"
+			},
+			"appearancesLabel": {
+				"text": "Ulkoasu"
+			},
+			"imageAppearanceLabel": {
+				"text": "Kuvan ulkoasu"
+			},
+			"imageAppearanceBackColorLabel": {
+				"text": "Taustaväri:"
+			},
+			"imageAppearanceBorderColorLabel": {
+				"text": "Reunuksen väri:"
+			},
+			"imageAppearanceBorderWidthLabel": {
+				"text": "Reunuksen leveys:"
+			},
+			"focusedImageAppearanceLabel": {
+				"text": "Tarkennetun kuvan ulkoasu"
+			},
+			"focusedImageAppearanceBackColorLabel": {
+				"text": "Taustaväri:"
+			},
+			"focusedImageAppearanceBorderColorLabel": {
+				"text": "Reunuksen väri:"
+			},
+			"focusedImageAppearanceBorderWidthLabel": {
+				"text": "Reunuksen leveys:"
+			},
+			"useAppearanceInSinglePageModeLabel": {
+				"text": "Käytä kuvan ulkoasua yhden sivun tilassa"
+			},
+			"renderingSettingsLabel": {
+				"text": "Renderointiasetukset"
+			},
+			"defaultRenderingSettingsLabel": {
+				"text": "Oletusasetukset"
+			},
+			"horizontalResolutionLabel": {
+				"text": "Vaaka resoluutio:"
+			},
+			"verticalResolutionLabel ": {
+				"text": "Pystyresoluutio:"
+			},
+			"smoothingModeLabel": {
+				"text": "Smooth-tila:"
+			},
+			"AntiAlias": {
+				"text": "AntiAlias"
+			},
+			"None": {
+				"text": "Ei"
+			},
+			"interpolationModeLabel": {
+				"text": "Interpolointitila:"
+			},
+			"Bicubic": {
+				"text": "Bicubic"
+			},
+			"Bilinear": {
+				"text": "Bilinear"
+			},
+			"HighQualityBicubic": {
+				"text": "HighQualityBicubic"
+			},
+			"HighQualityBilinear": {
+				"text": "HighQualityBilinear"
+			},
+			"NearestNeighbor": {
+				"text": "NearestNeighbor"
+			},
+			"otherSettingsLabel": {
+				"text": "Muut asetukset"
+			},
+			"backgroundColorLabel": {
+				"text": "Kuvankatseluohjelman taustaväri:"
+			},
+			"centerImageLabel": {
+				"text": "Keskikuva:"
+			},
+			"resizeTimeoutLabel ": {
+				"text": "Koon muuttamisen aikakatkaisu:"
+			},
+			"tileSizeLabel": {
+				"text": "Laatan koko:"
+			},
+			"colorManagementLabel": {
+				"text": "Ota käyttöön värinhallinta:"
+			},
+			"useVectorRenderingLabel": {
+				"text": "Käytä vektorirenderöintiä asiakirjoissa:"
+			},
+			"vectorContentBackgroundColorLabel": {
+				"text": "Vektorisisällön taustaväri:"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"сancelButton": {
+				"value": "Peruuta"
+			}
+		},
+		"thumbnailViewerSettingsDialog": {
+			"sizeLabel": {
+				"text": "Pikkukuvan koko:"
+			},
+			"scaleLabel": {
+				"text": "Pikkukuvan asteikko:"
+			},
+			"smallestOption": {
+				"text": "Vähintään"
+			},
+			"smallOption": {
+				"text": "Pieni"
+			},
+			"normalOption": {
+				"text": "Normaali"
+			},
+			"largeOption": {
+				"text": "Suuri"
+			},
+			"flowStyleLabel": {
+				"text": "Pikkukuvan sijoittelutyyli:"
+			},
+			"singleColumnOption": {
+				"text": "SingleColumn"
+			},
+			"singleRowOption": {
+				"text": "SingleRow"
+			},
+			"fixedColumnsOption": {
+				"text": "FixedColumns"
+			},
+			"wrappedRowsOption": {
+				"text": "WrappedRows"
+			},
+			"columnCountLabel": {
+				"text": "Sarakkeiden määrä:"
+			},
+			"marginLabel": {
+				"text": "Ulkopuolinen pehmuste:"
+			},
+			"paddingTopLabel": {
+				"text": "Yläpehmuste:"
+			},
+			"paddingRightLabel": {
+				"text": "Oikea sisennys:"
+			},
+			"paddingBottomLabel": {
+				"text": "Alhainen pehmuste:"
+			},
+			"paddingLeftLabel": {
+				"text": "Vasen sisennys:"
+			},
+			"showCaptionLabel": {
+				"text": "Näytä pikkukuvan kuvatekstit:"
+			},
+			"captionFormatLabel": {
+				"text": "Allekirjoituksen muoto:"
+			},
+			"captionAnchorLabel": {
+				"text": "Allekirjoitusankkuri:"
+			},
+			"topLeftOption": {
+				"text": "Ylä|Vasen"
+			},
+			"topOption": {
+				"text": "Yläosa"
+			},
+			"topRightOption": {
+				"text": "Yläosa|Oikea"
+			},
+			"rightOption": {
+				"text": "Oikein"
+			},
+			"bottomRightOption": {
+				"text": "Alhaalla|Oikealla"
+			},
+			"bottomOption": {
+				"text": "Pohja"
+			},
+			"bottomLeftOption": {
+				"text": "Alhaalla|Vasen"
+			},
+			"leftOption": {
+				"text": "Vasen"
+			},
+			"centerOption": {
+				"text": "Tasaa keskelle"
+			},
+			"focusOnHoverLabel": {
+				"text": "Liikun tarkennus:"
+			},
+			"multiSelectLabel": {
+				"text": "Salli useiden pikkukuvien valinta:"
+			},
+			"useThumbnailCheckboxesLabel": {
+				"text": "Käytä pikkukuvien valintaruutuja:"
+			},
+			"useThumbnailActionsPanelLabel": {
+				"text": "Käytä toimintopaneelia pikkukuvalle:"
+			},
+			"canDragThumbnailsLabel": {
+				"text": "Voi vetää pikkukuvia:"
+			},
+			"canNavigateThumbnailsUsingKeyboardLabel": {
+				"text": "Pystyy navigoimaan pikkukuvissa näppäimistöllä:"
+			},
+			"canSelectThumbnailsUsingKeyboardLabel": {
+				"text": "Voi valita pikkukuvia näppäimistöllä:"
+			},
+			"canDeleteThumbnailsUsingKeyboardLabel": {
+				"text": "Voiko pikkukuvia poistaa näppäimistöllä:"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"сancelButton": {
+				"value": "Peruuta"
+			}
+		},
+		"uploadImageFromUrlDialog": {
+			"okButton": {
+				"value": "OK"
+			},
+			"cancelButton": {
+				"value": "Peruuta"
+			}
+		},
+		"imageProcessingSettingsDialog-AutoInvert": {
+			"title": "Kuvankäsittelykomentoasetukset (AutoInvert)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"imageProcessingSettingsDialog-AutoTextOrientation": {
+			"title": "Kuvankäsittelykomentoasetukset (AutoTextOrientation)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"+ Binarization": {
+				"text": "+ Binarisointi:"
+			},
+			"BinarizationMode": {
+				"text": "BinarizationMode:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ConvertToBlackLevel": {
+				"text": "ConvertToBlackLevel:"
+			},
+			"ConvertToWhiteLevel": {
+				"text": "ConvertToWhiteLevel:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"LuminanceComputationMode": {
+				"text": "LuminanceComputationMode:"
+			},
+			"MaxLevelDifference": {
+				"text": "MaxLevelDifference:"
+			},
+			"MinLevelDifference": {
+				"text": "MinLevelDifference:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"Threshold": {
+				"text": "Kynnys:"
+			},
+			"WindowRadius": {
+				"text": "WindowRadius:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"MinConfidence": {
+				"text": "MinConfidence:"
+			},
+			"StripWidth": {
+				"text": "StripWidth:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"imageProcessingSettingsDialog-BorderClear": {
+			"title": "Kuvankäsittelykomentoasetukset (BorderClear)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"imageProcessingSettingsDialog-Deskew": {
+			"title": "Kuvankäsittelykomentoasetukset (Dekew)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"BorderColor": {
+				"text": "BorderColor:"
+			},
+			"BorderColorType": {
+				"text": "BorderColorType:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"MaxAngle": {
+				"text": "MaxAngle:"
+			},
+			"MinConfidence": {
+				"text": "MinConfidence:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"ScanIntervalX": {
+				"text": "ScanIntervalX:"
+			},
+			"ScanIntervalY": {
+				"text": "ScanIntervalY:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"imageProcessingSettingsDialog-Despeckle": {
+			"title": "Kuvankäsittelykomennon asetukset (Despeckle)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"AutoConfigureLevels": {
+				"text": "AutoConfigureLevels:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"Level1": {
+				"text": "Taso 1:"
+			},
+			"Level2": {
+				"text": "Taso 2:"
+			},
+			"Radius": {
+				"text": "Säde:"
+			},
+			"+ Region": {
+				"text": "+ Alue:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "Leveys:"
+			},
+			"height": {
+				"text": "Korkeus:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"imageProcessingSettingsDialog-HalftoneRemoval": {
+			"title": "Kuvankäsittelykomentoasetukset (HalftoneRemoval)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"AutoThreshold": {
+				"text": "AutoThreshold:"
+			},
+			"BlackPixelRemovalThreshold": {
+				"text": "BlackPixelRemovalThreshold:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"CellSize": {
+				"text": "CellSize:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"MaxSegmentSize": {
+				"text": "MaxSegmentSize:"
+			},
+			"MinHalftoneHeight": {
+				"text": "MinHalftoneHeight:"
+			},
+			"MinHalftoneWidth": {
+				"text": "MinHalftoneWidth:"
+			},
+			"+ Region": {
+				"text": "+ Alue:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "Leveys:"
+			},
+			"height": {
+				"text": "Korkeus:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"WhitePixelRemovalThreshold": {
+				"text": "WhitePixelRemovalThreshold:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"imageProcessingSettingsDialog-HolePunchRemoval": {
+			"title": "Kuvankäsittelykomentoasetukset (HolePunchRemoval)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"+ Binarization": {
+				"text": "+ Binarisointi:"
+			},
+			"BinarizationMode": {
+				"text": "BinarizationMode:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ConvertToBlackLevel": {
+				"text": "ConvertToBlackLevel:"
+			},
+			"ConvertToWhiteLevel": {
+				"text": "ConvertToWhiteLevel:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"LuminanceComputationMode": {
+				"text": "LuminanceComputationMode:"
+			},
+			"MaxLevelDifference": {
+				"text": "MaxLevelDifference:"
+			},
+			"MinLevelDifference": {
+				"text": "MinLevelDifference:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"Threshold": {
+				"text": "Kynnys:"
+			},
+			"WindowRadius": {
+				"text": "WindowRadius:"
+			},
+			"FillBorderSize": {
+				"text": "FillBorderSize:"
+			},
+			"FillColor": {
+				"text": "FillColor:"
+			},
+			"FillColorAutoDetection": {
+				"text": "FillColorAutoDetection:"
+			},
+			"HolePunchLocation": {
+				"text": "HolePunchLocation:"
+			},
+			"selectAllLabel": {
+				"text": "Valitse kaikki"
+			},
+			"bottom": {
+				"text": "Pohja"
+			},
+			"left": {
+				"text": "Vasen"
+			},
+			"right": {
+				"text": "Oikein"
+			},
+			"top": {
+				"text": "Yläosa"
+			},
+			"undefined": {
+				"text": "Määrittämätön"
+			},
+			"MaxHoleSize": {
+				"text": "MaxHoleSize:"
+			},
+			"MinHoleSize": {
+				"text": "MinHoleSize:"
+			},
+			"+ Region": {
+				"text": "+ Alue:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "Leveys:"
+			},
+			"height": {
+				"text": "Korkeus:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"imageProcessingSettingsDialog-LineRemoval": {
+			"title": "Kuvankäsittelykomentoasetukset (LineRemoval)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"+ Binarization": {
+				"text": "+ Binarisointi:"
+			},
+			"BinarizationMode": {
+				"text": "BinarizationMode:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ConvertToBlackLevel": {
+				"text": "ConvertToBlackLevel:"
+			},
+			"ConvertToWhiteLevel": {
+				"text": "ConvertToWhiteLevel:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"LuminanceComputationMode": {
+				"text": "LuminanceComputationMode:"
+			},
+			"MaxLevelDifference": {
+				"text": "MaxLevelDifference:"
+			},
+			"MinLevelDifference": {
+				"text": "MinLevelDifference:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"Threshold": {
+				"text": "Kynnys:"
+			},
+			"WindowRadius": {
+				"text": "WindowRadius:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"Direction": {
+				"text": "Suunta:"
+			},
+			"selectAllLabel": {
+				"text": "Valitse kaikki"
+			},
+			"horizontal": {
+				"text": "Vaaka"
+			},
+			"vertical": {
+				"text": "Pysty"
+			},
+			"FillColor": {
+				"text": "FillColor:"
+			},
+			"FillColorAutoDetection": {
+				"text": "FillColorAutoDetection:"
+			},
+			"LineEndsType": {
+				"text": "LineEndsType:"
+			},
+			"LinesType": {
+				"text": "LinesType:"
+			},
+			"MaxCurvature": {
+				"text": "MaxCurvature:"
+			},
+			"MaxDeviationAngle": {
+				"text": "MaxDeviationAngle:"
+			},
+			"MaxGapLength": {
+				"text": "MaxGapLength:"
+			},
+			"MaxLength": {
+				"text": "MaxLength:"
+			},
+			"MaxWidth": {
+				"text": "MaxWidth:"
+			},
+			"MinConfidence": {
+				"text": "MinConfidence:"
+			},
+			"MinLength": {
+				"text": "MinLength:"
+			},
+			"MinSizeRatio": {
+				"text": "MinSizeRatio:"
+			},
+			"MinWidth": {
+				"text": "MinWidth:"
+			},
+			"ReconnectBrokenObjects": {
+				"text": "ReconnectBrokenObjects:"
+			},
+			"+ Region": {
+				"text": "+ Alue:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "Leveys:"
+			},
+			"height": {
+				"text": "Korkeus:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		}
+	},
+	"downloadResultLink": {
+		"text": "Lataa tunnustuksen tulokset"
+	},
+	"strings": {
+		"vsdv-uploadAndOpenFileButton-uploadFileString": "Lataa ja avaa tiedosto",
+		"vsdv-uploadAndAddFileButton-addFileString": "Lataa ja lisää tiedosto",
+		"vsui-imageProcessingPanel-imageProcessingString": "Kuvankäsittely",
+		"vsui-textSearchPanel-pageLabel": "Sivu",
+		"vsdv-openFile-addFileString": "Lisää tiedosto",
+		"vsdv-openFile-authenticateFileString": "Todenna tiedosto",
+		"vsdv-downloadFile-actionMessage": "Lataa tiedosto",
+		"vsdv-saveChanges-saveChangesInImages": "Tallenna muutokset kuviin",
+		"vsui-documentNavigationTool-getActions": "Hanki toimia",
+		"vsdv-saveChanges-saveChangesInAnnotations": "Tallenna muutokset huomautuksiin",
+		"vsdv-saveChanges-burnAnnotationsInImages": "Polta kommentteja kuviin",
+		"vsui-dialog-okButton": "OK",
+		"vsui-multiselect-noneSelected": "Mitään ei ole valittu",
+		"vsui-multiselect-allSelected": "Kaikki valittu",
+		"vsui-multiselect-selected": "valittu",
+		"vsdv-saveChanges-saveChangesInPdfDocument": "Tallenna muutokset PDF-dokumenttiin",
+		"vsui-documentPasswordDialog-title": "Asiakirjan salasana",
+		"vsui-dialog-cancelButton": "Peruuta",
+		"vsui-documentPasswordPanel-authenticateFileString": "Todenna tiedosto",
+		"vsui-imageSelectionDialog-title": "Valitse kuvat",
+		"vsui-imageSelectionDialog-currentImageString": "Nykyinen kuva",
+		"vsui-imageSelectionDialog-allImagesString": "Kaikki kuvat",
+		"vsui-imageSelectionDialog-customImagesString": "Mukautettu",
+		"vsui-printImagesDialog-title": "Tulosta kuvat",
+		"vsui-printImagesPanel-imagePrintingString": "Kuva tulostuu",
+		"vsui-printImagesPanel-withAnnotationsLabel": "huomautuksilla",
+		"vsui-imageViewerSettingsDialog-title": "Kuvankatseluohjelman asetukset",
+		"vsui-thumbnailViewerSettingDialog-title": "Pikkukuvien katseluohjelman asetukset",
+		"vsui-thumbnailViewerSettingsDialog-showAnnotationsLabel": "Näytä merkinnät pikkukuvissa:",
+		"vsdv-uploadImageFromUrlDialog-title": "Lataa kuva URL-osoitteesta",
+		"vsdv-dialog-okButton": "OK",
+		"vsdv-dialog-cancelButton": "Peruuta"
+	}
+}

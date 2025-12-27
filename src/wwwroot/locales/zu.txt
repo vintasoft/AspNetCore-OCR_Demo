@@ -1,0 +1,1154 @@
+﻿{
+	"documentViewer": {
+		"fileLabel": {
+			"text": "Ifayela"
+		},
+		"viewLabel": {
+			"text": "Buka"
+		},
+		"toolsLabel": {
+			"text": "Amathuluzi"
+		},
+		"ocrPanelLabel": {
+			"text": "OCR"
+		},
+		"uploadAndOpenFileButton": {
+			"title": "Layisha futhi uvule ifayela"
+		},
+		"uploadAndAddFileButton": {
+			"title": "Layisha futhi wengeze ifayela"
+		},
+		"previousUploadFilesButton": {
+			"title": "Amafayela Alayishwe Ngokudlule"
+		},
+		"openFileFromUrlButton": {
+			"title": "Vula ifayela ku-URL"
+		},
+		"printImagesButton": {
+			"title": "Phrinta izithombe"
+		},
+		"downloadFileButton": {
+			"title": "Landa ifayela"
+		},
+		"exportAndDownloadFileButton": {
+			"title": "Khipha futhi ulande ifayela"
+		},
+		"clearSessionCacheButton": {
+			"title": "Sula inqolobane yeseshini"
+		},
+		"fitToWidthSizeModeButton": {
+			"title": "Linganisa ububanzi"
+		},
+		"rotateViewsCounterClockwiseButton": {
+			"title": "Zungezisa konke ukubuka ngokuphikisana newashi"
+		},
+		"rotateAngleInput": {
+			"title": "I-engeli"
+		},
+		"rotateViewsClockwiseButton": {
+			"title": "Zungezisa konke ukubuka njengokuhamba kwewashi"
+		},
+		"imageViewerSettingsButton": {
+			"title": "Izilungiselelo zesibukeli sesithombe"
+		},
+		"thumbnailViewerSettingsButton": {
+			"title": "Izilungiselelo zesibukeli sesithonjana"
+		},
+		"panToolButton": {
+			"title": "Ipani"
+		},
+		"rectangularSelectionToolButton": {
+			"title": "Ukukhetha unxande"
+		},
+		"magnifierToolButton": {
+			"title": "Isikhulisi"
+		},
+		"zoomToolButton": {
+			"title": "Sondeza"
+		},
+		"zoomSelectionToolButton": {
+			"title": "Ukukhetha kokusondeza"
+		},
+		"TextSelectionToolButton": {
+			"title": "Ukukhetha umbhalo"
+		},
+		"recognizeTextFromAllPagesAndOpenResultButton": {
+			"title": "Bona umbhalo ovela kuwo wonke amakhasi futhi uvule ifayela elinombhalo owaziwayo"
+		},
+		"recognizeTextFromAllPagesAndDownloadResultButton": {
+			"title": "Bona umbhalo ovela kuwo wonke amakhasi futhi ulande ifayela elinombhalo owaziwayo"
+		},
+		"recognizeTextFromFocusedPageAndDownloadResultButton": {
+			"title": "Bona umbhalo osuka ekhasini okugxilwe kulo futhi ulande ifayela elinombhalo owaziwayo"
+		},
+		"recognizeTextFromRegionOfFocusedPageAndDownloadResultButton": {
+			"title": "Bona umbhalo osuka endaweni yekhasi okugxilwe kulo futhi ulande ifayela elinombhalo owaziwayo"
+		},
+		"ocrSettingsButton": {
+			"title": "Izilungiselelo ze-OCR"
+		},
+		"sidePanelCloseButton": {
+			"title": "Bonisa Iphaneli Eseceleni"
+		},
+		"showThumbnailViewerPanelButton": {
+			"title": "Izithonjana"
+		},
+		"showPanelButton": {
+			"title": "Ukucutshungulwa kwesithombe"
+		},
+		"showTextSelectionPanelButton": {
+			"title": "Ukukhetha umbhalo"
+		},
+		"showTextSearchPanelButton": {
+			"title": "Thola umbhalo"
+		},
+		"imageProcessingPanel": {
+			"parametersButton": {
+				"value": "Izilungiselelo"
+			},
+			"runButton": {
+				"value": "Faka isicelo"
+			}
+		},
+		"textSelectionPanel": {
+			"selectionModeLabel": {
+				"text": "Imodi yokukhetha:"
+			},
+			"rectangleOption": {
+				"text": "Unxande"
+			},
+			"fullLinesOption": {
+				"text": "Imigqa egcwele"
+			},
+			"selectionColorLabel": {
+				"text": "Umbala wokukhetha:"
+			},
+			"selectedTextLabel": {
+				"text": "Umbhalo okhethiwe:"
+			}
+		},
+		"textSearchPanel": {
+			"findLabel": {
+				"text": "Thola:"
+			},
+			"whereLookLabel": {
+				"text": "Bheka ngaphakathi:"
+			},
+			"currentPageOption": {
+				"text": "Ikhasi lamanje"
+			},
+			"allPagesOption": {
+				"text": "Wonke amakhasi"
+			},
+			"wholeWordLabel": {
+				"text": "Izwi lonke"
+			},
+			"caseSensitiveLabel": {
+				"text": "Iyazwela kofeleba"
+			},
+			"startSearchButton": {
+				"value": "Qala"
+			},
+			"stopSearchButton": {
+				"value": "Ima"
+			},
+			"textNotFoundLabel": {
+				"text": "Umbhalo awutholakali."
+			}
+		},
+		"gotoFirstPageButton": {
+			"title": "Iya esithombeni sokuqala"
+		},
+		"gotoPreviousPageButton": {
+			"title": "Iya esithombeni sangaphambilini"
+		},
+		"gotoPageInput": {
+			"title": "Ikhasi"
+		},
+		"gotoNextPageButton": {
+			"title": "Iya esithombeni esilandelayo"
+		},
+		"gotoLastPageButton": {
+			"title": "Iya esithombeni sokugcina"
+		},
+		"zoomOutButton": {
+			"title": "Hlehlisa isithombe"
+		},
+		"zoomValueInput": {
+			"title": "Sondeza"
+		},
+		"zoomInButton": {
+			"title": "Sondeza isithombe"
+		},
+		"ocrSettingsDialog": {
+			"title": "Izilungiselelo ze-OCR",
+			"ImageBinarizationMode": {
+				"text": "ImageBinarizationMode:"
+			},
+			"Languages": {
+				"text": "Izilimi:"
+			},
+			"selectAllLabel": {
+				"text": "Khetha konke"
+			},
+			"english": {
+				"text": "IsiNgisi"
+			},
+			"french": {
+				"text": "Ulimi lwesiFulentshi"
+			},
+			"german": {
+				"text": "Ulimi lwesiJalimane"
+			},
+			"italian": {
+				"text": "Ulimi lwesiNtaliyane"
+			},
+			"osd": {
+				"text": "Ukutholwa komumo"
+			},
+			"portuguese": {
+				"text": "Ulimi lwesiPutukezi"
+			},
+			"russian": {
+				"text": "Ulimi lwesiRashiya"
+			},
+			"spanish": {
+				"text": "Ulimi lwesiSpanishi"
+			},
+			"RecognitionMode": {
+				"text": "RecognitionMode:"
+			},
+			"RecognitionRegionType": {
+				"text": "RecognitionRegionType:"
+			},
+			"ResultFileFormat": {
+				"text": "ResultFileFormat:"
+			},
+			"ResultFileName": {
+				"text": "ResultFileName:"
+			},
+			"okButton": {
+				"value": "KULUNGILE"
+			}
+		},
+		"normalSizeModeButton": {
+			"title": "Okuvamile"
+		},
+		"bestFitSizeModeButton": {
+			"title": "Ukulingana okuhle kakhulu"
+		},
+		"fitToHeightSizeModeButton": {
+			"title": "Ilingana nobude"
+		},
+		"pixelToPixelSizeModeButton": {
+			"title": "Iphikseli ukuya kuphikseli"
+		},
+		"zoomSizeModeButton": {
+			"title": "Sondeza"
+		},
+		"documentPasswordDialog": {
+			"pleaseEnterPasswordLabel": {
+				"text": "Le dokhumenti ivikelwe ngephasiwedi. Sicela ufake iphasiwedi."
+			},
+			"passwordLabel": {
+				"text": "Iphasiwedi:"
+			},
+			"showPasswordLabel": {
+				"text": "Bonisa iphasiwedi"
+			},
+			"incorrectPasswordLabel": {
+				"text": "Iphasiwedi engalungile"
+			},
+			"okButton": {
+				"value": "KULUNGILE"
+			},
+			"сancelButton": {
+				"value": "Khansela"
+			}
+		},
+		"selectImagesDialog": {
+			"imagesLabel": {
+				"text": "Izithombe:"
+			},
+			"currentImageOption": {
+				"text": "Isithombe samanje"
+			},
+			"allImagesOption": {
+				"text": "Zonke izithombe"
+			},
+			"customImagesOption": {
+				"text": "Ngokwezifiso"
+			},
+			"imageRangeLabel": {
+				"text": "Ibanga lesithombe:"
+			},
+			"invalidRangeErrorMessageLabel": {
+				"text": "Ibanga lekhasi elingavumelekile. Isibonelo: 1-5, 8, 12-15."
+			},
+			"outOfRangeErrorMessageLabel": {
+				"text": "Inkomba ayikho ebangeni lokuqoqwa kwezithombe."
+			},
+			"okButton": {
+				"value": "KULUNGILE"
+			},
+			"сancelButton": {
+				"value": "Khansela"
+			}
+		},
+		"printImagesDialog": {
+			"imagesLabel": {
+				"text": "Izithombe:"
+			},
+			"currentImageOption": {
+				"text": "Isithombe samanje"
+			},
+			"allImagesOption": {
+				"text": "Zonke izithombe"
+			},
+			"customImagesOption": {
+				"text": "Ngokwezifiso"
+			},
+			"imageRangeLabel": {
+				"text": "Ibanga lesithombe:"
+			},
+			"invalidRangeErrorMessageLabel": {
+				"text": "Ibanga lekhasi elingavumelekile. Isibonelo: 1-5, 8, 12-15."
+			},
+			"outOfRangeErrorMessageLabel": {
+				"text": "Inkomba ayikho ebangeni lokuqoqwa kwezithombe."
+			},
+			"okButton": {
+				"value": "KULUNGILE"
+			},
+			"cancelButton": {
+				"value": "Khansela"
+			}
+		},
+		"imageViewerSettingsDialog": {
+			"imageDisplayModeLabel": {
+				"text": "Imodi yokubonisa isithombe:"
+			},
+			"imageAnchorLabel": {
+				"text": "Ihange lesithombe:"
+			},
+			"noneOption": {
+				"text": "Lutho"
+			},
+			"topLeftOption": {
+				"text": "Phezulu|Kwesobunxele"
+			},
+			"topOption": {
+				"text": "Phezulu"
+			},
+			"topRightOption": {
+				"text": "Phezulu|kwesokudla"
+			},
+			"rightOption": {
+				"text": "Kulungile"
+			},
+			"bottomRightOption": {
+				"text": "Phansi|kwesokudla"
+			},
+			"bottomOption": {
+				"text": "Phansi"
+			},
+			"bottomLeftOption": {
+				"text": "Phansi|Kwesobunxele"
+			},
+			"leftOption": {
+				"text": "Kwesokunxele"
+			},
+			"multipageDisplayModeLabel": {
+				"text": "Imodi yokubonisa yamakhasi amaningi:"
+			},
+			"allImagesOption": {
+				"text": "AllImages"
+			},
+			"fixedImagesOption": {
+				"text": "FixedImages"
+			},
+			"layoutDirectionLabel": {
+				"text": "Isiqondiso sesakhiwo:"
+			},
+			"horizontalOption": {
+				"text": "Evundlile"
+			},
+			"verticalOption": {
+				"text": "Iqondile"
+			},
+			"rowColumnCountLabel": {
+				"text": "Izithombe kumugqa/ikholomu:"
+			},
+			"imagePaddingLabel": {
+				"text": "Ukufakwa kwezithombe:"
+			},
+			"appearancesLabel": {
+				"text": "Ukubukeka"
+			},
+			"imageAppearanceLabel": {
+				"text": "Ukubukeka kwesithombe"
+			},
+			"imageAppearanceBackColorLabel": {
+				"text": "Umbala wangemuva:"
+			},
+			"imageAppearanceBorderColorLabel": {
+				"text": "Umbala womngcele:"
+			},
+			"imageAppearanceBorderWidthLabel": {
+				"text": "Ububanzi bomngcele:"
+			},
+			"focusedImageAppearanceLabel": {
+				"text": "Ukubukeka kwesithombe esigxilile"
+			},
+			"focusedImageAppearanceBackColorLabel": {
+				"text": "Umbala wangemuva:"
+			},
+			"focusedImageAppearanceBorderColorLabel": {
+				"text": "Umbala womngcele:"
+			},
+			"focusedImageAppearanceBorderWidthLabel": {
+				"text": "Ububanzi bomngcele:"
+			},
+			"useAppearanceInSinglePageModeLabel": {
+				"text": "Sebenzisa ukubukeka kwesithombe kumodi yekhasi elilodwa"
+			},
+			"renderingSettingsLabel": {
+				"text": "Izilungiselelo zokunikezela"
+			},
+			"defaultRenderingSettingsLabel": {
+				"text": "Izilungiselelo Ezizenzakalelayo"
+			},
+			"horizontalResolutionLabel": {
+				"text": "Ukulungiswa Okuvundlile:"
+			},
+			"verticalResolutionLabel ": {
+				"text": "Ukulungiswa Okuqondile:"
+			},
+			"smoothingModeLabel": {
+				"text": "Imodi yokushelela:"
+			},
+			"AntiAlias": {
+				"text": "AntiAlias"
+			},
+			"None": {
+				"text": "Lutho"
+			},
+			"interpolationModeLabel": {
+				"text": "Imodi yokuhumusha:"
+			},
+			"Bicubic": {
+				"text": "Bicubic"
+			},
+			"Bilinear": {
+				"text": "Bilinear"
+			},
+			"HighQualityBicubic": {
+				"text": "HighQualityBicubic"
+			},
+			"HighQualityBilinear": {
+				"text": "HighQualityBilinear"
+			},
+			"NearestNeighbor": {
+				"text": "NearestNeighbor"
+			},
+			"otherSettingsLabel": {
+				"text": "Ezinye izilungiselelo"
+			},
+			"backgroundColorLabel": {
+				"text": "Umbala wangemuva wesibukeli:"
+			},
+			"centerImageLabel": {
+				"text": "Isithombe esimaphakathi:"
+			},
+			"resizeTimeoutLabel ": {
+				"text": "Shintsha usayizi wesikhathi sokuvala:"
+			},
+			"tileSizeLabel": {
+				"text": "Usayizi wethayela:"
+			},
+			"colorManagementLabel": {
+				"text": "Nika amandla ukuphathwa kombala:"
+			},
+			"useVectorRenderingLabel": {
+				"text": "Sebenzisa i-vector rendering kumadokhumenti:"
+			},
+			"vectorContentBackgroundColorLabel": {
+				"text": "Umbala wengemuva lokuqukethwe kweVector:"
+			},
+			"okButton": {
+				"value": "KULUNGILE"
+			},
+			"сancelButton": {
+				"value": "Khansela"
+			}
+		},
+		"thumbnailViewerSettingsDialog": {
+			"sizeLabel": {
+				"text": "Usayizi:"
+			},
+			"scaleLabel": {
+				"text": "Isikali:"
+			},
+			"smallestOption": {
+				"text": "Okuncane kakhulu"
+			},
+			"smallOption": {
+				"text": "Encane"
+			},
+			"normalOption": {
+				"text": "Okuvamile"
+			},
+			"largeOption": {
+				"text": "Okukhulu"
+			},
+			"flowStyleLabel": {
+				"text": "Isitayela sokugeleza:"
+			},
+			"singleColumnOption": {
+				"text": "SingleColumn"
+			},
+			"singleRowOption": {
+				"text": "SingleRow"
+			},
+			"fixedColumnsOption": {
+				"text": "FixedColumns"
+			},
+			"wrappedRowsOption": {
+				"text": "WrappedRows"
+			},
+			"columnCountLabel": {
+				"text": "Isibalo Sekholomu:"
+			},
+			"marginLabel": {
+				"text": "Imajini:"
+			},
+			"paddingTopLabel": {
+				"text": "I-Padding Top:"
+			},
+			"paddingRightLabel": {
+				"text": "Ukugwedla Kwesokudla:"
+			},
+			"paddingBottomLabel": {
+				"text": "I-Padding Bottom:"
+			},
+			"paddingLeftLabel": {
+				"text": "Ukupheqela Kwesokunxele:"
+			},
+			"showCaptionLabel": {
+				"text": "Bonisa Amazwibela:"
+			},
+			"captionFormatLabel": {
+				"text": "Ifomethi yamagama-ncazo:"
+			},
+			"captionAnchorLabel": {
+				"text": "Ihange lamagama-ncazo:"
+			},
+			"topLeftOption": {
+				"text": "Phezulu|Kwesobunxele"
+			},
+			"topOption": {
+				"text": "Phezulu"
+			},
+			"topRightOption": {
+				"text": "Phezulu|kwesokudla"
+			},
+			"rightOption": {
+				"text": "Kulungile"
+			},
+			"bottomRightOption": {
+				"text": "Phansi|kwesokudla"
+			},
+			"bottomOption": {
+				"text": "Phansi"
+			},
+			"bottomLeftOption": {
+				"text": "Phansi|Kwesobunxele"
+			},
+			"leftOption": {
+				"text": "Kwesokunxele"
+			},
+			"centerOption": {
+				"text": "Isikhungo"
+			},
+			"focusOnHoverLabel": {
+				"text": "Gxila ku-OnHover:"
+			},
+			"multiSelectLabel": {
+				"text": "Ukukhetha okuningi:"
+			},
+			"useThumbnailCheckboxesLabel": {
+				"text": "Sebenzisa amabhokisi okuhlola ukuze uthole isithonjana:"
+			},
+			"useThumbnailActionsPanelLabel": {
+				"text": "Sebenzisa iphaneli yezenzo ukuze uthole isithonjana:"
+			},
+			"canDragThumbnailsLabel": {
+				"text": "Ingakwazi Ukuhudula Izithonjana:"
+			},
+			"canNavigateThumbnailsUsingKeyboardLabel": {
+				"text": "Ingakwazi Ukuzulazula Izithonjana Ngokusebenzisa Ikhibhodi:"
+			},
+			"canSelectThumbnailsUsingKeyboardLabel": {
+				"text": "Ungakhetha Izithonjana Usebenzisa Ikhibhodi:"
+			},
+			"canDeleteThumbnailsUsingKeyboardLabel": {
+				"text": "Ingasusa Izithonjana Ngokusebenzisa Ikhibhodi:"
+			},
+			"okButton": {
+				"value": "KULUNGILE"
+			},
+			"сancelButton": {
+				"value": "Khansela"
+			}
+		},
+		"uploadImageFromUrlDialog": {
+			"okButton": {
+				"value": "KULUNGILE"
+			},
+			"cancelButton": {
+				"value": "Khansela"
+			}
+		},
+		"imageProcessingSettingsDialog-AutoInvert": {
+			"title": "Izilungiselelo zomyalo wokucubungula isithombe (AutoInvert)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "KULUNGILE"
+			}
+		},
+		"imageProcessingSettingsDialog-AutoTextOrientation": {
+			"title": "Izilungiselelo zomyalo wokucubungula isithombe (AutoTextOrientation)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"+ Binarization": {
+				"text": "+ Binarization:"
+			},
+			"BinarizationMode": {
+				"text": "BinarizationMode:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ConvertToBlackLevel": {
+				"text": "ConvertToBlackLevel:"
+			},
+			"ConvertToWhiteLevel": {
+				"text": "ConvertToWhiteLevel:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"LuminanceComputationMode": {
+				"text": "LuminanceComputationMode:"
+			},
+			"MaxLevelDifference": {
+				"text": "MaxLevelDifference:"
+			},
+			"MinLevelDifference": {
+				"text": "MinLevelDifference:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"Threshold": {
+				"text": "Umkhawulo:"
+			},
+			"WindowRadius": {
+				"text": "WindowRadius:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"MinConfidence": {
+				"text": "MinConfidence:"
+			},
+			"StripWidth": {
+				"text": "StripWidth:"
+			},
+			"okButton": {
+				"value": "KULUNGILE"
+			}
+		},
+		"imageProcessingSettingsDialog-BorderClear": {
+			"title": "Izilungiselelo zomyalo wokucubungula isithombe (BorderClear)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "KULUNGILE"
+			}
+		},
+		"imageProcessingSettingsDialog-Deskew": {
+			"title": "Izilungiselelo zomyalo wokucubungula isithombe (Deskew)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"BorderColor": {
+				"text": "BorderColor:"
+			},
+			"BorderColorType": {
+				"text": "BorderColorType:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"MaxAngle": {
+				"text": "MaxAngle:"
+			},
+			"MinConfidence": {
+				"text": "MinConfidence:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"ScanIntervalX": {
+				"text": "ScanIntervalX:"
+			},
+			"ScanIntervalY": {
+				"text": "ScanIntervalY:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "KULUNGILE"
+			}
+		},
+		"imageProcessingSettingsDialog-Despeckle": {
+			"title": "Izilungiselelo zomyalo wokucubungula isithombe (Despeckle)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"AutoConfigureLevels": {
+				"text": "AutoConfigureLevels:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"Level1": {
+				"text": "Ileveli1:"
+			},
+			"Level2": {
+				"text": "Ileveli2:"
+			},
+			"Radius": {
+				"text": "Irediyasi:"
+			},
+			"+ Region": {
+				"text": "+ Isifunda:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "ububanzi:"
+			},
+			"height": {
+				"text": "ubude:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "KULUNGILE"
+			}
+		},
+		"imageProcessingSettingsDialog-HalftoneRemoval": {
+			"title": "Izilungiselelo zomyalo wokucubungula isithombe (HalftoneRemoval)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"AutoThreshold": {
+				"text": "AutoThreshold:"
+			},
+			"BlackPixelRemovalThreshold": {
+				"text": "BlackPixelRemovalThreshold:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"CellSize": {
+				"text": "CellSize:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"MaxSegmentSize": {
+				"text": "MaxSegmentSize:"
+			},
+			"MinHalftoneHeight": {
+				"text": "MinHalftoneHeight:"
+			},
+			"MinHalftoneWidth": {
+				"text": "MinHalftoneWidth:"
+			},
+			"+ Region": {
+				"text": "+ Isifunda:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "ububanzi:"
+			},
+			"height": {
+				"text": "ubude:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"WhitePixelRemovalThreshold": {
+				"text": "WhitePixelRemovalThreshold:"
+			},
+			"okButton": {
+				"value": "KULUNGILE"
+			}
+		},
+		"imageProcessingSettingsDialog-HolePunchRemoval": {
+			"title": "Izilungiselelo zomyalo wokucubungula isithombe (HolePunchRemoval)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"+ Binarization": {
+				"text": "+ Binarization:"
+			},
+			"BinarizationMode": {
+				"text": "BinarizationMode:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ConvertToBlackLevel": {
+				"text": "ConvertToBlackLevel:"
+			},
+			"ConvertToWhiteLevel": {
+				"text": "ConvertToWhiteLevel:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"LuminanceComputationMode": {
+				"text": "LuminanceComputationMode:"
+			},
+			"MaxLevelDifference": {
+				"text": "MaxLevelDifference:"
+			},
+			"MinLevelDifference": {
+				"text": "MinLevelDifference:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"Threshold": {
+				"text": "Umkhawulo:"
+			},
+			"WindowRadius": {
+				"text": "WindowRadius:"
+			},
+			"FillBorderSize": {
+				"text": "FillBorderSize:"
+			},
+			"FillColor": {
+				"text": "FillColor:"
+			},
+			"FillColorAutoDetection": {
+				"text": "FillColorAutoDetection:"
+			},
+			"HolePunchLocation": {
+				"text": "HolePunchLocation:"
+			},
+			"selectAllLabel": {
+				"text": "Khetha konke"
+			},
+			"bottom": {
+				"text": "Phansi"
+			},
+			"left": {
+				"text": "Kwesokunxele"
+			},
+			"right": {
+				"text": "Kulungile"
+			},
+			"top": {
+				"text": "Phezulu"
+			},
+			"undefined": {
+				"text": "Akuchazwanga"
+			},
+			"MaxHoleSize": {
+				"text": "MaxHoleSize:"
+			},
+			"MinHoleSize": {
+				"text": "MinHoleSize:"
+			},
+			"+ Region": {
+				"text": "+ Isifunda:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "ububanzi:"
+			},
+			"height": {
+				"text": "ubude:"
+			},
+			"okButton": {
+				"value": "KULUNGILE"
+			}
+		},
+		"imageProcessingSettingsDialog-LineRemoval": {
+			"title": "Izilungiselelo zomyalo wokucubungula isithombe (Ukususwa Komugqa)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"+ Binarization": {
+				"text": "+ Binarization:"
+			},
+			"BinarizationMode": {
+				"text": "BinarizationMode:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ConvertToBlackLevel": {
+				"text": "ConvertToBlackLevel:"
+			},
+			"ConvertToWhiteLevel": {
+				"text": "ConvertToWhiteLevel:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"LuminanceComputationMode": {
+				"text": "LuminanceComputationMode:"
+			},
+			"MaxLevelDifference": {
+				"text": "MaxLevelDifference:"
+			},
+			"MinLevelDifference": {
+				"text": "MinLevelDifference:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"Threshold": {
+				"text": "Umkhawulo:"
+			},
+			"WindowRadius": {
+				"text": "WindowRadius:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"Direction": {
+				"text": "Isiqondiso:"
+			},
+			"selectAllLabel": {
+				"text": "Khetha konke"
+			},
+			"horizontal": {
+				"text": "Evundlile"
+			},
+			"vertical": {
+				"text": "Iqondile"
+			},
+			"FillColor": {
+				"text": "FillColor:"
+			},
+			"FillColorAutoDetection": {
+				"text": "FillColorAutoDetection:"
+			},
+			"LineEndsType": {
+				"text": "LineEndsType:"
+			},
+			"LinesType": {
+				"text": "LinesType:"
+			},
+			"MaxCurvature": {
+				"text": "MaxCurvature:"
+			},
+			"MaxDeviationAngle": {
+				"text": "MaxDeviationAngle:"
+			},
+			"MaxGapLength": {
+				"text": "MaxGapLength:"
+			},
+			"MaxLength": {
+				"text": "MaxLength:"
+			},
+			"MaxWidth": {
+				"text": "MaxWidth:"
+			},
+			"MinConfidence": {
+				"text": "MinConfidence:"
+			},
+			"MinLength": {
+				"text": "MinLength:"
+			},
+			"MinSizeRatio": {
+				"text": "MinSizeRatio:"
+			},
+			"MinWidth": {
+				"text": "MinWidth:"
+			},
+			"ReconnectBrokenObjects": {
+				"text": "ReconnectBrokenObjects:"
+			},
+			"+ Region": {
+				"text": "+ Isifunda:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "ububanzi:"
+			},
+			"height": {
+				"text": "ubude:"
+			},
+			"okButton": {
+				"value": "KULUNGILE"
+			}
+		}
+	},
+	"downloadResultLink": {
+		"text": "Landa imiphumela yokuqashelwa"
+	},
+	"strings": {
+		"vsdv-uploadAndOpenFileButton-uploadFileString": "Layisha futhi uvule ifayela",
+		"vsdv-uploadAndAddFileButton-addFileString": "Layisha futhi wengeze ifayela",
+		"vsui-imageProcessingPanel-imageProcessingString": "Ukucutshungulwa kwesithombe",
+		"vsui-textSearchPanel-pageLabel": "Ikhasi",
+		"vsdv-openFile-addFileString": "Engeza ifayela",
+		"vsdv-openFile-authenticateFileString": "Qinisekisa ifayela",
+		"vsdv-downloadFile-actionMessage": "Landa ifayela",
+		"vsdv-saveChanges-saveChangesInImages": "Londoloza izinguquko ezithombeni",
+		"vsui-documentNavigationTool-getActions": "Thola izenzo",
+		"vsdv-saveChanges-saveChangesInAnnotations": "Londoloza izinguquko ezichasiselweni",
+		"vsdv-saveChanges-burnAnnotationsInImages": "Shisa izichasiselo ezithombeni",
+		"vsui-dialog-okButton": "KULUNGILE",
+		"vsui-multiselect-noneSelected": "Akukho okukhethiwe",
+		"vsui-multiselect-allSelected": "Konke kukhethiwe",
+		"vsui-multiselect-selected": "kukhethiwe",
+		"vsdv-saveChanges-saveChangesInPdfDocument": "Londoloza izinguquko kudokhumenti ye-PDF",
+		"vsui-documentPasswordDialog-title": "Iphasiwedi yedokhumenti",
+		"vsui-dialog-cancelButton": "Khansela",
+		"vsui-documentPasswordPanel-authenticateFileString": "Qinisekisa ifayela",
+		"vsui-imageSelectionDialog-title": "Khetha izithombe",
+		"vsui-imageSelectionDialog-currentImageString": "Isithombe samanje",
+		"vsui-imageSelectionDialog-allImagesString": "Zonke izithombe",
+		"vsui-imageSelectionDialog-customImagesString": "Ngokwezifiso",
+		"vsui-printImagesDialog-title": "Phrinta izithombe",
+		"vsui-printImagesPanel-imagePrintingString": "Isithombe siyaphrinta",
+		"vsui-printImagesPanel-withAnnotationsLabel": "ngezichasiselo",
+		"vsui-imageViewerSettingsDialog-title": "Izilungiselelo zesibukeli sesithombe",
+		"vsui-thumbnailViewerSettingDialog-title": "Izilungiselelo zesibukeli sesithonjana",
+		"vsui-thumbnailViewerSettingsDialog-showAnnotationsLabel": "Bonisa Izichasiselo:",
+		"vsdv-uploadImageFromUrlDialog-title": "Layisha isithombe kusuka ku-URL",
+		"vsdv-dialog-okButton": "KULUNGILE",
+		"vsdv-dialog-cancelButton": "Khansela"
+	}
+}

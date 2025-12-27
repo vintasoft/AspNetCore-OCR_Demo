@@ -1,0 +1,1154 @@
+﻿{
+	"documentViewer": {
+		"fileLabel": {
+			"text": "Файл"
+		},
+		"viewLabel": {
+			"text": "Карарга"
+		},
+		"toolsLabel": {
+			"text": "Кораллар"
+		},
+		"ocrPanelLabel": {
+			"text": "OCR"
+		},
+		"uploadAndOpenFileButton": {
+			"title": "Файлны йөкләү һәм ачу"
+		},
+		"uploadAndAddFileButton": {
+			"title": "Файлны йөкләү һәм өстәү"
+		},
+		"previousUploadFilesButton": {
+			"title": "Элегерәк йөкләнгән файллар"
+		},
+		"openFileFromUrlButton": {
+			"title": "URL'тан файлны ачу"
+		},
+		"printImagesButton": {
+			"title": "Рәсемнәрне бастыру"
+		},
+		"downloadFileButton": {
+			"title": "Файлны йөкләү"
+		},
+		"exportAndDownloadFileButton": {
+			"title": "Файлны экспортлау һәм йөкләү"
+		},
+		"clearSessionCacheButton": {
+			"title": "Сессия кэшын чистарту"
+		},
+		"fitToWidthSizeModeButton": {
+			"title": "Киңлеккә туры килә"
+		},
+		"rotateViewsCounterClockwiseButton": {
+			"title": "Барлык күренешләрне сәгатенә каршы әйләндерегез"
+		},
+		"rotateAngleInput": {
+			"title": "Почмак"
+		},
+		"rotateViewsClockwiseButton": {
+			"title": "Барлык күренешләрне сәгать юлы белән әйләндерегез"
+		},
+		"imageViewerSettingsButton": {
+			"title": "Рәсем тамашачысы көйләүләре"
+		},
+		"thumbnailViewerSettingsButton": {
+			"title": "Эскиз тамашачы көйләүләре"
+		},
+		"panToolButton": {
+			"title": "Пан"
+		},
+		"rectangularSelectionToolButton": {
+			"title": "Турыпочмаклы сайлау"
+		},
+		"magnifierToolButton": {
+			"title": "Зурайткыч"
+		},
+		"zoomToolButton": {
+			"title": "Зурайту"
+		},
+		"zoomSelectionToolButton": {
+			"title": "Зурлау сайлау"
+		},
+		"TextSelectionToolButton": {
+			"title": "Текст сайлау"
+		},
+		"recognizeTextFromAllPagesAndOpenResultButton": {
+			"title": "Барлык битләрдән текстны тану һәм танылган текст белән файлны ачу"
+		},
+		"recognizeTextFromAllPagesAndDownloadResultButton": {
+			"title": "Барлык битләрдән текстны тану һәм танылган текст белән файлны йөкләү"
+		},
+		"recognizeTextFromFocusedPageAndDownloadResultButton": {
+			"title": "Фокусланган биттән текстны тану һәм танылган текст белән файлны йөкләү"
+		},
+		"recognizeTextFromRegionOfFocusedPageAndDownloadResultButton": {
+			"title": "Фокусланган бит өлкәсеннән текстны тану һәм танылган текст белән файлны йөкләү"
+		},
+		"ocrSettingsButton": {
+			"title": "OCR көйләүләре"
+		},
+		"sidePanelCloseButton": {
+			"title": "Ян панельне күрсәт"
+		},
+		"showThumbnailViewerPanelButton": {
+			"title": "Эскизлар"
+		},
+		"showPanelButton": {
+			"title": "Рәсем эшкәртү"
+		},
+		"showTextSelectionPanelButton": {
+			"title": "Текст сайлау"
+		},
+		"showTextSearchPanelButton": {
+			"title": "Текстны табыгыз"
+		},
+		"imageProcessingPanel": {
+			"parametersButton": {
+				"value": "Көйләүләр"
+			},
+			"runButton": {
+				"value": "Кулланыгыз"
+			}
+		},
+		"textSelectionPanel": {
+			"selectionModeLabel": {
+				"text": "Сайлау режимы:"
+			},
+			"rectangleOption": {
+				"text": "Турыпочмаклык"
+			},
+			"fullLinesOption": {
+				"text": "Тулы юллар"
+			},
+			"selectionColorLabel": {
+				"text": "Сайлау төсе:"
+			},
+			"selectedTextLabel": {
+				"text": "Сайланган текст:"
+			}
+		},
+		"textSearchPanel": {
+			"findLabel": {
+				"text": "Табыгыз:"
+			},
+			"whereLookLabel": {
+				"text": "Күз салу:"
+			},
+			"currentPageOption": {
+				"text": "Хәзерге бит"
+			},
+			"allPagesOption": {
+				"text": "Барлык битләр"
+			},
+			"wholeWordLabel": {
+				"text": "Бөтен сүз"
+			},
+			"caseSensitiveLabel": {
+				"text": "Регистрны исәпләп"
+			},
+			"startSearchButton": {
+				"value": "Башлау"
+			},
+			"stopSearchButton": {
+				"value": "Тукта"
+			},
+			"textNotFoundLabel": {
+				"text": "Текст табылмады."
+			}
+		},
+		"gotoFirstPageButton": {
+			"title": "Беренче рәсемгә керегез"
+		},
+		"gotoPreviousPageButton": {
+			"title": "Алдагы рәсемгә керегез"
+		},
+		"gotoPageInput": {
+			"title": "Бит"
+		},
+		"gotoNextPageButton": {
+			"title": "Киләсе рәсемгә күчегез"
+		},
+		"gotoLastPageButton": {
+			"title": "Соңгы рәсемгә күчегез"
+		},
+		"zoomOutButton": {
+			"title": "Зурайту"
+		},
+		"zoomValueInput": {
+			"title": "Зурайту"
+		},
+		"zoomInButton": {
+			"title": "Зурайтырга"
+		},
+		"ocrSettingsDialog": {
+			"title": "OCR көйләүләре",
+			"ImageBinarizationMode": {
+				"text": "ImageBinarizationMode:"
+			},
+			"Languages": {
+				"text": "Телләр:"
+			},
+			"selectAllLabel": {
+				"text": "Барысын да сайлагыз"
+			},
+			"english": {
+				"text": "Инглиз"
+			},
+			"french": {
+				"text": "Француз теле"
+			},
+			"german": {
+				"text": "Немец теле"
+			},
+			"italian": {
+				"text": "Италия теле"
+			},
+			"osd": {
+				"text": "Ориентацияне ачыклау"
+			},
+			"portuguese": {
+				"text": "Португал теле"
+			},
+			"russian": {
+				"text": "Рус теле"
+			},
+			"spanish": {
+				"text": "Испан теле"
+			},
+			"RecognitionMode": {
+				"text": "RecognitionMode:"
+			},
+			"RecognitionRegionType": {
+				"text": "RecognitionRegionType:"
+			},
+			"ResultFileFormat": {
+				"text": "ResultFileFormat:"
+			},
+			"ResultFileName": {
+				"text": "ResultFileName:"
+			},
+			"okButton": {
+				"value": "ЯРАРМЫ"
+			}
+		},
+		"normalSizeModeButton": {
+			"title": "Нормаль"
+		},
+		"bestFitSizeModeButton": {
+			"title": "Иң яхшы"
+		},
+		"fitToHeightSizeModeButton": {
+			"title": "Биеклеккә туры килә"
+		},
+		"pixelToPixelSizeModeButton": {
+			"title": "Пиксель"
+		},
+		"zoomSizeModeButton": {
+			"title": "Зурайту"
+		},
+		"documentPasswordDialog": {
+			"pleaseEnterPasswordLabel": {
+				"text": "Бу документ серсүз белән сакланган. Зинһар, серсүз кертегез."
+			},
+			"passwordLabel": {
+				"text": "Серсүз:"
+			},
+			"showPasswordLabel": {
+				"text": "Серсүзне күрсәт"
+			},
+			"incorrectPasswordLabel": {
+				"text": "Ялгыш серсүз"
+			},
+			"okButton": {
+				"value": "ЯРАРМЫ"
+			},
+			"сancelButton": {
+				"value": "Баш тарту"
+			}
+		},
+		"selectImagesDialog": {
+			"imagesLabel": {
+				"text": "Рәсемнәр:"
+			},
+			"currentImageOption": {
+				"text": "Хәзерге рәсем"
+			},
+			"allImagesOption": {
+				"text": "Барлык рәсемнәр"
+			},
+			"customImagesOption": {
+				"text": "Гадәт"
+			},
+			"imageRangeLabel": {
+				"text": "Рәсем диапазоны:"
+			},
+			"invalidRangeErrorMessageLabel": {
+				"text": "Яраксыз бит диапазоны. Мисал: 1-5, 8, 12-15."
+			},
+			"outOfRangeErrorMessageLabel": {
+				"text": "Рәсем җыю диапазоныннан индекс."
+			},
+			"okButton": {
+				"value": "ЯРАРМЫ"
+			},
+			"сancelButton": {
+				"value": "Баш тарту"
+			}
+		},
+		"printImagesDialog": {
+			"imagesLabel": {
+				"text": "Рәсемнәр:"
+			},
+			"currentImageOption": {
+				"text": "Хәзерге рәсем"
+			},
+			"allImagesOption": {
+				"text": "Барлык рәсемнәр"
+			},
+			"customImagesOption": {
+				"text": "Гадәт"
+			},
+			"imageRangeLabel": {
+				"text": "Рәсем диапазоны:"
+			},
+			"invalidRangeErrorMessageLabel": {
+				"text": "Яраксыз бит диапазоны. Мисал: 1-5, 8, 12-15."
+			},
+			"outOfRangeErrorMessageLabel": {
+				"text": "Рәсем җыю диапазоныннан индекс."
+			},
+			"okButton": {
+				"value": "ЯРАРМЫ"
+			},
+			"cancelButton": {
+				"value": "Баш тарту"
+			}
+		},
+		"imageViewerSettingsDialog": {
+			"imageDisplayModeLabel": {
+				"text": "Рәсем күрсәтү режимы:"
+			},
+			"imageAnchorLabel": {
+				"text": "Рәсем якоры:"
+			},
+			"noneOption": {
+				"text": "Беркем дә юк"
+			},
+			"topLeftOption": {
+				"text": "Өстә | Сул"
+			},
+			"topOption": {
+				"text": ".Гары"
+			},
+			"topRightOption": {
+				"text": "| Гары | Уң"
+			},
+			"rightOption": {
+				"text": "Дөрес"
+			},
+			"bottomRightOption": {
+				"text": "Түбән | Уң"
+			},
+			"bottomOption": {
+				"text": "Түбәндә"
+			},
+			"bottomLeftOption": {
+				"text": "Түбән | Сул"
+			},
+			"leftOption": {
+				"text": "Сулда"
+			},
+			"multipageDisplayModeLabel": {
+				"text": "Күпкырлы күрсәтү режимы:"
+			},
+			"allImagesOption": {
+				"text": "AllImages"
+			},
+			"fixedImagesOption": {
+				"text": "FixedImages"
+			},
+			"layoutDirectionLabel": {
+				"text": "Таблицаның юнәлеше:"
+			},
+			"horizontalOption": {
+				"text": "Горизонталь"
+			},
+			"verticalOption": {
+				"text": "Вертикаль"
+			},
+			"rowColumnCountLabel": {
+				"text": "Рәт / баганадагы рәсемнәр:"
+			},
+			"imagePaddingLabel": {
+				"text": "Рәсемнәр:"
+			},
+			"appearancesLabel": {
+				"text": "Күренешләр"
+			},
+			"imageAppearanceLabel": {
+				"text": "Рәсемнең тышкы кыяфәте"
+			},
+			"imageAppearanceBackColorLabel": {
+				"text": "Арткы төс:"
+			},
+			"imageAppearanceBorderColorLabel": {
+				"text": "Чик төсе:"
+			},
+			"imageAppearanceBorderWidthLabel": {
+				"text": "Чик киңлеге:"
+			},
+			"focusedImageAppearanceLabel": {
+				"text": "Фокуслы сурәт күренеше"
+			},
+			"focusedImageAppearanceBackColorLabel": {
+				"text": "Арткы төс:"
+			},
+			"focusedImageAppearanceBorderColorLabel": {
+				"text": "Чик төсе:"
+			},
+			"focusedImageAppearanceBorderWidthLabel": {
+				"text": "Чик киңлеге:"
+			},
+			"useAppearanceInSinglePageModeLabel": {
+				"text": "Бер битле режимда рәсем күренешен кулланыгыз"
+			},
+			"renderingSettingsLabel": {
+				"text": "Көйләүләр"
+			},
+			"defaultRenderingSettingsLabel": {
+				"text": "Килешү көйләүләр"
+			},
+			"horizontalResolutionLabel": {
+				"text": "Горизонталь карар:"
+			},
+			"verticalResolutionLabel ": {
+				"text": "Вертикаль карар:"
+			},
+			"smoothingModeLabel": {
+				"text": "Тигезләү режимы:"
+			},
+			"AntiAlias": {
+				"text": "AntiAlias"
+			},
+			"None": {
+				"text": "Беркем дә юк"
+			},
+			"interpolationModeLabel": {
+				"text": "Интерполяция режимы:"
+			},
+			"Bicubic": {
+				"text": "Бикубич"
+			},
+			"Bilinear": {
+				"text": "Билинар"
+			},
+			"HighQualityBicubic": {
+				"text": "HighQualityBicubic"
+			},
+			"HighQualityBilinear": {
+				"text": "HighQualityBilinear"
+			},
+			"NearestNeighbor": {
+				"text": "NearestNeighbor"
+			},
+			"otherSettingsLabel": {
+				"text": "Башка көйләүләр"
+			},
+			"backgroundColorLabel": {
+				"text": "Тамашачы фон төсе:"
+			},
+			"centerImageLabel": {
+				"text": "Imageзәк образы:"
+			},
+			"resizeTimeoutLabel ": {
+				"text": "Вакытны үзгәртү:"
+			},
+			"tileSizeLabel": {
+				"text": "Плитка зурлыгы:"
+			},
+			"colorManagementLabel": {
+				"text": "Төсләр белән идарә итүне рөхсәт итегез:"
+			},
+			"useVectorRenderingLabel": {
+				"text": "Документлар өчен вектор рендерингын кулланыгыз:"
+			},
+			"vectorContentBackgroundColorLabel": {
+				"text": "Вектор эчтәлеге фон төсе:"
+			},
+			"okButton": {
+				"value": "ЯРАРМЫ"
+			},
+			"сancelButton": {
+				"value": "Баш тарту"
+			}
+		},
+		"thumbnailViewerSettingsDialog": {
+			"sizeLabel": {
+				"text": "Размер:"
+			},
+			"scaleLabel": {
+				"text": "Масштаб:"
+			},
+			"smallestOption": {
+				"text": "Иң кечкенә"
+			},
+			"smallOption": {
+				"text": "Кечкенә"
+			},
+			"normalOption": {
+				"text": "Нормаль"
+			},
+			"largeOption": {
+				"text": "Зур"
+			},
+			"flowStyleLabel": {
+				"text": "Агым стиле:"
+			},
+			"singleColumnOption": {
+				"text": "SingleColumn"
+			},
+			"singleRowOption": {
+				"text": "SingleRow"
+			},
+			"fixedColumnsOption": {
+				"text": "FixedColumns"
+			},
+			"wrappedRowsOption": {
+				"text": "WrappedRows"
+			},
+			"columnCountLabel": {
+				"text": "Колонналар саны:"
+			},
+			"marginLabel": {
+				"text": "Маргин:"
+			},
+			"paddingTopLabel": {
+				"text": "Өстәмә өстәү:"
+			},
+			"paddingRightLabel": {
+				"text": "Уңга басу:"
+			},
+			"paddingBottomLabel": {
+				"text": "Түбәндә:"
+			},
+			"paddingLeftLabel": {
+				"text": "Сул ябу:"
+			},
+			"showCaptionLabel": {
+				"text": "Язуларны күрсәт:"
+			},
+			"captionFormatLabel": {
+				"text": "Язма форматы:"
+			},
+			"captionAnchorLabel": {
+				"text": "Анкор:"
+			},
+			"topLeftOption": {
+				"text": "Өстә | Сул"
+			},
+			"topOption": {
+				"text": ".Гары"
+			},
+			"topRightOption": {
+				"text": "| Гары | Уң"
+			},
+			"rightOption": {
+				"text": "Дөрес"
+			},
+			"bottomRightOption": {
+				"text": "Түбән | Уң"
+			},
+			"bottomOption": {
+				"text": "Түбәндә"
+			},
+			"bottomLeftOption": {
+				"text": "Түбән | Сул"
+			},
+			"leftOption": {
+				"text": "Сулда"
+			},
+			"centerOption": {
+				"text": "Centerзәк"
+			},
+			"focusOnHoverLabel": {
+				"text": "Фокус OnHover:"
+			},
+			"multiSelectLabel": {
+				"text": "Күпкырлы:"
+			},
+			"useThumbnailCheckboxesLabel": {
+				"text": "Эскиз өчен пунктларны кулланыгыз:"
+			},
+			"useThumbnailActionsPanelLabel": {
+				"text": "Эскиз өчен эш панелен кулланыгыз:"
+			},
+			"canDragThumbnailsLabel": {
+				"text": "Эскизларны тартырга мөмкин:"
+			},
+			"canNavigateThumbnailsUsingKeyboardLabel": {
+				"text": "Клавиатура ярдәмендә эскизларны йөртә ала:"
+			},
+			"canSelectThumbnailsUsingKeyboardLabel": {
+				"text": "Клавиатура ярдәмендә эскизларны сайлый аласыз:"
+			},
+			"canDeleteThumbnailsUsingKeyboardLabel": {
+				"text": "Клавиатура ярдәмендә эскизларны бетерә ала:"
+			},
+			"okButton": {
+				"value": "ЯРАРМЫ"
+			},
+			"сancelButton": {
+				"value": "Баш тарту"
+			}
+		},
+		"uploadImageFromUrlDialog": {
+			"okButton": {
+				"value": "ЯРАРМЫ"
+			},
+			"cancelButton": {
+				"value": "Баш тарту"
+			}
+		},
+		"imageProcessingSettingsDialog-AutoInvert": {
+			"title": "Рәсем эшкәртү боерыгы көйләүләре (AutoInvert)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "ЯРАРМЫ"
+			}
+		},
+		"imageProcessingSettingsDialog-AutoTextOrientation": {
+			"title": "Рәсем эшкәртү боерыгы көйләүләре (AutoTextOrientation)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"+ Binarization": {
+				"text": "+ Бинаризация:"
+			},
+			"BinarizationMode": {
+				"text": "BinarizationMode:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ConvertToBlackLevel": {
+				"text": "ConvertToBlackLevel:"
+			},
+			"ConvertToWhiteLevel": {
+				"text": "ConvertToWhiteLevel:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"LuminanceComputationMode": {
+				"text": "LuminanceComputationMode:"
+			},
+			"MaxLevelDifference": {
+				"text": "MaxLevelDifference:"
+			},
+			"MinLevelDifference": {
+				"text": "MinLevelDifference:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"Threshold": {
+				"text": "Бусага:"
+			},
+			"WindowRadius": {
+				"text": "WindowRadius:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"MinConfidence": {
+				"text": "MinConfidence:"
+			},
+			"StripWidth": {
+				"text": "StripWidth:"
+			},
+			"okButton": {
+				"value": "ЯРАРМЫ"
+			}
+		},
+		"imageProcessingSettingsDialog-BorderClear": {
+			"title": "Рәсем эшкәртү боерыгы (BorderClear)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "ЯРАРМЫ"
+			}
+		},
+		"imageProcessingSettingsDialog-Deskew": {
+			"title": "Рәсем эшкәртү боерыгы көйләүләре (Deskew)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"BorderColor": {
+				"text": "BorderColor:"
+			},
+			"BorderColorType": {
+				"text": "BorderColorType:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"MaxAngle": {
+				"text": "MaxAngle:"
+			},
+			"MinConfidence": {
+				"text": "MinConfidence:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"ScanIntervalX": {
+				"text": "ScanIntervalX:"
+			},
+			"ScanIntervalY": {
+				"text": "ScanIntervalY:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "ЯРАРМЫ"
+			}
+		},
+		"imageProcessingSettingsDialog-Despeckle": {
+			"title": "Рәсем эшкәртү боерыгы (Despeckle)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"AutoConfigureLevels": {
+				"text": "AutoConfigureLevels:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"Level1": {
+				"text": "1 нче дәрәҗә:"
+			},
+			"Level2": {
+				"text": "2 нче дәрәҗә:"
+			},
+			"Radius": {
+				"text": "Радиус:"
+			},
+			"+ Region": {
+				"text": "+ Төбәк:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "киңлеге:"
+			},
+			"height": {
+				"text": "биеклек:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "ЯРАРМЫ"
+			}
+		},
+		"imageProcessingSettingsDialog-HalftoneRemoval": {
+			"title": "Рәсем эшкәртү боерыгы (HalftoneRemoval)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"AutoThreshold": {
+				"text": "AutoThreshold:"
+			},
+			"BlackPixelRemovalThreshold": {
+				"text": "BlackPixelRemovalThreshold:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"CellSize": {
+				"text": "CellSize:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"MaxSegmentSize": {
+				"text": "MaxSegmentSize:"
+			},
+			"MinHalftoneHeight": {
+				"text": "MinHalftoneHeight:"
+			},
+			"MinHalftoneWidth": {
+				"text": "MinHalftoneWidth:"
+			},
+			"+ Region": {
+				"text": "+ Төбәк:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "киңлеге:"
+			},
+			"height": {
+				"text": "биеклек:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"WhitePixelRemovalThreshold": {
+				"text": "WhitePixelRemovalThreshold:"
+			},
+			"okButton": {
+				"value": "ЯРАРМЫ"
+			}
+		},
+		"imageProcessingSettingsDialog-HolePunchRemoval": {
+			"title": "Рәсем эшкәртү боерыгы көйләүләре (HolePunchRemoval)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"+ Binarization": {
+				"text": "+ Бинаризация:"
+			},
+			"BinarizationMode": {
+				"text": "BinarizationMode:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ConvertToBlackLevel": {
+				"text": "ConvertToBlackLevel:"
+			},
+			"ConvertToWhiteLevel": {
+				"text": "ConvertToWhiteLevel:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"LuminanceComputationMode": {
+				"text": "LuminanceComputationMode:"
+			},
+			"MaxLevelDifference": {
+				"text": "MaxLevelDifference:"
+			},
+			"MinLevelDifference": {
+				"text": "MinLevelDifference:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"Threshold": {
+				"text": "Бусага:"
+			},
+			"WindowRadius": {
+				"text": "WindowRadius:"
+			},
+			"FillBorderSize": {
+				"text": "FillBorderSize:"
+			},
+			"FillColor": {
+				"text": "FillColor:"
+			},
+			"FillColorAutoDetection": {
+				"text": "FillColorAutoDetection:"
+			},
+			"HolePunchLocation": {
+				"text": "HolePunchLocation:"
+			},
+			"selectAllLabel": {
+				"text": "Барысын да сайлагыз"
+			},
+			"bottom": {
+				"text": "Түбәндә"
+			},
+			"left": {
+				"text": "Сулда"
+			},
+			"right": {
+				"text": "Дөрес"
+			},
+			"top": {
+				"text": ".Гары"
+			},
+			"undefined": {
+				"text": "Билгесез"
+			},
+			"MaxHoleSize": {
+				"text": "MaxHoleSize:"
+			},
+			"MinHoleSize": {
+				"text": "MinHoleSize:"
+			},
+			"+ Region": {
+				"text": "+ Төбәк:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "киңлеге:"
+			},
+			"height": {
+				"text": "биеклек:"
+			},
+			"okButton": {
+				"value": "ЯРАРМЫ"
+			}
+		},
+		"imageProcessingSettingsDialog-LineRemoval": {
+			"title": "Рәсем эшкәртү боерыгы (LineRemoval)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"+ Binarization": {
+				"text": "+ Бинаризация:"
+			},
+			"BinarizationMode": {
+				"text": "BinarizationMode:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ConvertToBlackLevel": {
+				"text": "ConvertToBlackLevel:"
+			},
+			"ConvertToWhiteLevel": {
+				"text": "ConvertToWhiteLevel:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"LuminanceComputationMode": {
+				"text": "LuminanceComputationMode:"
+			},
+			"MaxLevelDifference": {
+				"text": "MaxLevelDifference:"
+			},
+			"MinLevelDifference": {
+				"text": "MinLevelDifference:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"Threshold": {
+				"text": "Бусага:"
+			},
+			"WindowRadius": {
+				"text": "WindowRadius:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"Direction": {
+				"text": "Ectionнәлеш:"
+			},
+			"selectAllLabel": {
+				"text": "Барысын да сайлагыз"
+			},
+			"horizontal": {
+				"text": "Горизонталь"
+			},
+			"vertical": {
+				"text": "Вертикаль"
+			},
+			"FillColor": {
+				"text": "FillColor:"
+			},
+			"FillColorAutoDetection": {
+				"text": "FillColorAutoDetection:"
+			},
+			"LineEndsType": {
+				"text": "LineEndsType:"
+			},
+			"LinesType": {
+				"text": "LinesType:"
+			},
+			"MaxCurvature": {
+				"text": "MaxCurvature:"
+			},
+			"MaxDeviationAngle": {
+				"text": "MaxDeviationAngle:"
+			},
+			"MaxGapLength": {
+				"text": "MaxGapLength:"
+			},
+			"MaxLength": {
+				"text": "MaxLength:"
+			},
+			"MaxWidth": {
+				"text": "MaxWidth:"
+			},
+			"MinConfidence": {
+				"text": "MinConfidence:"
+			},
+			"MinLength": {
+				"text": "MinLength:"
+			},
+			"MinSizeRatio": {
+				"text": "MinSizeRatio:"
+			},
+			"MinWidth": {
+				"text": "MinWidth:"
+			},
+			"ReconnectBrokenObjects": {
+				"text": "ReconnectBrokenObjects:"
+			},
+			"+ Region": {
+				"text": "+ Төбәк:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "киңлеге:"
+			},
+			"height": {
+				"text": "биеклек:"
+			},
+			"okButton": {
+				"value": "ЯРАРМЫ"
+			}
+		}
+	},
+	"downloadResultLink": {
+		"text": "Танып белү нәтиҗәләрен йөкләү"
+	},
+	"strings": {
+		"vsdv-uploadAndOpenFileButton-uploadFileString": "Файлны йөкләү һәм ачу",
+		"vsdv-uploadAndAddFileButton-addFileString": "Файлны йөкләү һәм өстәү",
+		"vsui-imageProcessingPanel-imageProcessingString": "Рәсем эшкәртү",
+		"vsui-textSearchPanel-pageLabel": "Бит",
+		"vsdv-openFile-addFileString": "Файл өстәү",
+		"vsdv-openFile-authenticateFileString": "Файлны раслау",
+		"vsdv-downloadFile-actionMessage": "Файлны йөкләү",
+		"vsdv-saveChanges-saveChangesInImages": "Рәсемнәрдәге үзгәрешләрне саклагыз",
+		"vsui-documentNavigationTool-getActions": "Эшләр",
+		"vsdv-saveChanges-saveChangesInAnnotations": "Аннотацияләрдәге үзгәрешләрне саклагыз",
+		"vsdv-saveChanges-burnAnnotationsInImages": "Рәсемнәргә аннотацияләр яндырыгыз",
+		"vsui-dialog-okButton": "ЯРАРМЫ",
+		"vsui-multiselect-noneSelected": "Берсе дә сайланмаган",
+		"vsui-multiselect-allSelected": "Барысы да сайланган",
+		"vsui-multiselect-selected": "сайланган",
+		"vsdv-saveChanges-saveChangesInPdfDocument": "PDF документындагы үзгәрешләрне саклагыз",
+		"vsui-documentPasswordDialog-title": "Документ серсүзе",
+		"vsui-dialog-cancelButton": "Баш тарту",
+		"vsui-documentPasswordPanel-authenticateFileString": "Файлны раслау",
+		"vsui-imageSelectionDialog-title": "Рәсемнәрне сайлагыз",
+		"vsui-imageSelectionDialog-currentImageString": "Хәзерге рәсем",
+		"vsui-imageSelectionDialog-allImagesString": "Барлык рәсемнәр",
+		"vsui-imageSelectionDialog-customImagesString": "Гадәт",
+		"vsui-printImagesDialog-title": "Рәсемнәрне бастыру",
+		"vsui-printImagesPanel-imagePrintingString": "Рәсем бастырыла",
+		"vsui-printImagesPanel-withAnnotationsLabel": "аннотацияләр белән",
+		"vsui-imageViewerSettingsDialog-title": "Рәсем тамашачысы көйләүләре",
+		"vsui-thumbnailViewerSettingDialog-title": "Эскиз тамашачы көйләүләре",
+		"vsui-thumbnailViewerSettingsDialog-showAnnotationsLabel": "Аннотацияләр күрсәт:",
+		"vsdv-uploadImageFromUrlDialog-title": "URL-тан рәсемне йөкләү",
+		"vsdv-dialog-okButton": "ЯРАРМЫ",
+		"vsdv-dialog-cancelButton": "Баш тарту"
+	}
+}

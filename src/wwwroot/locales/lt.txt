@@ -1,0 +1,1154 @@
+﻿{
+	"documentViewer": {
+		"fileLabel": {
+			"text": "Failas"
+		},
+		"viewLabel": {
+			"text": "Žiūrėti"
+		},
+		"toolsLabel": {
+			"text": "Įrankiai"
+		},
+		"ocrPanelLabel": {
+			"text": "OCR"
+		},
+		"uploadAndOpenFileButton": {
+			"title": "Įkelti ir atidaryti failą"
+		},
+		"uploadAndAddFileButton": {
+			"title": "Įkelti ir pridėti failą"
+		},
+		"previousUploadFilesButton": {
+			"title": "Anksčiau įkelti failai"
+		},
+		"openFileFromUrlButton": {
+			"title": "Atidaryti failą iš URL"
+		},
+		"printImagesButton": {
+			"title": "Spausdinti vaizdus"
+		},
+		"downloadFileButton": {
+			"title": "Atsisiųsti failą"
+		},
+		"exportAndDownloadFileButton": {
+			"title": "Eksportuoti ir atsisiųsti failą"
+		},
+		"clearSessionCacheButton": {
+			"title": "Išvalyti seanso talpyklą"
+		},
+		"fitToWidthSizeModeButton": {
+			"title": "Tinka pločiui"
+		},
+		"rotateViewsCounterClockwiseButton": {
+			"title": "Pasukite visus vaizdus prieš laikrodžio rodyklę"
+		},
+		"rotateAngleInput": {
+			"title": "Kampas"
+		},
+		"rotateViewsClockwiseButton": {
+			"title": "Pasukite visus vaizdus pagal laikrodžio rodyklę"
+		},
+		"imageViewerSettingsButton": {
+			"title": "Vaizdų peržiūros programos nustatymai"
+		},
+		"thumbnailViewerSettingsButton": {
+			"title": "Miniatiūrų peržiūros priemonės nustatymai"
+		},
+		"panToolButton": {
+			"title": "Pan"
+		},
+		"rectangularSelectionToolButton": {
+			"title": "Stačiakampis pasirinkimas"
+		},
+		"magnifierToolButton": {
+			"title": "Didintuvas"
+		},
+		"zoomToolButton": {
+			"title": "Padidinti"
+		},
+		"zoomSelectionToolButton": {
+			"title": "Priartinimo pasirinkimas"
+		},
+		"TextSelectionToolButton": {
+			"title": "Teksto pasirinkimas"
+		},
+		"recognizeTextFromAllPagesAndOpenResultButton": {
+			"title": "Atpažinkite tekstą iš visų puslapių ir atidarykite failą su atpažintu tekstu"
+		},
+		"recognizeTextFromAllPagesAndDownloadResultButton": {
+			"title": "Atpažinkite tekstą iš visų puslapių ir atsisiųskite failą su atpažintu tekstu"
+		},
+		"recognizeTextFromFocusedPageAndDownloadResultButton": {
+			"title": "Atpažinkite tekstą iš paryškinto puslapio ir atsisiųskite failą su atpažintu tekstu"
+		},
+		"recognizeTextFromRegionOfFocusedPageAndDownloadResultButton": {
+			"title": "Atpažinkite tekstą iš paryškinto puslapio srities ir atsisiųskite failą su atpažintu tekstu"
+		},
+		"ocrSettingsButton": {
+			"title": "OCR nustatymai"
+		},
+		"sidePanelCloseButton": {
+			"title": "Rodyti šoninį skydelį"
+		},
+		"showThumbnailViewerPanelButton": {
+			"title": "Miniatiūros"
+		},
+		"showPanelButton": {
+			"title": "Vaizdo apdorojimas"
+		},
+		"showTextSelectionPanelButton": {
+			"title": "Teksto pasirinkimas"
+		},
+		"showTextSearchPanelButton": {
+			"title": "Rasti tekstą"
+		},
+		"imageProcessingPanel": {
+			"parametersButton": {
+				"value": "Nustatymai"
+			},
+			"runButton": {
+				"value": "Taikyti"
+			}
+		},
+		"textSelectionPanel": {
+			"selectionModeLabel": {
+				"text": "Pasirinkimo režimas:"
+			},
+			"rectangleOption": {
+				"text": "Stačiakampis"
+			},
+			"fullLinesOption": {
+				"text": "Pilnos eilutės"
+			},
+			"selectionColorLabel": {
+				"text": "Pasirinkimo spalva:"
+			},
+			"selectedTextLabel": {
+				"text": "Pasirinktas tekstas:"
+			}
+		},
+		"textSearchPanel": {
+			"findLabel": {
+				"text": "Rasti:"
+			},
+			"whereLookLabel": {
+				"text": "Pažiūrėk:"
+			},
+			"currentPageOption": {
+				"text": "Dabartinis puslapis"
+			},
+			"allPagesOption": {
+				"text": "Visi puslapiai"
+			},
+			"wholeWordLabel": {
+				"text": "Visas žodis"
+			},
+			"caseSensitiveLabel": {
+				"text": "Skiriamos didžiosios ir mažosios raidės"
+			},
+			"startSearchButton": {
+				"value": "Pradėti"
+			},
+			"stopSearchButton": {
+				"value": "Sustabdyti"
+			},
+			"textNotFoundLabel": {
+				"text": "Tekstas nerastas."
+			}
+		},
+		"gotoFirstPageButton": {
+			"title": "Eikite į pirmąjį vaizdą"
+		},
+		"gotoPreviousPageButton": {
+			"title": "Eikite į ankstesnį vaizdą"
+		},
+		"gotoPageInput": {
+			"title": "Puslapis"
+		},
+		"gotoNextPageButton": {
+			"title": "Eikite į kitą vaizdą"
+		},
+		"gotoLastPageButton": {
+			"title": "Eikite į paskutinį vaizdą"
+		},
+		"zoomOutButton": {
+			"title": "Nutolinti"
+		},
+		"zoomValueInput": {
+			"title": "Padidinti"
+		},
+		"zoomInButton": {
+			"title": "Priartinti"
+		},
+		"ocrSettingsDialog": {
+			"title": "OCR nustatymai",
+			"ImageBinarizationMode": {
+				"text": "ImageBinarizationMode:"
+			},
+			"Languages": {
+				"text": "Kalbos:"
+			},
+			"selectAllLabel": {
+				"text": "Pasirinkti viską"
+			},
+			"english": {
+				"text": "Anglų"
+			},
+			"french": {
+				"text": "Prancūzų kalba"
+			},
+			"german": {
+				"text": "Vokiečių kalba"
+			},
+			"italian": {
+				"text": "Italų kalba"
+			},
+			"osd": {
+				"text": "Orientacijos aptikimas"
+			},
+			"portuguese": {
+				"text": "Portugalų kalba"
+			},
+			"russian": {
+				"text": "Rusų kalba"
+			},
+			"spanish": {
+				"text": "Ispanų kalba"
+			},
+			"RecognitionMode": {
+				"text": "RecognitionMode:"
+			},
+			"RecognitionRegionType": {
+				"text": "RecognitionRegionType:"
+			},
+			"ResultFileFormat": {
+				"text": "ResultFileFormat:"
+			},
+			"ResultFileName": {
+				"text": "ResultFileName:"
+			},
+			"okButton": {
+				"value": "Gerai"
+			}
+		},
+		"normalSizeModeButton": {
+			"title": "Normalus"
+		},
+		"bestFitSizeModeButton": {
+			"title": "Geriausiai tinkantis"
+		},
+		"fitToHeightSizeModeButton": {
+			"title": "Tinka ūgiui"
+		},
+		"pixelToPixelSizeModeButton": {
+			"title": "Pikselis prie pikselio"
+		},
+		"zoomSizeModeButton": {
+			"title": "Padidinti"
+		},
+		"documentPasswordDialog": {
+			"pleaseEnterPasswordLabel": {
+				"text": "Šis dokumentas yra apsaugotas slaptažodžiu. Įveskite slaptažodį."
+			},
+			"passwordLabel": {
+				"text": "Slaptažodis:"
+			},
+			"showPasswordLabel": {
+				"text": "Rodyti slaptažodį"
+			},
+			"incorrectPasswordLabel": {
+				"text": "Neteisingas slaptažodis"
+			},
+			"okButton": {
+				"value": "Gerai"
+			},
+			"сancelButton": {
+				"value": "Atšaukti"
+			}
+		},
+		"selectImagesDialog": {
+			"imagesLabel": {
+				"text": "Vaizdai:"
+			},
+			"currentImageOption": {
+				"text": "Dabartinis vaizdas"
+			},
+			"allImagesOption": {
+				"text": "Visi vaizdai"
+			},
+			"customImagesOption": {
+				"text": "Pasirinktinis"
+			},
+			"imageRangeLabel": {
+				"text": "Vaizdo diapazonas:"
+			},
+			"invalidRangeErrorMessageLabel": {
+				"text": "Netinkamas puslapių diapazonas. Pavyzdys: 1–5, 8, 12–15."
+			},
+			"outOfRangeErrorMessageLabel": {
+				"text": "Indeksas nepatenka į vaizdų rinkinio diapazoną."
+			},
+			"okButton": {
+				"value": "Gerai"
+			},
+			"сancelButton": {
+				"value": "Atšaukti"
+			}
+		},
+		"printImagesDialog": {
+			"imagesLabel": {
+				"text": "Vaizdai:"
+			},
+			"currentImageOption": {
+				"text": "Dabartinis vaizdas"
+			},
+			"allImagesOption": {
+				"text": "Visi vaizdai"
+			},
+			"customImagesOption": {
+				"text": "Pasirinktinis"
+			},
+			"imageRangeLabel": {
+				"text": "Vaizdo diapazonas:"
+			},
+			"invalidRangeErrorMessageLabel": {
+				"text": "Netinkamas puslapių diapazonas. Pavyzdys: 1–5, 8, 12–15."
+			},
+			"outOfRangeErrorMessageLabel": {
+				"text": "Indeksas nepatenka į vaizdų rinkinio diapazoną."
+			},
+			"okButton": {
+				"value": "Gerai"
+			},
+			"cancelButton": {
+				"value": "Atšaukti"
+			}
+		},
+		"imageViewerSettingsDialog": {
+			"imageDisplayModeLabel": {
+				"text": "Vaizdo rodymo režimas:"
+			},
+			"imageAnchorLabel": {
+				"text": "Vaizdo inkaras:"
+			},
+			"noneOption": {
+				"text": "Nė vienas"
+			},
+			"topLeftOption": {
+				"text": "Viršus | Kairė"
+			},
+			"topOption": {
+				"text": "Į viršų"
+			},
+			"topRightOption": {
+				"text": "Į viršų | Dešinėje"
+			},
+			"rightOption": {
+				"text": "Teisingai"
+			},
+			"bottomRightOption": {
+				"text": "Apačia|Dešinėje"
+			},
+			"bottomOption": {
+				"text": "Apačia"
+			},
+			"bottomLeftOption": {
+				"text": "Apačia|Kairėje"
+			},
+			"leftOption": {
+				"text": "Kairė"
+			},
+			"multipageDisplayModeLabel": {
+				"text": "Kelių puslapių rodymo režimas:"
+			},
+			"allImagesOption": {
+				"text": "AllImages"
+			},
+			"fixedImagesOption": {
+				"text": "FixedImages"
+			},
+			"layoutDirectionLabel": {
+				"text": "Išdėstymo kryptis:"
+			},
+			"horizontalOption": {
+				"text": "Horizontaliai"
+			},
+			"verticalOption": {
+				"text": "Vertikalus"
+			},
+			"rowColumnCountLabel": {
+				"text": "Vaizdai eilutėje / stulpelyje:"
+			},
+			"imagePaddingLabel": {
+				"text": "Vaizdų užpildymas:"
+			},
+			"appearancesLabel": {
+				"text": "Išvaizdos"
+			},
+			"imageAppearanceLabel": {
+				"text": "Vaizdo išvaizda"
+			},
+			"imageAppearanceBackColorLabel": {
+				"text": "Nugaros spalva:"
+			},
+			"imageAppearanceBorderColorLabel": {
+				"text": "Kraštinės spalva:"
+			},
+			"imageAppearanceBorderWidthLabel": {
+				"text": "Kraštinės plotis:"
+			},
+			"focusedImageAppearanceLabel": {
+				"text": "Fokusuota vaizdo išvaizda"
+			},
+			"focusedImageAppearanceBackColorLabel": {
+				"text": "Nugaros spalva:"
+			},
+			"focusedImageAppearanceBorderColorLabel": {
+				"text": "Kraštinės spalva:"
+			},
+			"focusedImageAppearanceBorderWidthLabel": {
+				"text": "Kraštinės plotis:"
+			},
+			"useAppearanceInSinglePageModeLabel": {
+				"text": "Naudokite vaizdo išvaizdą vieno puslapio režimu"
+			},
+			"renderingSettingsLabel": {
+				"text": "Atvaizdavimo nustatymai"
+			},
+			"defaultRenderingSettingsLabel": {
+				"text": "Numatytieji nustatymai"
+			},
+			"horizontalResolutionLabel": {
+				"text": "Horizontali skiriamoji geba:"
+			},
+			"verticalResolutionLabel ": {
+				"text": "Vertikali skiriamoji geba:"
+			},
+			"smoothingModeLabel": {
+				"text": "Išlyginimo režimas:"
+			},
+			"AntiAlias": {
+				"text": "AntiAlias"
+			},
+			"None": {
+				"text": "Nė vienas"
+			},
+			"interpolationModeLabel": {
+				"text": "Interpoliacijos režimas:"
+			},
+			"Bicubic": {
+				"text": "Bikubinis"
+			},
+			"Bilinear": {
+				"text": "Bilinear"
+			},
+			"HighQualityBicubic": {
+				"text": "HighQualityBicubic"
+			},
+			"HighQualityBilinear": {
+				"text": "HighQualityBilinear"
+			},
+			"NearestNeighbor": {
+				"text": "NearestNeighbor"
+			},
+			"otherSettingsLabel": {
+				"text": "Kiti nustatymai"
+			},
+			"backgroundColorLabel": {
+				"text": "Žiūrovo fono spalva:"
+			},
+			"centerImageLabel": {
+				"text": "Centrinis vaizdas:"
+			},
+			"resizeTimeoutLabel ": {
+				"text": "Dydžio keitimo skirtasis laikas:"
+			},
+			"tileSizeLabel": {
+				"text": "Plytelių dydis:"
+			},
+			"colorManagementLabel": {
+				"text": "Įgalinti spalvų valdymą:"
+			},
+			"useVectorRenderingLabel": {
+				"text": "Dokumentams naudokite vektorinį atvaizdavimą:"
+			},
+			"vectorContentBackgroundColorLabel": {
+				"text": "Vektorinio turinio fono spalva:"
+			},
+			"okButton": {
+				"value": "Gerai"
+			},
+			"сancelButton": {
+				"value": "Atšaukti"
+			}
+		},
+		"thumbnailViewerSettingsDialog": {
+			"sizeLabel": {
+				"text": "Dydis:"
+			},
+			"scaleLabel": {
+				"text": "Skalė:"
+			},
+			"smallestOption": {
+				"text": "Mažiausias"
+			},
+			"smallOption": {
+				"text": "Mažas"
+			},
+			"normalOption": {
+				"text": "Normalus"
+			},
+			"largeOption": {
+				"text": "Didelis"
+			},
+			"flowStyleLabel": {
+				"text": "Srauto stilius:"
+			},
+			"singleColumnOption": {
+				"text": "SingleColumn"
+			},
+			"singleRowOption": {
+				"text": "SingleRow"
+			},
+			"fixedColumnsOption": {
+				"text": "FixedColumns"
+			},
+			"wrappedRowsOption": {
+				"text": "WrappedRows"
+			},
+			"columnCountLabel": {
+				"text": "Stulpelių skaičius:"
+			},
+			"marginLabel": {
+				"text": "Marža:"
+			},
+			"paddingTopLabel": {
+				"text": "Viršutinis pamušalas:"
+			},
+			"paddingRightLabel": {
+				"text": "Pamušalas dešinėje:"
+			},
+			"paddingBottomLabel": {
+				"text": "Paminkštinimas apačioje:"
+			},
+			"paddingLeftLabel": {
+				"text": "Kairysis užpildas:"
+			},
+			"showCaptionLabel": {
+				"text": "Rodyti antraštes:"
+			},
+			"captionFormatLabel": {
+				"text": "Antraštės formatas:"
+			},
+			"captionAnchorLabel": {
+				"text": "Antraštės prierašas:"
+			},
+			"topLeftOption": {
+				"text": "Viršus | Kairė"
+			},
+			"topOption": {
+				"text": "Į viršų"
+			},
+			"topRightOption": {
+				"text": "Į viršų | Dešinėje"
+			},
+			"rightOption": {
+				"text": "Teisingai"
+			},
+			"bottomRightOption": {
+				"text": "Apačia|Dešinėje"
+			},
+			"bottomOption": {
+				"text": "Apačia"
+			},
+			"bottomLeftOption": {
+				"text": "Apačia|Kairėje"
+			},
+			"leftOption": {
+				"text": "Kairė"
+			},
+			"centerOption": {
+				"text": "centras"
+			},
+			"focusOnHoverLabel": {
+				"text": "Focus OnHover:"
+			},
+			"multiSelectLabel": {
+				"text": "Keli pasirinkimai:"
+			},
+			"useThumbnailCheckboxesLabel": {
+				"text": "Naudokite miniatiūros žymimuosius laukelius:"
+			},
+			"useThumbnailActionsPanelLabel": {
+				"text": "Naudokite veiksmų skydelį miniatiūrai:"
+			},
+			"canDragThumbnailsLabel": {
+				"text": "Galima vilkti miniatiūras:"
+			},
+			"canNavigateThumbnailsUsingKeyboardLabel": {
+				"text": "Galima naršyti miniatiūras naudojant klaviatūrą:"
+			},
+			"canSelectThumbnailsUsingKeyboardLabel": {
+				"text": "Galite pasirinkti miniatiūras naudodami klaviatūrą:"
+			},
+			"canDeleteThumbnailsUsingKeyboardLabel": {
+				"text": "Galima ištrinti miniatiūras naudojant klaviatūrą:"
+			},
+			"okButton": {
+				"value": "Gerai"
+			},
+			"сancelButton": {
+				"value": "Atšaukti"
+			}
+		},
+		"uploadImageFromUrlDialog": {
+			"okButton": {
+				"value": "Gerai"
+			},
+			"cancelButton": {
+				"value": "Atšaukti"
+			}
+		},
+		"imageProcessingSettingsDialog-AutoInvert": {
+			"title": "Vaizdo apdorojimo komandos nustatymai (AutoInvert)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "Gerai"
+			}
+		},
+		"imageProcessingSettingsDialog-AutoTextOrientation": {
+			"title": "Vaizdo apdorojimo komandos nustatymai (automatinio teksto orientacija)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"+ Binarization": {
+				"text": "+ Binarizacija:"
+			},
+			"BinarizationMode": {
+				"text": "BinarizationMode:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ConvertToBlackLevel": {
+				"text": "ConvertToBlackLevel:"
+			},
+			"ConvertToWhiteLevel": {
+				"text": "ConvertToWhiteLevel:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"LuminanceComputationMode": {
+				"text": "LuminanceComputationMode:"
+			},
+			"MaxLevelDifference": {
+				"text": "MaxLevelDifference:"
+			},
+			"MinLevelDifference": {
+				"text": "MinLevelDifference:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"Threshold": {
+				"text": "Slenkstis:"
+			},
+			"WindowRadius": {
+				"text": "WindowRadius:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"MinConfidence": {
+				"text": "MinConfidence:"
+			},
+			"StripWidth": {
+				"text": "StripWidth:"
+			},
+			"okButton": {
+				"value": "Gerai"
+			}
+		},
+		"imageProcessingSettingsDialog-BorderClear": {
+			"title": "Vaizdo apdorojimo komandos nustatymai (BorderClear)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "Gerai"
+			}
+		},
+		"imageProcessingSettingsDialog-Deskew": {
+			"title": "Vaizdo apdorojimo komandos nustatymai (Deskew)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"BorderColor": {
+				"text": "BorderColor:"
+			},
+			"BorderColorType": {
+				"text": "BorderColorType:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"MaxAngle": {
+				"text": "MaxAngle:"
+			},
+			"MinConfidence": {
+				"text": "MinConfidence:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"ScanIntervalX": {
+				"text": "ScanIntervalX:"
+			},
+			"ScanIntervalY": {
+				"text": "ScanIntervalY:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "Gerai"
+			}
+		},
+		"imageProcessingSettingsDialog-Despeckle": {
+			"title": "Vaizdo apdorojimo komandos nustatymai (Despeckle)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"AutoConfigureLevels": {
+				"text": "AutoConfigureLevels:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"Level1": {
+				"text": "1 lygis:"
+			},
+			"Level2": {
+				"text": "2 lygis:"
+			},
+			"Radius": {
+				"text": "Spindulys:"
+			},
+			"+ Region": {
+				"text": "+ Regionas:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "plotis:"
+			},
+			"height": {
+				"text": "aukštis:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "Gerai"
+			}
+		},
+		"imageProcessingSettingsDialog-HalftoneRemoval": {
+			"title": "Vaizdo apdorojimo komandos nustatymai (HalftoneRemoval)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"AutoThreshold": {
+				"text": "AutoThreshold:"
+			},
+			"BlackPixelRemovalThreshold": {
+				"text": "BlackPixelRemovalThreshold:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"CellSize": {
+				"text": "CellSize:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"MaxSegmentSize": {
+				"text": "MaxSegmentSize:"
+			},
+			"MinHalftoneHeight": {
+				"text": "MinHalftoneHeight:"
+			},
+			"MinHalftoneWidth": {
+				"text": "MinHalftoneWidth:"
+			},
+			"+ Region": {
+				"text": "+ Regionas:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "plotis:"
+			},
+			"height": {
+				"text": "aukštis:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"WhitePixelRemovalThreshold": {
+				"text": "WhitePixelRemovalThreshold:"
+			},
+			"okButton": {
+				"value": "Gerai"
+			}
+		},
+		"imageProcessingSettingsDialog-HolePunchRemoval": {
+			"title": "Vaizdo apdorojimo komandos nustatymai ('HolePunchRemoval')",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"+ Binarization": {
+				"text": "+ Binarizacija:"
+			},
+			"BinarizationMode": {
+				"text": "BinarizationMode:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ConvertToBlackLevel": {
+				"text": "ConvertToBlackLevel:"
+			},
+			"ConvertToWhiteLevel": {
+				"text": "ConvertToWhiteLevel:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"LuminanceComputationMode": {
+				"text": "LuminanceComputationMode:"
+			},
+			"MaxLevelDifference": {
+				"text": "MaxLevelDifference:"
+			},
+			"MinLevelDifference": {
+				"text": "MinLevelDifference:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"Threshold": {
+				"text": "Slenkstis:"
+			},
+			"WindowRadius": {
+				"text": "WindowRadius:"
+			},
+			"FillBorderSize": {
+				"text": "FillBorderSize:"
+			},
+			"FillColor": {
+				"text": "FillColor:"
+			},
+			"FillColorAutoDetection": {
+				"text": "FillColorAutoDetection:"
+			},
+			"HolePunchLocation": {
+				"text": "HolePunchLocation:"
+			},
+			"selectAllLabel": {
+				"text": "Pasirinkti viską"
+			},
+			"bottom": {
+				"text": "Apačia"
+			},
+			"left": {
+				"text": "Kairė"
+			},
+			"right": {
+				"text": "Teisingai"
+			},
+			"top": {
+				"text": "Į viršų"
+			},
+			"undefined": {
+				"text": "Neapibrėžtas"
+			},
+			"MaxHoleSize": {
+				"text": "MaxHoleSize:"
+			},
+			"MinHoleSize": {
+				"text": "MinHoleSize:"
+			},
+			"+ Region": {
+				"text": "+ Regionas:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "plotis:"
+			},
+			"height": {
+				"text": "aukštis:"
+			},
+			"okButton": {
+				"value": "Gerai"
+			}
+		},
+		"imageProcessingSettingsDialog-LineRemoval": {
+			"title": "Vaizdo apdorojimo komandos nustatymai ('LineRemoval')",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"+ Binarization": {
+				"text": "+ Binarizacija:"
+			},
+			"BinarizationMode": {
+				"text": "BinarizationMode:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ConvertToBlackLevel": {
+				"text": "ConvertToBlackLevel:"
+			},
+			"ConvertToWhiteLevel": {
+				"text": "ConvertToWhiteLevel:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"LuminanceComputationMode": {
+				"text": "LuminanceComputationMode:"
+			},
+			"MaxLevelDifference": {
+				"text": "MaxLevelDifference:"
+			},
+			"MinLevelDifference": {
+				"text": "MinLevelDifference:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"Threshold": {
+				"text": "Slenkstis:"
+			},
+			"WindowRadius": {
+				"text": "WindowRadius:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"Direction": {
+				"text": "Kryptis:"
+			},
+			"selectAllLabel": {
+				"text": "Pasirinkti viską"
+			},
+			"horizontal": {
+				"text": "Horizontaliai"
+			},
+			"vertical": {
+				"text": "Vertikalus"
+			},
+			"FillColor": {
+				"text": "FillColor:"
+			},
+			"FillColorAutoDetection": {
+				"text": "FillColorAutoDetection:"
+			},
+			"LineEndsType": {
+				"text": "LineEndsType:"
+			},
+			"LinesType": {
+				"text": "LinesType:"
+			},
+			"MaxCurvature": {
+				"text": "MaxCurvature:"
+			},
+			"MaxDeviationAngle": {
+				"text": "MaxDeviationAngle:"
+			},
+			"MaxGapLength": {
+				"text": "MaxGapLength:"
+			},
+			"MaxLength": {
+				"text": "MaxLength:"
+			},
+			"MaxWidth": {
+				"text": "MaxWidth:"
+			},
+			"MinConfidence": {
+				"text": "MinConfidence:"
+			},
+			"MinLength": {
+				"text": "MinLength:"
+			},
+			"MinSizeRatio": {
+				"text": "MinSizeRatio:"
+			},
+			"MinWidth": {
+				"text": "MinWidth:"
+			},
+			"ReconnectBrokenObjects": {
+				"text": "ReconnectBrokenObjects:"
+			},
+			"+ Region": {
+				"text": "+ Regionas:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "plotis:"
+			},
+			"height": {
+				"text": "aukštis:"
+			},
+			"okButton": {
+				"value": "Gerai"
+			}
+		}
+	},
+	"downloadResultLink": {
+		"text": "Atsisiųsti atpažinimo rezultatus"
+	},
+	"strings": {
+		"vsdv-uploadAndOpenFileButton-uploadFileString": "Įkelti ir atidaryti failą",
+		"vsdv-uploadAndAddFileButton-addFileString": "Įkelti ir pridėti failą",
+		"vsui-imageProcessingPanel-imageProcessingString": "Vaizdo apdorojimas",
+		"vsui-textSearchPanel-pageLabel": "Puslapis",
+		"vsdv-openFile-addFileString": "Pridėti failą",
+		"vsdv-openFile-authenticateFileString": "Autentifikuoti failą",
+		"vsdv-downloadFile-actionMessage": "Atsisiųsti failą",
+		"vsdv-saveChanges-saveChangesInImages": "Išsaugokite vaizdų pakeitimus",
+		"vsui-documentNavigationTool-getActions": "Gaukite veiksmų",
+		"vsdv-saveChanges-saveChangesInAnnotations": "Išsaugokite komentarų pakeitimus",
+		"vsdv-saveChanges-burnAnnotationsInImages": "Įrašykite komentarus ant vaizdų",
+		"vsui-dialog-okButton": "Gerai",
+		"vsui-multiselect-noneSelected": "Nė vienas nepasirinktas",
+		"vsui-multiselect-allSelected": "Visi pasirinkti",
+		"vsui-multiselect-selected": "pasirinktas",
+		"vsdv-saveChanges-saveChangesInPdfDocument": "Išsaugokite pakeitimus PDF dokumente",
+		"vsui-documentPasswordDialog-title": "Dokumento slaptažodis",
+		"vsui-dialog-cancelButton": "Atšaukti",
+		"vsui-documentPasswordPanel-authenticateFileString": "Autentifikuoti failą",
+		"vsui-imageSelectionDialog-title": "Pasirinkite vaizdus",
+		"vsui-imageSelectionDialog-currentImageString": "Dabartinis vaizdas",
+		"vsui-imageSelectionDialog-allImagesString": "Visi vaizdai",
+		"vsui-imageSelectionDialog-customImagesString": "Pasirinktinis",
+		"vsui-printImagesDialog-title": "Spausdinti vaizdus",
+		"vsui-printImagesPanel-imagePrintingString": "Vaizdas spausdinamas",
+		"vsui-printImagesPanel-withAnnotationsLabel": "su anotacijomis",
+		"vsui-imageViewerSettingsDialog-title": "Vaizdų peržiūros programos nustatymai",
+		"vsui-thumbnailViewerSettingDialog-title": "Miniatiūrų peržiūros priemonės nustatymai",
+		"vsui-thumbnailViewerSettingsDialog-showAnnotationsLabel": "Rodyti komentarus:",
+		"vsdv-uploadImageFromUrlDialog-title": "Įkelti vaizdą iš URL",
+		"vsdv-dialog-okButton": "Gerai",
+		"vsdv-dialog-cancelButton": "Atšaukti"
+	}
+}

@@ -1,0 +1,1154 @@
+﻿{
+	"documentViewer": {
+		"fileLabel": {
+			"text": "Fil"
+		},
+		"viewLabel": {
+			"text": "Visa"
+		},
+		"toolsLabel": {
+			"text": "Verktyg"
+		},
+		"ocrPanelLabel": {
+			"text": "OCR"
+		},
+		"uploadAndOpenFileButton": {
+			"title": "Ladda ner och öppna filen"
+		},
+		"uploadAndAddFileButton": {
+			"title": "Ladda upp och lägg till fil"
+		},
+		"previousUploadFilesButton": {
+			"title": "Visa en lista över tidigare nedladdade filer"
+		},
+		"openFileFromUrlButton": {
+			"title": "Öppna filen från URL"
+		},
+		"printImagesButton": {
+			"title": "Skriv ut bilder"
+		},
+		"downloadFileButton": {
+			"title": "Nedladdning fil"
+		},
+		"exportAndDownloadFileButton": {
+			"title": "Exportera och ladda ner fil"
+		},
+		"clearSessionCacheButton": {
+			"title": "Rensa sessionscache"
+		},
+		"fitToWidthSizeModeButton": {
+			"title": "Anpassa till bredd"
+		},
+		"rotateViewsCounterClockwiseButton": {
+			"title": "Rotera alla vyer moturs"
+		},
+		"rotateAngleInput": {
+			"title": "Rotationsvinkel"
+		},
+		"rotateViewsClockwiseButton": {
+			"title": "Rotera alla vyer medurs"
+		},
+		"imageViewerSettingsButton": {
+			"title": "Inställningar för bildvisning"
+		},
+		"thumbnailViewerSettingsButton": {
+			"title": "Inställningar för miniatyrvisning"
+		},
+		"panToolButton": {
+			"title": "Panera"
+		},
+		"rectangularSelectionToolButton": {
+			"title": "Rektangulärt urval"
+		},
+		"magnifierToolButton": {
+			"title": "Förstoringsglas"
+		},
+		"zoomToolButton": {
+			"title": "Skala"
+		},
+		"zoomSelectionToolButton": {
+			"title": "Skalval"
+		},
+		"TextSelectionToolButton": {
+			"title": "Markera text"
+		},
+		"recognizeTextFromAllPagesAndOpenResultButton": {
+			"title": "Känn igen text från alla sidor och öppna filen med igenkänd text"
+		},
+		"recognizeTextFromAllPagesAndDownloadResultButton": {
+			"title": "Känn igen text från alla sidor och ladda ner fil med igenkänd text"
+		},
+		"recognizeTextFromFocusedPageAndDownloadResultButton": {
+			"title": "Känn igen text från fokuserad sida och ladda ner fil med igenkänd text"
+		},
+		"recognizeTextFromRegionOfFocusedPageAndDownloadResultButton": {
+			"title": "Känn igen text från området på den fokuserade sidan och ladda ner fil med igenkänd text"
+		},
+		"ocrSettingsButton": {
+			"title": "OCR-inställningar"
+		},
+		"sidePanelCloseButton": {
+			"title": "Visa sidofältet"
+		},
+		"showThumbnailViewerPanelButton": {
+			"title": "Miniatyrer"
+		},
+		"showPanelButton": {
+			"title": "Bildbehandling"
+		},
+		"showTextSelectionPanelButton": {
+			"title": "Markera text"
+		},
+		"showTextSearchPanelButton": {
+			"title": "Sök efter text"
+		},
+		"imageProcessingPanel": {
+			"parametersButton": {
+				"value": "inställningar"
+			},
+			"runButton": {
+				"value": "Tillämpa"
+			}
+		},
+		"textSelectionPanel": {
+			"selectionModeLabel": {
+				"text": "Textvalsläge:"
+			},
+			"rectangleOption": {
+				"text": "Rektangel"
+			},
+			"fullLinesOption": {
+				"text": "Fullständiga rader"
+			},
+			"selectionColorLabel": {
+				"text": "Färg på vald text:"
+			},
+			"selectedTextLabel": {
+				"text": "Vald text:"
+			}
+		},
+		"textSearchPanel": {
+			"findLabel": {
+				"text": "Sök:"
+			},
+			"whereLookLabel": {
+				"text": "Sök på:"
+			},
+			"currentPageOption": {
+				"text": "Aktuell sida"
+			},
+			"allPagesOption": {
+				"text": "Alla sidor"
+			},
+			"wholeWordLabel": {
+				"text": "Sök hela ordet"
+			},
+			"caseSensitiveLabel": {
+				"text": " Skiftlägeskänslig"
+			},
+			"startSearchButton": {
+				"value": "Starta sökning"
+			},
+			"stopSearchButton": {
+				"value": "Sluta söka"
+			},
+			"textNotFoundLabel": {
+				"text": "Texten hittades inte."
+			}
+		},
+		"gotoFirstPageButton": {
+			"title": "Gå till första bilden"
+		},
+		"gotoPreviousPageButton": {
+			"title": "Gå till föregående bild"
+		},
+		"gotoPageInput": {
+			"title": "Sida"
+		},
+		"gotoNextPageButton": {
+			"title": "Gå till nästa bild"
+		},
+		"gotoLastPageButton": {
+			"title": "Gå till sista bilden"
+		},
+		"zoomOutButton": {
+			"title": "Zooma ut"
+		},
+		"zoomValueInput": {
+			"title": "Skala"
+		},
+		"zoomInButton": {
+			"title": "Zooma in"
+		},
+		"ocrSettingsDialog": {
+			"title": "OCR-inställningar",
+			"ImageBinarizationMode": {
+				"text": "ImageBinarizationMode:"
+			},
+			"Languages": {
+				"text": "Språk:"
+			},
+			"selectAllLabel": {
+				"text": "Välj alla"
+			},
+			"english": {
+				"text": "engelsk"
+			},
+			"french": {
+				"text": "Det franska språket"
+			},
+			"german": {
+				"text": "Det tyska språket"
+			},
+			"italian": {
+				"text": "Det italienska språket"
+			},
+			"osd": {
+				"text": "Orienteringsdetekteringen"
+			},
+			"portuguese": {
+				"text": "Det portugisiska språket"
+			},
+			"russian": {
+				"text": "Det ryska språket"
+			},
+			"spanish": {
+				"text": "Spanska språket"
+			},
+			"RecognitionMode": {
+				"text": "RecognitionMode:"
+			},
+			"RecognitionRegionType": {
+				"text": "RecognitionRegionType:"
+			},
+			"ResultFileFormat": {
+				"text": "ResultFileFormat:"
+			},
+			"ResultFileName": {
+				"text": "ResultFileName:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"normalSizeModeButton": {
+			"title": "Normal"
+		},
+		"bestFitSizeModeButton": {
+			"title": "Best lämplig"
+		},
+		"fitToHeightSizeModeButton": {
+			"title": "Finhöjd"
+		},
+		"pixelToPixelSizeModeButton": {
+			"title": "Pixel till Pixel"
+		},
+		"zoomSizeModeButton": {
+			"title": "Skala"
+		},
+		"documentPasswordDialog": {
+			"pleaseEnterPasswordLabel": {
+				"text": "Detta dokument är lösenordsskyddat. Vänligen ange ett lösenord."
+			},
+			"passwordLabel": {
+				"text": "Lösenord:"
+			},
+			"showPasswordLabel": {
+				"text": "Visa lösenord"
+			},
+			"incorrectPasswordLabel": {
+				"text": "Fel lösenord"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"сancelButton": {
+				"value": "Avbryt"
+			}
+		},
+		"selectImagesDialog": {
+			"imagesLabel": {
+				"text": "Bilder:"
+			},
+			"currentImageOption": {
+				"text": "Aktuell bild"
+			},
+			"allImagesOption": {
+				"text": "Alla bilder"
+			},
+			"customImagesOption": {
+				"text": "Anpassad"
+			},
+			"imageRangeLabel": {
+				"text": "Bildintervall:"
+			},
+			"invalidRangeErrorMessageLabel": {
+				"text": "Ogiltigt sidintervall. Exempel: 1-5, 8, 12-15."
+			},
+			"outOfRangeErrorMessageLabel": {
+				"text": "Indexet ligger inte inom bildsamlingens indexintervall."
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"сancelButton": {
+				"value": "Avbryt"
+			}
+		},
+		"printImagesDialog": {
+			"imagesLabel": {
+				"text": "Bilder:"
+			},
+			"currentImageOption": {
+				"text": "Aktuell bild"
+			},
+			"allImagesOption": {
+				"text": "Alla bilder"
+			},
+			"customImagesOption": {
+				"text": "Anpassad"
+			},
+			"imageRangeLabel": {
+				"text": "Bildintervall:"
+			},
+			"invalidRangeErrorMessageLabel": {
+				"text": "Ogiltigt sidintervall. Exempel: 1-5, 8, 12-15."
+			},
+			"outOfRangeErrorMessageLabel": {
+				"text": "Indexet ligger inte inom bildsamlingens indexintervall."
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"cancelButton": {
+				"value": "Avbryt"
+			}
+		},
+		"imageViewerSettingsDialog": {
+			"imageDisplayModeLabel": {
+				"text": "Bildvisningsläge:"
+			},
+			"imageAnchorLabel": {
+				"text": "Bildankare:"
+			},
+			"noneOption": {
+				"text": "Nej"
+			},
+			"topLeftOption": {
+				"text": "Överst|Vänster"
+			},
+			"topOption": {
+				"text": "Överst"
+			},
+			"topRightOption": {
+				"text": "Överst|Höger"
+			},
+			"rightOption": {
+				"text": "Höger"
+			},
+			"bottomRightOption": {
+				"text": "Nedre|Höger"
+			},
+			"bottomOption": {
+				"text": "Nedertill"
+			},
+			"bottomLeftOption": {
+				"text": "Nedre|Vänster"
+			},
+			"leftOption": {
+				"text": "Vänster"
+			},
+			"multipageDisplayModeLabel": {
+				"text": "Visningsläge för flera sidor:"
+			},
+			"allImagesOption": {
+				"text": "AllImages"
+			},
+			"fixedImagesOption": {
+				"text": "FixedImages"
+			},
+			"layoutDirectionLabel": {
+				"text": "Layoutriktning:"
+			},
+			"horizontalOption": {
+				"text": "Horisontell"
+			},
+			"verticalOption": {
+				"text": "Vertikal"
+			},
+			"rowColumnCountLabel": {
+				"text": "Bilder i rad/kolumn:"
+			},
+			"imagePaddingLabel": {
+				"text": "Utfyllnad av bilder:"
+			},
+			"appearancesLabel": {
+				"text": "Utseende"
+			},
+			"imageAppearanceLabel": {
+				"text": "Bildens utseende"
+			},
+			"imageAppearanceBackColorLabel": {
+				"text": "Bakgrundsfärg:"
+			},
+			"imageAppearanceBorderColorLabel": {
+				"text": "Kantfärg:"
+			},
+			"imageAppearanceBorderWidthLabel": {
+				"text": "Kantbredd:"
+			},
+			"focusedImageAppearanceLabel": {
+				"text": "Utseendet på bilden i fokus"
+			},
+			"focusedImageAppearanceBackColorLabel": {
+				"text": "Bakgrundsfärg:"
+			},
+			"focusedImageAppearanceBorderColorLabel": {
+				"text": "Kantfärg:"
+			},
+			"focusedImageAppearanceBorderWidthLabel": {
+				"text": "Kantbredd:"
+			},
+			"useAppearanceInSinglePageModeLabel": {
+				"text": "Använd bildens utseende i ensidigt läge"
+			},
+			"renderingSettingsLabel": {
+				"text": "Återgivningsinställningar"
+			},
+			"defaultRenderingSettingsLabel": {
+				"text": "Standardinställningar"
+			},
+			"horizontalResolutionLabel": {
+				"text": "Horisontell upplösning:"
+			},
+			"verticalResolutionLabel ": {
+				"text": "Vertikal upplösning:"
+			},
+			"smoothingModeLabel": {
+				"text": "Smidigt läge:"
+			},
+			"AntiAlias": {
+				"text": "AntiAlias"
+			},
+			"None": {
+				"text": "Nej"
+			},
+			"interpolationModeLabel": {
+				"text": "Interpolationsläge:"
+			},
+			"Bicubic": {
+				"text": "Bicubic"
+			},
+			"Bilinear": {
+				"text": "Bilinear"
+			},
+			"HighQualityBicubic": {
+				"text": "HighQualityBicubic"
+			},
+			"HighQualityBilinear": {
+				"text": "HighQualityBilinear"
+			},
+			"NearestNeighbor": {
+				"text": "NearestNeighbor"
+			},
+			"otherSettingsLabel": {
+				"text": "Andra inställningar"
+			},
+			"backgroundColorLabel": {
+				"text": "Bildvisarens bakgrundsfärg:"
+			},
+			"centerImageLabel": {
+				"text": "Centerbild:"
+			},
+			"resizeTimeoutLabel ": {
+				"text": "Timeout för ändra storlek:"
+			},
+			"tileSizeLabel": {
+				"text": "Brickstorlek:"
+			},
+			"colorManagementLabel": {
+				"text": "Aktivera färghantering:"
+			},
+			"useVectorRenderingLabel": {
+				"text": "Använd vektorrendering för dokument:"
+			},
+			"vectorContentBackgroundColorLabel": {
+				"text": "Vektorinnehållets bakgrundsfärg:"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"сancelButton": {
+				"value": "Avbryt"
+			}
+		},
+		"thumbnailViewerSettingsDialog": {
+			"sizeLabel": {
+				"text": "Miniatyrstorlek:"
+			},
+			"scaleLabel": {
+				"text": "Miniatyrskala:"
+			},
+			"smallestOption": {
+				"text": "Minst"
+			},
+			"smallOption": {
+				"text": "Liten"
+			},
+			"normalOption": {
+				"text": "Normal"
+			},
+			"largeOption": {
+				"text": "Stor"
+			},
+			"flowStyleLabel": {
+				"text": "Miniatyrplaceringsstil:"
+			},
+			"singleColumnOption": {
+				"text": "SingleColumn"
+			},
+			"singleRowOption": {
+				"text": "SingleRow"
+			},
+			"fixedColumnsOption": {
+				"text": "FixedColumns"
+			},
+			"wrappedRowsOption": {
+				"text": "WrappedRows"
+			},
+			"columnCountLabel": {
+				"text": "Antal kolumner:"
+			},
+			"marginLabel": {
+				"text": "Utanvänd stoppning:"
+			},
+			"paddingTopLabel": {
+				"text": "Övre stoppning:"
+			},
+			"paddingRightLabel": {
+				"text": "Höger indrag:"
+			},
+			"paddingBottomLabel": {
+				"text": "Undertillsats:"
+			},
+			"paddingLeftLabel": {
+				"text": "Vänster indrag:"
+			},
+			"showCaptionLabel": {
+				"text": "Visa miniatyrbildstexter:"
+			},
+			"captionFormatLabel": {
+				"text": "Signaturformat:"
+			},
+			"captionAnchorLabel": {
+				"text": "Signaturankare:"
+			},
+			"topLeftOption": {
+				"text": "Överst|Vänster"
+			},
+			"topOption": {
+				"text": "Överst"
+			},
+			"topRightOption": {
+				"text": "Överst|Höger"
+			},
+			"rightOption": {
+				"text": "Höger"
+			},
+			"bottomRightOption": {
+				"text": "Nedre|Höger"
+			},
+			"bottomOption": {
+				"text": "Nedertill"
+			},
+			"bottomLeftOption": {
+				"text": "Nedre|Vänster"
+			},
+			"leftOption": {
+				"text": "Vänster"
+			},
+			"centerOption": {
+				"text": "Justera centrera"
+			},
+			"focusOnHoverLabel": {
+				"text": "Fokus vid muspekaren:"
+			},
+			"multiSelectLabel": {
+				"text": "Tillåt val av flera miniatyrer:"
+			},
+			"useThumbnailCheckboxesLabel": {
+				"text": "Använd kryssrutor för miniatyr:"
+			},
+			"useThumbnailActionsPanelLabel": {
+				"text": "Använd åtgärdspanelen för miniatyr:"
+			},
+			"canDragThumbnailsLabel": {
+				"text": "Kan dra miniatyrer:"
+			},
+			"canNavigateThumbnailsUsingKeyboardLabel": {
+				"text": "Kan navigera miniatyrer med tangentbordet:"
+			},
+			"canSelectThumbnailsUsingKeyboardLabel": {
+				"text": "Kan välja miniatyrer med tangentbordet:"
+			},
+			"canDeleteThumbnailsUsingKeyboardLabel": {
+				"text": "Kan ta bort miniatyrer med tangentbordet:"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"сancelButton": {
+				"value": "Avbryt"
+			}
+		},
+		"uploadImageFromUrlDialog": {
+			"okButton": {
+				"value": "OK"
+			},
+			"cancelButton": {
+				"value": "Avbryt"
+			}
+		},
+		"imageProcessingSettingsDialog-AutoInvert": {
+			"title": "Inställningar för bildbehandlingskommando (AutoInvert)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"imageProcessingSettingsDialog-AutoTextOrientation": {
+			"title": "Inställningar för bildbehandlingskommando (AutoTextOrientation)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"+ Binarization": {
+				"text": "+ Binarisering:"
+			},
+			"BinarizationMode": {
+				"text": "BinarizationMode:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ConvertToBlackLevel": {
+				"text": "ConvertToBlackLevel:"
+			},
+			"ConvertToWhiteLevel": {
+				"text": "ConvertToWhiteLevel:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"LuminanceComputationMode": {
+				"text": "LuminanceComputationMode:"
+			},
+			"MaxLevelDifference": {
+				"text": "MaxLevelDifference:"
+			},
+			"MinLevelDifference": {
+				"text": "MinLevelDifference:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"Threshold": {
+				"text": "Tröskel:"
+			},
+			"WindowRadius": {
+				"text": "WindowRadius:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"MinConfidence": {
+				"text": "MinConfidence:"
+			},
+			"StripWidth": {
+				"text": "StripWidth:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"imageProcessingSettingsDialog-BorderClear": {
+			"title": "Inställningar för bildbehandlingskommando (BorderClear)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"imageProcessingSettingsDialog-Deskew": {
+			"title": "Inställningar för bildbearbetningskommando (deskew)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"BorderColor": {
+				"text": "BorderColor:"
+			},
+			"BorderColorType": {
+				"text": "BorderColorType:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"MaxAngle": {
+				"text": "MaxAngle:"
+			},
+			"MinConfidence": {
+				"text": "MinConfidence:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"ScanIntervalX": {
+				"text": "ScanIntervalX:"
+			},
+			"ScanIntervalY": {
+				"text": "ScanIntervalY:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"imageProcessingSettingsDialog-Despeckle": {
+			"title": "Inställningar för bildbehandlingskommando (fläckar)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"AutoConfigureLevels": {
+				"text": "AutoConfigureLevels:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"Level1": {
+				"text": "Nivå 1:"
+			},
+			"Level2": {
+				"text": "Nivå 2:"
+			},
+			"Radius": {
+				"text": "Radie:"
+			},
+			"+ Region": {
+				"text": "+ Region:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "Bredd:"
+			},
+			"height": {
+				"text": "Höjd:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"imageProcessingSettingsDialog-HalftoneRemoval": {
+			"title": "Inställningar för bildbehandlingskommando (HalftoneRemoval)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"AutoThreshold": {
+				"text": "AutoThreshold:"
+			},
+			"BlackPixelRemovalThreshold": {
+				"text": "BlackPixelRemovalThreshold:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"CellSize": {
+				"text": "CellSize:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"MaxSegmentSize": {
+				"text": "MaxSegmentSize:"
+			},
+			"MinHalftoneHeight": {
+				"text": "MinHalftoneHeight:"
+			},
+			"MinHalftoneWidth": {
+				"text": "MinHalftoneWidth:"
+			},
+			"+ Region": {
+				"text": "+ Region:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "Bredd:"
+			},
+			"height": {
+				"text": "Höjd:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"WhitePixelRemovalThreshold": {
+				"text": "WhitePixelRemovalThreshold:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"imageProcessingSettingsDialog-HolePunchRemoval": {
+			"title": "Inställningar för bildbehandlingskommando (HolePunchRemoval)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"+ Binarization": {
+				"text": "+ Binarisering:"
+			},
+			"BinarizationMode": {
+				"text": "BinarizationMode:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ConvertToBlackLevel": {
+				"text": "ConvertToBlackLevel:"
+			},
+			"ConvertToWhiteLevel": {
+				"text": "ConvertToWhiteLevel:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"LuminanceComputationMode": {
+				"text": "LuminanceComputationMode:"
+			},
+			"MaxLevelDifference": {
+				"text": "MaxLevelDifference:"
+			},
+			"MinLevelDifference": {
+				"text": "MinLevelDifference:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"Threshold": {
+				"text": "Tröskel:"
+			},
+			"WindowRadius": {
+				"text": "WindowRadius:"
+			},
+			"FillBorderSize": {
+				"text": "FillBorderSize:"
+			},
+			"FillColor": {
+				"text": "FillColor:"
+			},
+			"FillColorAutoDetection": {
+				"text": "FillColorAutoDetection:"
+			},
+			"HolePunchLocation": {
+				"text": "HolePunchLocation:"
+			},
+			"selectAllLabel": {
+				"text": "Välj alla"
+			},
+			"bottom": {
+				"text": "Nedertill"
+			},
+			"left": {
+				"text": "Vänster"
+			},
+			"right": {
+				"text": "Höger"
+			},
+			"top": {
+				"text": "Överst"
+			},
+			"undefined": {
+				"text": "Odefinierad"
+			},
+			"MaxHoleSize": {
+				"text": "MaxHoleSize:"
+			},
+			"MinHoleSize": {
+				"text": "MinHoleSize:"
+			},
+			"+ Region": {
+				"text": "+ Region:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "Bredd:"
+			},
+			"height": {
+				"text": "Höjd:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"imageProcessingSettingsDialog-LineRemoval": {
+			"title": "Inställningar för bildbehandlingskommando (LineRemoval)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"+ Binarization": {
+				"text": "+ Binarisering:"
+			},
+			"BinarizationMode": {
+				"text": "BinarizationMode:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ConvertToBlackLevel": {
+				"text": "ConvertToBlackLevel:"
+			},
+			"ConvertToWhiteLevel": {
+				"text": "ConvertToWhiteLevel:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"LuminanceComputationMode": {
+				"text": "LuminanceComputationMode:"
+			},
+			"MaxLevelDifference": {
+				"text": "MaxLevelDifference:"
+			},
+			"MinLevelDifference": {
+				"text": "MinLevelDifference:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"Threshold": {
+				"text": "Tröskel:"
+			},
+			"WindowRadius": {
+				"text": "WindowRadius:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"Direction": {
+				"text": "Riktning:"
+			},
+			"selectAllLabel": {
+				"text": "Välj alla"
+			},
+			"horizontal": {
+				"text": "Horisontell"
+			},
+			"vertical": {
+				"text": "Vertikal"
+			},
+			"FillColor": {
+				"text": "FillColor:"
+			},
+			"FillColorAutoDetection": {
+				"text": "FillColorAutoDetection:"
+			},
+			"LineEndsType": {
+				"text": "LineEndsType:"
+			},
+			"LinesType": {
+				"text": "LinesType:"
+			},
+			"MaxCurvature": {
+				"text": "MaxCurvature:"
+			},
+			"MaxDeviationAngle": {
+				"text": "MaxDeviationAngle:"
+			},
+			"MaxGapLength": {
+				"text": "MaxGapLength:"
+			},
+			"MaxLength": {
+				"text": "MaxLength:"
+			},
+			"MaxWidth": {
+				"text": "MaxWidth:"
+			},
+			"MinConfidence": {
+				"text": "MinConfidence:"
+			},
+			"MinLength": {
+				"text": "MinLength:"
+			},
+			"MinSizeRatio": {
+				"text": "MinSizeRatio:"
+			},
+			"MinWidth": {
+				"text": "MinWidth:"
+			},
+			"ReconnectBrokenObjects": {
+				"text": "ReconnectBrokenObjects:"
+			},
+			"+ Region": {
+				"text": "+ Region:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "Bredd:"
+			},
+			"height": {
+				"text": "Höjd:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		}
+	},
+	"downloadResultLink": {
+		"text": "Ladda ner resultat av erkännande"
+	},
+	"strings": {
+		"vsdv-uploadAndOpenFileButton-uploadFileString": "Ladda ner och öppna filen",
+		"vsdv-uploadAndAddFileButton-addFileString": "Ladda upp och lägg till fil",
+		"vsui-imageProcessingPanel-imageProcessingString": "Bildbehandling",
+		"vsui-textSearchPanel-pageLabel": "Sida",
+		"vsdv-openFile-addFileString": "Lägg till fil",
+		"vsdv-openFile-authenticateFileString": "Autentisera fil",
+		"vsdv-downloadFile-actionMessage": "Nedladdning fil",
+		"vsdv-saveChanges-saveChangesInImages": "Spara ändringar i bilder",
+		"vsui-documentNavigationTool-getActions": "Få åtgärder",
+		"vsdv-saveChanges-saveChangesInAnnotations": "Spara ändringar i kommentarer",
+		"vsdv-saveChanges-burnAnnotationsInImages": "Bränn kommentarer på bilder",
+		"vsui-dialog-okButton": "OK",
+		"vsui-multiselect-noneSelected": "Ingen är vald",
+		"vsui-multiselect-allSelected": "Alla valda",
+		"vsui-multiselect-selected": "vald",
+		"vsdv-saveChanges-saveChangesInPdfDocument": "Spara ändringar i PDF-dokument",
+		"vsui-documentPasswordDialog-title": "Dokumentlösenord",
+		"vsui-dialog-cancelButton": "Avbryt",
+		"vsui-documentPasswordPanel-authenticateFileString": "Autentisera fil",
+		"vsui-imageSelectionDialog-title": "Välj bilder",
+		"vsui-imageSelectionDialog-currentImageString": "Aktuell bild",
+		"vsui-imageSelectionDialog-allImagesString": "Alla bilder",
+		"vsui-imageSelectionDialog-customImagesString": "Anpassad",
+		"vsui-printImagesDialog-title": "Skriv ut bilder",
+		"vsui-printImagesPanel-imagePrintingString": "Bilden skrivs ut",
+		"vsui-printImagesPanel-withAnnotationsLabel": "med kommentarer",
+		"vsui-imageViewerSettingsDialog-title": "Inställningar för bildvisning",
+		"vsui-thumbnailViewerSettingDialog-title": "Inställningar för miniatyrvisning",
+		"vsui-thumbnailViewerSettingsDialog-showAnnotationsLabel": "Visa kommentarer på miniatyrer:",
+		"vsdv-uploadImageFromUrlDialog-title": "Ladda upp bild från URL",
+		"vsdv-dialog-okButton": "OK",
+		"vsdv-dialog-cancelButton": "Avbryt"
+	}
+}

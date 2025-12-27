@@ -1,0 +1,1154 @@
+﻿{
+	"documentViewer": {
+		"fileLabel": {
+			"text": "Datoteka"
+		},
+		"viewLabel": {
+			"text": "Pogledaj"
+		},
+		"toolsLabel": {
+			"text": "Alati"
+		},
+		"ocrPanelLabel": {
+			"text": "OCR"
+		},
+		"uploadAndOpenFileButton": {
+			"title": "Preuzmi i otvori datoteku"
+		},
+		"uploadAndAddFileButton": {
+			"title": "Prenesi i dodaj datoteku"
+		},
+		"previousUploadFilesButton": {
+			"title": "Pogledajte popis prethodno preuzetih datoteka"
+		},
+		"openFileFromUrlButton": {
+			"title": "Otvori datoteku s URL-a"
+		},
+		"printImagesButton": {
+			"title": "Ispis slika"
+		},
+		"downloadFileButton": {
+			"title": "Preuzmi datoteku"
+		},
+		"exportAndDownloadFileButton": {
+			"title": "Izvoz i preuzimanje datoteke"
+		},
+		"clearSessionCacheButton": {
+			"title": "Očisti predmemoriju sesije"
+		},
+		"fitToWidthSizeModeButton": {
+			"title": "Prilagodi širini"
+		},
+		"rotateViewsCounterClockwiseButton": {
+			"title": "Rotirajte sve prikaze u smjeru suprotnom od kazaljke na satu"
+		},
+		"rotateAngleInput": {
+			"title": "Kut rotacije"
+		},
+		"rotateViewsClockwiseButton": {
+			"title": "Rotirajte sve prikaze u smjeru kazaljke na satu"
+		},
+		"imageViewerSettingsButton": {
+			"title": "Postavke preglednika slika"
+		},
+		"thumbnailViewerSettingsButton": {
+			"title": "Postavke pregledača sličica"
+		},
+		"panToolButton": {
+			"title": "Pan"
+		},
+		"rectangularSelectionToolButton": {
+			"title": "Pravokutni odabir"
+		},
+		"magnifierToolButton": {
+			"title": "Povećalo"
+		},
+		"zoomToolButton": {
+			"title": "Razmjer"
+		},
+		"zoomSelectionToolButton": {
+			"title": "Odabir mjerila"
+		},
+		"TextSelectionToolButton": {
+			"title": "Označi tekst"
+		},
+		"recognizeTextFromAllPagesAndOpenResultButton": {
+			"title": "Prepoznajte tekst sa svih stranica i otvorite datoteku s prepoznatim tekstom"
+		},
+		"recognizeTextFromAllPagesAndDownloadResultButton": {
+			"title": "Prepoznajte tekst sa svih stranica i preuzmite datoteku s prepoznatim tekstom"
+		},
+		"recognizeTextFromFocusedPageAndDownloadResultButton": {
+			"title": "Prepoznajte tekst s fokusirane stranice i preuzmite datoteku s prepoznatim tekstom"
+		},
+		"recognizeTextFromRegionOfFocusedPageAndDownloadResultButton": {
+			"title": "Prepoznajte tekst iz područja fokusirane stranice i preuzmite datoteku s prepoznatim tekstom"
+		},
+		"ocrSettingsButton": {
+			"title": "OCR postavke"
+		},
+		"sidePanelCloseButton": {
+			"title": "Prikaži bočnu traku"
+		},
+		"showThumbnailViewerPanelButton": {
+			"title": "Sličice"
+		},
+		"showPanelButton": {
+			"title": "Obrada slike"
+		},
+		"showTextSelectionPanelButton": {
+			"title": "Označi tekst"
+		},
+		"showTextSearchPanelButton": {
+			"title": "Traži tekst"
+		},
+		"imageProcessingPanel": {
+			"parametersButton": {
+				"value": "postavke"
+			},
+			"runButton": {
+				"value": "primijeniti"
+			}
+		},
+		"textSelectionPanel": {
+			"selectionModeLabel": {
+				"text": "Način odabira teksta:"
+			},
+			"rectangleOption": {
+				"text": "Pravokutnik"
+			},
+			"fullLinesOption": {
+				"text": "Puni redovi"
+			},
+			"selectionColorLabel": {
+				"text": "Boja odabranog teksta:"
+			},
+			"selectedTextLabel": {
+				"text": "Odabrani tekst:"
+			}
+		},
+		"textSearchPanel": {
+			"findLabel": {
+				"text": "Pronađi:"
+			},
+			"whereLookLabel": {
+				"text": "Traži na:"
+			},
+			"currentPageOption": {
+				"text": "Trenutna stranica"
+			},
+			"allPagesOption": {
+				"text": "Sve stranice"
+			},
+			"wholeWordLabel": {
+				"text": "Traži cijelu riječ"
+			},
+			"caseSensitiveLabel": {
+				"text": "Razlikuje velika i mala slova"
+			},
+			"startSearchButton": {
+				"value": "Pokreni pretragu"
+			},
+			"stopSearchButton": {
+				"value": "Prekini pretragu"
+			},
+			"textNotFoundLabel": {
+				"text": "Tekst nije pronađen."
+			}
+		},
+		"gotoFirstPageButton": {
+			"title": "Idi na prvu sliku"
+		},
+		"gotoPreviousPageButton": {
+			"title": "Idi na prethodnu sliku"
+		},
+		"gotoPageInput": {
+			"title": "Stranica"
+		},
+		"gotoNextPageButton": {
+			"title": "Idi na sljedeću sliku"
+		},
+		"gotoLastPageButton": {
+			"title": "Idi na posljednju sliku"
+		},
+		"zoomOutButton": {
+			"title": "Smanji"
+		},
+		"zoomValueInput": {
+			"title": "Razmjer"
+		},
+		"zoomInButton": {
+			"title": "Uvećaj"
+		},
+		"ocrSettingsDialog": {
+			"title": "OCR postavke",
+			"ImageBinarizationMode": {
+				"text": "ImageBinarizationMode:"
+			},
+			"Languages": {
+				"text": "Jezici:"
+			},
+			"selectAllLabel": {
+				"text": "Odaberi sve"
+			},
+			"english": {
+				"text": "Engleski"
+			},
+			"french": {
+				"text": "Francuski jezik"
+			},
+			"german": {
+				"text": "Njemački jezik"
+			},
+			"italian": {
+				"text": "Talijanski jezik"
+			},
+			"osd": {
+				"text": "Detekcija orijentacije"
+			},
+			"portuguese": {
+				"text": "portugalski jezik"
+			},
+			"russian": {
+				"text": "ruski jezik"
+			},
+			"spanish": {
+				"text": "Španjolski jezik"
+			},
+			"RecognitionMode": {
+				"text": "RecognitionMode:"
+			},
+			"RecognitionRegionType": {
+				"text": "RecognitionRegionType:"
+			},
+			"ResultFileFormat": {
+				"text": "ResultFileFormat:"
+			},
+			"ResultFileName": {
+				"text": "ResultFileName:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"normalSizeModeButton": {
+			"title": "Normalno"
+		},
+		"bestFitSizeModeButton": {
+			"title": "Najprikladnije"
+		},
+		"fitToHeightSizeModeButton": {
+			"title": "Prilagodi visini"
+		},
+		"pixelToPixelSizeModeButton": {
+			"title": "Pixel to Pixel"
+		},
+		"zoomSizeModeButton": {
+			"title": "Razmjer"
+		},
+		"documentPasswordDialog": {
+			"pleaseEnterPasswordLabel": {
+				"text": "Ovaj dokument je zaštićen lozinkom. Molimo unesite lozinku."
+			},
+			"passwordLabel": {
+				"text": "Lozinka:"
+			},
+			"showPasswordLabel": {
+				"text": "Prikaži lozinku"
+			},
+			"incorrectPasswordLabel": {
+				"text": "Pogrešna lozinka"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"сancelButton": {
+				"value": "Odustani"
+			}
+		},
+		"selectImagesDialog": {
+			"imagesLabel": {
+				"text": "Slike:"
+			},
+			"currentImageOption": {
+				"text": "Trenutna slika"
+			},
+			"allImagesOption": {
+				"text": "Sve slike"
+			},
+			"customImagesOption": {
+				"text": "Prilagođeno"
+			},
+			"imageRangeLabel": {
+				"text": "Raspon slike:"
+			},
+			"invalidRangeErrorMessageLabel": {
+				"text": "Nevažeći raspon stranica. Primjer: 1-5, 8, 12-15."
+			},
+			"outOfRangeErrorMessageLabel": {
+				"text": "Indeks nije unutar raspona indeksa zbirke slika."
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"сancelButton": {
+				"value": "Odustani"
+			}
+		},
+		"printImagesDialog": {
+			"imagesLabel": {
+				"text": "Slike:"
+			},
+			"currentImageOption": {
+				"text": "Trenutna slika"
+			},
+			"allImagesOption": {
+				"text": "Sve slike"
+			},
+			"customImagesOption": {
+				"text": "Prilagođeno"
+			},
+			"imageRangeLabel": {
+				"text": "Raspon slike:"
+			},
+			"invalidRangeErrorMessageLabel": {
+				"text": "Nevažeći raspon stranica. Primjer: 1-5, 8, 12-15."
+			},
+			"outOfRangeErrorMessageLabel": {
+				"text": "Indeks nije unutar raspona indeksa zbirke slika."
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"cancelButton": {
+				"value": "Odustani"
+			}
+		},
+		"imageViewerSettingsDialog": {
+			"imageDisplayModeLabel": {
+				"text": "Način prikaza slike:"
+			},
+			"imageAnchorLabel": {
+				"text": "Sidro slike:"
+			},
+			"noneOption": {
+				"text": "Ne"
+			},
+			"topLeftOption": {
+				"text": "Gore|Lijevo"
+			},
+			"topOption": {
+				"text": "Vrh"
+			},
+			"topRightOption": {
+				"text": "Gore|desno"
+			},
+			"rightOption": {
+				"text": "Tačno"
+			},
+			"bottomRightOption": {
+				"text": "Dolje|desno"
+			},
+			"bottomOption": {
+				"text": "Dno"
+			},
+			"bottomLeftOption": {
+				"text": "Dolje|lijevo"
+			},
+			"leftOption": {
+				"text": "Lijevo"
+			},
+			"multipageDisplayModeLabel": {
+				"text": "Način prikaza s više stranica:"
+			},
+			"allImagesOption": {
+				"text": "AllImages"
+			},
+			"fixedImagesOption": {
+				"text": "FixedImages"
+			},
+			"layoutDirectionLabel": {
+				"text": "Smjer izgleda:"
+			},
+			"horizontalOption": {
+				"text": "Vodoravno"
+			},
+			"verticalOption": {
+				"text": "Okomito"
+			},
+			"rowColumnCountLabel": {
+				"text": "Slike u retku/stupcu:"
+			},
+			"imagePaddingLabel": {
+				"text": "Ispod slika:"
+			},
+			"appearancesLabel": {
+				"text": "Izgledi"
+			},
+			"imageAppearanceLabel": {
+				"text": "Izgled slike"
+			},
+			"imageAppearanceBackColorLabel": {
+				"text": "Boja pozadine:"
+			},
+			"imageAppearanceBorderColorLabel": {
+				"text": "Boja obruba:"
+			},
+			"imageAppearanceBorderWidthLabel": {
+				"text": "Širina obruba:"
+			},
+			"focusedImageAppearanceLabel": {
+				"text": "Izgled slike u fokusu"
+			},
+			"focusedImageAppearanceBackColorLabel": {
+				"text": "Boja pozadine:"
+			},
+			"focusedImageAppearanceBorderColorLabel": {
+				"text": "Boja obruba:"
+			},
+			"focusedImageAppearanceBorderWidthLabel": {
+				"text": "Širina obruba:"
+			},
+			"useAppearanceInSinglePageModeLabel": {
+				"text": "Koristite izgled slike u načinu rada jedne stranice"
+			},
+			"renderingSettingsLabel": {
+				"text": "Postavke iscrtavanja"
+			},
+			"defaultRenderingSettingsLabel": {
+				"text": "Zadane postavke"
+			},
+			"horizontalResolutionLabel": {
+				"text": "Vodoravna razlučivost:"
+			},
+			"verticalResolutionLabel ": {
+				"text": "Okomita razlučivost:"
+			},
+			"smoothingModeLabel": {
+				"text": "Glatki način rada:"
+			},
+			"AntiAlias": {
+				"text": "AntiAlias"
+			},
+			"None": {
+				"text": "Ne"
+			},
+			"interpolationModeLabel": {
+				"text": "Način interpolacije:"
+			},
+			"Bicubic": {
+				"text": "Bicubic"
+			},
+			"Bilinear": {
+				"text": "Bilinear"
+			},
+			"HighQualityBicubic": {
+				"text": "HighQualityBicubic"
+			},
+			"HighQualityBilinear": {
+				"text": "HighQualityBilinear"
+			},
+			"NearestNeighbor": {
+				"text": "NearestNeighbor"
+			},
+			"otherSettingsLabel": {
+				"text": "Druge postavke"
+			},
+			"backgroundColorLabel": {
+				"text": "Boja pozadine preglednika slika:"
+			},
+			"centerImageLabel": {
+				"text": "Središnja slika:"
+			},
+			"resizeTimeoutLabel ": {
+				"text": "Istek vremena promjene veličine:"
+			},
+			"tileSizeLabel": {
+				"text": "Veličina pločice:"
+			},
+			"colorManagementLabel": {
+				"text": "Omogući upravljanje bojama:"
+			},
+			"useVectorRenderingLabel": {
+				"text": "Koristi vektorsko iscrtavanje za dokumente:"
+			},
+			"vectorContentBackgroundColorLabel": {
+				"text": "Boja pozadine vektorskog sadržaja:"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"сancelButton": {
+				"value": "Odustani"
+			}
+		},
+		"thumbnailViewerSettingsDialog": {
+			"sizeLabel": {
+				"text": "Veličina sličice:"
+			},
+			"scaleLabel": {
+				"text": "Sličica:"
+			},
+			"smallestOption": {
+				"text": "Najmanje"
+			},
+			"smallOption": {
+				"text": "Mali"
+			},
+			"normalOption": {
+				"text": "Normalno"
+			},
+			"largeOption": {
+				"text": "Veliki"
+			},
+			"flowStyleLabel": {
+				"text": "Stil postavljanja sličica:"
+			},
+			"singleColumnOption": {
+				"text": "SingleColumn"
+			},
+			"singleRowOption": {
+				"text": "SingleRow"
+			},
+			"fixedColumnsOption": {
+				"text": "FixedColumns"
+			},
+			"wrappedRowsOption": {
+				"text": "WrappedRows"
+			},
+			"columnCountLabel": {
+				"text": "Broj stupaca:"
+			},
+			"marginLabel": {
+				"text": "Vanjsko punjenje:"
+			},
+			"paddingTopLabel": {
+				"text": "Gornje punjenje:"
+			},
+			"paddingRightLabel": {
+				"text": "Desna uvlaka:"
+			},
+			"paddingBottomLabel": {
+				"text": "Donja podloga:"
+			},
+			"paddingLeftLabel": {
+				"text": "Lijeva uvlaka:"
+			},
+			"showCaptionLabel": {
+				"text": "Prikaži opise minijatura:"
+			},
+			"captionFormatLabel": {
+				"text": "Format potpisa:"
+			},
+			"captionAnchorLabel": {
+				"text": "Sidro potpisa:"
+			},
+			"topLeftOption": {
+				"text": "Gore|Lijevo"
+			},
+			"topOption": {
+				"text": "Vrh"
+			},
+			"topRightOption": {
+				"text": "Gore|desno"
+			},
+			"rightOption": {
+				"text": "Tačno"
+			},
+			"bottomRightOption": {
+				"text": "Dolje|desno"
+			},
+			"bottomOption": {
+				"text": "Dno"
+			},
+			"bottomLeftOption": {
+				"text": "Dolje|lijevo"
+			},
+			"leftOption": {
+				"text": "Lijevo"
+			},
+			"centerOption": {
+				"text": "Poravnaj u sredinu"
+			},
+			"focusOnHoverLabel": {
+				"text": "Fokus pri lebdenju:"
+			},
+			"multiSelectLabel": {
+				"text": "Dopusti odabir više sličica:"
+			},
+			"useThumbnailCheckboxesLabel": {
+				"text": "Koristite potvrdne okvire za minijaturu:"
+			},
+			"useThumbnailActionsPanelLabel": {
+				"text": "Koristite radnu ploču za minijaturu:"
+			},
+			"canDragThumbnailsLabel": {
+				"text": "Mogu povlačiti sličice:"
+			},
+			"canNavigateThumbnailsUsingKeyboardLabel": {
+				"text": "Može se kretati sličicama pomoću tipkovnice:"
+			},
+			"canSelectThumbnailsUsingKeyboardLabel": {
+				"text": "Možete odabrati sličice pomoću tipkovnice:"
+			},
+			"canDeleteThumbnailsUsingKeyboardLabel": {
+				"text": "Moguće brisanje sličica pomoću tipkovnice:"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"сancelButton": {
+				"value": "Odustani"
+			}
+		},
+		"uploadImageFromUrlDialog": {
+			"okButton": {
+				"value": "OK"
+			},
+			"cancelButton": {
+				"value": "Odustani"
+			}
+		},
+		"imageProcessingSettingsDialog-AutoInvert": {
+			"title": "Postavke naredbe za obradu slike (AutoInvert)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"imageProcessingSettingsDialog-AutoTextOrientation": {
+			"title": "Postavke naredbe za obradu slike (AutoTextOrientation)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"+ Binarization": {
+				"text": "+ Binarizacija:"
+			},
+			"BinarizationMode": {
+				"text": "BinarizationMode:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ConvertToBlackLevel": {
+				"text": "ConvertToBlackLevel:"
+			},
+			"ConvertToWhiteLevel": {
+				"text": "ConvertToWhiteLevel:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"LuminanceComputationMode": {
+				"text": "LuminanceComputationMode:"
+			},
+			"MaxLevelDifference": {
+				"text": "MaxLevelDifference:"
+			},
+			"MinLevelDifference": {
+				"text": "MinLevelDifference:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"Threshold": {
+				"text": "Prag:"
+			},
+			"WindowRadius": {
+				"text": "WindowRadius:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"MinConfidence": {
+				"text": "MinConfidence:"
+			},
+			"StripWidth": {
+				"text": "StripWidth:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"imageProcessingSettingsDialog-BorderClear": {
+			"title": "Postavke naredbe za obradu slike (BorderClear)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"imageProcessingSettingsDialog-Deskew": {
+			"title": "Postavke naredbe za obradu slike (Deskew)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"BorderColor": {
+				"text": "BorderColor:"
+			},
+			"BorderColorType": {
+				"text": "BorderColorType:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"MaxAngle": {
+				"text": "MaxAngle:"
+			},
+			"MinConfidence": {
+				"text": "MinConfidence:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"ScanIntervalX": {
+				"text": "ScanIntervalX:"
+			},
+			"ScanIntervalY": {
+				"text": "ScanIntervalY:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"imageProcessingSettingsDialog-Despeckle": {
+			"title": "Postavke naredbe za obradu slike (Despeckle)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"AutoConfigureLevels": {
+				"text": "AutoConfigureLevels:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"Level1": {
+				"text": "Razina 1:"
+			},
+			"Level2": {
+				"text": "Razina 2:"
+			},
+			"Radius": {
+				"text": "Radijus:"
+			},
+			"+ Region": {
+				"text": "+ Regija:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "Širina:"
+			},
+			"height": {
+				"text": "Visina:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"imageProcessingSettingsDialog-HalftoneRemoval": {
+			"title": "Postavke naredbe za obradu slike (HalftoneRemoval)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"AutoThreshold": {
+				"text": "AutoThreshold:"
+			},
+			"BlackPixelRemovalThreshold": {
+				"text": "BlackPixelRemovalThreshold:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"CellSize": {
+				"text": "CellSize:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"MaxSegmentSize": {
+				"text": "MaxSegmentSize:"
+			},
+			"MinHalftoneHeight": {
+				"text": "MinHalftoneHeight:"
+			},
+			"MinHalftoneWidth": {
+				"text": "MinHalftoneWidth:"
+			},
+			"+ Region": {
+				"text": "+ Regija:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "Širina:"
+			},
+			"height": {
+				"text": "Visina:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"WhitePixelRemovalThreshold": {
+				"text": "WhitePixelRemovalThreshold:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"imageProcessingSettingsDialog-HolePunchRemoval": {
+			"title": "Postavke naredbe za obradu slike (HolePunchRemoval)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"+ Binarization": {
+				"text": "+ Binarizacija:"
+			},
+			"BinarizationMode": {
+				"text": "BinarizationMode:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ConvertToBlackLevel": {
+				"text": "ConvertToBlackLevel:"
+			},
+			"ConvertToWhiteLevel": {
+				"text": "ConvertToWhiteLevel:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"LuminanceComputationMode": {
+				"text": "LuminanceComputationMode:"
+			},
+			"MaxLevelDifference": {
+				"text": "MaxLevelDifference:"
+			},
+			"MinLevelDifference": {
+				"text": "MinLevelDifference:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"Threshold": {
+				"text": "Prag:"
+			},
+			"WindowRadius": {
+				"text": "WindowRadius:"
+			},
+			"FillBorderSize": {
+				"text": "FillBorderSize:"
+			},
+			"FillColor": {
+				"text": "FillColor:"
+			},
+			"FillColorAutoDetection": {
+				"text": "FillColorAutoDetection:"
+			},
+			"HolePunchLocation": {
+				"text": "HolePunchLocation:"
+			},
+			"selectAllLabel": {
+				"text": "Odaberi sve"
+			},
+			"bottom": {
+				"text": "Dno"
+			},
+			"left": {
+				"text": "Lijevo"
+			},
+			"right": {
+				"text": "Tačno"
+			},
+			"top": {
+				"text": "Vrh"
+			},
+			"undefined": {
+				"text": "Nedefiniran"
+			},
+			"MaxHoleSize": {
+				"text": "MaxHoleSize:"
+			},
+			"MinHoleSize": {
+				"text": "MinHoleSize:"
+			},
+			"+ Region": {
+				"text": "+ Regija:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "Širina:"
+			},
+			"height": {
+				"text": "Visina:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"imageProcessingSettingsDialog-LineRemoval": {
+			"title": "Postavke naredbe za obradu slike (LineRemoval)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"+ Binarization": {
+				"text": "+ Binarizacija:"
+			},
+			"BinarizationMode": {
+				"text": "BinarizationMode:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ConvertToBlackLevel": {
+				"text": "ConvertToBlackLevel:"
+			},
+			"ConvertToWhiteLevel": {
+				"text": "ConvertToWhiteLevel:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"LuminanceComputationMode": {
+				"text": "LuminanceComputationMode:"
+			},
+			"MaxLevelDifference": {
+				"text": "MaxLevelDifference:"
+			},
+			"MinLevelDifference": {
+				"text": "MinLevelDifference:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"Threshold": {
+				"text": "Prag:"
+			},
+			"WindowRadius": {
+				"text": "WindowRadius:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"Direction": {
+				"text": "Smjer:"
+			},
+			"selectAllLabel": {
+				"text": "Odaberi sve"
+			},
+			"horizontal": {
+				"text": "Vodoravno"
+			},
+			"vertical": {
+				"text": "Okomito"
+			},
+			"FillColor": {
+				"text": "FillColor:"
+			},
+			"FillColorAutoDetection": {
+				"text": "FillColorAutoDetection:"
+			},
+			"LineEndsType": {
+				"text": "LineEndsType:"
+			},
+			"LinesType": {
+				"text": "LinesType:"
+			},
+			"MaxCurvature": {
+				"text": "MaxCurvature:"
+			},
+			"MaxDeviationAngle": {
+				"text": "MaxDeviationAngle:"
+			},
+			"MaxGapLength": {
+				"text": "MaxGapLength:"
+			},
+			"MaxLength": {
+				"text": "MaxLength:"
+			},
+			"MaxWidth": {
+				"text": "MaxWidth:"
+			},
+			"MinConfidence": {
+				"text": "MinConfidence:"
+			},
+			"MinLength": {
+				"text": "MinLength:"
+			},
+			"MinSizeRatio": {
+				"text": "MinSizeRatio:"
+			},
+			"MinWidth": {
+				"text": "MinWidth:"
+			},
+			"ReconnectBrokenObjects": {
+				"text": "ReconnectBrokenObjects:"
+			},
+			"+ Region": {
+				"text": "+ Regija:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "Širina:"
+			},
+			"height": {
+				"text": "Visina:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		}
+	},
+	"downloadResultLink": {
+		"text": "Preuzmite rezultate priznavanja"
+	},
+	"strings": {
+		"vsdv-uploadAndOpenFileButton-uploadFileString": "Preuzmi i otvori datoteku",
+		"vsdv-uploadAndAddFileButton-addFileString": "Prenesi i dodaj datoteku",
+		"vsui-imageProcessingPanel-imageProcessingString": "Obrada slike",
+		"vsui-textSearchPanel-pageLabel": "Stranica",
+		"vsdv-openFile-addFileString": "Dodaj datoteku",
+		"vsdv-openFile-authenticateFileString": "Ovjerite datoteku",
+		"vsdv-downloadFile-actionMessage": "Preuzmi datoteku",
+		"vsdv-saveChanges-saveChangesInImages": "Spremite promjene na slikama",
+		"vsui-documentNavigationTool-getActions": "Zauzmite radnje",
+		"vsdv-saveChanges-saveChangesInAnnotations": "Spremi promjene u komentarima",
+		"vsdv-saveChanges-burnAnnotationsInImages": "Snimite komentare na slike",
+		"vsui-dialog-okButton": "OK",
+		"vsui-multiselect-noneSelected": "Ništa nije odabrano",
+		"vsui-multiselect-allSelected": "Sve odabrano",
+		"vsui-multiselect-selected": "odabran",
+		"vsdv-saveChanges-saveChangesInPdfDocument": "Spremi promjene u PDF dokumentu",
+		"vsui-documentPasswordDialog-title": "Lozinka dokumenta",
+		"vsui-dialog-cancelButton": "Odustani",
+		"vsui-documentPasswordPanel-authenticateFileString": "Ovjerite datoteku",
+		"vsui-imageSelectionDialog-title": "Odaberite slike",
+		"vsui-imageSelectionDialog-currentImageString": "Trenutna slika",
+		"vsui-imageSelectionDialog-allImagesString": "Sve slike",
+		"vsui-imageSelectionDialog-customImagesString": "Prilagođeno",
+		"vsui-printImagesDialog-title": "Ispis slika",
+		"vsui-printImagesPanel-imagePrintingString": "Slika se ispisuje",
+		"vsui-printImagesPanel-withAnnotationsLabel": "s komentarima",
+		"vsui-imageViewerSettingsDialog-title": "Postavke preglednika slika",
+		"vsui-thumbnailViewerSettingDialog-title": "Postavke pregledača sličica",
+		"vsui-thumbnailViewerSettingsDialog-showAnnotationsLabel": "Prikaži bilješke na sličicama:",
+		"vsdv-uploadImageFromUrlDialog-title": "Prenesi sliku s URL-a",
+		"vsdv-dialog-okButton": "OK",
+		"vsdv-dialog-cancelButton": "Odustani"
+	}
+}

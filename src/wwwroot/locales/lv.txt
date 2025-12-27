@@ -1,0 +1,1154 @@
+﻿{
+	"documentViewer": {
+		"fileLabel": {
+			"text": "Fails"
+		},
+		"viewLabel": {
+			"text": "Skatīt"
+		},
+		"toolsLabel": {
+			"text": "Rīki"
+		},
+		"ocrPanelLabel": {
+			"text": "OCR"
+		},
+		"uploadAndOpenFileButton": {
+			"title": "Augšupielādējiet un atveriet failu"
+		},
+		"uploadAndAddFileButton": {
+			"title": "Augšupielādējiet un pievienojiet failu"
+		},
+		"previousUploadFilesButton": {
+			"title": "Iepriekš augšupielādētie faili"
+		},
+		"openFileFromUrlButton": {
+			"title": "Atveriet failu no URL"
+		},
+		"printImagesButton": {
+			"title": "Drukāt attēlus"
+		},
+		"downloadFileButton": {
+			"title": "Lejupielādēt failu"
+		},
+		"exportAndDownloadFileButton": {
+			"title": "Eksportēt un lejupielādēt failu"
+		},
+		"clearSessionCacheButton": {
+			"title": "Notīrīt sesijas kešatmiņu"
+		},
+		"fitToWidthSizeModeButton": {
+			"title": "Piemērots platumam"
+		},
+		"rotateViewsCounterClockwiseButton": {
+			"title": "Pagrieziet visus skatus pretēji pulksteņrādītāja virzienam"
+		},
+		"rotateAngleInput": {
+			"title": "Leņķis"
+		},
+		"rotateViewsClockwiseButton": {
+			"title": "Pagriezt visus skatus pulksteņrādītāja virzienā"
+		},
+		"imageViewerSettingsButton": {
+			"title": "Attēlu skatītāja iestatījumi"
+		},
+		"thumbnailViewerSettingsButton": {
+			"title": "Sīktēlu skatītāja iestatījumi"
+		},
+		"panToolButton": {
+			"title": "Pan"
+		},
+		"rectangularSelectionToolButton": {
+			"title": "Taisnstūra izvēle"
+		},
+		"magnifierToolButton": {
+			"title": "Lupa"
+		},
+		"zoomToolButton": {
+			"title": "Tālummaiņa"
+		},
+		"zoomSelectionToolButton": {
+			"title": "Tālummaiņas izvēle"
+		},
+		"TextSelectionToolButton": {
+			"title": "Teksta atlase"
+		},
+		"recognizeTextFromAllPagesAndOpenResultButton": {
+			"title": "Atpazīt tekstu no visām lapām un atvērt failu ar atpazītu tekstu"
+		},
+		"recognizeTextFromAllPagesAndDownloadResultButton": {
+			"title": "Atpazīstiet tekstu no visām lapām un lejupielādējiet failu ar atpazītu tekstu"
+		},
+		"recognizeTextFromFocusedPageAndDownloadResultButton": {
+			"title": "Atpazīstiet tekstu no fokusētās lapas un lejupielādējiet failu ar atpazītu tekstu"
+		},
+		"recognizeTextFromRegionOfFocusedPageAndDownloadResultButton": {
+			"title": "Atpazīt tekstu no fokusētās lapas reģiona un lejupielādēt failu ar atpazītu tekstu"
+		},
+		"ocrSettingsButton": {
+			"title": "OCR iestatījumi"
+		},
+		"sidePanelCloseButton": {
+			"title": "Rādīt sānu paneli"
+		},
+		"showThumbnailViewerPanelButton": {
+			"title": "Sīktēli"
+		},
+		"showPanelButton": {
+			"title": "Attēlu apstrāde"
+		},
+		"showTextSelectionPanelButton": {
+			"title": "Teksta atlase"
+		},
+		"showTextSearchPanelButton": {
+			"title": "Atrodiet tekstu"
+		},
+		"imageProcessingPanel": {
+			"parametersButton": {
+				"value": "Iestatījumi"
+			},
+			"runButton": {
+				"value": "Pieteikties"
+			}
+		},
+		"textSelectionPanel": {
+			"selectionModeLabel": {
+				"text": "Atlases režīms:"
+			},
+			"rectangleOption": {
+				"text": "Taisnstūris"
+			},
+			"fullLinesOption": {
+				"text": "Pilnas rindas"
+			},
+			"selectionColorLabel": {
+				"text": "Izvēles krāsa:"
+			},
+			"selectedTextLabel": {
+				"text": "Atlasītais teksts:"
+			}
+		},
+		"textSearchPanel": {
+			"findLabel": {
+				"text": "Atrast:"
+			},
+			"whereLookLabel": {
+				"text": "Ieskaties:"
+			},
+			"currentPageOption": {
+				"text": "Pašreizējā lapa"
+			},
+			"allPagesOption": {
+				"text": "Visas lapas"
+			},
+			"wholeWordLabel": {
+				"text": "Viss vārds"
+			},
+			"caseSensitiveLabel": {
+				"text": "Reģistrjutīgs"
+			},
+			"startSearchButton": {
+				"value": "Sākt"
+			},
+			"stopSearchButton": {
+				"value": "Stop"
+			},
+			"textNotFoundLabel": {
+				"text": "Teksts nav atrasts."
+			}
+		},
+		"gotoFirstPageButton": {
+			"title": "Dodieties uz pirmo attēlu"
+		},
+		"gotoPreviousPageButton": {
+			"title": "Pāriet uz iepriekšējo attēlu"
+		},
+		"gotoPageInput": {
+			"title": "Lappuse"
+		},
+		"gotoNextPageButton": {
+			"title": "Pārejiet uz nākamo attēlu"
+		},
+		"gotoLastPageButton": {
+			"title": "Pāriet uz pēdējo attēlu"
+		},
+		"zoomOutButton": {
+			"title": "Attālināt"
+		},
+		"zoomValueInput": {
+			"title": "Tālummaiņa"
+		},
+		"zoomInButton": {
+			"title": "Pietuvināt"
+		},
+		"ocrSettingsDialog": {
+			"title": "OCR iestatījumi",
+			"ImageBinarizationMode": {
+				"text": "ImageBinarizationMode:"
+			},
+			"Languages": {
+				"text": "Valodas:"
+			},
+			"selectAllLabel": {
+				"text": "Izvēlēties visus"
+			},
+			"english": {
+				"text": "Angļu"
+			},
+			"french": {
+				"text": "Franču valoda"
+			},
+			"german": {
+				"text": "Vācu valoda"
+			},
+			"italian": {
+				"text": "Itāļu valoda"
+			},
+			"osd": {
+				"text": "Orientācijas noteikšana"
+			},
+			"portuguese": {
+				"text": "Portugāļu valoda"
+			},
+			"russian": {
+				"text": "Krievu valoda"
+			},
+			"spanish": {
+				"text": "Spāņu valoda"
+			},
+			"RecognitionMode": {
+				"text": "RecognitionMode:"
+			},
+			"RecognitionRegionType": {
+				"text": "RecognitionRegionType:"
+			},
+			"ResultFileFormat": {
+				"text": "ResultFileFormat:"
+			},
+			"ResultFileName": {
+				"text": "ResultFileName:"
+			},
+			"okButton": {
+				"value": "labi"
+			}
+		},
+		"normalSizeModeButton": {
+			"title": "Normāls"
+		},
+		"bestFitSizeModeButton": {
+			"title": "Vislabāk piemērots"
+		},
+		"fitToHeightSizeModeButton": {
+			"title": "Piemērots augumam"
+		},
+		"pixelToPixelSizeModeButton": {
+			"title": "No pikseļa līdz pikselim"
+		},
+		"zoomSizeModeButton": {
+			"title": "Tālummaiņa"
+		},
+		"documentPasswordDialog": {
+			"pleaseEnterPasswordLabel": {
+				"text": "Šis dokuments ir aizsargāts ar paroli. Lūdzu, ievadiet paroli."
+			},
+			"passwordLabel": {
+				"text": "Parole:"
+			},
+			"showPasswordLabel": {
+				"text": "Rādīt paroli"
+			},
+			"incorrectPasswordLabel": {
+				"text": "nepareiza parole"
+			},
+			"okButton": {
+				"value": "labi"
+			},
+			"сancelButton": {
+				"value": "Atcelt"
+			}
+		},
+		"selectImagesDialog": {
+			"imagesLabel": {
+				"text": "Attēli:"
+			},
+			"currentImageOption": {
+				"text": "Pašreizējais attēls"
+			},
+			"allImagesOption": {
+				"text": "Visi attēli"
+			},
+			"customImagesOption": {
+				"text": "Pielāgots"
+			},
+			"imageRangeLabel": {
+				"text": "Attēlu diapazons:"
+			},
+			"invalidRangeErrorMessageLabel": {
+				"text": "Nederīgs lapu diapazons. Piemērs: 1-5, 8, 12-15."
+			},
+			"outOfRangeErrorMessageLabel": {
+				"text": "Indekss ir ārpus attēlu kolekcijas diapazona."
+			},
+			"okButton": {
+				"value": "labi"
+			},
+			"сancelButton": {
+				"value": "Atcelt"
+			}
+		},
+		"printImagesDialog": {
+			"imagesLabel": {
+				"text": "Attēli:"
+			},
+			"currentImageOption": {
+				"text": "Pašreizējais attēls"
+			},
+			"allImagesOption": {
+				"text": "Visi attēli"
+			},
+			"customImagesOption": {
+				"text": "Pielāgots"
+			},
+			"imageRangeLabel": {
+				"text": "Attēlu diapazons:"
+			},
+			"invalidRangeErrorMessageLabel": {
+				"text": "Nederīgs lapu diapazons. Piemērs: 1-5, 8, 12-15."
+			},
+			"outOfRangeErrorMessageLabel": {
+				"text": "Indekss ir ārpus attēlu kolekcijas diapazona."
+			},
+			"okButton": {
+				"value": "labi"
+			},
+			"cancelButton": {
+				"value": "Atcelt"
+			}
+		},
+		"imageViewerSettingsDialog": {
+			"imageDisplayModeLabel": {
+				"text": "Attēla displeja režīms:"
+			},
+			"imageAnchorLabel": {
+				"text": "Attēla enkurs:"
+			},
+			"noneOption": {
+				"text": "Nav"
+			},
+			"topLeftOption": {
+				"text": "Augšā|Pa kreisi"
+			},
+			"topOption": {
+				"text": "Tops"
+			},
+			"topRightOption": {
+				"text": "Augšā|Pa labi"
+			},
+			"rightOption": {
+				"text": "Pa labi"
+			},
+			"bottomRightOption": {
+				"text": "Apakšā|Pa labi"
+			},
+			"bottomOption": {
+				"text": "Apakšā"
+			},
+			"bottomLeftOption": {
+				"text": "Apakšā|Pa kreisi"
+			},
+			"leftOption": {
+				"text": "Pa kreisi"
+			},
+			"multipageDisplayModeLabel": {
+				"text": "Vairāku lappušu displeja režīms:"
+			},
+			"allImagesOption": {
+				"text": "AllImages"
+			},
+			"fixedImagesOption": {
+				"text": "FixedImages"
+			},
+			"layoutDirectionLabel": {
+				"text": "Izkārtojuma virziens:"
+			},
+			"horizontalOption": {
+				"text": "Horizontāli"
+			},
+			"verticalOption": {
+				"text": "Vertikāli"
+			},
+			"rowColumnCountLabel": {
+				"text": "Attēli rindā/kolonnā:"
+			},
+			"imagePaddingLabel": {
+				"text": "Attēlu polsterējums:"
+			},
+			"appearancesLabel": {
+				"text": "Izskati"
+			},
+			"imageAppearanceLabel": {
+				"text": "Attēla izskats"
+			},
+			"imageAppearanceBackColorLabel": {
+				"text": "Muguras krāsa:"
+			},
+			"imageAppearanceBorderColorLabel": {
+				"text": "Apmales krāsa:"
+			},
+			"imageAppearanceBorderWidthLabel": {
+				"text": "Apmales platums:"
+			},
+			"focusedImageAppearanceLabel": {
+				"text": "Fokusēts attēla izskats"
+			},
+			"focusedImageAppearanceBackColorLabel": {
+				"text": "Muguras krāsa:"
+			},
+			"focusedImageAppearanceBorderColorLabel": {
+				"text": "Apmales krāsa:"
+			},
+			"focusedImageAppearanceBorderWidthLabel": {
+				"text": "Apmales platums:"
+			},
+			"useAppearanceInSinglePageModeLabel": {
+				"text": "Izmantojiet attēla izskatu vienas lapas režīmā"
+			},
+			"renderingSettingsLabel": {
+				"text": "Renderēšanas iestatījumi"
+			},
+			"defaultRenderingSettingsLabel": {
+				"text": "Noklusējuma iestatījumi"
+			},
+			"horizontalResolutionLabel": {
+				"text": "Horizontālā izšķirtspēja:"
+			},
+			"verticalResolutionLabel ": {
+				"text": "Vertikālā izšķirtspēja:"
+			},
+			"smoothingModeLabel": {
+				"text": "Izlīdzināšanas režīms:"
+			},
+			"AntiAlias": {
+				"text": "AntiAlias"
+			},
+			"None": {
+				"text": "Nav"
+			},
+			"interpolationModeLabel": {
+				"text": "Interpolācijas režīms:"
+			},
+			"Bicubic": {
+				"text": "Bicubic"
+			},
+			"Bilinear": {
+				"text": "Bilineārs"
+			},
+			"HighQualityBicubic": {
+				"text": "HighQualityBicubic"
+			},
+			"HighQualityBilinear": {
+				"text": "HighQualityBilinear"
+			},
+			"NearestNeighbor": {
+				"text": "NearestNeighbor"
+			},
+			"otherSettingsLabel": {
+				"text": "Citi iestatījumi"
+			},
+			"backgroundColorLabel": {
+				"text": "Skatītāja fona krāsa:"
+			},
+			"centerImageLabel": {
+				"text": "Centrālais attēls:"
+			},
+			"resizeTimeoutLabel ": {
+				"text": "Izmēra maiņas taimauts:"
+			},
+			"tileSizeLabel": {
+				"text": "Flīžu izmērs:"
+			},
+			"colorManagementLabel": {
+				"text": "Iespējot krāsu pārvaldību:"
+			},
+			"useVectorRenderingLabel": {
+				"text": "Izmantojiet vektoru renderēšanu dokumentiem:"
+			},
+			"vectorContentBackgroundColorLabel": {
+				"text": "Vektora satura fona krāsa:"
+			},
+			"okButton": {
+				"value": "labi"
+			},
+			"сancelButton": {
+				"value": "Atcelt"
+			}
+		},
+		"thumbnailViewerSettingsDialog": {
+			"sizeLabel": {
+				"text": "Izmērs:"
+			},
+			"scaleLabel": {
+				"text": "Mērogs:"
+			},
+			"smallestOption": {
+				"text": "Mazākais"
+			},
+			"smallOption": {
+				"text": "Mazs"
+			},
+			"normalOption": {
+				"text": "Normāls"
+			},
+			"largeOption": {
+				"text": "Liels"
+			},
+			"flowStyleLabel": {
+				"text": "Plūsmas stils:"
+			},
+			"singleColumnOption": {
+				"text": "SingleColumn"
+			},
+			"singleRowOption": {
+				"text": "SingleRow"
+			},
+			"fixedColumnsOption": {
+				"text": "FixedColumns"
+			},
+			"wrappedRowsOption": {
+				"text": "WrappedRows"
+			},
+			"columnCountLabel": {
+				"text": "Kolonnu skaits:"
+			},
+			"marginLabel": {
+				"text": "Marža:"
+			},
+			"paddingTopLabel": {
+				"text": "Polsterējuma augšdaļa:"
+			},
+			"paddingRightLabel": {
+				"text": "Polsterējums pa labi:"
+			},
+			"paddingBottomLabel": {
+				"text": "Polsterējums apakšā:"
+			},
+			"paddingLeftLabel": {
+				"text": "Polsterējums pa kreisi:"
+			},
+			"showCaptionLabel": {
+				"text": "Rādīt parakstus:"
+			},
+			"captionFormatLabel": {
+				"text": "Parakstu formāts:"
+			},
+			"captionAnchorLabel": {
+				"text": "Parakstu enkurs:"
+			},
+			"topLeftOption": {
+				"text": "Augšā|Pa kreisi"
+			},
+			"topOption": {
+				"text": "Tops"
+			},
+			"topRightOption": {
+				"text": "Augšā|Pa labi"
+			},
+			"rightOption": {
+				"text": "Pa labi"
+			},
+			"bottomRightOption": {
+				"text": "Apakšā|Pa labi"
+			},
+			"bottomOption": {
+				"text": "Apakšā"
+			},
+			"bottomLeftOption": {
+				"text": "Apakšā|Pa kreisi"
+			},
+			"leftOption": {
+				"text": "Pa kreisi"
+			},
+			"centerOption": {
+				"text": "Centrs"
+			},
+			"focusOnHoverLabel": {
+				"text": "Focus OnHover:"
+			},
+			"multiSelectLabel": {
+				"text": "Vairāku atlase:"
+			},
+			"useThumbnailCheckboxesLabel": {
+				"text": "Izmantojiet izvēles rūtiņas sīktēlam:"
+			},
+			"useThumbnailActionsPanelLabel": {
+				"text": "Izmantojiet darbību paneli sīktēlam:"
+			},
+			"canDragThumbnailsLabel": {
+				"text": "Var vilkt sīktēlus:"
+			},
+			"canNavigateThumbnailsUsingKeyboardLabel": {
+				"text": "Var pārvietoties sīktēlos, izmantojot tastatūru:"
+			},
+			"canSelectThumbnailsUsingKeyboardLabel": {
+				"text": "Var atlasīt sīktēlus, izmantojot tastatūru:"
+			},
+			"canDeleteThumbnailsUsingKeyboardLabel": {
+				"text": "Var izdzēst sīktēlus, izmantojot tastatūru:"
+			},
+			"okButton": {
+				"value": "labi"
+			},
+			"сancelButton": {
+				"value": "Atcelt"
+			}
+		},
+		"uploadImageFromUrlDialog": {
+			"okButton": {
+				"value": "labi"
+			},
+			"cancelButton": {
+				"value": "Atcelt"
+			}
+		},
+		"imageProcessingSettingsDialog-AutoInvert": {
+			"title": "Attēlu apstrādes komandu iestatījumi (AutoInvert)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "labi"
+			}
+		},
+		"imageProcessingSettingsDialog-AutoTextOrientation": {
+			"title": "Attēlu apstrādes komandu iestatījumi (AutoTextOrientation)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"+ Binarization": {
+				"text": "+ Binarizācija:"
+			},
+			"BinarizationMode": {
+				"text": "BinarizationMode:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ConvertToBlackLevel": {
+				"text": "ConvertToBlackLevel:"
+			},
+			"ConvertToWhiteLevel": {
+				"text": "ConvertToWhiteLevel:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"LuminanceComputationMode": {
+				"text": "LuminanceComputationMode:"
+			},
+			"MaxLevelDifference": {
+				"text": "MaxLevelDifference:"
+			},
+			"MinLevelDifference": {
+				"text": "MinLevelDifference:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"Threshold": {
+				"text": "Slieksnis:"
+			},
+			"WindowRadius": {
+				"text": "WindowRadius:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"MinConfidence": {
+				"text": "MinConfidence:"
+			},
+			"StripWidth": {
+				"text": "StripWidth:"
+			},
+			"okButton": {
+				"value": "labi"
+			}
+		},
+		"imageProcessingSettingsDialog-BorderClear": {
+			"title": "Attēlu apstrādes komandu iestatījumi (BorderClear)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "labi"
+			}
+		},
+		"imageProcessingSettingsDialog-Deskew": {
+			"title": "Attēlu apstrādes komandas iestatījumi (Deskew)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"BorderColor": {
+				"text": "BorderColor:"
+			},
+			"BorderColorType": {
+				"text": "BorderColorType:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"MaxAngle": {
+				"text": "MaxAngle:"
+			},
+			"MinConfidence": {
+				"text": "MinConfidence:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"ScanIntervalX": {
+				"text": "ScanIntervalX:"
+			},
+			"ScanIntervalY": {
+				"text": "ScanIntervalY:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "labi"
+			}
+		},
+		"imageProcessingSettingsDialog-Despeckle": {
+			"title": "Attēlu apstrādes komandas iestatījumi (Despleckle)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"AutoConfigureLevels": {
+				"text": "AutoConfigureLevels:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"Level1": {
+				"text": "1. līmenis:"
+			},
+			"Level2": {
+				"text": "2. līmenis:"
+			},
+			"Radius": {
+				"text": "Rādiuss:"
+			},
+			"+ Region": {
+				"text": "+ Reģions:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "platums:"
+			},
+			"height": {
+				"text": "augstums:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "labi"
+			}
+		},
+		"imageProcessingSettingsDialog-HalftoneRemoval": {
+			"title": "Attēlu apstrādes komandas iestatījumi (HalftoneRemoval)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"AutoThreshold": {
+				"text": "AutoThreshold:"
+			},
+			"BlackPixelRemovalThreshold": {
+				"text": "BlackPixelRemovalThreshold:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"CellSize": {
+				"text": "CellSize:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"MaxSegmentSize": {
+				"text": "MaxSegmentSize:"
+			},
+			"MinHalftoneHeight": {
+				"text": "MinHalftoneHeight:"
+			},
+			"MinHalftoneWidth": {
+				"text": "MinHalftoneWidth:"
+			},
+			"+ Region": {
+				"text": "+ Reģions:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "platums:"
+			},
+			"height": {
+				"text": "augstums:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"WhitePixelRemovalThreshold": {
+				"text": "WhitePixelRemovalThreshold:"
+			},
+			"okButton": {
+				"value": "labi"
+			}
+		},
+		"imageProcessingSettingsDialog-HolePunchRemoval": {
+			"title": "Attēlu apstrādes komandu iestatījumi (HolePunchRemoval)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"+ Binarization": {
+				"text": "+ Binarizācija:"
+			},
+			"BinarizationMode": {
+				"text": "BinarizationMode:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ConvertToBlackLevel": {
+				"text": "ConvertToBlackLevel:"
+			},
+			"ConvertToWhiteLevel": {
+				"text": "ConvertToWhiteLevel:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"LuminanceComputationMode": {
+				"text": "LuminanceComputationMode:"
+			},
+			"MaxLevelDifference": {
+				"text": "MaxLevelDifference:"
+			},
+			"MinLevelDifference": {
+				"text": "MinLevelDifference:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"Threshold": {
+				"text": "Slieksnis:"
+			},
+			"WindowRadius": {
+				"text": "WindowRadius:"
+			},
+			"FillBorderSize": {
+				"text": "FillBorderSize:"
+			},
+			"FillColor": {
+				"text": "FillColor:"
+			},
+			"FillColorAutoDetection": {
+				"text": "FillColorAutoDetection:"
+			},
+			"HolePunchLocation": {
+				"text": "HolePunchLocation:"
+			},
+			"selectAllLabel": {
+				"text": "Izvēlēties visus"
+			},
+			"bottom": {
+				"text": "Apakšā"
+			},
+			"left": {
+				"text": "Pa kreisi"
+			},
+			"right": {
+				"text": "Pa labi"
+			},
+			"top": {
+				"text": "Tops"
+			},
+			"undefined": {
+				"text": "nenoteikts"
+			},
+			"MaxHoleSize": {
+				"text": "MaxHoleSize:"
+			},
+			"MinHoleSize": {
+				"text": "MinHoleSize:"
+			},
+			"+ Region": {
+				"text": "+ Reģions:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "platums:"
+			},
+			"height": {
+				"text": "augstums:"
+			},
+			"okButton": {
+				"value": "labi"
+			}
+		},
+		"imageProcessingSettingsDialog-LineRemoval": {
+			"title": "Attēlu apstrādes komandu iestatījumi (LineRemoval)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"+ Binarization": {
+				"text": "+ Binarizācija:"
+			},
+			"BinarizationMode": {
+				"text": "BinarizationMode:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ConvertToBlackLevel": {
+				"text": "ConvertToBlackLevel:"
+			},
+			"ConvertToWhiteLevel": {
+				"text": "ConvertToWhiteLevel:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"LuminanceComputationMode": {
+				"text": "LuminanceComputationMode:"
+			},
+			"MaxLevelDifference": {
+				"text": "MaxLevelDifference:"
+			},
+			"MinLevelDifference": {
+				"text": "MinLevelDifference:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"Threshold": {
+				"text": "Slieksnis:"
+			},
+			"WindowRadius": {
+				"text": "WindowRadius:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"Direction": {
+				"text": "Virziens:"
+			},
+			"selectAllLabel": {
+				"text": "Izvēlēties visus"
+			},
+			"horizontal": {
+				"text": "Horizontāli"
+			},
+			"vertical": {
+				"text": "Vertikāli"
+			},
+			"FillColor": {
+				"text": "FillColor:"
+			},
+			"FillColorAutoDetection": {
+				"text": "FillColorAutoDetection:"
+			},
+			"LineEndsType": {
+				"text": "LineEndsType:"
+			},
+			"LinesType": {
+				"text": "LinesType:"
+			},
+			"MaxCurvature": {
+				"text": "MaxCurvature:"
+			},
+			"MaxDeviationAngle": {
+				"text": "MaxDeviationAngle:"
+			},
+			"MaxGapLength": {
+				"text": "MaxGapLength:"
+			},
+			"MaxLength": {
+				"text": "MaxLength:"
+			},
+			"MaxWidth": {
+				"text": "MaxWidth:"
+			},
+			"MinConfidence": {
+				"text": "MinConfidence:"
+			},
+			"MinLength": {
+				"text": "MinLength:"
+			},
+			"MinSizeRatio": {
+				"text": "MinSizeRatio:"
+			},
+			"MinWidth": {
+				"text": "MinWidth:"
+			},
+			"ReconnectBrokenObjects": {
+				"text": "ReconnectBrokenObjects:"
+			},
+			"+ Region": {
+				"text": "+ Reģions:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "platums:"
+			},
+			"height": {
+				"text": "augstums:"
+			},
+			"okButton": {
+				"value": "labi"
+			}
+		}
+	},
+	"downloadResultLink": {
+		"text": "Lejupielādēt atpazīšanas rezultātus"
+	},
+	"strings": {
+		"vsdv-uploadAndOpenFileButton-uploadFileString": "Augšupielādējiet un atveriet failu",
+		"vsdv-uploadAndAddFileButton-addFileString": "Augšupielādējiet un pievienojiet failu",
+		"vsui-imageProcessingPanel-imageProcessingString": "Attēlu apstrāde",
+		"vsui-textSearchPanel-pageLabel": "Lappuse",
+		"vsdv-openFile-addFileString": "Pievienot failu",
+		"vsdv-openFile-authenticateFileString": "Autentificēt failu",
+		"vsdv-downloadFile-actionMessage": "Lejupielādēt failu",
+		"vsdv-saveChanges-saveChangesInImages": "Saglabājiet izmaiņas attēlos",
+		"vsui-documentNavigationTool-getActions": "Iegūstiet darbības",
+		"vsdv-saveChanges-saveChangesInAnnotations": "Saglabājiet izmaiņas anotācijās",
+		"vsdv-saveChanges-burnAnnotationsInImages": "Ierakstiet anotācijas uz attēliem",
+		"vsui-dialog-okButton": "labi",
+		"vsui-multiselect-noneSelected": "Nav atlasīts neviens",
+		"vsui-multiselect-allSelected": "Visi atlasīti",
+		"vsui-multiselect-selected": "atlasīts",
+		"vsdv-saveChanges-saveChangesInPdfDocument": "Saglabājiet izmaiņas PDF dokumentā",
+		"vsui-documentPasswordDialog-title": "Dokumenta parole",
+		"vsui-dialog-cancelButton": "Atcelt",
+		"vsui-documentPasswordPanel-authenticateFileString": "Autentificēt failu",
+		"vsui-imageSelectionDialog-title": "Izvēlieties attēlus",
+		"vsui-imageSelectionDialog-currentImageString": "Pašreizējais attēls",
+		"vsui-imageSelectionDialog-allImagesString": "Visi attēli",
+		"vsui-imageSelectionDialog-customImagesString": "Pielāgots",
+		"vsui-printImagesDialog-title": "Drukāt attēlus",
+		"vsui-printImagesPanel-imagePrintingString": "Attēls tiek drukāts",
+		"vsui-printImagesPanel-withAnnotationsLabel": "ar anotācijām",
+		"vsui-imageViewerSettingsDialog-title": "Attēlu skatītāja iestatījumi",
+		"vsui-thumbnailViewerSettingDialog-title": "Sīktēlu skatītāja iestatījumi",
+		"vsui-thumbnailViewerSettingsDialog-showAnnotationsLabel": "Rādīt anotācijas:",
+		"vsdv-uploadImageFromUrlDialog-title": "Augšupielādējiet attēlu no URL",
+		"vsdv-dialog-okButton": "labi",
+		"vsdv-dialog-cancelButton": "Atcelt"
+	}
+}

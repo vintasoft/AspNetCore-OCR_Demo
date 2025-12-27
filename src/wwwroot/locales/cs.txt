@@ -1,0 +1,1154 @@
+﻿{
+	"documentViewer": {
+		"fileLabel": {
+			"text": "Soubor"
+		},
+		"viewLabel": {
+			"text": "Zobrazit"
+		},
+		"toolsLabel": {
+			"text": "Nástroje"
+		},
+		"ocrPanelLabel": {
+			"text": "OCR"
+		},
+		"uploadAndOpenFileButton": {
+			"title": "Stáhněte a otevřete soubor"
+		},
+		"uploadAndAddFileButton": {
+			"title": "Nahrajte a přidejte soubor"
+		},
+		"previousUploadFilesButton": {
+			"title": "Zobrazit seznam dříve stažených souborů"
+		},
+		"openFileFromUrlButton": {
+			"title": "Otevřete soubor z adresy URL"
+		},
+		"printImagesButton": {
+			"title": "Tisk obrázků"
+		},
+		"downloadFileButton": {
+			"title": "Stáhnout soubor"
+		},
+		"exportAndDownloadFileButton": {
+			"title": "Exportujte a stáhněte soubor"
+		},
+		"clearSessionCacheButton": {
+			"title": "Vymazat mezipaměť relace"
+		},
+		"fitToWidthSizeModeButton": {
+			"title": "Přizpůsobit šířce"
+		},
+		"rotateViewsCounterClockwiseButton": {
+			"title": "Otočte všechny pohledy proti směru hodinových ručiček"
+		},
+		"rotateAngleInput": {
+			"title": "Úhel otočení"
+		},
+		"rotateViewsClockwiseButton": {
+			"title": "Otočte všechny pohledy ve směru hodinových ručiček"
+		},
+		"imageViewerSettingsButton": {
+			"title": "Nastavení prohlížeče obrázků"
+		},
+		"thumbnailViewerSettingsButton": {
+			"title": "Nastavení prohlížeče miniatur"
+		},
+		"panToolButton": {
+			"title": "Pán"
+		},
+		"rectangularSelectionToolButton": {
+			"title": "Obdélníkový výběr"
+		},
+		"magnifierToolButton": {
+			"title": "Lupa"
+		},
+		"zoomToolButton": {
+			"title": "Měřítko"
+		},
+		"zoomSelectionToolButton": {
+			"title": "Výběr měřítka"
+		},
+		"TextSelectionToolButton": {
+			"title": "Zvýrazněte text"
+		},
+		"recognizeTextFromAllPagesAndOpenResultButton": {
+			"title": "Rozpoznejte text ze všech stránek a otevřete soubor s rozpoznaným textem"
+		},
+		"recognizeTextFromAllPagesAndDownloadResultButton": {
+			"title": "Rozpoznejte text ze všech stránek a stáhněte soubor s rozpoznaným textem"
+		},
+		"recognizeTextFromFocusedPageAndDownloadResultButton": {
+			"title": "Rozpoznejte text z aktivní stránky a stáhněte soubor s rozpoznaným textem"
+		},
+		"recognizeTextFromRegionOfFocusedPageAndDownloadResultButton": {
+			"title": "Rozpoznejte text z oblasti zaměřené stránky a stáhněte soubor s rozpoznaným textem"
+		},
+		"ocrSettingsButton": {
+			"title": "nastavení OCR"
+		},
+		"sidePanelCloseButton": {
+			"title": "Zobrazit postranní panel"
+		},
+		"showThumbnailViewerPanelButton": {
+			"title": "Miniatury"
+		},
+		"showPanelButton": {
+			"title": "Zpracování obrazu"
+		},
+		"showTextSelectionPanelButton": {
+			"title": "Zvýrazněte text"
+		},
+		"showTextSearchPanelButton": {
+			"title": "Hledat text"
+		},
+		"imageProcessingPanel": {
+			"parametersButton": {
+				"value": "Nastavení"
+			},
+			"runButton": {
+				"value": "Aplikovat"
+			}
+		},
+		"textSelectionPanel": {
+			"selectionModeLabel": {
+				"text": "Režim výběru textu:"
+			},
+			"rectangleOption": {
+				"text": "Obdélník"
+			},
+			"fullLinesOption": {
+				"text": "Úplné řádky"
+			},
+			"selectionColorLabel": {
+				"text": "Barva vybraného textu:"
+			},
+			"selectedTextLabel": {
+				"text": "Vybraný text:"
+			}
+		},
+		"textSearchPanel": {
+			"findLabel": {
+				"text": "Najít:"
+			},
+			"whereLookLabel": {
+				"text": "Hledat na:"
+			},
+			"currentPageOption": {
+				"text": "Aktuální stránka"
+			},
+			"allPagesOption": {
+				"text": "Všechny stránky"
+			},
+			"wholeWordLabel": {
+				"text": "Hledat celé slovo"
+			},
+			"caseSensitiveLabel": {
+				"text": "Rozlišují se malá a velká písmena"
+			},
+			"startSearchButton": {
+				"value": "Zahájit vyhledávání"
+			},
+			"stopSearchButton": {
+				"value": "Zastavit vyhledávání"
+			},
+			"textNotFoundLabel": {
+				"text": "Text nebyl nalezen."
+			}
+		},
+		"gotoFirstPageButton": {
+			"title": "Přejít na první obrázek"
+		},
+		"gotoPreviousPageButton": {
+			"title": "Přejít na předchozí obrázek"
+		},
+		"gotoPageInput": {
+			"title": "Stránka"
+		},
+		"gotoNextPageButton": {
+			"title": "Přejít na další obrázek"
+		},
+		"gotoLastPageButton": {
+			"title": "Přejít na poslední obrázek"
+		},
+		"zoomOutButton": {
+			"title": "Oddálit"
+		},
+		"zoomValueInput": {
+			"title": "Měřítko"
+		},
+		"zoomInButton": {
+			"title": "Přiblížit"
+		},
+		"ocrSettingsDialog": {
+			"title": "nastavení OCR",
+			"ImageBinarizationMode": {
+				"text": "ImageBinarizationMode:"
+			},
+			"Languages": {
+				"text": "jazyky:"
+			},
+			"selectAllLabel": {
+				"text": "Vybrat vše"
+			},
+			"english": {
+				"text": "Angličtina"
+			},
+			"french": {
+				"text": "Francouzský jazyk"
+			},
+			"german": {
+				"text": "Německý jazyk"
+			},
+			"italian": {
+				"text": "Italský jazyk"
+			},
+			"osd": {
+				"text": "Detekce orientace"
+			},
+			"portuguese": {
+				"text": "Portugalský jazyk"
+			},
+			"russian": {
+				"text": "Ruský jazyk"
+			},
+			"spanish": {
+				"text": "Španělský jazyk"
+			},
+			"RecognitionMode": {
+				"text": "RecognitionMode:"
+			},
+			"RecognitionRegionType": {
+				"text": "RecognitionRegionType:"
+			},
+			"ResultFileFormat": {
+				"text": "ResultFileFormat:"
+			},
+			"ResultFileName": {
+				"text": "ResultFileName:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"normalSizeModeButton": {
+			"title": "Normální"
+		},
+		"bestFitSizeModeButton": {
+			"title": "Nejvhodnější"
+		},
+		"fitToHeightSizeModeButton": {
+			"title": "Přizpůsobit výšku"
+		},
+		"pixelToPixelSizeModeButton": {
+			"title": "Pixel to Pixel"
+		},
+		"zoomSizeModeButton": {
+			"title": "Měřítko"
+		},
+		"documentPasswordDialog": {
+			"pleaseEnterPasswordLabel": {
+				"text": "Tento dokument je chráněn heslem. Prosím, vložte heslo."
+			},
+			"passwordLabel": {
+				"text": "Heslo:"
+			},
+			"showPasswordLabel": {
+				"text": "Zobrazit heslo"
+			},
+			"incorrectPasswordLabel": {
+				"text": "Špatné heslo"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"сancelButton": {
+				"value": "Zrušit"
+			}
+		},
+		"selectImagesDialog": {
+			"imagesLabel": {
+				"text": "Obrázky:"
+			},
+			"currentImageOption": {
+				"text": "Aktuální obrázek"
+			},
+			"allImagesOption": {
+				"text": "Všechny obrázky"
+			},
+			"customImagesOption": {
+				"text": "Vlastní"
+			},
+			"imageRangeLabel": {
+				"text": "Rozsah obrázků:"
+			},
+			"invalidRangeErrorMessageLabel": {
+				"text": "Neplatný rozsah stránek. Příklad: 1-5, 8, 12-15."
+			},
+			"outOfRangeErrorMessageLabel": {
+				"text": "Index není v rozsahu indexů kolekce obrázků."
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"сancelButton": {
+				"value": "Zrušit"
+			}
+		},
+		"printImagesDialog": {
+			"imagesLabel": {
+				"text": "Obrázky:"
+			},
+			"currentImageOption": {
+				"text": "Aktuální obrázek"
+			},
+			"allImagesOption": {
+				"text": "Všechny obrázky"
+			},
+			"customImagesOption": {
+				"text": "Vlastní"
+			},
+			"imageRangeLabel": {
+				"text": "Rozsah obrázků:"
+			},
+			"invalidRangeErrorMessageLabel": {
+				"text": "Neplatný rozsah stránek. Příklad: 1-5, 8, 12-15."
+			},
+			"outOfRangeErrorMessageLabel": {
+				"text": "Index není v rozsahu indexů kolekce obrázků."
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"cancelButton": {
+				"value": "Zrušit"
+			}
+		},
+		"imageViewerSettingsDialog": {
+			"imageDisplayModeLabel": {
+				"text": "Režim zobrazení obrázku:"
+			},
+			"imageAnchorLabel": {
+				"text": "Ukotvení obrázku:"
+			},
+			"noneOption": {
+				"text": "Ne"
+			},
+			"topLeftOption": {
+				"text": "Nahoře|Vlevo"
+			},
+			"topOption": {
+				"text": "Nahoře"
+			},
+			"topRightOption": {
+				"text": "Nahoře|Vpravo"
+			},
+			"rightOption": {
+				"text": "Správně"
+			},
+			"bottomRightOption": {
+				"text": "Dole|Vpravo"
+			},
+			"bottomOption": {
+				"text": "Dolní"
+			},
+			"bottomLeftOption": {
+				"text": "Dole|Vlevo"
+			},
+			"leftOption": {
+				"text": "Vlevo"
+			},
+			"multipageDisplayModeLabel": {
+				"text": "Režim vícestránkového zobrazení:"
+			},
+			"allImagesOption": {
+				"text": "AllImages"
+			},
+			"fixedImagesOption": {
+				"text": "FixedImages"
+			},
+			"layoutDirectionLabel": {
+				"text": "Směr rozložení:"
+			},
+			"horizontalOption": {
+				"text": "Horizontální"
+			},
+			"verticalOption": {
+				"text": "Vertikální"
+			},
+			"rowColumnCountLabel": {
+				"text": "Obrázky v řádku/sloupci:"
+			},
+			"imagePaddingLabel": {
+				"text": "Výplň obrázků:"
+			},
+			"appearancesLabel": {
+				"text": "Vzhledy"
+			},
+			"imageAppearanceLabel": {
+				"text": "Vzhled obrázku"
+			},
+			"imageAppearanceBackColorLabel": {
+				"text": "Barva pozadí:"
+			},
+			"imageAppearanceBorderColorLabel": {
+				"text": "Barva ohraničení:"
+			},
+			"imageAppearanceBorderWidthLabel": {
+				"text": "Šířka okraje:"
+			},
+			"focusedImageAppearanceLabel": {
+				"text": "Vzhled zaostřeného obrazu"
+			},
+			"focusedImageAppearanceBackColorLabel": {
+				"text": "Barva pozadí:"
+			},
+			"focusedImageAppearanceBorderColorLabel": {
+				"text": "Barva ohraničení:"
+			},
+			"focusedImageAppearanceBorderWidthLabel": {
+				"text": "Šířka okraje:"
+			},
+			"useAppearanceInSinglePageModeLabel": {
+				"text": "Použít vzhled obrazu v režimu jedné stránky"
+			},
+			"renderingSettingsLabel": {
+				"text": "Nastavení vykreslování"
+			},
+			"defaultRenderingSettingsLabel": {
+				"text": "Výchozí nastavení"
+			},
+			"horizontalResolutionLabel": {
+				"text": "Horizontální rozlišení:"
+			},
+			"verticalResolutionLabel ": {
+				"text": "Vertikální rozlišení:"
+			},
+			"smoothingModeLabel": {
+				"text": "Smooth Mode:"
+			},
+			"AntiAlias": {
+				"text": "AntiAlias"
+			},
+			"None": {
+				"text": "Ne"
+			},
+			"interpolationModeLabel": {
+				"text": "Režim interpolace:"
+			},
+			"Bicubic": {
+				"text": "Bicubic"
+			},
+			"Bilinear": {
+				"text": "Bilinear"
+			},
+			"HighQualityBicubic": {
+				"text": "HighQualityBicubic"
+			},
+			"HighQualityBilinear": {
+				"text": "HighQualityBilinear"
+			},
+			"NearestNeighbor": {
+				"text": "NearestNeighbor"
+			},
+			"otherSettingsLabel": {
+				"text": "Další nastavení"
+			},
+			"backgroundColorLabel": {
+				"text": "Barva pozadí prohlížeče obrázků:"
+			},
+			"centerImageLabel": {
+				"text": "Obrázek uprostřed:"
+			},
+			"resizeTimeoutLabel ": {
+				"text": "Časový limit změny velikosti:"
+			},
+			"tileSizeLabel": {
+				"text": "Velikost dlaždice:"
+			},
+			"colorManagementLabel": {
+				"text": "Povolit správu barev:"
+			},
+			"useVectorRenderingLabel": {
+				"text": "Použít vektorové vykreslování pro dokumenty:"
+			},
+			"vectorContentBackgroundColorLabel": {
+				"text": "Barva pozadí vektorového obsahu:"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"сancelButton": {
+				"value": "Zrušit"
+			}
+		},
+		"thumbnailViewerSettingsDialog": {
+			"sizeLabel": {
+				"text": "Velikost miniatury:"
+			},
+			"scaleLabel": {
+				"text": "Měřítko miniatur:"
+			},
+			"smallestOption": {
+				"text": "Nejméně"
+			},
+			"smallOption": {
+				"text": "Malé"
+			},
+			"normalOption": {
+				"text": "Normální"
+			},
+			"largeOption": {
+				"text": "Velký"
+			},
+			"flowStyleLabel": {
+				"text": "Styl umístění miniatur:"
+			},
+			"singleColumnOption": {
+				"text": "SingleColumn"
+			},
+			"singleRowOption": {
+				"text": "SingleRow"
+			},
+			"fixedColumnsOption": {
+				"text": "FixedColumns"
+			},
+			"wrappedRowsOption": {
+				"text": "WrappedRows"
+			},
+			"columnCountLabel": {
+				"text": "Počet sloupců:"
+			},
+			"marginLabel": {
+				"text": "Vnější polstrování:"
+			},
+			"paddingTopLabel": {
+				"text": "Horní výplň:"
+			},
+			"paddingRightLabel": {
+				"text": "Pravé odsazení:"
+			},
+			"paddingBottomLabel": {
+				"text": "Spodní výplň:"
+			},
+			"paddingLeftLabel": {
+				"text": "Levé odsazení:"
+			},
+			"showCaptionLabel": {
+				"text": "Zobrazit titulky miniatur:"
+			},
+			"captionFormatLabel": {
+				"text": "Formát podpisu:"
+			},
+			"captionAnchorLabel": {
+				"text": "Ukotvení podpisu:"
+			},
+			"topLeftOption": {
+				"text": "Nahoře|Vlevo"
+			},
+			"topOption": {
+				"text": "Nahoře"
+			},
+			"topRightOption": {
+				"text": "Nahoře|Vpravo"
+			},
+			"rightOption": {
+				"text": "Správně"
+			},
+			"bottomRightOption": {
+				"text": "Dole|Vpravo"
+			},
+			"bottomOption": {
+				"text": "Dolní"
+			},
+			"bottomLeftOption": {
+				"text": "Dole|Vlevo"
+			},
+			"leftOption": {
+				"text": "Vlevo"
+			},
+			"centerOption": {
+				"text": "Zarovnat na střed"
+			},
+			"focusOnHoverLabel": {
+				"text": "Zaměření kurzoru:"
+			},
+			"multiSelectLabel": {
+				"text": "Povolit výběr více miniatur:"
+			},
+			"useThumbnailCheckboxesLabel": {
+				"text": "Použijte zaškrtávací políčka pro miniatury:"
+			},
+			"useThumbnailActionsPanelLabel": {
+				"text": "Použijte panel akcí pro miniaturu:"
+			},
+			"canDragThumbnailsLabel": {
+				"text": "Může přetahovat miniatury:"
+			},
+			"canNavigateThumbnailsUsingKeyboardLabel": {
+				"text": "Může procházet miniaturami pomocí klávesnice:"
+			},
+			"canSelectThumbnailsUsingKeyboardLabel": {
+				"text": "Lze vybrat miniatury pomocí klávesnice:"
+			},
+			"canDeleteThumbnailsUsingKeyboardLabel": {
+				"text": "Může mazat miniatury pomocí klávesnice:"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"сancelButton": {
+				"value": "Zrušit"
+			}
+		},
+		"uploadImageFromUrlDialog": {
+			"okButton": {
+				"value": "OK"
+			},
+			"cancelButton": {
+				"value": "Zrušit"
+			}
+		},
+		"imageProcessingSettingsDialog-AutoInvert": {
+			"title": "Nastavení příkazu zpracování obrazu (AutoInvert)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"imageProcessingSettingsDialog-AutoTextOrientation": {
+			"title": "Nastavení příkazu zpracování obrazu (AutoTextOrientation)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"+ Binarization": {
+				"text": "+ Binarizace:"
+			},
+			"BinarizationMode": {
+				"text": "BinarizationMode:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ConvertToBlackLevel": {
+				"text": "ConvertToBlackLevel:"
+			},
+			"ConvertToWhiteLevel": {
+				"text": "ConvertToWhiteLevel:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"LuminanceComputationMode": {
+				"text": "LuminanceComputationMode:"
+			},
+			"MaxLevelDifference": {
+				"text": "MaxLevelDifference:"
+			},
+			"MinLevelDifference": {
+				"text": "MinLevelDifference:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"Threshold": {
+				"text": "Práh:"
+			},
+			"WindowRadius": {
+				"text": "WindowRadius:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"MinConfidence": {
+				"text": "MinConfidence:"
+			},
+			"StripWidth": {
+				"text": "StripWidth:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"imageProcessingSettingsDialog-BorderClear": {
+			"title": "Nastavení příkazu zpracování obrazu (BorderClear)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"imageProcessingSettingsDialog-Deskew": {
+			"title": "Nastavení příkazu zpracování obrazu (Deskew)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"BorderColor": {
+				"text": "BorderColor:"
+			},
+			"BorderColorType": {
+				"text": "BorderColorType:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"MaxAngle": {
+				"text": "MaxAngle:"
+			},
+			"MinConfidence": {
+				"text": "MinConfidence:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"ScanIntervalX": {
+				"text": "ScanIntervalX:"
+			},
+			"ScanIntervalY": {
+				"text": "ScanIntervalY:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"imageProcessingSettingsDialog-Despeckle": {
+			"title": "Nastavení příkazu zpracování obrazu (Despeckle)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"AutoConfigureLevels": {
+				"text": "AutoConfigureLevels:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"Level1": {
+				"text": "Úroveň 1:"
+			},
+			"Level2": {
+				"text": "Úroveň 2:"
+			},
+			"Radius": {
+				"text": "Poloměr:"
+			},
+			"+ Region": {
+				"text": "+ Oblast:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "Šířka:"
+			},
+			"height": {
+				"text": "Výška:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"imageProcessingSettingsDialog-HalftoneRemoval": {
+			"title": "Nastavení příkazu zpracování obrazu (HalftoneRemoval)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"AutoThreshold": {
+				"text": "AutoThreshold:"
+			},
+			"BlackPixelRemovalThreshold": {
+				"text": "BlackPixelRemovalThreshold:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"CellSize": {
+				"text": "CellSize:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"MaxSegmentSize": {
+				"text": "MaxSegmentSize:"
+			},
+			"MinHalftoneHeight": {
+				"text": "MinHalftoneHeight:"
+			},
+			"MinHalftoneWidth": {
+				"text": "MinHalftoneWidth:"
+			},
+			"+ Region": {
+				"text": "+ Oblast:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "Šířka:"
+			},
+			"height": {
+				"text": "Výška:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"WhitePixelRemovalThreshold": {
+				"text": "WhitePixelRemovalThreshold:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"imageProcessingSettingsDialog-HolePunchRemoval": {
+			"title": "Nastavení příkazu zpracování obrazu (HolePunchRemoval)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"+ Binarization": {
+				"text": "+ Binarizace:"
+			},
+			"BinarizationMode": {
+				"text": "BinarizationMode:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ConvertToBlackLevel": {
+				"text": "ConvertToBlackLevel:"
+			},
+			"ConvertToWhiteLevel": {
+				"text": "ConvertToWhiteLevel:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"LuminanceComputationMode": {
+				"text": "LuminanceComputationMode:"
+			},
+			"MaxLevelDifference": {
+				"text": "MaxLevelDifference:"
+			},
+			"MinLevelDifference": {
+				"text": "MinLevelDifference:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"Threshold": {
+				"text": "Práh:"
+			},
+			"WindowRadius": {
+				"text": "WindowRadius:"
+			},
+			"FillBorderSize": {
+				"text": "FillBorderSize:"
+			},
+			"FillColor": {
+				"text": "FillColor:"
+			},
+			"FillColorAutoDetection": {
+				"text": "FillColorAutoDetection:"
+			},
+			"HolePunchLocation": {
+				"text": "HolePunchLocation:"
+			},
+			"selectAllLabel": {
+				"text": "Vybrat vše"
+			},
+			"bottom": {
+				"text": "Dolní"
+			},
+			"left": {
+				"text": "Vlevo"
+			},
+			"right": {
+				"text": "Správně"
+			},
+			"top": {
+				"text": "Nahoře"
+			},
+			"undefined": {
+				"text": "Nedefinováno"
+			},
+			"MaxHoleSize": {
+				"text": "MaxHoleSize:"
+			},
+			"MinHoleSize": {
+				"text": "MinHoleSize:"
+			},
+			"+ Region": {
+				"text": "+ Oblast:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "Šířka:"
+			},
+			"height": {
+				"text": "Výška:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"imageProcessingSettingsDialog-LineRemoval": {
+			"title": "Nastavení příkazu zpracování obrazu (LineRemoval)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"+ Binarization": {
+				"text": "+ Binarizace:"
+			},
+			"BinarizationMode": {
+				"text": "BinarizationMode:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ConvertToBlackLevel": {
+				"text": "ConvertToBlackLevel:"
+			},
+			"ConvertToWhiteLevel": {
+				"text": "ConvertToWhiteLevel:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"LuminanceComputationMode": {
+				"text": "LuminanceComputationMode:"
+			},
+			"MaxLevelDifference": {
+				"text": "MaxLevelDifference:"
+			},
+			"MinLevelDifference": {
+				"text": "MinLevelDifference:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"Threshold": {
+				"text": "Práh:"
+			},
+			"WindowRadius": {
+				"text": "WindowRadius:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"Direction": {
+				"text": "Směr:"
+			},
+			"selectAllLabel": {
+				"text": "Vybrat vše"
+			},
+			"horizontal": {
+				"text": "Horizontální"
+			},
+			"vertical": {
+				"text": "Vertikální"
+			},
+			"FillColor": {
+				"text": "FillColor:"
+			},
+			"FillColorAutoDetection": {
+				"text": "FillColorAutoDetection:"
+			},
+			"LineEndsType": {
+				"text": "LineEndsType:"
+			},
+			"LinesType": {
+				"text": "LinesType:"
+			},
+			"MaxCurvature": {
+				"text": "MaxCurvature:"
+			},
+			"MaxDeviationAngle": {
+				"text": "MaxDeviationAngle:"
+			},
+			"MaxGapLength": {
+				"text": "MaxGapLength:"
+			},
+			"MaxLength": {
+				"text": "MaxLength:"
+			},
+			"MaxWidth": {
+				"text": "MaxWidth:"
+			},
+			"MinConfidence": {
+				"text": "MinConfidence:"
+			},
+			"MinLength": {
+				"text": "MinLength:"
+			},
+			"MinSizeRatio": {
+				"text": "MinSizeRatio:"
+			},
+			"MinWidth": {
+				"text": "MinWidth:"
+			},
+			"ReconnectBrokenObjects": {
+				"text": "ReconnectBrokenObjects:"
+			},
+			"+ Region": {
+				"text": "+ Oblast:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "Šířka:"
+			},
+			"height": {
+				"text": "Výška:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		}
+	},
+	"downloadResultLink": {
+		"text": "Stáhněte si výsledky rozpoznávání"
+	},
+	"strings": {
+		"vsdv-uploadAndOpenFileButton-uploadFileString": "Stáhněte a otevřete soubor",
+		"vsdv-uploadAndAddFileButton-addFileString": "Nahrajte a přidejte soubor",
+		"vsui-imageProcessingPanel-imageProcessingString": "Zpracování obrazu",
+		"vsui-textSearchPanel-pageLabel": "Stránka",
+		"vsdv-openFile-addFileString": "Přidat soubor",
+		"vsdv-openFile-authenticateFileString": "Ověření souboru",
+		"vsdv-downloadFile-actionMessage": "Stáhnout soubor",
+		"vsdv-saveChanges-saveChangesInImages": "Uložte změny v obrázcích",
+		"vsui-documentNavigationTool-getActions": "Získejte akce",
+		"vsdv-saveChanges-saveChangesInAnnotations": "Uložte změny v anotacích",
+		"vsdv-saveChanges-burnAnnotationsInImages": "Vypálit poznámky na obrázky",
+		"vsui-dialog-okButton": "OK",
+		"vsui-multiselect-noneSelected": "Není vybráno žádné",
+		"vsui-multiselect-allSelected": "Všechny vybrané",
+		"vsui-multiselect-selected": "vybraný",
+		"vsdv-saveChanges-saveChangesInPdfDocument": "Uložte změny do dokumentu PDF",
+		"vsui-documentPasswordDialog-title": "Heslo dokumentu",
+		"vsui-dialog-cancelButton": "Zrušit",
+		"vsui-documentPasswordPanel-authenticateFileString": "Ověření souboru",
+		"vsui-imageSelectionDialog-title": "Vyberte obrázky",
+		"vsui-imageSelectionDialog-currentImageString": "Aktuální obrázek",
+		"vsui-imageSelectionDialog-allImagesString": "Všechny obrázky",
+		"vsui-imageSelectionDialog-customImagesString": "Vlastní",
+		"vsui-printImagesDialog-title": "Tisk obrázků",
+		"vsui-printImagesPanel-imagePrintingString": "Obrázek se tiskne",
+		"vsui-printImagesPanel-withAnnotationsLabel": "s poznámkami",
+		"vsui-imageViewerSettingsDialog-title": "Nastavení prohlížeče obrázků",
+		"vsui-thumbnailViewerSettingDialog-title": "Nastavení prohlížeče miniatur",
+		"vsui-thumbnailViewerSettingsDialog-showAnnotationsLabel": "Zobrazení poznámek na miniaturách:",
+		"vsdv-uploadImageFromUrlDialog-title": "Nahrajte obrázek z adresy URL",
+		"vsdv-dialog-okButton": "OK",
+		"vsdv-dialog-cancelButton": "Zrušit"
+	}
+}

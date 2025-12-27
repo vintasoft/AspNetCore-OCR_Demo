@@ -1,0 +1,1154 @@
+﻿{
+	"documentViewer": {
+		"fileLabel": {
+			"text": "Bestand"
+		},
+		"viewLabel": {
+			"text": "Bekijken"
+		},
+		"toolsLabel": {
+			"text": "Gereedschap"
+		},
+		"ocrPanelLabel": {
+			"text": "OCR"
+		},
+		"uploadAndOpenFileButton": {
+			"title": "Bestand downloaden en openen"
+		},
+		"uploadAndAddFileButton": {
+			"title": "Bestand uploaden en toevoegen"
+		},
+		"previousUploadFilesButton": {
+			"title": "Bekijk een lijst met eerder gedownloade bestanden"
+		},
+		"openFileFromUrlButton": {
+			"title": "Bestand openen vanaf URL"
+		},
+		"printImagesButton": {
+			"title": "Afbeeldingen afdrukken"
+		},
+		"downloadFileButton": {
+			"title": "Download bestand"
+		},
+		"exportAndDownloadFileButton": {
+			"title": "Bestand exporteren en downloaden"
+		},
+		"clearSessionCacheButton": {
+			"title": "Sessiecache wissen"
+		},
+		"fitToWidthSizeModeButton": {
+			"title": "Aanpassen aan breedte"
+		},
+		"rotateViewsCounterClockwiseButton": {
+			"title": "Roteer alle weergaven tegen de klok in"
+		},
+		"rotateAngleInput": {
+			"title": "Rotatiehoek"
+		},
+		"rotateViewsClockwiseButton": {
+			"title": "Roteer alle weergaven met de klok mee"
+		},
+		"imageViewerSettingsButton": {
+			"title": "Instellingen afbeeldingsviewer"
+		},
+		"thumbnailViewerSettingsButton": {
+			"title": "Miniatuurweergave-instellingen"
+		},
+		"panToolButton": {
+			"title": "Pan"
+		},
+		"rectangularSelectionToolButton": {
+			"title": "Rechthoekige selectie"
+		},
+		"magnifierToolButton": {
+			"title": "Vergrootglas"
+		},
+		"zoomToolButton": {
+			"title": "Schaal"
+		},
+		"zoomSelectionToolButton": {
+			"title": "Schaalselectie"
+		},
+		"TextSelectionToolButton": {
+			"title": "Markeer tekst"
+		},
+		"recognizeTextFromAllPagesAndOpenResultButton": {
+			"title": "Herken tekst van alle pagina's en open bestand met herkende tekst"
+		},
+		"recognizeTextFromAllPagesAndDownloadResultButton": {
+			"title": "Herken tekst van alle pagina's en download bestand met herkende tekst"
+		},
+		"recognizeTextFromFocusedPageAndDownloadResultButton": {
+			"title": "Herken tekst van gefocuste pagina en download bestand met herkende tekst"
+		},
+		"recognizeTextFromRegionOfFocusedPageAndDownloadResultButton": {
+			"title": "Herken tekst van regio van gefocuste pagina en download bestand met herkende tekst"
+		},
+		"ocrSettingsButton": {
+			"title": "OCR-instellingen"
+		},
+		"sidePanelCloseButton": {
+			"title": "Toon zijbalk"
+		},
+		"showThumbnailViewerPanelButton": {
+			"title": "Miniaturen"
+		},
+		"showPanelButton": {
+			"title": "Afbeelding verwerken"
+		},
+		"showTextSelectionPanelButton": {
+			"title": "Markeer tekst"
+		},
+		"showTextSearchPanelButton": {
+			"title": "Zoek naar tekst"
+		},
+		"imageProcessingPanel": {
+			"parametersButton": {
+				"value": "Instellingen"
+			},
+			"runButton": {
+				"value": "Toepassen"
+			}
+		},
+		"textSelectionPanel": {
+			"selectionModeLabel": {
+				"text": "Tekstselectiemodus:"
+			},
+			"rectangleOption": {
+				"text": "Rechthoek"
+			},
+			"fullLinesOption": {
+				"text": "Volledige regels"
+			},
+			"selectionColorLabel": {
+				"text": "Kleur van geselecteerde tekst:"
+			},
+			"selectedTextLabel": {
+				"text": "Geselecteerde tekst:"
+			}
+		},
+		"textSearchPanel": {
+			"findLabel": {
+				"text": "Zoeken:"
+			},
+			"whereLookLabel": {
+				"text": "Zoeken op:"
+			},
+			"currentPageOption": {
+				"text": "Huidige pagina"
+			},
+			"allPagesOption": {
+				"text": "Alle pagina's"
+			},
+			"wholeWordLabel": {
+				"text": "Zoek het hele woord"
+			},
+			"caseSensitiveLabel": {
+				"text": "Hoofdlettergevoelig"
+			},
+			"startSearchButton": {
+				"value": "Start zoeken"
+			},
+			"stopSearchButton": {
+				"value": "Stop met zoeken"
+			},
+			"textNotFoundLabel": {
+				"text": "Tekst niet gevonden."
+			}
+		},
+		"gotoFirstPageButton": {
+			"title": "Ga naar eerste afbeelding"
+		},
+		"gotoPreviousPageButton": {
+			"title": "Ga naar vorige afbeelding"
+		},
+		"gotoPageInput": {
+			"title": "Pagina"
+		},
+		"gotoNextPageButton": {
+			"title": "Ga naar volgende afbeelding"
+		},
+		"gotoLastPageButton": {
+			"title": "Ga naar laatste afbeelding"
+		},
+		"zoomOutButton": {
+			"title": "Uitzoomen"
+		},
+		"zoomValueInput": {
+			"title": "Schaal"
+		},
+		"zoomInButton": {
+			"title": "Inzoomen"
+		},
+		"ocrSettingsDialog": {
+			"title": "OCR-instellingen",
+			"ImageBinarizationMode": {
+				"text": "ImageBinarizationMode:"
+			},
+			"Languages": {
+				"text": "Talen:"
+			},
+			"selectAllLabel": {
+				"text": "Selecteer alles"
+			},
+			"english": {
+				"text": "Engels"
+			},
+			"french": {
+				"text": "De Franse taal"
+			},
+			"german": {
+				"text": "De Duitse taal"
+			},
+			"italian": {
+				"text": "De Italiaanse taal"
+			},
+			"osd": {
+				"text": "De oriëntatiedetectie"
+			},
+			"portuguese": {
+				"text": "De Portugese taal"
+			},
+			"russian": {
+				"text": "De Russische taal"
+			},
+			"spanish": {
+				"text": "De Spaanse taal"
+			},
+			"RecognitionMode": {
+				"text": "RecognitionMode:"
+			},
+			"RecognitionRegionType": {
+				"text": "RecognitionRegionType:"
+			},
+			"ResultFileFormat": {
+				"text": "ResultFileFormat:"
+			},
+			"ResultFileName": {
+				"text": "ResultFileName:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"normalSizeModeButton": {
+			"title": "Normaal"
+		},
+		"bestFitSizeModeButton": {
+			"title": "Meest geschikt"
+		},
+		"fitToHeightSizeModeButton": {
+			"title": "Aangepaste hoogte"
+		},
+		"pixelToPixelSizeModeButton": {
+			"title": "Pixel naar pixel"
+		},
+		"zoomSizeModeButton": {
+			"title": "Schaal"
+		},
+		"documentPasswordDialog": {
+			"pleaseEnterPasswordLabel": {
+				"text": "Dit document is beveiligd met een wachtwoord. Voer een wachtwoord in alstublieft."
+			},
+			"passwordLabel": {
+				"text": "Wachtwoord:"
+			},
+			"showPasswordLabel": {
+				"text": "Toon wachtwoord"
+			},
+			"incorrectPasswordLabel": {
+				"text": "Verkeerd wachtwoord"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"сancelButton": {
+				"value": "Annuleren"
+			}
+		},
+		"selectImagesDialog": {
+			"imagesLabel": {
+				"text": "Afbeeldingen:"
+			},
+			"currentImageOption": {
+				"text": "Huidige afbeelding"
+			},
+			"allImagesOption": {
+				"text": "Alle afbeeldingen"
+			},
+			"customImagesOption": {
+				"text": "Aangepast"
+			},
+			"imageRangeLabel": {
+				"text": "Beeldbereik:"
+			},
+			"invalidRangeErrorMessageLabel": {
+				"text": "Ongeldig paginabereik. Voorbeeld: 1-5, 8, 12-15."
+			},
+			"outOfRangeErrorMessageLabel": {
+				"text": "De index valt niet binnen het indexbereik van de afbeeldingencollectie."
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"сancelButton": {
+				"value": "Annuleren"
+			}
+		},
+		"printImagesDialog": {
+			"imagesLabel": {
+				"text": "Afbeeldingen:"
+			},
+			"currentImageOption": {
+				"text": "Huidige afbeelding"
+			},
+			"allImagesOption": {
+				"text": "Alle afbeeldingen"
+			},
+			"customImagesOption": {
+				"text": "Aangepast"
+			},
+			"imageRangeLabel": {
+				"text": "Beeldbereik:"
+			},
+			"invalidRangeErrorMessageLabel": {
+				"text": "Ongeldig paginabereik. Voorbeeld: 1-5, 8, 12-15."
+			},
+			"outOfRangeErrorMessageLabel": {
+				"text": "De index valt niet binnen het indexbereik van de afbeeldingencollectie."
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"cancelButton": {
+				"value": "Annuleren"
+			}
+		},
+		"imageViewerSettingsDialog": {
+			"imageDisplayModeLabel": {
+				"text": "Beeldweergavemodus:"
+			},
+			"imageAnchorLabel": {
+				"text": "Beeldanker:"
+			},
+			"noneOption": {
+				"text": "Nee"
+			},
+			"topLeftOption": {
+				"text": "Boven|Links"
+			},
+			"topOption": {
+				"text": "Top"
+			},
+			"topRightOption": {
+				"text": "Boven|Rechts"
+			},
+			"rightOption": {
+				"text": "Juist"
+			},
+			"bottomRightOption": {
+				"text": "Onder|Rechts"
+			},
+			"bottomOption": {
+				"text": "Onderkant"
+			},
+			"bottomLeftOption": {
+				"text": "Onder|Links"
+			},
+			"leftOption": {
+				"text": "Links"
+			},
+			"multipageDisplayModeLabel": {
+				"text": "Weergavemodus voor meerdere pagina's:"
+			},
+			"allImagesOption": {
+				"text": "AllImages"
+			},
+			"fixedImagesOption": {
+				"text": "FixedImages"
+			},
+			"layoutDirectionLabel": {
+				"text": "Opmaakrichting:"
+			},
+			"horizontalOption": {
+				"text": "Horizontaal"
+			},
+			"verticalOption": {
+				"text": "Verticaal"
+			},
+			"rowColumnCountLabel": {
+				"text": "Afbeeldingen in rij/kolom:"
+			},
+			"imagePaddingLabel": {
+				"text": "Afbeeldingen opvulling:"
+			},
+			"appearancesLabel": {
+				"text": "Uiterlijk"
+			},
+			"imageAppearanceLabel": {
+				"text": "Uiterlijk beeld"
+			},
+			"imageAppearanceBackColorLabel": {
+				"text": "Achtergrondkleur:"
+			},
+			"imageAppearanceBorderColorLabel": {
+				"text": "Randkleur:"
+			},
+			"imageAppearanceBorderWidthLabel": {
+				"text": "Randbreedte:"
+			},
+			"focusedImageAppearanceLabel": {
+				"text": "Uiterlijk van scherpgesteld beeld"
+			},
+			"focusedImageAppearanceBackColorLabel": {
+				"text": "Achtergrondkleur:"
+			},
+			"focusedImageAppearanceBorderColorLabel": {
+				"text": "Randkleur:"
+			},
+			"focusedImageAppearanceBorderWidthLabel": {
+				"text": "Randbreedte:"
+			},
+			"useAppearanceInSinglePageModeLabel": {
+				"text": "Gebruik afbeeldingsweergave in enkele paginamodus"
+			},
+			"renderingSettingsLabel": {
+				"text": "Renderinstellingen"
+			},
+			"defaultRenderingSettingsLabel": {
+				"text": "Standaardinstellingen"
+			},
+			"horizontalResolutionLabel": {
+				"text": "Horizontale resolutie:"
+			},
+			"verticalResolutionLabel ": {
+				"text": "Verticale resolutie:"
+			},
+			"smoothingModeLabel": {
+				"text": "Vloeiende modus:"
+			},
+			"AntiAlias": {
+				"text": "AntiAlias"
+			},
+			"None": {
+				"text": "Nee"
+			},
+			"interpolationModeLabel": {
+				"text": "Interpolatiemodus:"
+			},
+			"Bicubic": {
+				"text": "Bicubic"
+			},
+			"Bilinear": {
+				"text": "Bilinear"
+			},
+			"HighQualityBicubic": {
+				"text": "HighQualityBicubic"
+			},
+			"HighQualityBilinear": {
+				"text": "HighQualityBilinear"
+			},
+			"NearestNeighbor": {
+				"text": "NearestNeighbor"
+			},
+			"otherSettingsLabel": {
+				"text": "Andere instellingen"
+			},
+			"backgroundColorLabel": {
+				"text": "Achtergrondkleur afbeeldingviewer:"
+			},
+			"centerImageLabel": {
+				"text": "Afbeelding midden:"
+			},
+			"resizeTimeoutLabel ": {
+				"text": "Formaat wijzigen time-out:"
+			},
+			"tileSizeLabel": {
+				"text": "Tegelmaat:"
+			},
+			"colorManagementLabel": {
+				"text": "Kleurbeheer inschakelen:"
+			},
+			"useVectorRenderingLabel": {
+				"text": "Gebruik vectorweergave voor documenten:"
+			},
+			"vectorContentBackgroundColorLabel": {
+				"text": "Achtergrondkleur vectorinhoud:"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"сancelButton": {
+				"value": "Annuleren"
+			}
+		},
+		"thumbnailViewerSettingsDialog": {
+			"sizeLabel": {
+				"text": "Miniatuurgrootte:"
+			},
+			"scaleLabel": {
+				"text": "Miniatuurschaal:"
+			},
+			"smallestOption": {
+				"text": "Minste"
+			},
+			"smallOption": {
+				"text": "Klein"
+			},
+			"normalOption": {
+				"text": "Normaal"
+			},
+			"largeOption": {
+				"text": "Groot"
+			},
+			"flowStyleLabel": {
+				"text": "Plaatsingsstijl van miniaturen:"
+			},
+			"singleColumnOption": {
+				"text": "SingleColumn"
+			},
+			"singleRowOption": {
+				"text": "SingleRow"
+			},
+			"fixedColumnsOption": {
+				"text": "FixedColumns"
+			},
+			"wrappedRowsOption": {
+				"text": "WrappedRows"
+			},
+			"columnCountLabel": {
+				"text": "Aantal kolommen:"
+			},
+			"marginLabel": {
+				"text": "Buiten opvulling:"
+			},
+			"paddingTopLabel": {
+				"text": "Bovenste vulling:"
+			},
+			"paddingRightLabel": {
+				"text": "Rechts inspringen:"
+			},
+			"paddingBottomLabel": {
+				"text": "Bottom vulling:"
+			},
+			"paddingLeftLabel": {
+				"text": "Links inspringen:"
+			},
+			"showCaptionLabel": {
+				"text": "Toon miniatuurbijschriften:"
+			},
+			"captionFormatLabel": {
+				"text": "Handtekeningformaat:"
+			},
+			"captionAnchorLabel": {
+				"text": "Handtekening Anker:"
+			},
+			"topLeftOption": {
+				"text": "Boven|Links"
+			},
+			"topOption": {
+				"text": "Top"
+			},
+			"topRightOption": {
+				"text": "Boven|Rechts"
+			},
+			"rightOption": {
+				"text": "Juist"
+			},
+			"bottomRightOption": {
+				"text": "Onder|Rechts"
+			},
+			"bottomOption": {
+				"text": "Onderkant"
+			},
+			"bottomLeftOption": {
+				"text": "Onder|Links"
+			},
+			"leftOption": {
+				"text": "Links"
+			},
+			"centerOption": {
+				"text": "Gecentreerd uitlijnen"
+			},
+			"focusOnHoverLabel": {
+				"text": "Zweeffocus:"
+			},
+			"multiSelectLabel": {
+				"text": "Sta meerdere miniatuurselectie toe:"
+			},
+			"useThumbnailCheckboxesLabel": {
+				"text": "Gebruik selectievakjes voor miniatuur:"
+			},
+			"useThumbnailActionsPanelLabel": {
+				"text": "Gebruik het actiepaneel voor miniatuur:"
+			},
+			"canDragThumbnailsLabel": {
+				"text": "Kan miniaturen slepen:"
+			},
+			"canNavigateThumbnailsUsingKeyboardLabel": {
+				"text": "Kan miniaturen navigeren met toetsenbord:"
+			},
+			"canSelectThumbnailsUsingKeyboardLabel": {
+				"text": "Kan miniaturen selecteren met toetsenbord:"
+			},
+			"canDeleteThumbnailsUsingKeyboardLabel": {
+				"text": "Kan miniaturen verwijderen met toetsenbord:"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"сancelButton": {
+				"value": "Annuleren"
+			}
+		},
+		"uploadImageFromUrlDialog": {
+			"okButton": {
+				"value": "OK"
+			},
+			"cancelButton": {
+				"value": "Annuleren"
+			}
+		},
+		"imageProcessingSettingsDialog-AutoInvert": {
+			"title": "Opdrachtinstellingen voor beeldverwerking (AutoInvert)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"imageProcessingSettingsDialog-AutoTextOrientation": {
+			"title": "Opdrachtinstellingen voor beeldverwerking (AutoTextOrientation)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"+ Binarization": {
+				"text": "+ Binarisatie:"
+			},
+			"BinarizationMode": {
+				"text": "BinarizationMode:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ConvertToBlackLevel": {
+				"text": "ConvertToBlackLevel:"
+			},
+			"ConvertToWhiteLevel": {
+				"text": "ConvertToWhiteLevel:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"LuminanceComputationMode": {
+				"text": "LuminanceComputationMode:"
+			},
+			"MaxLevelDifference": {
+				"text": "MaxLevelDifference:"
+			},
+			"MinLevelDifference": {
+				"text": "MinLevelDifference:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"Threshold": {
+				"text": "Drempelwaarde:"
+			},
+			"WindowRadius": {
+				"text": "WindowRadius:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"MinConfidence": {
+				"text": "MinConfidence:"
+			},
+			"StripWidth": {
+				"text": "StripWidth:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"imageProcessingSettingsDialog-BorderClear": {
+			"title": "Instellingen voor beeldverwerkingsopdrachten (BorderClear)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"imageProcessingSettingsDialog-Deskew": {
+			"title": "Opdrachtinstellingen voor beeldverwerking (rechtzetten)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"BorderColor": {
+				"text": "BorderColor:"
+			},
+			"BorderColorType": {
+				"text": "BorderColorType:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"MaxAngle": {
+				"text": "MaxAngle:"
+			},
+			"MinConfidence": {
+				"text": "MinConfidence:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"ScanIntervalX": {
+				"text": "ScanIntervalX:"
+			},
+			"ScanIntervalY": {
+				"text": "ScanIntervalY:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"imageProcessingSettingsDialog-Despeckle": {
+			"title": "Instellingen voor opdracht voor beeldverwerking (Ontvlekken)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"AutoConfigureLevels": {
+				"text": "AutoConfigureLevels:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"Level1": {
+				"text": "Niveau 1:"
+			},
+			"Level2": {
+				"text": "Level 2:"
+			},
+			"Radius": {
+				"text": "Straal:"
+			},
+			"+ Region": {
+				"text": "+ Regio:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "Breedte:"
+			},
+			"height": {
+				"text": "Hoogte:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"imageProcessingSettingsDialog-HalftoneRemoval": {
+			"title": "Instellingen voor opdracht voor beeldverwerking (HalftoneRemoval)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"AutoThreshold": {
+				"text": "AutoThreshold:"
+			},
+			"BlackPixelRemovalThreshold": {
+				"text": "BlackPixelRemovalThreshold:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"CellSize": {
+				"text": "CellSize:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"MaxSegmentSize": {
+				"text": "MaxSegmentSize:"
+			},
+			"MinHalftoneHeight": {
+				"text": "MinHalftoneHeight:"
+			},
+			"MinHalftoneWidth": {
+				"text": "MinHalftoneWidth:"
+			},
+			"+ Region": {
+				"text": "+ Regio:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "Breedte:"
+			},
+			"height": {
+				"text": "Hoogte:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"WhitePixelRemovalThreshold": {
+				"text": "WhitePixelRemovalThreshold:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"imageProcessingSettingsDialog-HolePunchRemoval": {
+			"title": "Instellingen voor opdracht voor beeldverwerking (HolePunchRemoval)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"+ Binarization": {
+				"text": "+ Binarisatie:"
+			},
+			"BinarizationMode": {
+				"text": "BinarizationMode:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ConvertToBlackLevel": {
+				"text": "ConvertToBlackLevel:"
+			},
+			"ConvertToWhiteLevel": {
+				"text": "ConvertToWhiteLevel:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"LuminanceComputationMode": {
+				"text": "LuminanceComputationMode:"
+			},
+			"MaxLevelDifference": {
+				"text": "MaxLevelDifference:"
+			},
+			"MinLevelDifference": {
+				"text": "MinLevelDifference:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"Threshold": {
+				"text": "Drempelwaarde:"
+			},
+			"WindowRadius": {
+				"text": "WindowRadius:"
+			},
+			"FillBorderSize": {
+				"text": "FillBorderSize:"
+			},
+			"FillColor": {
+				"text": "FillColor:"
+			},
+			"FillColorAutoDetection": {
+				"text": "FillColorAutoDetection:"
+			},
+			"HolePunchLocation": {
+				"text": "HolePunchLocation:"
+			},
+			"selectAllLabel": {
+				"text": "Selecteer alles"
+			},
+			"bottom": {
+				"text": "Onderkant"
+			},
+			"left": {
+				"text": "Links"
+			},
+			"right": {
+				"text": "Juist"
+			},
+			"top": {
+				"text": "Top"
+			},
+			"undefined": {
+				"text": "Ongedefinieerd"
+			},
+			"MaxHoleSize": {
+				"text": "MaxHoleSize:"
+			},
+			"MinHoleSize": {
+				"text": "MinHoleSize:"
+			},
+			"+ Region": {
+				"text": "+ Regio:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "Breedte:"
+			},
+			"height": {
+				"text": "Hoogte:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"imageProcessingSettingsDialog-LineRemoval": {
+			"title": "Instellingen voor opdracht voor beeldverwerking (LineRemoval)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"+ Binarization": {
+				"text": "+ Binarisatie:"
+			},
+			"BinarizationMode": {
+				"text": "BinarizationMode:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ConvertToBlackLevel": {
+				"text": "ConvertToBlackLevel:"
+			},
+			"ConvertToWhiteLevel": {
+				"text": "ConvertToWhiteLevel:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"LuminanceComputationMode": {
+				"text": "LuminanceComputationMode:"
+			},
+			"MaxLevelDifference": {
+				"text": "MaxLevelDifference:"
+			},
+			"MinLevelDifference": {
+				"text": "MinLevelDifference:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"Threshold": {
+				"text": "Drempelwaarde:"
+			},
+			"WindowRadius": {
+				"text": "WindowRadius:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"Direction": {
+				"text": "Richting:"
+			},
+			"selectAllLabel": {
+				"text": "Selecteer alles"
+			},
+			"horizontal": {
+				"text": "Horizontaal"
+			},
+			"vertical": {
+				"text": "Verticaal"
+			},
+			"FillColor": {
+				"text": "FillColor:"
+			},
+			"FillColorAutoDetection": {
+				"text": "FillColorAutoDetection:"
+			},
+			"LineEndsType": {
+				"text": "LineEndsType:"
+			},
+			"LinesType": {
+				"text": "LinesType:"
+			},
+			"MaxCurvature": {
+				"text": "MaxCurvature:"
+			},
+			"MaxDeviationAngle": {
+				"text": "MaxDeviationAngle:"
+			},
+			"MaxGapLength": {
+				"text": "MaxGapLength:"
+			},
+			"MaxLength": {
+				"text": "MaxLength:"
+			},
+			"MaxWidth": {
+				"text": "MaxWidth:"
+			},
+			"MinConfidence": {
+				"text": "MinConfidence:"
+			},
+			"MinLength": {
+				"text": "MinLength:"
+			},
+			"MinSizeRatio": {
+				"text": "MinSizeRatio:"
+			},
+			"MinWidth": {
+				"text": "MinWidth:"
+			},
+			"ReconnectBrokenObjects": {
+				"text": "ReconnectBrokenObjects:"
+			},
+			"+ Region": {
+				"text": "+ Regio:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "Breedte:"
+			},
+			"height": {
+				"text": "Hoogte:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		}
+	},
+	"downloadResultLink": {
+		"text": "Resultaten van herkenning downloaden"
+	},
+	"strings": {
+		"vsdv-uploadAndOpenFileButton-uploadFileString": "Bestand downloaden en openen",
+		"vsdv-uploadAndAddFileButton-addFileString": "Bestand uploaden en toevoegen",
+		"vsui-imageProcessingPanel-imageProcessingString": "Afbeelding verwerken",
+		"vsui-textSearchPanel-pageLabel": "Pagina",
+		"vsdv-openFile-addFileString": "Bestand toevoegen",
+		"vsdv-openFile-authenticateFileString": "Authenticeer bestand",
+		"vsdv-downloadFile-actionMessage": "Download bestand",
+		"vsdv-saveChanges-saveChangesInImages": "Wijzigingen in afbeeldingen opslaan",
+		"vsui-documentNavigationTool-getActions": "Acties ophalen",
+		"vsdv-saveChanges-saveChangesInAnnotations": "Sla wijzigingen in annotaties op",
+		"vsdv-saveChanges-burnAnnotationsInImages": "Brand annotaties op afbeeldingen",
+		"vsui-dialog-okButton": "OK",
+		"vsui-multiselect-noneSelected": "Er is niets geselecteerd",
+		"vsui-multiselect-allSelected": "Allemaal geselecteerd",
+		"vsui-multiselect-selected": "geselecteerd",
+		"vsdv-saveChanges-saveChangesInPdfDocument": "Wijzigingen opslaan in PDF-document",
+		"vsui-documentPasswordDialog-title": "Documentwachtwoord",
+		"vsui-dialog-cancelButton": "Annuleren",
+		"vsui-documentPasswordPanel-authenticateFileString": "Authenticeer bestand",
+		"vsui-imageSelectionDialog-title": "Selecteer afbeeldingen",
+		"vsui-imageSelectionDialog-currentImageString": "Huidige afbeelding",
+		"vsui-imageSelectionDialog-allImagesString": "Alle afbeeldingen",
+		"vsui-imageSelectionDialog-customImagesString": "Aangepast",
+		"vsui-printImagesDialog-title": "Afbeeldingen afdrukken",
+		"vsui-printImagesPanel-imagePrintingString": "Afbeelding wordt afgedrukt",
+		"vsui-printImagesPanel-withAnnotationsLabel": "met annotaties",
+		"vsui-imageViewerSettingsDialog-title": "Instellingen afbeeldingsviewer",
+		"vsui-thumbnailViewerSettingDialog-title": "Miniatuurweergave-instellingen",
+		"vsui-thumbnailViewerSettingsDialog-showAnnotationsLabel": "Toon annotaties op miniaturen:",
+		"vsdv-uploadImageFromUrlDialog-title": "Upload afbeelding vanaf URL",
+		"vsdv-dialog-okButton": "OK",
+		"vsdv-dialog-cancelButton": "Annuleren"
+	}
+}

@@ -1,0 +1,1154 @@
+﻿{
+	"documentViewer": {
+		"fileLabel": {
+			"text": "Файл"
+		},
+		"viewLabel": {
+			"text": "Переглянути"
+		},
+		"toolsLabel": {
+			"text": "Інструменти"
+		},
+		"ocrPanelLabel": {
+			"text": "OCR"
+		},
+		"uploadAndOpenFileButton": {
+			"title": "Завантажте та відкрийте файл"
+		},
+		"uploadAndAddFileButton": {
+			"title": "Завантажити та додати файл"
+		},
+		"previousUploadFilesButton": {
+			"title": "Раніше завантажені файли"
+		},
+		"openFileFromUrlButton": {
+			"title": "Відкрити файл з URL"
+		},
+		"printImagesButton": {
+			"title": "Друк зображень"
+		},
+		"downloadFileButton": {
+			"title": "Завантажити файл"
+		},
+		"exportAndDownloadFileButton": {
+			"title": "Експортуйте та завантажуйте файл"
+		},
+		"clearSessionCacheButton": {
+			"title": "Очистити кеш сесії"
+		},
+		"fitToWidthSizeModeButton": {
+			"title": "Підгонка по ширині"
+		},
+		"rotateViewsCounterClockwiseButton": {
+			"title": "Поверніть усі види проти годинникової стрілки"
+		},
+		"rotateAngleInput": {
+			"title": "Кут"
+		},
+		"rotateViewsClockwiseButton": {
+			"title": "Поверніть усі види за годинниковою стрілкою"
+		},
+		"imageViewerSettingsButton": {
+			"title": "Налаштування програми перегляду зображень"
+		},
+		"thumbnailViewerSettingsButton": {
+			"title": "Налаштування перегляду мініатюр"
+		},
+		"panToolButton": {
+			"title": "Пан"
+		},
+		"rectangularSelectionToolButton": {
+			"title": "Прямокутне виділення"
+		},
+		"magnifierToolButton": {
+			"title": "лупа"
+		},
+		"zoomToolButton": {
+			"title": "Збільшити"
+		},
+		"zoomSelectionToolButton": {
+			"title": "Вибір масштабу"
+		},
+		"TextSelectionToolButton": {
+			"title": "Виділення тексту"
+		},
+		"recognizeTextFromAllPagesAndOpenResultButton": {
+			"title": "Розпізнати текст на всіх сторінках і відкрити файл із розпізнаним текстом"
+		},
+		"recognizeTextFromAllPagesAndDownloadResultButton": {
+			"title": "Розпізнати текст на всіх сторінках і завантажити файл із розпізнаним текстом"
+		},
+		"recognizeTextFromFocusedPageAndDownloadResultButton": {
+			"title": "Розпізнати текст із вибраної сторінки та завантажити файл із розпізнаним текстом"
+		},
+		"recognizeTextFromRegionOfFocusedPageAndDownloadResultButton": {
+			"title": "Розпізнати текст із області виділеної сторінки та завантажити файл із розпізнаним текстом"
+		},
+		"ocrSettingsButton": {
+			"title": "Налаштування OCR"
+		},
+		"sidePanelCloseButton": {
+			"title": "Показати бічну панель"
+		},
+		"showThumbnailViewerPanelButton": {
+			"title": "Мініатюри"
+		},
+		"showPanelButton": {
+			"title": "Обробка зображення"
+		},
+		"showTextSelectionPanelButton": {
+			"title": "Виділення тексту"
+		},
+		"showTextSearchPanelButton": {
+			"title": "Знайди текст"
+		},
+		"imageProcessingPanel": {
+			"parametersButton": {
+				"value": "Налаштування"
+			},
+			"runButton": {
+				"value": "Застосувати"
+			}
+		},
+		"textSelectionPanel": {
+			"selectionModeLabel": {
+				"text": "Режим вибору:"
+			},
+			"rectangleOption": {
+				"text": "Прямокутник"
+			},
+			"fullLinesOption": {
+				"text": "Повні лінії"
+			},
+			"selectionColorLabel": {
+				"text": "Вибір кольору:"
+			},
+			"selectedTextLabel": {
+				"text": "Виділений текст:"
+			}
+		},
+		"textSearchPanel": {
+			"findLabel": {
+				"text": "знайти:"
+			},
+			"whereLookLabel": {
+				"text": "Заглядати:"
+			},
+			"currentPageOption": {
+				"text": "Поточна сторінка"
+			},
+			"allPagesOption": {
+				"text": "Всі сторінки"
+			},
+			"wholeWordLabel": {
+				"text": "Ціле слово"
+			},
+			"caseSensitiveLabel": {
+				"text": "Чутливий до регістру"
+			},
+			"startSearchButton": {
+				"value": "Почніть"
+			},
+			"stopSearchButton": {
+				"value": "СТІЙ"
+			},
+			"textNotFoundLabel": {
+				"text": "Текст не знайдено."
+			}
+		},
+		"gotoFirstPageButton": {
+			"title": "Перейти до першого зображення"
+		},
+		"gotoPreviousPageButton": {
+			"title": "Перейти до попереднього зображення"
+		},
+		"gotoPageInput": {
+			"title": "Сторінка"
+		},
+		"gotoNextPageButton": {
+			"title": "Перейти до наступного зображення"
+		},
+		"gotoLastPageButton": {
+			"title": "Перейти до останнього зображення"
+		},
+		"zoomOutButton": {
+			"title": "Зменшення"
+		},
+		"zoomValueInput": {
+			"title": "Збільшити"
+		},
+		"zoomInButton": {
+			"title": "Збільшувати"
+		},
+		"ocrSettingsDialog": {
+			"title": "Налаштування OCR",
+			"ImageBinarizationMode": {
+				"text": "ImageBinarizationMode:"
+			},
+			"Languages": {
+				"text": "мови:"
+			},
+			"selectAllLabel": {
+				"text": "Вибрати все"
+			},
+			"english": {
+				"text": "англійська"
+			},
+			"french": {
+				"text": "Французька мова"
+			},
+			"german": {
+				"text": "Німецька мова"
+			},
+			"italian": {
+				"text": "Італійська мова"
+			},
+			"osd": {
+				"text": "Виявлення орієнтації"
+			},
+			"portuguese": {
+				"text": "Португальська мова"
+			},
+			"russian": {
+				"text": "Російська мова"
+			},
+			"spanish": {
+				"text": "Іспанська мова"
+			},
+			"RecognitionMode": {
+				"text": "RecognitionMode:"
+			},
+			"RecognitionRegionType": {
+				"text": "RecognitionRegionType:"
+			},
+			"ResultFileFormat": {
+				"text": "ResultFileFormat:"
+			},
+			"ResultFileName": {
+				"text": "ResultFileName:"
+			},
+			"okButton": {
+				"value": "В порядку"
+			}
+		},
+		"normalSizeModeButton": {
+			"title": "нормальний"
+		},
+		"bestFitSizeModeButton": {
+			"title": "Найкраще підходить"
+		},
+		"fitToHeightSizeModeButton": {
+			"title": "Підходить по висоті"
+		},
+		"pixelToPixelSizeModeButton": {
+			"title": "Піксель до пікселя"
+		},
+		"zoomSizeModeButton": {
+			"title": "Збільшити"
+		},
+		"documentPasswordDialog": {
+			"pleaseEnterPasswordLabel": {
+				"text": "Цей документ захищено паролем. Будь ласка, введіть пароль."
+			},
+			"passwordLabel": {
+				"text": "Пароль:"
+			},
+			"showPasswordLabel": {
+				"text": "Показати пароль"
+			},
+			"incorrectPasswordLabel": {
+				"text": "Невірний пароль"
+			},
+			"okButton": {
+				"value": "В порядку"
+			},
+			"сancelButton": {
+				"value": "Скасувати"
+			}
+		},
+		"selectImagesDialog": {
+			"imagesLabel": {
+				"text": "Зображення:"
+			},
+			"currentImageOption": {
+				"text": "Поточне зображення"
+			},
+			"allImagesOption": {
+				"text": "Всі зображення"
+			},
+			"customImagesOption": {
+				"text": "Custom"
+			},
+			"imageRangeLabel": {
+				"text": "Діапазон зображення:"
+			},
+			"invalidRangeErrorMessageLabel": {
+				"text": "Недійсний діапазон сторінок. Приклад: 1-5, 8, 12-15."
+			},
+			"outOfRangeErrorMessageLabel": {
+				"text": "Індекс поза діапазоном колекції зображень."
+			},
+			"okButton": {
+				"value": "В порядку"
+			},
+			"сancelButton": {
+				"value": "Скасувати"
+			}
+		},
+		"printImagesDialog": {
+			"imagesLabel": {
+				"text": "Зображення:"
+			},
+			"currentImageOption": {
+				"text": "Поточне зображення"
+			},
+			"allImagesOption": {
+				"text": "Всі зображення"
+			},
+			"customImagesOption": {
+				"text": "Custom"
+			},
+			"imageRangeLabel": {
+				"text": "Діапазон зображення:"
+			},
+			"invalidRangeErrorMessageLabel": {
+				"text": "Недійсний діапазон сторінок. Приклад: 1-5, 8, 12-15."
+			},
+			"outOfRangeErrorMessageLabel": {
+				"text": "Індекс поза діапазоном колекції зображень."
+			},
+			"okButton": {
+				"value": "В порядку"
+			},
+			"cancelButton": {
+				"value": "Скасувати"
+			}
+		},
+		"imageViewerSettingsDialog": {
+			"imageDisplayModeLabel": {
+				"text": "Режим відображення зображення:"
+			},
+			"imageAnchorLabel": {
+				"text": "Якір зображення:"
+			},
+			"noneOption": {
+				"text": "Жодного"
+			},
+			"topLeftOption": {
+				"text": "Вгорі|Ліворуч"
+			},
+			"topOption": {
+				"text": "Топ"
+			},
+			"topRightOption": {
+				"text": "Вгорі|Праворуч"
+			},
+			"rightOption": {
+				"text": "правильно"
+			},
+			"bottomRightOption": {
+				"text": "Внизу|Праворуч"
+			},
+			"bottomOption": {
+				"text": "Дно"
+			},
+			"bottomLeftOption": {
+				"text": "Внизу|Ліворуч"
+			},
+			"leftOption": {
+				"text": "Ліворуч"
+			},
+			"multipageDisplayModeLabel": {
+				"text": "Багатосторінковий режим відображення:"
+			},
+			"allImagesOption": {
+				"text": "AllImages"
+			},
+			"fixedImagesOption": {
+				"text": "FixedImages"
+			},
+			"layoutDirectionLabel": {
+				"text": "Напрямок макета:"
+			},
+			"horizontalOption": {
+				"text": "Горизонтальний"
+			},
+			"verticalOption": {
+				"text": "Вертикальний"
+			},
+			"rowColumnCountLabel": {
+				"text": "Зображення в рядку/стовпці:"
+			},
+			"imagePaddingLabel": {
+				"text": "Заповнення зображень:"
+			},
+			"appearancesLabel": {
+				"text": "Поява"
+			},
+			"imageAppearanceLabel": {
+				"text": "Зовнішній вигляд зображення"
+			},
+			"imageAppearanceBackColorLabel": {
+				"text": "Колір спинки:"
+			},
+			"imageAppearanceBorderColorLabel": {
+				"text": "Колір рамки:"
+			},
+			"imageAppearanceBorderWidthLabel": {
+				"text": "Ширина межі:"
+			},
+			"focusedImageAppearanceLabel": {
+				"text": "Поява сфокусованого зображення"
+			},
+			"focusedImageAppearanceBackColorLabel": {
+				"text": "Колір спинки:"
+			},
+			"focusedImageAppearanceBorderColorLabel": {
+				"text": "Колір рамки:"
+			},
+			"focusedImageAppearanceBorderWidthLabel": {
+				"text": "Ширина межі:"
+			},
+			"useAppearanceInSinglePageModeLabel": {
+				"text": "Використовуйте вигляд зображення в режимі однієї сторінки"
+			},
+			"renderingSettingsLabel": {
+				"text": "Налаштування візуалізації"
+			},
+			"defaultRenderingSettingsLabel": {
+				"text": "Налаштування за замовчуванням"
+			},
+			"horizontalResolutionLabel": {
+				"text": "Горизонтальна роздільна здатність:"
+			},
+			"verticalResolutionLabel ": {
+				"text": "Вертикальна роздільна здатність:"
+			},
+			"smoothingModeLabel": {
+				"text": "Режим згладжування:"
+			},
+			"AntiAlias": {
+				"text": "AntiAlias"
+			},
+			"None": {
+				"text": "Жодного"
+			},
+			"interpolationModeLabel": {
+				"text": "Режим інтерполяції:"
+			},
+			"Bicubic": {
+				"text": "Бікубічний"
+			},
+			"Bilinear": {
+				"text": "Білінійний"
+			},
+			"HighQualityBicubic": {
+				"text": "HighQualityBicubic"
+			},
+			"HighQualityBilinear": {
+				"text": "HighQualityBilinear"
+			},
+			"NearestNeighbor": {
+				"text": "NearestNeighbor"
+			},
+			"otherSettingsLabel": {
+				"text": "Інші налаштування"
+			},
+			"backgroundColorLabel": {
+				"text": "Колір фону переглядача:"
+			},
+			"centerImageLabel": {
+				"text": "Центральне зображення:"
+			},
+			"resizeTimeoutLabel ": {
+				"text": "Час очікування зміни розміру:"
+			},
+			"tileSizeLabel": {
+				"text": "Розмір плитки:"
+			},
+			"colorManagementLabel": {
+				"text": "Увімкнути керування кольором:"
+			},
+			"useVectorRenderingLabel": {
+				"text": "Використовуйте векторну візуалізацію для документів:"
+			},
+			"vectorContentBackgroundColorLabel": {
+				"text": "Колір тла векторного вмісту:"
+			},
+			"okButton": {
+				"value": "В порядку"
+			},
+			"сancelButton": {
+				"value": "Скасувати"
+			}
+		},
+		"thumbnailViewerSettingsDialog": {
+			"sizeLabel": {
+				"text": "розмір:"
+			},
+			"scaleLabel": {
+				"text": "Масштаб:"
+			},
+			"smallestOption": {
+				"text": "Найменший"
+			},
+			"smallOption": {
+				"text": "Маленький"
+			},
+			"normalOption": {
+				"text": "нормальний"
+			},
+			"largeOption": {
+				"text": "Великий"
+			},
+			"flowStyleLabel": {
+				"text": "Стиль потоку:"
+			},
+			"singleColumnOption": {
+				"text": "SingleColumn"
+			},
+			"singleRowOption": {
+				"text": "SingleRow"
+			},
+			"fixedColumnsOption": {
+				"text": "FixedColumns"
+			},
+			"wrappedRowsOption": {
+				"text": "WrappedRows"
+			},
+			"columnCountLabel": {
+				"text": "Кількість стовпців:"
+			},
+			"marginLabel": {
+				"text": "Маржа:"
+			},
+			"paddingTopLabel": {
+				"text": "Верхня оббивка:"
+			},
+			"paddingRightLabel": {
+				"text": "Відступ справа:"
+			},
+			"paddingBottomLabel": {
+				"text": "Підкладка знизу:"
+			},
+			"paddingLeftLabel": {
+				"text": "Відступ ліворуч:"
+			},
+			"showCaptionLabel": {
+				"text": "Показати підписи:"
+			},
+			"captionFormatLabel": {
+				"text": "Формат підпису:"
+			},
+			"captionAnchorLabel": {
+				"text": "Якір підпису:"
+			},
+			"topLeftOption": {
+				"text": "Вгорі|Ліворуч"
+			},
+			"topOption": {
+				"text": "Топ"
+			},
+			"topRightOption": {
+				"text": "Вгорі|Праворуч"
+			},
+			"rightOption": {
+				"text": "правильно"
+			},
+			"bottomRightOption": {
+				"text": "Внизу|Праворуч"
+			},
+			"bottomOption": {
+				"text": "Дно"
+			},
+			"bottomLeftOption": {
+				"text": "Внизу|Ліворуч"
+			},
+			"leftOption": {
+				"text": "Ліворуч"
+			},
+			"centerOption": {
+				"text": "центр"
+			},
+			"focusOnHoverLabel": {
+				"text": "Фокус OnHover:"
+			},
+			"multiSelectLabel": {
+				"text": "Множинний вибір:"
+			},
+			"useThumbnailCheckboxesLabel": {
+				"text": "Використовуйте прапорці для мініатюри:"
+			},
+			"useThumbnailActionsPanelLabel": {
+				"text": "Використовуйте панель дій для мініатюри:"
+			},
+			"canDragThumbnailsLabel": {
+				"text": "Можна перетягувати мініатюри:"
+			},
+			"canNavigateThumbnailsUsingKeyboardLabel": {
+				"text": "Можна переміщатися мініатюрами за допомогою клавіатури:"
+			},
+			"canSelectThumbnailsUsingKeyboardLabel": {
+				"text": "Можна вибрати мініатюри за допомогою клавіатури:"
+			},
+			"canDeleteThumbnailsUsingKeyboardLabel": {
+				"text": "Можна видалити мініатюри за допомогою клавіатури:"
+			},
+			"okButton": {
+				"value": "В порядку"
+			},
+			"сancelButton": {
+				"value": "Скасувати"
+			}
+		},
+		"uploadImageFromUrlDialog": {
+			"okButton": {
+				"value": "В порядку"
+			},
+			"cancelButton": {
+				"value": "Скасувати"
+			}
+		},
+		"imageProcessingSettingsDialog-AutoInvert": {
+			"title": "Налаштування команд обробки зображень (автоінвертування)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "В порядку"
+			}
+		},
+		"imageProcessingSettingsDialog-AutoTextOrientation": {
+			"title": "Налаштування команд обробки зображень (Автотекстове розташування)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"+ Binarization": {
+				"text": "+ Бінаризація:"
+			},
+			"BinarizationMode": {
+				"text": "BinarizationMode:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ConvertToBlackLevel": {
+				"text": "ConvertToBlackLevel:"
+			},
+			"ConvertToWhiteLevel": {
+				"text": "ConvertToWhiteLevel:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"LuminanceComputationMode": {
+				"text": "LuminanceComputationMode:"
+			},
+			"MaxLevelDifference": {
+				"text": "MaxLevelDifference:"
+			},
+			"MinLevelDifference": {
+				"text": "MinLevelDifference:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"Threshold": {
+				"text": "Поріг:"
+			},
+			"WindowRadius": {
+				"text": "WindowRadius:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"MinConfidence": {
+				"text": "MinConfidence:"
+			},
+			"StripWidth": {
+				"text": "StripWidth:"
+			},
+			"okButton": {
+				"value": "В порядку"
+			}
+		},
+		"imageProcessingSettingsDialog-BorderClear": {
+			"title": "Налаштування команд обробки зображень (BorderClear)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "В порядку"
+			}
+		},
+		"imageProcessingSettingsDialog-Deskew": {
+			"title": "Налаштування команд обробки зображень (Deskew)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"BorderColor": {
+				"text": "BorderColor:"
+			},
+			"BorderColorType": {
+				"text": "BorderColorType:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"MaxAngle": {
+				"text": "MaxAngle:"
+			},
+			"MinConfidence": {
+				"text": "MinConfidence:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"ScanIntervalX": {
+				"text": "ScanIntervalX:"
+			},
+			"ScanIntervalY": {
+				"text": "ScanIntervalY:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "В порядку"
+			}
+		},
+		"imageProcessingSettingsDialog-Despeckle": {
+			"title": "Налаштування команд обробки зображення (Despeckle)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"AutoConfigureLevels": {
+				"text": "AutoConfigureLevels:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"Level1": {
+				"text": "Рівень 1:"
+			},
+			"Level2": {
+				"text": "Рівень 2:"
+			},
+			"Radius": {
+				"text": "радіус:"
+			},
+			"+ Region": {
+				"text": "+ Регіон:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "ширина:"
+			},
+			"height": {
+				"text": "висота:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "В порядку"
+			}
+		},
+		"imageProcessingSettingsDialog-HalftoneRemoval": {
+			"title": "Налаштування команд обробки зображення (HalftoneRemoval)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"AutoThreshold": {
+				"text": "AutoThreshold:"
+			},
+			"BlackPixelRemovalThreshold": {
+				"text": "BlackPixelRemovalThreshold:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"CellSize": {
+				"text": "CellSize:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"MaxSegmentSize": {
+				"text": "MaxSegmentSize:"
+			},
+			"MinHalftoneHeight": {
+				"text": "MinHalftoneHeight:"
+			},
+			"MinHalftoneWidth": {
+				"text": "MinHalftoneWidth:"
+			},
+			"+ Region": {
+				"text": "+ Регіон:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "ширина:"
+			},
+			"height": {
+				"text": "висота:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"WhitePixelRemovalThreshold": {
+				"text": "WhitePixelRemovalThreshold:"
+			},
+			"okButton": {
+				"value": "В порядку"
+			}
+		},
+		"imageProcessingSettingsDialog-HolePunchRemoval": {
+			"title": "Налаштування команд обробки зображень (HolePunchRemoval)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"+ Binarization": {
+				"text": "+ Бінаризація:"
+			},
+			"BinarizationMode": {
+				"text": "BinarizationMode:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ConvertToBlackLevel": {
+				"text": "ConvertToBlackLevel:"
+			},
+			"ConvertToWhiteLevel": {
+				"text": "ConvertToWhiteLevel:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"LuminanceComputationMode": {
+				"text": "LuminanceComputationMode:"
+			},
+			"MaxLevelDifference": {
+				"text": "MaxLevelDifference:"
+			},
+			"MinLevelDifference": {
+				"text": "MinLevelDifference:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"Threshold": {
+				"text": "Поріг:"
+			},
+			"WindowRadius": {
+				"text": "WindowRadius:"
+			},
+			"FillBorderSize": {
+				"text": "FillBorderSize:"
+			},
+			"FillColor": {
+				"text": "FillColor:"
+			},
+			"FillColorAutoDetection": {
+				"text": "FillColorAutoDetection:"
+			},
+			"HolePunchLocation": {
+				"text": "HolePunchLocation:"
+			},
+			"selectAllLabel": {
+				"text": "Вибрати все"
+			},
+			"bottom": {
+				"text": "Дно"
+			},
+			"left": {
+				"text": "Ліворуч"
+			},
+			"right": {
+				"text": "правильно"
+			},
+			"top": {
+				"text": "Топ"
+			},
+			"undefined": {
+				"text": "Невизначено"
+			},
+			"MaxHoleSize": {
+				"text": "MaxHoleSize:"
+			},
+			"MinHoleSize": {
+				"text": "MinHoleSize:"
+			},
+			"+ Region": {
+				"text": "+ Регіон:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "ширина:"
+			},
+			"height": {
+				"text": "висота:"
+			},
+			"okButton": {
+				"value": "В порядку"
+			}
+		},
+		"imageProcessingSettingsDialog-LineRemoval": {
+			"title": "Параметри команди обробки зображення (LineRemoval)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"+ Binarization": {
+				"text": "+ Бінаризація:"
+			},
+			"BinarizationMode": {
+				"text": "BinarizationMode:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ConvertToBlackLevel": {
+				"text": "ConvertToBlackLevel:"
+			},
+			"ConvertToWhiteLevel": {
+				"text": "ConvertToWhiteLevel:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"LuminanceComputationMode": {
+				"text": "LuminanceComputationMode:"
+			},
+			"MaxLevelDifference": {
+				"text": "MaxLevelDifference:"
+			},
+			"MinLevelDifference": {
+				"text": "MinLevelDifference:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"Threshold": {
+				"text": "Поріг:"
+			},
+			"WindowRadius": {
+				"text": "WindowRadius:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"Direction": {
+				"text": "напрямок:"
+			},
+			"selectAllLabel": {
+				"text": "Вибрати все"
+			},
+			"horizontal": {
+				"text": "Горизонтальний"
+			},
+			"vertical": {
+				"text": "Вертикальний"
+			},
+			"FillColor": {
+				"text": "FillColor:"
+			},
+			"FillColorAutoDetection": {
+				"text": "FillColorAutoDetection:"
+			},
+			"LineEndsType": {
+				"text": "LineEndsType:"
+			},
+			"LinesType": {
+				"text": "LinesType:"
+			},
+			"MaxCurvature": {
+				"text": "MaxCurvature:"
+			},
+			"MaxDeviationAngle": {
+				"text": "MaxDeviationAngle:"
+			},
+			"MaxGapLength": {
+				"text": "MaxGapLength:"
+			},
+			"MaxLength": {
+				"text": "MaxLength:"
+			},
+			"MaxWidth": {
+				"text": "MaxWidth:"
+			},
+			"MinConfidence": {
+				"text": "MinConfidence:"
+			},
+			"MinLength": {
+				"text": "MinLength:"
+			},
+			"MinSizeRatio": {
+				"text": "MinSizeRatio:"
+			},
+			"MinWidth": {
+				"text": "MinWidth:"
+			},
+			"ReconnectBrokenObjects": {
+				"text": "ReconnectBrokenObjects:"
+			},
+			"+ Region": {
+				"text": "+ Регіон:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "ширина:"
+			},
+			"height": {
+				"text": "висота:"
+			},
+			"okButton": {
+				"value": "В порядку"
+			}
+		}
+	},
+	"downloadResultLink": {
+		"text": "Завантажити результати розпізнавання"
+	},
+	"strings": {
+		"vsdv-uploadAndOpenFileButton-uploadFileString": "Завантажте та відкрийте файл",
+		"vsdv-uploadAndAddFileButton-addFileString": "Завантажити та додати файл",
+		"vsui-imageProcessingPanel-imageProcessingString": "Обробка зображення",
+		"vsui-textSearchPanel-pageLabel": "Сторінка",
+		"vsdv-openFile-addFileString": "Додати файл",
+		"vsdv-openFile-authenticateFileString": "Автентифікувати файл",
+		"vsdv-downloadFile-actionMessage": "Завантажити файл",
+		"vsdv-saveChanges-saveChangesInImages": "Збережіть зміни в зображеннях",
+		"vsui-documentNavigationTool-getActions": "Отримати дії",
+		"vsdv-saveChanges-saveChangesInAnnotations": "Збережіть зміни в анотаціях",
+		"vsdv-saveChanges-burnAnnotationsInImages": "Запис анотацій на зображеннях",
+		"vsui-dialog-okButton": "В порядку",
+		"vsui-multiselect-noneSelected": "Жоден не вибраний",
+		"vsui-multiselect-allSelected": "Усі вибрані",
+		"vsui-multiselect-selected": "вибрано",
+		"vsdv-saveChanges-saveChangesInPdfDocument": "Зберегти зміни в документі PDF",
+		"vsui-documentPasswordDialog-title": "Пароль документа",
+		"vsui-dialog-cancelButton": "Скасувати",
+		"vsui-documentPasswordPanel-authenticateFileString": "Автентифікувати файл",
+		"vsui-imageSelectionDialog-title": "Виберіть зображення",
+		"vsui-imageSelectionDialog-currentImageString": "Поточне зображення",
+		"vsui-imageSelectionDialog-allImagesString": "Всі зображення",
+		"vsui-imageSelectionDialog-customImagesString": "Custom",
+		"vsui-printImagesDialog-title": "Друк зображень",
+		"vsui-printImagesPanel-imagePrintingString": "Зображення друкується",
+		"vsui-printImagesPanel-withAnnotationsLabel": "з анотаціями",
+		"vsui-imageViewerSettingsDialog-title": "Налаштування програми перегляду зображень",
+		"vsui-thumbnailViewerSettingDialog-title": "Налаштування перегляду мініатюр",
+		"vsui-thumbnailViewerSettingsDialog-showAnnotationsLabel": "Показати анотації:",
+		"vsdv-uploadImageFromUrlDialog-title": "Завантажте зображення з URL",
+		"vsdv-dialog-okButton": "В порядку",
+		"vsdv-dialog-cancelButton": "Скасувати"
+	}
+}

@@ -1,0 +1,1154 @@
+﻿{
+	"documentViewer": {
+		"fileLabel": {
+			"text": "ファイル"
+		},
+		"viewLabel": {
+			"text": "表示"
+		},
+		"toolsLabel": {
+			"text": "ツール"
+		},
+		"ocrPanelLabel": {
+			"text": "OCR"
+		},
+		"uploadAndOpenFileButton": {
+			"title": "ファイルをダウンロードして開きます"
+		},
+		"uploadAndAddFileButton": {
+			"title": "ファイルをアップロードして追加する"
+		},
+		"previousUploadFilesButton": {
+			"title": "以前にダウンロードしたファイルのリストを表示する"
+		},
+		"openFileFromUrlButton": {
+			"title": "URLからファイルを開く"
+		},
+		"printImagesButton": {
+			"title": "画像を印刷"
+		},
+		"downloadFileButton": {
+			"title": "ダウンロードファイル"
+		},
+		"exportAndDownloadFileButton": {
+			"title": "ファイルのエクスポートとダウンロード"
+		},
+		"clearSessionCacheButton": {
+			"title": "セッションキャッシュをクリアする"
+		},
+		"fitToWidthSizeModeButton": {
+			"title": "幅に合わせる"
+		},
+		"rotateViewsCounterClockwiseButton": {
+			"title": "すべてのビューを反時計回りに回転します"
+		},
+		"rotateAngleInput": {
+			"title": "回転角度"
+		},
+		"rotateViewsClockwiseButton": {
+			"title": "すべてのビューを時計回りに回転します"
+		},
+		"imageViewerSettingsButton": {
+			"title": "画像ビューアの設定"
+		},
+		"thumbnailViewerSettingsButton": {
+			"title": "サムネイル ビューアの設定"
+		},
+		"panToolButton": {
+			"title": "パン"
+		},
+		"rectangularSelectionToolButton": {
+			"title": "長方形の選択範囲"
+		},
+		"magnifierToolButton": {
+			"title": "拡大鏡"
+		},
+		"zoomToolButton": {
+			"title": "スケール"
+		},
+		"zoomSelectionToolButton": {
+			"title": "スケールの選択"
+		},
+		"TextSelectionToolButton": {
+			"title": "テキストを強調表示"
+		},
+		"recognizeTextFromAllPagesAndOpenResultButton": {
+			"title": "すべてのページのテキストを認識し、認識されたテキストを含むファイルを開きます"
+		},
+		"recognizeTextFromAllPagesAndDownloadResultButton": {
+			"title": "すべてのページのテキストを認識し、認識されたテキストを含むファイルをダウンロードします"
+		},
+		"recognizeTextFromFocusedPageAndDownloadResultButton": {
+			"title": "フォーカスされたページのテキストを認識し、認識されたテキストを含むファイルをダウンロードします"
+		},
+		"recognizeTextFromRegionOfFocusedPageAndDownloadResultButton": {
+			"title": "フォーカスされたページの領域からテキストを認識し、認識されたテキストを含むファイルをダウンロードします"
+		},
+		"ocrSettingsButton": {
+			"title": "OCR設定"
+		},
+		"sidePanelCloseButton": {
+			"title": "サイドバーを表示"
+		},
+		"showThumbnailViewerPanelButton": {
+			"title": "サムネイル"
+		},
+		"showPanelButton": {
+			"title": "画像処理"
+		},
+		"showTextSelectionPanelButton": {
+			"title": "テキストを強調表示"
+		},
+		"showTextSearchPanelButton": {
+			"title": "テキストを検索"
+		},
+		"imageProcessingPanel": {
+			"parametersButton": {
+				"value": "設定"
+			},
+			"runButton": {
+				"value": "適用する"
+			}
+		},
+		"textSelectionPanel": {
+			"selectionModeLabel": {
+				"text": "テキスト選択モード:"
+			},
+			"rectangleOption": {
+				"text": "長方形"
+			},
+			"fullLinesOption": {
+				"text": "全行"
+			},
+			"selectionColorLabel": {
+				"text": "選択したテキストの色:"
+			},
+			"selectedTextLabel": {
+				"text": "選択されたテキスト:"
+			}
+		},
+		"textSearchPanel": {
+			"findLabel": {
+				"text": "検索:"
+			},
+			"whereLookLabel": {
+				"text": "検索:"
+			},
+			"currentPageOption": {
+				"text": "現在のページ"
+			},
+			"allPagesOption": {
+				"text": "すべてのページ"
+			},
+			"wholeWordLabel": {
+				"text": "単語全体を検索"
+			},
+			"caseSensitiveLabel": {
+				"text": "大文字と小文字を区別します"
+			},
+			"startSearchButton": {
+				"value": "検索を開始"
+			},
+			"stopSearchButton": {
+				"value": "検索を停止"
+			},
+			"textNotFoundLabel": {
+				"text": "テキストが見つかりません。"
+			}
+		},
+		"gotoFirstPageButton": {
+			"title": "最初の画像に移動"
+		},
+		"gotoPreviousPageButton": {
+			"title": "前の画像に移動"
+		},
+		"gotoPageInput": {
+			"title": "ページ"
+		},
+		"gotoNextPageButton": {
+			"title": "次の画像に移動"
+		},
+		"gotoLastPageButton": {
+			"title": "最後の画像に移動"
+		},
+		"zoomOutButton": {
+			"title": "ズームアウト"
+		},
+		"zoomValueInput": {
+			"title": "スケール"
+		},
+		"zoomInButton": {
+			"title": "ズームイン"
+		},
+		"ocrSettingsDialog": {
+			"title": "OCR設定",
+			"ImageBinarizationMode": {
+				"text": "ImageBinarizationMode:"
+			},
+			"Languages": {
+				"text": "言語:"
+			},
+			"selectAllLabel": {
+				"text": "すべて選択"
+			},
+			"english": {
+				"text": "英語"
+			},
+			"french": {
+				"text": "フランス語"
+			},
+			"german": {
+				"text": "ドイツ語"
+			},
+			"italian": {
+				"text": "イタリア語"
+			},
+			"osd": {
+				"text": "方向検出"
+			},
+			"portuguese": {
+				"text": "ポルトガル語"
+			},
+			"russian": {
+				"text": "ロシア語"
+			},
+			"spanish": {
+				"text": "スペイン語"
+			},
+			"RecognitionMode": {
+				"text": "RecognitionMode:"
+			},
+			"RecognitionRegionType": {
+				"text": "RecognitionRegionType:"
+			},
+			"ResultFileFormat": {
+				"text": "ResultFileFormat:"
+			},
+			"ResultFileName": {
+				"text": "ResultFileName:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"normalSizeModeButton": {
+			"title": "通常"
+		},
+		"bestFitSizeModeButton": {
+			"title": "最も適しています"
+		},
+		"fitToHeightSizeModeButton": {
+			"title": "フィット高さ"
+		},
+		"pixelToPixelSizeModeButton": {
+			"title": "ピクセルからピクセル"
+		},
+		"zoomSizeModeButton": {
+			"title": "スケール"
+		},
+		"documentPasswordDialog": {
+			"pleaseEnterPasswordLabel": {
+				"text": "このドキュメントはパスワードで保護されています。 パスワードを入力してください。"
+			},
+			"passwordLabel": {
+				"text": "パスワード:"
+			},
+			"showPasswordLabel": {
+				"text": "パスワードを表示"
+			},
+			"incorrectPasswordLabel": {
+				"text": "パスワードが間違っています"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"сancelButton": {
+				"value": "キャンセル"
+			}
+		},
+		"selectImagesDialog": {
+			"imagesLabel": {
+				"text": "画像:"
+			},
+			"currentImageOption": {
+				"text": "現在の画像"
+			},
+			"allImagesOption": {
+				"text": "すべての画像"
+			},
+			"customImagesOption": {
+				"text": "カスタム"
+			},
+			"imageRangeLabel": {
+				"text": "画像範囲:"
+			},
+			"invalidRangeErrorMessageLabel": {
+				"text": "ページ範囲が無効です。 例: 1 ～ 5、8、12 ～ 15。"
+			},
+			"outOfRangeErrorMessageLabel": {
+				"text": "インデックスはイメージ コレクションのインデックス範囲内にありません。"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"сancelButton": {
+				"value": "キャンセル"
+			}
+		},
+		"printImagesDialog": {
+			"imagesLabel": {
+				"text": "画像:"
+			},
+			"currentImageOption": {
+				"text": "現在の画像"
+			},
+			"allImagesOption": {
+				"text": "すべての画像"
+			},
+			"customImagesOption": {
+				"text": "カスタム"
+			},
+			"imageRangeLabel": {
+				"text": "画像範囲:"
+			},
+			"invalidRangeErrorMessageLabel": {
+				"text": "ページ範囲が無効です。 例: 1 ～ 5、8、12 ～ 15。"
+			},
+			"outOfRangeErrorMessageLabel": {
+				"text": "インデックスはイメージ コレクションのインデックス範囲内にありません。"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"cancelButton": {
+				"value": "キャンセル"
+			}
+		},
+		"imageViewerSettingsDialog": {
+			"imageDisplayModeLabel": {
+				"text": "画像表示モード："
+			},
+			"imageAnchorLabel": {
+				"text": "画像アンカー:"
+			},
+			"noneOption": {
+				"text": "いいえ"
+			},
+			"topLeftOption": {
+				"text": "上|左"
+			},
+			"topOption": {
+				"text": "トップ"
+			},
+			"topRightOption": {
+				"text": "上|右"
+			},
+			"rightOption": {
+				"text": "右"
+			},
+			"bottomRightOption": {
+				"text": "下|右"
+			},
+			"bottomOption": {
+				"text": "下"
+			},
+			"bottomLeftOption": {
+				"text": "下|左"
+			},
+			"leftOption": {
+				"text": "左"
+			},
+			"multipageDisplayModeLabel": {
+				"text": "複数ページ表示モード:"
+			},
+			"allImagesOption": {
+				"text": "AllImages"
+			},
+			"fixedImagesOption": {
+				"text": "FixedImages"
+			},
+			"layoutDirectionLabel": {
+				"text": "レイアウト方向:"
+			},
+			"horizontalOption": {
+				"text": "水平"
+			},
+			"verticalOption": {
+				"text": "垂直"
+			},
+			"rowColumnCountLabel": {
+				"text": "行/列の画像:"
+			},
+			"imagePaddingLabel": {
+				"text": "画像のパディング:"
+			},
+			"appearancesLabel": {
+				"text": "外観"
+			},
+			"imageAppearanceLabel": {
+				"text": "画像の外観"
+			},
+			"imageAppearanceBackColorLabel": {
+				"text": "背景色:"
+			},
+			"imageAppearanceBorderColorLabel": {
+				"text": "境界線の色:"
+			},
+			"imageAppearanceBorderWidthLabel": {
+				"text": "境界線の幅:"
+			},
+			"focusedImageAppearanceLabel": {
+				"text": "焦点の合った画像の外観"
+			},
+			"focusedImageAppearanceBackColorLabel": {
+				"text": "背景色:"
+			},
+			"focusedImageAppearanceBorderColorLabel": {
+				"text": "境界線の色:"
+			},
+			"focusedImageAppearanceBorderWidthLabel": {
+				"text": "境界線の幅:"
+			},
+			"useAppearanceInSinglePageModeLabel": {
+				"text": "単一ページ モードで画像の外観を使用する"
+			},
+			"renderingSettingsLabel": {
+				"text": "レンダリング設定"
+			},
+			"defaultRenderingSettingsLabel": {
+				"text": "デフォルト設定"
+			},
+			"horizontalResolutionLabel": {
+				"text": "水平解像度:"
+			},
+			"verticalResolutionLabel ": {
+				"text": "垂直解像度:"
+			},
+			"smoothingModeLabel": {
+				"text": "スムーズ モード:"
+			},
+			"AntiAlias": {
+				"text": "AntiAlias"
+			},
+			"None": {
+				"text": "いいえ"
+			},
+			"interpolationModeLabel": {
+				"text": "補間モード:"
+			},
+			"Bicubic": {
+				"text": "Bicubic"
+			},
+			"Bilinear": {
+				"text": "Bilinear"
+			},
+			"HighQualityBicubic": {
+				"text": "HighQualityBicubic"
+			},
+			"HighQualityBilinear": {
+				"text": "HighQualityBilinear"
+			},
+			"NearestNeighbor": {
+				"text": "NearestNeighbor"
+			},
+			"otherSettingsLabel": {
+				"text": "その他の設定"
+			},
+			"backgroundColorLabel": {
+				"text": "画像ビューアの背景色:"
+			},
+			"centerImageLabel": {
+				"text": "中央画像:"
+			},
+			"resizeTimeoutLabel ": {
+				"text": "サイズ変更タイムアウト:"
+			},
+			"tileSizeLabel": {
+				"text": "タイル サイズ:"
+			},
+			"colorManagementLabel": {
+				"text": "カラー管理を有効にする:"
+			},
+			"useVectorRenderingLabel": {
+				"text": "ドキュメントにベクター レンダリングを使用します:"
+			},
+			"vectorContentBackgroundColorLabel": {
+				"text": "ベクター コンテンツの背景色:"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"сancelButton": {
+				"value": "キャンセル"
+			}
+		},
+		"thumbnailViewerSettingsDialog": {
+			"sizeLabel": {
+				"text": "サムネイルのサイズ:"
+			},
+			"scaleLabel": {
+				"text": "サムネイルのスケール:"
+			},
+			"smallestOption": {
+				"text": "最低"
+			},
+			"smallOption": {
+				"text": "小"
+			},
+			"normalOption": {
+				"text": "通常"
+			},
+			"largeOption": {
+				"text": "大"
+			},
+			"flowStyleLabel": {
+				"text": "サムネイルの配置スタイル:"
+			},
+			"singleColumnOption": {
+				"text": "SingleColumn"
+			},
+			"singleRowOption": {
+				"text": "SingleRow"
+			},
+			"fixedColumnsOption": {
+				"text": "FixedColumns"
+			},
+			"wrappedRowsOption": {
+				"text": "WrappedRows"
+			},
+			"columnCountLabel": {
+				"text": "列数:"
+			},
+			"marginLabel": {
+				"text": "外側のパディング:"
+			},
+			"paddingTopLabel": {
+				"text": "上部パディング:"
+			},
+			"paddingRightLabel": {
+				"text": "右インデント:"
+			},
+			"paddingBottomLabel": {
+				"text": "下部のパディング:"
+			},
+			"paddingLeftLabel": {
+				"text": "左インデント:"
+			},
+			"showCaptionLabel": {
+				"text": "サムネイルのキャプションを表示:"
+			},
+			"captionFormatLabel": {
+				"text": "署名形式:"
+			},
+			"captionAnchorLabel": {
+				"text": "署名アンカー:"
+			},
+			"topLeftOption": {
+				"text": "上|左"
+			},
+			"topOption": {
+				"text": "トップ"
+			},
+			"topRightOption": {
+				"text": "上|右"
+			},
+			"rightOption": {
+				"text": "右"
+			},
+			"bottomRightOption": {
+				"text": "下|右"
+			},
+			"bottomOption": {
+				"text": "下"
+			},
+			"bottomLeftOption": {
+				"text": "下|左"
+			},
+			"leftOption": {
+				"text": "左"
+			},
+			"centerOption": {
+				"text": "中央揃え"
+			},
+			"focusOnHoverLabel": {
+				"text": "ホバーフォーカス:"
+			},
+			"multiSelectLabel": {
+				"text": "複数のサムネイルの選択を許可します:"
+			},
+			"useThumbnailCheckboxesLabel": {
+				"text": "サムネイルにチェックボックスを使用します。"
+			},
+			"useThumbnailActionsPanelLabel": {
+				"text": "サムネイルにアクション パネルを使用します。"
+			},
+			"canDragThumbnailsLabel": {
+				"text": "サムネイルをドラッグできます:"
+			},
+			"canNavigateThumbnailsUsingKeyboardLabel": {
+				"text": "キーボードを使用してサムネイルをナビゲートできます:"
+			},
+			"canSelectThumbnailsUsingKeyboardLabel": {
+				"text": "キーボードを使用してサムネイルを選択できます:"
+			},
+			"canDeleteThumbnailsUsingKeyboardLabel": {
+				"text": "キーボードを使用してサムネイルを削除できます:"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"сancelButton": {
+				"value": "キャンセル"
+			}
+		},
+		"uploadImageFromUrlDialog": {
+			"okButton": {
+				"value": "OK"
+			},
+			"cancelButton": {
+				"value": "キャンセル"
+			}
+		},
+		"imageProcessingSettingsDialog-AutoInvert": {
+			"title": "画像処理コマンド設定（AutoInvert）",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"imageProcessingSettingsDialog-AutoTextOrientation": {
+			"title": "画像処理コマンドの設定（AutoTextOrientation）",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"+ Binarization": {
+				"text": "+ 二値化:"
+			},
+			"BinarizationMode": {
+				"text": "BinarizationMode:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ConvertToBlackLevel": {
+				"text": "ConvertToBlackLevel:"
+			},
+			"ConvertToWhiteLevel": {
+				"text": "ConvertToWhiteLevel:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"LuminanceComputationMode": {
+				"text": "LuminanceComputationMode:"
+			},
+			"MaxLevelDifference": {
+				"text": "MaxLevelDifference:"
+			},
+			"MinLevelDifference": {
+				"text": "MinLevelDifference:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"Threshold": {
+				"text": "しきい値："
+			},
+			"WindowRadius": {
+				"text": "WindowRadius:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"MinConfidence": {
+				"text": "MinConfidence:"
+			},
+			"StripWidth": {
+				"text": "StripWidth:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"imageProcessingSettingsDialog-BorderClear": {
+			"title": "画像処理コマンド設定（BorderClear）",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"imageProcessingSettingsDialog-Deskew": {
+			"title": "画像処理コマンド設定（デスキュー）",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"BorderColor": {
+				"text": "BorderColor:"
+			},
+			"BorderColorType": {
+				"text": "BorderColorType:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"MaxAngle": {
+				"text": "MaxAngle:"
+			},
+			"MinConfidence": {
+				"text": "MinConfidence:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"ScanIntervalX": {
+				"text": "ScanIntervalX:"
+			},
+			"ScanIntervalY": {
+				"text": "ScanIntervalY:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"imageProcessingSettingsDialog-Despeckle": {
+			"title": "画像処理コマンド設定（斑点除去）",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"AutoConfigureLevels": {
+				"text": "AutoConfigureLevels:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"Level1": {
+				"text": "レベル1："
+			},
+			"Level2": {
+				"text": "レベル2："
+			},
+			"Radius": {
+				"text": "半径:"
+			},
+			"+ Region": {
+				"text": "+ 地域:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "幅:"
+			},
+			"height": {
+				"text": "高さ:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"imageProcessingSettingsDialog-HalftoneRemoval": {
+			"title": "画像処理コマンド設定（HalftoneRemoval）",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"AutoThreshold": {
+				"text": "AutoThreshold:"
+			},
+			"BlackPixelRemovalThreshold": {
+				"text": "BlackPixelRemovalThreshold:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"CellSize": {
+				"text": "CellSize:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"MaxSegmentSize": {
+				"text": "MaxSegmentSize:"
+			},
+			"MinHalftoneHeight": {
+				"text": "MinHalftoneHeight:"
+			},
+			"MinHalftoneWidth": {
+				"text": "MinHalftoneWidth:"
+			},
+			"+ Region": {
+				"text": "+ 地域:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "幅:"
+			},
+			"height": {
+				"text": "高さ:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"WhitePixelRemovalThreshold": {
+				"text": "WhitePixelRemovalThreshold:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"imageProcessingSettingsDialog-HolePunchRemoval": {
+			"title": "画像処理コマンド設定（HolePunchRemoval）",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"+ Binarization": {
+				"text": "+ 二値化:"
+			},
+			"BinarizationMode": {
+				"text": "BinarizationMode:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ConvertToBlackLevel": {
+				"text": "ConvertToBlackLevel:"
+			},
+			"ConvertToWhiteLevel": {
+				"text": "ConvertToWhiteLevel:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"LuminanceComputationMode": {
+				"text": "LuminanceComputationMode:"
+			},
+			"MaxLevelDifference": {
+				"text": "MaxLevelDifference:"
+			},
+			"MinLevelDifference": {
+				"text": "MinLevelDifference:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"Threshold": {
+				"text": "しきい値："
+			},
+			"WindowRadius": {
+				"text": "WindowRadius:"
+			},
+			"FillBorderSize": {
+				"text": "FillBorderSize:"
+			},
+			"FillColor": {
+				"text": "FillColor:"
+			},
+			"FillColorAutoDetection": {
+				"text": "FillColorAutoDetection:"
+			},
+			"HolePunchLocation": {
+				"text": "HolePunchLocation:"
+			},
+			"selectAllLabel": {
+				"text": "すべて選択"
+			},
+			"bottom": {
+				"text": "下"
+			},
+			"left": {
+				"text": "左"
+			},
+			"right": {
+				"text": "右"
+			},
+			"top": {
+				"text": "トップ"
+			},
+			"undefined": {
+				"text": "未定義"
+			},
+			"MaxHoleSize": {
+				"text": "MaxHoleSize:"
+			},
+			"MinHoleSize": {
+				"text": "MinHoleSize:"
+			},
+			"+ Region": {
+				"text": "+ 地域:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "幅:"
+			},
+			"height": {
+				"text": "高さ:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"imageProcessingSettingsDialog-LineRemoval": {
+			"title": "画像処理コマンド設定（LineRemoval）",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"+ Binarization": {
+				"text": "+ 二値化:"
+			},
+			"BinarizationMode": {
+				"text": "BinarizationMode:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ConvertToBlackLevel": {
+				"text": "ConvertToBlackLevel:"
+			},
+			"ConvertToWhiteLevel": {
+				"text": "ConvertToWhiteLevel:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"LuminanceComputationMode": {
+				"text": "LuminanceComputationMode:"
+			},
+			"MaxLevelDifference": {
+				"text": "MaxLevelDifference:"
+			},
+			"MinLevelDifference": {
+				"text": "MinLevelDifference:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"Threshold": {
+				"text": "しきい値："
+			},
+			"WindowRadius": {
+				"text": "WindowRadius:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"Direction": {
+				"text": "方向："
+			},
+			"selectAllLabel": {
+				"text": "すべて選択"
+			},
+			"horizontal": {
+				"text": "水平"
+			},
+			"vertical": {
+				"text": "垂直"
+			},
+			"FillColor": {
+				"text": "FillColor:"
+			},
+			"FillColorAutoDetection": {
+				"text": "FillColorAutoDetection:"
+			},
+			"LineEndsType": {
+				"text": "LineEndsType:"
+			},
+			"LinesType": {
+				"text": "LinesType:"
+			},
+			"MaxCurvature": {
+				"text": "MaxCurvature:"
+			},
+			"MaxDeviationAngle": {
+				"text": "MaxDeviationAngle:"
+			},
+			"MaxGapLength": {
+				"text": "MaxGapLength:"
+			},
+			"MaxLength": {
+				"text": "MaxLength:"
+			},
+			"MaxWidth": {
+				"text": "MaxWidth:"
+			},
+			"MinConfidence": {
+				"text": "MinConfidence:"
+			},
+			"MinLength": {
+				"text": "MinLength:"
+			},
+			"MinSizeRatio": {
+				"text": "MinSizeRatio:"
+			},
+			"MinWidth": {
+				"text": "MinWidth:"
+			},
+			"ReconnectBrokenObjects": {
+				"text": "ReconnectBrokenObjects:"
+			},
+			"+ Region": {
+				"text": "+ 地域:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "幅:"
+			},
+			"height": {
+				"text": "高さ:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		}
+	},
+	"downloadResultLink": {
+		"text": "認識結果のダウンロード"
+	},
+	"strings": {
+		"vsdv-uploadAndOpenFileButton-uploadFileString": "ファイルをダウンロードして開きます",
+		"vsdv-uploadAndAddFileButton-addFileString": "ファイルをアップロードして追加する",
+		"vsui-imageProcessingPanel-imageProcessingString": "画像処理",
+		"vsui-textSearchPanel-pageLabel": "ページ",
+		"vsdv-openFile-addFileString": "ファイルを追加",
+		"vsdv-openFile-authenticateFileString": "ファイルを認証する",
+		"vsdv-downloadFile-actionMessage": "ダウンロードファイル",
+		"vsdv-saveChanges-saveChangesInImages": "画像の変更を保存する",
+		"vsui-documentNavigationTool-getActions": "アクションを取得",
+		"vsdv-saveChanges-saveChangesInAnnotations": "注釈の変更を保存する",
+		"vsdv-saveChanges-burnAnnotationsInImages": "画像に注釈を書き込む",
+		"vsui-dialog-okButton": "OK",
+		"vsui-multiselect-noneSelected": "何も選択されていません",
+		"vsui-multiselect-allSelected": "すべて選択済み",
+		"vsui-multiselect-selected": "選択された",
+		"vsdv-saveChanges-saveChangesInPdfDocument": "PDF ドキュメントに変更を保存する",
+		"vsui-documentPasswordDialog-title": "文書のパスワード",
+		"vsui-dialog-cancelButton": "キャンセル",
+		"vsui-documentPasswordPanel-authenticateFileString": "ファイルを認証する",
+		"vsui-imageSelectionDialog-title": "画像を選択",
+		"vsui-imageSelectionDialog-currentImageString": "現在の画像",
+		"vsui-imageSelectionDialog-allImagesString": "すべての画像",
+		"vsui-imageSelectionDialog-customImagesString": "カスタム",
+		"vsui-printImagesDialog-title": "画像を印刷",
+		"vsui-printImagesPanel-imagePrintingString": "画像を印刷中です",
+		"vsui-printImagesPanel-withAnnotationsLabel": "注釈あり",
+		"vsui-imageViewerSettingsDialog-title": "画像ビューアの設定",
+		"vsui-thumbnailViewerSettingDialog-title": "サムネイル ビューアの設定",
+		"vsui-thumbnailViewerSettingsDialog-showAnnotationsLabel": "サムネイルに注釈を表示:",
+		"vsdv-uploadImageFromUrlDialog-title": "URLから画像をアップロード",
+		"vsdv-dialog-okButton": "OK",
+		"vsdv-dialog-cancelButton": "キャンセル"
+	}
+}

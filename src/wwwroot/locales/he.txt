@@ -1,0 +1,1154 @@
+﻿{
+	"documentViewer": {
+		"fileLabel": {
+			"text": "קובץ"
+		},
+		"viewLabel": {
+			"text": "הצג"
+		},
+		"toolsLabel": {
+			"text": "כלים"
+		},
+		"ocrPanelLabel": {
+			"text": "R"
+		},
+		"uploadAndOpenFileButton": {
+			"title": "הורד ופתח את הקובץ"
+		},
+		"uploadAndAddFileButton": {
+			"title": "העלה והוסף קובץ"
+		},
+		"previousUploadFilesButton": {
+			"title": "הצג רשימה של קבצים שהורדו בעבר"
+		},
+		"openFileFromUrlButton": {
+			"title": "פתח קובץ מ-URL"
+		},
+		"printImagesButton": {
+			"title": "הדפס תמונות"
+		},
+		"downloadFileButton": {
+			"title": "הורד קובץ"
+		},
+		"exportAndDownloadFileButton": {
+			"title": "ייצא והורד קובץ"
+		},
+		"clearSessionCacheButton": {
+			"title": "נקה את מטמון ההפעלה"
+		},
+		"fitToWidthSizeModeButton": {
+			"title": "התאם לרוחב"
+		},
+		"rotateViewsCounterClockwiseButton": {
+			"title": "סובב את כל התצוגות נגד כיוון השעון"
+		},
+		"rotateAngleInput": {
+			"title": "זווית סיבוב"
+		},
+		"rotateViewsClockwiseButton": {
+			"title": "סובב את כל התצוגות בכיוון השעון"
+		},
+		"imageViewerSettingsButton": {
+			"title": "הגדרות מציג תמונות"
+		},
+		"thumbnailViewerSettingsButton": {
+			"title": "הגדרות מציג תמונות ממוזערות"
+		},
+		"panToolButton": {
+			"title": "פאן"
+		},
+		"rectangularSelectionToolButton": {
+			"title": "מבחר מלבני"
+		},
+		"magnifierToolButton": {
+			"title": "מגדיל"
+		},
+		"zoomToolButton": {
+			"title": "קנה מידה"
+		},
+		"zoomSelectionToolButton": {
+			"title": "בחירת קנה מידה"
+		},
+		"TextSelectionToolButton": {
+			"title": "הדגש טקסט"
+		},
+		"recognizeTextFromAllPagesAndOpenResultButton": {
+			"title": "זיהוי טקסט מכל הדפים ופתח קובץ עם טקסט מזוהה"
+		},
+		"recognizeTextFromAllPagesAndDownloadResultButton": {
+			"title": "זיהוי טקסט מכל הדפים והורד קובץ עם טקסט מוכר"
+		},
+		"recognizeTextFromFocusedPageAndDownloadResultButton": {
+			"title": "זיהוי טקסט מעמוד ממוקד והורד קובץ עם טקסט מזוהה"
+		},
+		"recognizeTextFromRegionOfFocusedPageAndDownloadResultButton": {
+			"title": "זיהוי טקסט מאזור העמוד הממוקד והורד קובץ עם טקסט מזוהה"
+		},
+		"ocrSettingsButton": {
+			"title": "הגדרות OCR"
+		},
+		"sidePanelCloseButton": {
+			"title": "הצג סרגל צד"
+		},
+		"showThumbnailViewerPanelButton": {
+			"title": "תמונות ממוזערות"
+		},
+		"showPanelButton": {
+			"title": "עיבוד תמונה"
+		},
+		"showTextSelectionPanelButton": {
+			"title": "הדגש טקסט"
+		},
+		"showTextSearchPanelButton": {
+			"title": "חפש טקסט"
+		},
+		"imageProcessingPanel": {
+			"parametersButton": {
+				"value": "הגדרות"
+			},
+			"runButton": {
+				"value": "להגיש מועמדות"
+			}
+		},
+		"textSelectionPanel": {
+			"selectionModeLabel": {
+				"text": "מצב בחירת טקסט:"
+			},
+			"rectangleOption": {
+				"text": "מלבן"
+			},
+			"fullLinesOption": {
+				"text": "שורות מלאות"
+			},
+			"selectionColorLabel": {
+				"text": "צבע הטקסט שנבחר:"
+			},
+			"selectedTextLabel": {
+				"text": "טקסט נבחר:"
+			}
+		},
+		"textSearchPanel": {
+			"findLabel": {
+				"text": "מצא:"
+			},
+			"whereLookLabel": {
+				"text": "חפש ב:"
+			},
+			"currentPageOption": {
+				"text": "דף נוכחי"
+			},
+			"allPagesOption": {
+				"text": "כל הדפים"
+			},
+			"wholeWordLabel": {
+				"text": "חפש מילה שלמה"
+			},
+			"caseSensitiveLabel": {
+				"text": "תלוי רישיות"
+			},
+			"startSearchButton": {
+				"value": "התחל חיפוש"
+			},
+			"stopSearchButton": {
+				"value": "הפסק לחפש"
+			},
+			"textNotFoundLabel": {
+				"text": "הטקסט לא נמצא."
+			}
+		},
+		"gotoFirstPageButton": {
+			"title": "עבור לתמונה הראשונה"
+		},
+		"gotoPreviousPageButton": {
+			"title": "עבור לתמונה הקודמת"
+		},
+		"gotoPageInput": {
+			"title": "דף"
+		},
+		"gotoNextPageButton": {
+			"title": "עבור לתמונה הבאה"
+		},
+		"gotoLastPageButton": {
+			"title": "עבור לתמונה האחרונה"
+		},
+		"zoomOutButton": {
+			"title": "התקרבות"
+		},
+		"zoomValueInput": {
+			"title": "קנה מידה"
+		},
+		"zoomInButton": {
+			"title": "התקרב"
+		},
+		"ocrSettingsDialog": {
+			"title": "הגדרות OCR",
+			"ImageBinarizationMode": {
+				"text": "ImageBinarizationMode:"
+			},
+			"Languages": {
+				"text": "שפות:"
+			},
+			"selectAllLabel": {
+				"text": "בחר הכל"
+			},
+			"english": {
+				"text": "אנגלית"
+			},
+			"french": {
+				"text": "השפה הצרפתית"
+			},
+			"german": {
+				"text": "השפה הגרמנית"
+			},
+			"italian": {
+				"text": "השפה האיטלקית"
+			},
+			"osd": {
+				"text": "זיהוי הכיוון"
+			},
+			"portuguese": {
+				"text": "השפה הפורטוגזית"
+			},
+			"russian": {
+				"text": "השפה הרוסית"
+			},
+			"spanish": {
+				"text": "השפה הספרדית"
+			},
+			"RecognitionMode": {
+				"text": "RecognitionMode:"
+			},
+			"RecognitionRegionType": {
+				"text": "RecognitionRegionType:"
+			},
+			"ResultFileFormat": {
+				"text": "ResultFileFormat:"
+			},
+			"ResultFileName": {
+				"text": "ResultFileName:"
+			},
+			"okButton": {
+				"value": "בסדר"
+			}
+		},
+		"normalSizeModeButton": {
+			"title": "רגיל"
+		},
+		"bestFitSizeModeButton": {
+			"title": "המתאים ביותר"
+		},
+		"fitToHeightSizeModeButton": {
+			"title": "התאמה לגובה"
+		},
+		"pixelToPixelSizeModeButton": {
+			"title": "פיקסל לפיקסל"
+		},
+		"zoomSizeModeButton": {
+			"title": "קנה מידה"
+		},
+		"documentPasswordDialog": {
+			"pleaseEnterPasswordLabel": {
+				"text": "מסמך זה מוגן בסיסמה. הכנס סיסמא בבקשה."
+			},
+			"passwordLabel": {
+				"text": "סיסמה:"
+			},
+			"showPasswordLabel": {
+				"text": "הצג סיסמה"
+			},
+			"incorrectPasswordLabel": {
+				"text": "סיסמה שגויה"
+			},
+			"okButton": {
+				"value": "בסדר"
+			},
+			"сancelButton": {
+				"value": "בטל"
+			}
+		},
+		"selectImagesDialog": {
+			"imagesLabel": {
+				"text": "תמונות:"
+			},
+			"currentImageOption": {
+				"text": "תמונה נוכחית"
+			},
+			"allImagesOption": {
+				"text": "כל התמונות"
+			},
+			"customImagesOption": {
+				"text": "מותאם אישית"
+			},
+			"imageRangeLabel": {
+				"text": "טווח תמונות:"
+			},
+			"invalidRangeErrorMessageLabel": {
+				"text": "טווח דפים לא חוקי. דוגמה: 1-5, 8, 12-15."
+			},
+			"outOfRangeErrorMessageLabel": {
+				"text": "האינדקס אינו בטווח האינדקס של אוסף התמונות."
+			},
+			"okButton": {
+				"value": "בסדר"
+			},
+			"сancelButton": {
+				"value": "בטל"
+			}
+		},
+		"printImagesDialog": {
+			"imagesLabel": {
+				"text": "תמונות:"
+			},
+			"currentImageOption": {
+				"text": "תמונה נוכחית"
+			},
+			"allImagesOption": {
+				"text": "כל התמונות"
+			},
+			"customImagesOption": {
+				"text": "מותאם אישית"
+			},
+			"imageRangeLabel": {
+				"text": "טווח תמונות:"
+			},
+			"invalidRangeErrorMessageLabel": {
+				"text": "טווח דפים לא חוקי. דוגמה: 1-5, 8, 12-15."
+			},
+			"outOfRangeErrorMessageLabel": {
+				"text": "האינדקס אינו בטווח האינדקס של אוסף התמונות."
+			},
+			"okButton": {
+				"value": "בסדר"
+			},
+			"cancelButton": {
+				"value": "בטל"
+			}
+		},
+		"imageViewerSettingsDialog": {
+			"imageDisplayModeLabel": {
+				"text": "מצב תצוגת תמונה:"
+			},
+			"imageAnchorLabel": {
+				"text": "עוגן תמונה:"
+			},
+			"noneOption": {
+				"text": "לא"
+			},
+			"topLeftOption": {
+				"text": "למעלה|משמאל"
+			},
+			"topOption": {
+				"text": "למעלה"
+			},
+			"topRightOption": {
+				"text": "למעלה|מימין"
+			},
+			"rightOption": {
+				"text": "נכון"
+			},
+			"bottomRightOption": {
+				"text": "למטה|מימין"
+			},
+			"bottomOption": {
+				"text": "למטה"
+			},
+			"bottomLeftOption": {
+				"text": "למטה|שמאל"
+			},
+			"leftOption": {
+				"text": "שמאל"
+			},
+			"multipageDisplayModeLabel": {
+				"text": "מצב תצוגה מרובה עמודים:"
+			},
+			"allImagesOption": {
+				"text": "AllImages"
+			},
+			"fixedImagesOption": {
+				"text": "FixedImages"
+			},
+			"layoutDirectionLabel": {
+				"text": "כיוון פריסה:"
+			},
+			"horizontalOption": {
+				"text": "אופקי"
+			},
+			"verticalOption": {
+				"text": "אנכי"
+			},
+			"rowColumnCountLabel": {
+				"text": "תמונות בשורה/עמודה:"
+			},
+			"imagePaddingLabel": {
+				"text": "ריפוד תמונות:"
+			},
+			"appearancesLabel": {
+				"text": "הופעות"
+			},
+			"imageAppearanceLabel": {
+				"text": "מראה התמונה"
+			},
+			"imageAppearanceBackColorLabel": {
+				"text": "צבע רקע:"
+			},
+			"imageAppearanceBorderColorLabel": {
+				"text": "צבע גבול:"
+			},
+			"imageAppearanceBorderWidthLabel": {
+				"text": "רוחב גבול:"
+			},
+			"focusedImageAppearanceLabel": {
+				"text": "הופעה של תמונה ממוקדת"
+			},
+			"focusedImageAppearanceBackColorLabel": {
+				"text": "צבע רקע:"
+			},
+			"focusedImageAppearanceBorderColorLabel": {
+				"text": "צבע גבול:"
+			},
+			"focusedImageAppearanceBorderWidthLabel": {
+				"text": "רוחב גבול:"
+			},
+			"useAppearanceInSinglePageModeLabel": {
+				"text": "השתמש במראה התמונה במצב עמוד יחיד"
+			},
+			"renderingSettingsLabel": {
+				"text": "הגדרות עיבוד"
+			},
+			"defaultRenderingSettingsLabel": {
+				"text": "הגדרות ברירת מחדל"
+			},
+			"horizontalResolutionLabel": {
+				"text": "רזולוציה אופקית:"
+			},
+			"verticalResolutionLabel ": {
+				"text": "רזולוציה אנכית:"
+			},
+			"smoothingModeLabel": {
+				"text": "מצב חלק:"
+			},
+			"AntiAlias": {
+				"text": "AntiAlias"
+			},
+			"None": {
+				"text": "לא"
+			},
+			"interpolationModeLabel": {
+				"text": "מצב אינטרפולציה:"
+			},
+			"Bicubic": {
+				"text": "Bicubic"
+			},
+			"Bilinear": {
+				"text": "Bilinear"
+			},
+			"HighQualityBicubic": {
+				"text": "HighQualityBicubic"
+			},
+			"HighQualityBilinear": {
+				"text": "HighQualityBilinear"
+			},
+			"NearestNeighbor": {
+				"text": "NearestNeighbor"
+			},
+			"otherSettingsLabel": {
+				"text": "הגדרות אחרות"
+			},
+			"backgroundColorLabel": {
+				"text": "צבע רקע של מציג התמונה:"
+			},
+			"centerImageLabel": {
+				"text": "מרכז תמונה:"
+			},
+			"resizeTimeoutLabel ": {
+				"text": "תפוגה לשינוי גודל:"
+			},
+			"tileSizeLabel": {
+				"text": "גודל אריחים:"
+			},
+			"colorManagementLabel": {
+				"text": "אפשר ניהול צבע:"
+			},
+			"useVectorRenderingLabel": {
+				"text": "השתמש בעיבוד וקטורי עבור מסמכים:"
+			},
+			"vectorContentBackgroundColorLabel": {
+				"text": "צבע רקע של תוכן וקטור:"
+			},
+			"okButton": {
+				"value": "בסדר"
+			},
+			"сancelButton": {
+				"value": "בטל"
+			}
+		},
+		"thumbnailViewerSettingsDialog": {
+			"sizeLabel": {
+				"text": "גודל תמונה ממוזערת:"
+			},
+			"scaleLabel": {
+				"text": "קנה מידה של תמונות ממוזערות:"
+			},
+			"smallestOption": {
+				"text": "הכי פחות"
+			},
+			"smallOption": {
+				"text": "קטן"
+			},
+			"normalOption": {
+				"text": "רגיל"
+			},
+			"largeOption": {
+				"text": "גדול"
+			},
+			"flowStyleLabel": {
+				"text": "סגנון מיקום תמונות ממוזערות:"
+			},
+			"singleColumnOption": {
+				"text": "SingleColumn"
+			},
+			"singleRowOption": {
+				"text": "SingleRow"
+			},
+			"fixedColumnsOption": {
+				"text": "FixedColumns"
+			},
+			"wrappedRowsOption": {
+				"text": "WrappedRows"
+			},
+			"columnCountLabel": {
+				"text": "מספר עמודות:"
+			},
+			"marginLabel": {
+				"text": "ריפוד חיצוני:"
+			},
+			"paddingTopLabel": {
+				"text": "ריפוד עליון:"
+			},
+			"paddingRightLabel": {
+				"text": "כניסה ימנית:"
+			},
+			"paddingBottomLabel": {
+				"text": "ריפוד תחתון:"
+			},
+			"paddingLeftLabel": {
+				"text": "כניסה שמאלית:"
+			},
+			"showCaptionLabel": {
+				"text": "הצג כיתובים של תמונות ממוזערות:"
+			},
+			"captionFormatLabel": {
+				"text": "פורמט חתימה:"
+			},
+			"captionAnchorLabel": {
+				"text": "עוגן חתימה:"
+			},
+			"topLeftOption": {
+				"text": "למעלה|משמאל"
+			},
+			"topOption": {
+				"text": "למעלה"
+			},
+			"topRightOption": {
+				"text": "למעלה|מימין"
+			},
+			"rightOption": {
+				"text": "נכון"
+			},
+			"bottomRightOption": {
+				"text": "למטה|מימין"
+			},
+			"bottomOption": {
+				"text": "למטה"
+			},
+			"bottomLeftOption": {
+				"text": "למטה|שמאל"
+			},
+			"leftOption": {
+				"text": "שמאל"
+			},
+			"centerOption": {
+				"text": "יישור מרכז"
+			},
+			"focusOnHoverLabel": {
+				"text": "מיקוד ריחוף:"
+			},
+			"multiSelectLabel": {
+				"text": "אפשר בחירת תמונות ממוזערות מרובות:"
+			},
+			"useThumbnailCheckboxesLabel": {
+				"text": "השתמש בתיבות סימון עבור תמונה ממוזערת:"
+			},
+			"useThumbnailActionsPanelLabel": {
+				"text": "השתמש בחלונית פעולות לתמונה ממוזערת:"
+			},
+			"canDragThumbnailsLabel": {
+				"text": "יכול לגרור תמונות ממוזערות:"
+			},
+			"canNavigateThumbnailsUsingKeyboardLabel": {
+				"text": "יכול לנווט בתמונות ממוזערות באמצעות מקלדת:"
+			},
+			"canSelectThumbnailsUsingKeyboardLabel": {
+				"text": "יכול לבחור תמונות ממוזערות באמצעות מקלדת:"
+			},
+			"canDeleteThumbnailsUsingKeyboardLabel": {
+				"text": "יכול למחוק תמונות ממוזערות באמצעות מקלדת:"
+			},
+			"okButton": {
+				"value": "בסדר"
+			},
+			"сancelButton": {
+				"value": "בטל"
+			}
+		},
+		"uploadImageFromUrlDialog": {
+			"okButton": {
+				"value": "בסדר"
+			},
+			"cancelButton": {
+				"value": "בטל"
+			}
+		},
+		"imageProcessingSettingsDialog-AutoInvert": {
+			"title": "הגדרות פקודת עיבוד תמונה (AutoInvert)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "בסדר"
+			}
+		},
+		"imageProcessingSettingsDialog-AutoTextOrientation": {
+			"title": "הגדרות פקודת עיבוד תמונה (AutoTextOrientation)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"+ Binarization": {
+				"text": "+ בינאריזציה:"
+			},
+			"BinarizationMode": {
+				"text": "BinarizationMode:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ConvertToBlackLevel": {
+				"text": "ConvertToBlackLevel:"
+			},
+			"ConvertToWhiteLevel": {
+				"text": "ConvertToWhiteLevel:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"LuminanceComputationMode": {
+				"text": "LuminanceComputationMode:"
+			},
+			"MaxLevelDifference": {
+				"text": "MaxLevelDifference:"
+			},
+			"MinLevelDifference": {
+				"text": "MinLevelDifference:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"Threshold": {
+				"text": "מפתן:"
+			},
+			"WindowRadius": {
+				"text": "WindowRadius:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"MinConfidence": {
+				"text": "MinConfidence:"
+			},
+			"StripWidth": {
+				"text": "StripWidth:"
+			},
+			"okButton": {
+				"value": "בסדר"
+			}
+		},
+		"imageProcessingSettingsDialog-BorderClear": {
+			"title": "הגדרות פקודת עיבוד תמונה (BorderClear)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "בסדר"
+			}
+		},
+		"imageProcessingSettingsDialog-Deskew": {
+			"title": "הגדרות פקודת עיבוד תמונה (Deskew)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"BorderColor": {
+				"text": "BorderColor:"
+			},
+			"BorderColorType": {
+				"text": "BorderColorType:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"MaxAngle": {
+				"text": "MaxAngle:"
+			},
+			"MinConfidence": {
+				"text": "MinConfidence:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"ScanIntervalX": {
+				"text": "ScanIntervalX:"
+			},
+			"ScanIntervalY": {
+				"text": "ScanIntervalY:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "בסדר"
+			}
+		},
+		"imageProcessingSettingsDialog-Despeckle": {
+			"title": "הגדרות פקודת עיבוד תמונה (Despeckle)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"AutoConfigureLevels": {
+				"text": "AutoConfigureLevels:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"Level1": {
+				"text": "שלב 1:"
+			},
+			"Level2": {
+				"text": "שלב 2:"
+			},
+			"Radius": {
+				"text": "רדיוס:"
+			},
+			"+ Region": {
+				"text": "+ אזור:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "רוחב:"
+			},
+			"height": {
+				"text": "גובה:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "בסדר"
+			}
+		},
+		"imageProcessingSettingsDialog-HalftoneRemoval": {
+			"title": "הגדרות פקודת עיבוד תמונה (Halftone Removal)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"AutoThreshold": {
+				"text": "AutoThreshold:"
+			},
+			"BlackPixelRemovalThreshold": {
+				"text": "BlackPixelRemovalThreshold:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"CellSize": {
+				"text": "CellSize:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"MaxSegmentSize": {
+				"text": "MaxSegmentSize:"
+			},
+			"MinHalftoneHeight": {
+				"text": "MinHalftoneHeight:"
+			},
+			"MinHalftoneWidth": {
+				"text": "MinHalftoneWidth:"
+			},
+			"+ Region": {
+				"text": "+ אזור:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "רוחב:"
+			},
+			"height": {
+				"text": "גובה:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"WhitePixelRemovalThreshold": {
+				"text": "WhitePixelRemovalThreshold:"
+			},
+			"okButton": {
+				"value": "בסדר"
+			}
+		},
+		"imageProcessingSettingsDialog-HolePunchRemoval": {
+			"title": "הגדרות פקודת עיבוד תמונה (HolePunchRemoval)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"+ Binarization": {
+				"text": "+ בינאריזציה:"
+			},
+			"BinarizationMode": {
+				"text": "BinarizationMode:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ConvertToBlackLevel": {
+				"text": "ConvertToBlackLevel:"
+			},
+			"ConvertToWhiteLevel": {
+				"text": "ConvertToWhiteLevel:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"LuminanceComputationMode": {
+				"text": "LuminanceComputationMode:"
+			},
+			"MaxLevelDifference": {
+				"text": "MaxLevelDifference:"
+			},
+			"MinLevelDifference": {
+				"text": "MinLevelDifference:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"Threshold": {
+				"text": "מפתן:"
+			},
+			"WindowRadius": {
+				"text": "WindowRadius:"
+			},
+			"FillBorderSize": {
+				"text": "FillBorderSize:"
+			},
+			"FillColor": {
+				"text": "FillColor:"
+			},
+			"FillColorAutoDetection": {
+				"text": "FillColorAutoDetection:"
+			},
+			"HolePunchLocation": {
+				"text": "HolePunchLocation:"
+			},
+			"selectAllLabel": {
+				"text": "בחר הכל"
+			},
+			"bottom": {
+				"text": "למטה"
+			},
+			"left": {
+				"text": "שמאל"
+			},
+			"right": {
+				"text": "נכון"
+			},
+			"top": {
+				"text": "למעלה"
+			},
+			"undefined": {
+				"text": "לא מוגדר"
+			},
+			"MaxHoleSize": {
+				"text": "MaxHoleSize:"
+			},
+			"MinHoleSize": {
+				"text": "MinHoleSize:"
+			},
+			"+ Region": {
+				"text": "+ אזור:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "רוחב:"
+			},
+			"height": {
+				"text": "גובה:"
+			},
+			"okButton": {
+				"value": "בסדר"
+			}
+		},
+		"imageProcessingSettingsDialog-LineRemoval": {
+			"title": "הגדרות פקודת עיבוד תמונה (LineRemoval)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"+ Binarization": {
+				"text": "+ בינאריזציה:"
+			},
+			"BinarizationMode": {
+				"text": "BinarizationMode:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ConvertToBlackLevel": {
+				"text": "ConvertToBlackLevel:"
+			},
+			"ConvertToWhiteLevel": {
+				"text": "ConvertToWhiteLevel:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"LuminanceComputationMode": {
+				"text": "LuminanceComputationMode:"
+			},
+			"MaxLevelDifference": {
+				"text": "MaxLevelDifference:"
+			},
+			"MinLevelDifference": {
+				"text": "MinLevelDifference:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"Threshold": {
+				"text": "מפתן:"
+			},
+			"WindowRadius": {
+				"text": "WindowRadius:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"Direction": {
+				"text": "כיוון:"
+			},
+			"selectAllLabel": {
+				"text": "בחר הכל"
+			},
+			"horizontal": {
+				"text": "אופקי"
+			},
+			"vertical": {
+				"text": "אנכי"
+			},
+			"FillColor": {
+				"text": "FillColor:"
+			},
+			"FillColorAutoDetection": {
+				"text": "FillColorAutoDetection:"
+			},
+			"LineEndsType": {
+				"text": "LineEndsType:"
+			},
+			"LinesType": {
+				"text": "LinesType:"
+			},
+			"MaxCurvature": {
+				"text": "MaxCurvature:"
+			},
+			"MaxDeviationAngle": {
+				"text": "MaxDeviationAngle:"
+			},
+			"MaxGapLength": {
+				"text": "MaxGapLength:"
+			},
+			"MaxLength": {
+				"text": "MaxLength:"
+			},
+			"MaxWidth": {
+				"text": "MaxWidth:"
+			},
+			"MinConfidence": {
+				"text": "MinConfidence:"
+			},
+			"MinLength": {
+				"text": "MinLength:"
+			},
+			"MinSizeRatio": {
+				"text": "MinSizeRatio:"
+			},
+			"MinWidth": {
+				"text": "MinWidth:"
+			},
+			"ReconnectBrokenObjects": {
+				"text": "ReconnectBrokenObjects:"
+			},
+			"+ Region": {
+				"text": "+ אזור:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "רוחב:"
+			},
+			"height": {
+				"text": "גובה:"
+			},
+			"okButton": {
+				"value": "בסדר"
+			}
+		}
+	},
+	"downloadResultLink": {
+		"text": "הורד תוצאות של זיהוי"
+	},
+	"strings": {
+		"vsdv-uploadAndOpenFileButton-uploadFileString": "הורד ופתח את הקובץ",
+		"vsdv-uploadAndAddFileButton-addFileString": "העלה והוסף קובץ",
+		"vsui-imageProcessingPanel-imageProcessingString": "עיבוד תמונה",
+		"vsui-textSearchPanel-pageLabel": "דף",
+		"vsdv-openFile-addFileString": "הוסף קובץ",
+		"vsdv-openFile-authenticateFileString": "אימות קובץ",
+		"vsdv-downloadFile-actionMessage": "הורד קובץ",
+		"vsdv-saveChanges-saveChangesInImages": "שמור שינויים בתמונות",
+		"vsui-documentNavigationTool-getActions": "קבל פעולות",
+		"vsdv-saveChanges-saveChangesInAnnotations": "שמור שינויים בהערות",
+		"vsdv-saveChanges-burnAnnotationsInImages": "צריבת הערות על תמונות",
+		"vsui-dialog-okButton": "בסדר",
+		"vsui-multiselect-noneSelected": "אף אחד לא נבחר",
+		"vsui-multiselect-allSelected": "כולם נבחרו",
+		"vsui-multiselect-selected": "נבחר",
+		"vsdv-saveChanges-saveChangesInPdfDocument": "שמור שינויים במסמך PDF",
+		"vsui-documentPasswordDialog-title": "סיסמת מסמך",
+		"vsui-dialog-cancelButton": "בטל",
+		"vsui-documentPasswordPanel-authenticateFileString": "אימות קובץ",
+		"vsui-imageSelectionDialog-title": "בחר תמונות",
+		"vsui-imageSelectionDialog-currentImageString": "תמונה נוכחית",
+		"vsui-imageSelectionDialog-allImagesString": "כל התמונות",
+		"vsui-imageSelectionDialog-customImagesString": "מותאם אישית",
+		"vsui-printImagesDialog-title": "הדפס תמונות",
+		"vsui-printImagesPanel-imagePrintingString": "התמונה מודפסת",
+		"vsui-printImagesPanel-withAnnotationsLabel": "עם הערות",
+		"vsui-imageViewerSettingsDialog-title": "הגדרות מציג תמונות",
+		"vsui-thumbnailViewerSettingDialog-title": "הגדרות מציג תמונות ממוזערות",
+		"vsui-thumbnailViewerSettingsDialog-showAnnotationsLabel": "הצג הערות בתמונות ממוזערות:",
+		"vsdv-uploadImageFromUrlDialog-title": "העלה תמונה מ-URL",
+		"vsdv-dialog-okButton": "בסדר",
+		"vsdv-dialog-cancelButton": "בטל"
+	}
+}

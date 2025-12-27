@@ -1,0 +1,1154 @@
+﻿{
+	"documentViewer": {
+		"fileLabel": {
+			"text": "Arquivo"
+		},
+		"viewLabel": {
+			"text": "Ver"
+		},
+		"toolsLabel": {
+			"text": "Ferramentas"
+		},
+		"ocrPanelLabel": {
+			"text": "OCR"
+		},
+		"uploadAndOpenFileButton": {
+			"title": "Baixe e abra o arquivo"
+		},
+		"uploadAndAddFileButton": {
+			"title": "Carregar e adicionar arquivo"
+		},
+		"previousUploadFilesButton": {
+			"title": "Ver uma lista de arquivos baixados anteriormente"
+		},
+		"openFileFromUrlButton": {
+			"title": "Abrir arquivo do URL"
+		},
+		"printImagesButton": {
+			"title": "imprimir imagens"
+		},
+		"downloadFileButton": {
+			"title": "Baixar arquivo"
+		},
+		"exportAndDownloadFileButton": {
+			"title": "Exportar e baixar arquivo"
+		},
+		"clearSessionCacheButton": {
+			"title": "Limpar cache da sessão"
+		},
+		"fitToWidthSizeModeButton": {
+			"title": "Ajustar à largura"
+		},
+		"rotateViewsCounterClockwiseButton": {
+			"title": "Girar todas as visualizações no sentido anti-horário"
+		},
+		"rotateAngleInput": {
+			"title": "Ângulo de rotação"
+		},
+		"rotateViewsClockwiseButton": {
+			"title": "Girar todas as visualizações no sentido horário"
+		},
+		"imageViewerSettingsButton": {
+			"title": "Configurações do visualizador de imagens"
+		},
+		"thumbnailViewerSettingsButton": {
+			"title": "Configurações do visualizador de miniaturas"
+		},
+		"panToolButton": {
+			"title": "Pan"
+		},
+		"rectangularSelectionToolButton": {
+			"title": "Seleção retangular"
+		},
+		"magnifierToolButton": {
+			"title": "Lupa"
+		},
+		"zoomToolButton": {
+			"title": "Escala"
+		},
+		"zoomSelectionToolButton": {
+			"title": "Seleção de escala"
+		},
+		"TextSelectionToolButton": {
+			"title": "Realçar texto"
+		},
+		"recognizeTextFromAllPagesAndOpenResultButton": {
+			"title": "Reconhecer texto de todas as páginas e abrir arquivo com texto reconhecido"
+		},
+		"recognizeTextFromAllPagesAndDownloadResultButton": {
+			"title": "Reconhecer texto de todas as páginas e baixar arquivo com texto reconhecido"
+		},
+		"recognizeTextFromFocusedPageAndDownloadResultButton": {
+			"title": "Reconhecer texto da página em foco e baixar arquivo com texto reconhecido"
+		},
+		"recognizeTextFromRegionOfFocusedPageAndDownloadResultButton": {
+			"title": "Reconhecer texto da região da página em foco e baixar arquivo com texto reconhecido"
+		},
+		"ocrSettingsButton": {
+			"title": "Configurações de OCR"
+		},
+		"sidePanelCloseButton": {
+			"title": "Mostrar barra lateral"
+		},
+		"showThumbnailViewerPanelButton": {
+			"title": "Miniaturas"
+		},
+		"showPanelButton": {
+			"title": "Processamento de imagem"
+		},
+		"showTextSelectionPanelButton": {
+			"title": "Realçar texto"
+		},
+		"showTextSearchPanelButton": {
+			"title": "Pesquisar por texto"
+		},
+		"imageProcessingPanel": {
+			"parametersButton": {
+				"value": "Configurações"
+			},
+			"runButton": {
+				"value": "Aplicar"
+			}
+		},
+		"textSelectionPanel": {
+			"selectionModeLabel": {
+				"text": "Modo de seleção de texto:"
+			},
+			"rectangleOption": {
+				"text": "Retângulo"
+			},
+			"fullLinesOption": {
+				"text": "Linhas completas"
+			},
+			"selectionColorLabel": {
+				"text": "Cor do texto selecionado:"
+			},
+			"selectedTextLabel": {
+				"text": "Texto selecionado:"
+			}
+		},
+		"textSearchPanel": {
+			"findLabel": {
+				"text": "Localizar:"
+			},
+			"whereLookLabel": {
+				"text": "Pesquisar em:"
+			},
+			"currentPageOption": {
+				"text": "Página atual"
+			},
+			"allPagesOption": {
+				"text": "Todas as páginas"
+			},
+			"wholeWordLabel": {
+				"text": "Pesquisar palavra inteira"
+			},
+			"caseSensitiveLabel": {
+				"text": "diferencia maiúsculas de minúsculas"
+			},
+			"startSearchButton": {
+				"value": "Iniciar pesquisa"
+			},
+			"stopSearchButton": {
+				"value": "Parar de procurar"
+			},
+			"textNotFoundLabel": {
+				"text": "Texto não encontrado."
+			}
+		},
+		"gotoFirstPageButton": {
+			"title": "Ir para a primeira imagem"
+		},
+		"gotoPreviousPageButton": {
+			"title": "Ir para a imagem anterior"
+		},
+		"gotoPageInput": {
+			"title": "Página"
+		},
+		"gotoNextPageButton": {
+			"title": "Ir para a próxima imagem"
+		},
+		"gotoLastPageButton": {
+			"title": "Ir para a última imagem"
+		},
+		"zoomOutButton": {
+			"title": "Zoom Out"
+		},
+		"zoomValueInput": {
+			"title": "Escala"
+		},
+		"zoomInButton": {
+			"title": "Aumentar o zoom"
+		},
+		"ocrSettingsDialog": {
+			"title": "Configurações de OCR",
+			"ImageBinarizationMode": {
+				"text": "ImageBinarizationMode:"
+			},
+			"Languages": {
+				"text": "Línguas:"
+			},
+			"selectAllLabel": {
+				"text": "Selecionar tudo"
+			},
+			"english": {
+				"text": "Inglês"
+			},
+			"french": {
+				"text": "A língua francesa"
+			},
+			"german": {
+				"text": "A lingua alemã"
+			},
+			"italian": {
+				"text": "A língua italiana"
+			},
+			"osd": {
+				"text": "A detecção de orientação"
+			},
+			"portuguese": {
+				"text": "A língua portuguesa"
+			},
+			"russian": {
+				"text": "A língua russa"
+			},
+			"spanish": {
+				"text": "A lingua espanhola"
+			},
+			"RecognitionMode": {
+				"text": "RecognitionMode:"
+			},
+			"RecognitionRegionType": {
+				"text": "RecognitionRegionType:"
+			},
+			"ResultFileFormat": {
+				"text": "ResultFileFormat:"
+			},
+			"ResultFileName": {
+				"text": "ResultFileName:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"normalSizeModeButton": {
+			"title": "Normal"
+		},
+		"bestFitSizeModeButton": {
+			"title": "Mais adequado"
+		},
+		"fitToHeightSizeModeButton": {
+			"title": "Ajustar Altura"
+		},
+		"pixelToPixelSizeModeButton": {
+			"title": "Pixel a Pixel"
+		},
+		"zoomSizeModeButton": {
+			"title": "Escala"
+		},
+		"documentPasswordDialog": {
+			"pleaseEnterPasswordLabel": {
+				"text": "Este documento é protegido por senha. Por favor insira uma senha."
+			},
+			"passwordLabel": {
+				"text": "Senha:"
+			},
+			"showPasswordLabel": {
+				"text": "Mostrar senha"
+			},
+			"incorrectPasswordLabel": {
+				"text": "Senha incorreta"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"сancelButton": {
+				"value": "Cancelar"
+			}
+		},
+		"selectImagesDialog": {
+			"imagesLabel": {
+				"text": "Imagens:"
+			},
+			"currentImageOption": {
+				"text": "Imagem Atual"
+			},
+			"allImagesOption": {
+				"text": "Todas as imagens"
+			},
+			"customImagesOption": {
+				"text": "Personalizado"
+			},
+			"imageRangeLabel": {
+				"text": "Intervalo de imagem:"
+			},
+			"invalidRangeErrorMessageLabel": {
+				"text": "Intervalo de páginas inválido. Exemplo: 1-5, 8, 12-15."
+			},
+			"outOfRangeErrorMessageLabel": {
+				"text": "O índice não está dentro do intervalo de índice da coleção de imagens."
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"сancelButton": {
+				"value": "Cancelar"
+			}
+		},
+		"printImagesDialog": {
+			"imagesLabel": {
+				"text": "Imagens:"
+			},
+			"currentImageOption": {
+				"text": "Imagem Atual"
+			},
+			"allImagesOption": {
+				"text": "Todas as imagens"
+			},
+			"customImagesOption": {
+				"text": "Personalizado"
+			},
+			"imageRangeLabel": {
+				"text": "Intervalo de imagem:"
+			},
+			"invalidRangeErrorMessageLabel": {
+				"text": "Intervalo de páginas inválido. Exemplo: 1-5, 8, 12-15."
+			},
+			"outOfRangeErrorMessageLabel": {
+				"text": "O índice não está dentro do intervalo de índice da coleção de imagens."
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"cancelButton": {
+				"value": "Cancelar"
+			}
+		},
+		"imageViewerSettingsDialog": {
+			"imageDisplayModeLabel": {
+				"text": "Modo de exibição de imagem:"
+			},
+			"imageAnchorLabel": {
+				"text": "Âncora de imagem:"
+			},
+			"noneOption": {
+				"text": "Não"
+			},
+			"topLeftOption": {
+				"text": "Cima|Esquerda"
+			},
+			"topOption": {
+				"text": "Topo"
+			},
+			"topRightOption": {
+				"text": "Cima|Direita"
+			},
+			"rightOption": {
+				"text": "Certo"
+			},
+			"bottomRightOption": {
+				"text": "Inferior|Direita"
+			},
+			"bottomOption": {
+				"text": "Inferior"
+			},
+			"bottomLeftOption": {
+				"text": "Inferior|Esquerda"
+			},
+			"leftOption": {
+				"text": "Esquerda"
+			},
+			"multipageDisplayModeLabel": {
+				"text": "Modo de exibição de várias páginas:"
+			},
+			"allImagesOption": {
+				"text": "AllImages"
+			},
+			"fixedImagesOption": {
+				"text": "FixedImages"
+			},
+			"layoutDirectionLabel": {
+				"text": "Direção do layout:"
+			},
+			"horizontalOption": {
+				"text": "Horizontal"
+			},
+			"verticalOption": {
+				"text": "Vertical"
+			},
+			"rowColumnCountLabel": {
+				"text": "Imagens em linha/coluna:"
+			},
+			"imagePaddingLabel": {
+				"text": "Preenchimento de imagens:"
+			},
+			"appearancesLabel": {
+				"text": "Aparições"
+			},
+			"imageAppearanceLabel": {
+				"text": "Aparência da imagem"
+			},
+			"imageAppearanceBackColorLabel": {
+				"text": "Cor de fundo:"
+			},
+			"imageAppearanceBorderColorLabel": {
+				"text": "Cor da Borda:"
+			},
+			"imageAppearanceBorderWidthLabel": {
+				"text": "Largura da borda:"
+			},
+			"focusedImageAppearanceLabel": {
+				"text": "Aparência da imagem em foco"
+			},
+			"focusedImageAppearanceBackColorLabel": {
+				"text": "Cor de fundo:"
+			},
+			"focusedImageAppearanceBorderColorLabel": {
+				"text": "Cor da Borda:"
+			},
+			"focusedImageAppearanceBorderWidthLabel": {
+				"text": "Largura da borda:"
+			},
+			"useAppearanceInSinglePageModeLabel": {
+				"text": "Usar aparência de imagem no modo de página única"
+			},
+			"renderingSettingsLabel": {
+				"text": "Configurações de renderização"
+			},
+			"defaultRenderingSettingsLabel": {
+				"text": "Configurações padrão"
+			},
+			"horizontalResolutionLabel": {
+				"text": "Resolução horizontal:"
+			},
+			"verticalResolutionLabel ": {
+				"text": "Resolução vertical:"
+			},
+			"smoothingModeLabel": {
+				"text": "Modo suave:"
+			},
+			"AntiAlias": {
+				"text": "AntiAlias"
+			},
+			"None": {
+				"text": "Não"
+			},
+			"interpolationModeLabel": {
+				"text": "Modo de interpolação:"
+			},
+			"Bicubic": {
+				"text": "Bicubic"
+			},
+			"Bilinear": {
+				"text": "Bilinear"
+			},
+			"HighQualityBicubic": {
+				"text": "HighQualityBicubic"
+			},
+			"HighQualityBilinear": {
+				"text": "HighQualityBilinear"
+			},
+			"NearestNeighbor": {
+				"text": "NearestNeighbor"
+			},
+			"otherSettingsLabel": {
+				"text": "Outras configurações"
+			},
+			"backgroundColorLabel": {
+				"text": "Cor de fundo do visualizador de imagens:"
+			},
+			"centerImageLabel": {
+				"text": "Imagem Central:"
+			},
+			"resizeTimeoutLabel ": {
+				"text": "Redimensionar tempo limite:"
+			},
+			"tileSizeLabel": {
+				"text": "Tamanho do ladrilho:"
+			},
+			"colorManagementLabel": {
+				"text": "Ativar gerenciamento de cores:"
+			},
+			"useVectorRenderingLabel": {
+				"text": "Usar renderização vetorial para documentos:"
+			},
+			"vectorContentBackgroundColorLabel": {
+				"text": "Cor de fundo do conteúdo do vetor:"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"сancelButton": {
+				"value": "Cancelar"
+			}
+		},
+		"thumbnailViewerSettingsDialog": {
+			"sizeLabel": {
+				"text": "Tamanho da miniatura:"
+			},
+			"scaleLabel": {
+				"text": "Escala de miniaturas:"
+			},
+			"smallestOption": {
+				"text": "Mínimo"
+			},
+			"smallOption": {
+				"text": "Pequeno"
+			},
+			"normalOption": {
+				"text": "Normal"
+			},
+			"largeOption": {
+				"text": "Grande"
+			},
+			"flowStyleLabel": {
+				"text": "Estilo de posicionamento da miniatura:"
+			},
+			"singleColumnOption": {
+				"text": "SingleColumn"
+			},
+			"singleRowOption": {
+				"text": "SingleRow"
+			},
+			"fixedColumnsOption": {
+				"text": "FixedColumns"
+			},
+			"wrappedRowsOption": {
+				"text": "WrappedRows"
+			},
+			"columnCountLabel": {
+				"text": "Número de colunas:"
+			},
+			"marginLabel": {
+				"text": "Preenchimento externo:"
+			},
+			"paddingTopLabel": {
+				"text": "Preenchimento superior:"
+			},
+			"paddingRightLabel": {
+				"text": "Recuo à direita:"
+			},
+			"paddingBottomLabel": {
+				"text": "Preenchimento inferior:"
+			},
+			"paddingLeftLabel": {
+				"text": "Recuo à esquerda:"
+			},
+			"showCaptionLabel": {
+				"text": "Mostrar legendas das miniaturas:"
+			},
+			"captionFormatLabel": {
+				"text": "Formato de assinatura:"
+			},
+			"captionAnchorLabel": {
+				"text": "Âncora de assinatura:"
+			},
+			"topLeftOption": {
+				"text": "Cima|Esquerda"
+			},
+			"topOption": {
+				"text": "Topo"
+			},
+			"topRightOption": {
+				"text": "Cima|Direita"
+			},
+			"rightOption": {
+				"text": "Certo"
+			},
+			"bottomRightOption": {
+				"text": "Inferior|Direita"
+			},
+			"bottomOption": {
+				"text": "Inferior"
+			},
+			"bottomLeftOption": {
+				"text": "Inferior|Esquerda"
+			},
+			"leftOption": {
+				"text": "Esquerda"
+			},
+			"centerOption": {
+				"text": "Alinhar Centro"
+			},
+			"focusOnHoverLabel": {
+				"text": "Foco ao passar o mouse:"
+			},
+			"multiSelectLabel": {
+				"text": "Permitir seleção de várias miniaturas:"
+			},
+			"useThumbnailCheckboxesLabel": {
+				"text": "Use caixas de seleção para miniaturas:"
+			},
+			"useThumbnailActionsPanelLabel": {
+				"text": "Use o painel de ações para miniaturas:"
+			},
+			"canDragThumbnailsLabel": {
+				"text": "Pode arrastar miniaturas:"
+			},
+			"canNavigateThumbnailsUsingKeyboardLabel": {
+				"text": "Pode navegar pelas miniaturas usando o teclado:"
+			},
+			"canSelectThumbnailsUsingKeyboardLabel": {
+				"text": "Pode selecionar miniaturas usando o teclado:"
+			},
+			"canDeleteThumbnailsUsingKeyboardLabel": {
+				"text": "Pode excluir miniaturas usando o teclado:"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"сancelButton": {
+				"value": "Cancelar"
+			}
+		},
+		"uploadImageFromUrlDialog": {
+			"okButton": {
+				"value": "OK"
+			},
+			"cancelButton": {
+				"value": "Cancelar"
+			}
+		},
+		"imageProcessingSettingsDialog-AutoInvert": {
+			"title": "Configurações do comando de processamento de imagem (AutoInvert)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"imageProcessingSettingsDialog-AutoTextOrientation": {
+			"title": "Configurações do comando de processamento de imagem (AutoTextOrientation)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"+ Binarization": {
+				"text": "+ Binarização:"
+			},
+			"BinarizationMode": {
+				"text": "BinarizationMode:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ConvertToBlackLevel": {
+				"text": "ConvertToBlackLevel:"
+			},
+			"ConvertToWhiteLevel": {
+				"text": "ConvertToWhiteLevel:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"LuminanceComputationMode": {
+				"text": "LuminanceComputationMode:"
+			},
+			"MaxLevelDifference": {
+				"text": "MaxLevelDifference:"
+			},
+			"MinLevelDifference": {
+				"text": "MinLevelDifference:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"Threshold": {
+				"text": "Limite:"
+			},
+			"WindowRadius": {
+				"text": "WindowRadius:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"MinConfidence": {
+				"text": "MinConfidence:"
+			},
+			"StripWidth": {
+				"text": "StripWidth:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"imageProcessingSettingsDialog-BorderClear": {
+			"title": "Configurações do comando de processamento de imagem (BorderClear)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"imageProcessingSettingsDialog-Deskew": {
+			"title": "Configurações do comando de processamento de imagem (Deskew)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"BorderColor": {
+				"text": "BorderColor:"
+			},
+			"BorderColorType": {
+				"text": "BorderColorType:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"MaxAngle": {
+				"text": "MaxAngle:"
+			},
+			"MinConfidence": {
+				"text": "MinConfidence:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"ScanIntervalX": {
+				"text": "ScanIntervalX:"
+			},
+			"ScanIntervalY": {
+				"text": "ScanIntervalY:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"imageProcessingSettingsDialog-Despeckle": {
+			"title": "Configurações do comando de processamento de imagem (Despeckle)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"AutoConfigureLevels": {
+				"text": "AutoConfigureLevels:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"Level1": {
+				"text": "Nível 1:"
+			},
+			"Level2": {
+				"text": "Nível 2:"
+			},
+			"Radius": {
+				"text": "Raio:"
+			},
+			"+ Region": {
+				"text": "+ Região:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "Largura:"
+			},
+			"height": {
+				"text": "Altura:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"imageProcessingSettingsDialog-HalftoneRemoval": {
+			"title": "Configurações do comando de processamento de imagem (HalftoneRemoval)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"AutoThreshold": {
+				"text": "AutoThreshold:"
+			},
+			"BlackPixelRemovalThreshold": {
+				"text": "BlackPixelRemovalThreshold:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"CellSize": {
+				"text": "CellSize:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"MaxSegmentSize": {
+				"text": "MaxSegmentSize:"
+			},
+			"MinHalftoneHeight": {
+				"text": "MinHalftoneHeight:"
+			},
+			"MinHalftoneWidth": {
+				"text": "MinHalftoneWidth:"
+			},
+			"+ Region": {
+				"text": "+ Região:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "Largura:"
+			},
+			"height": {
+				"text": "Altura:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"WhitePixelRemovalThreshold": {
+				"text": "WhitePixelRemovalThreshold:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"imageProcessingSettingsDialog-HolePunchRemoval": {
+			"title": "Configurações do comando de processamento de imagem (HolePunchRemoval)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"+ Binarization": {
+				"text": "+ Binarização:"
+			},
+			"BinarizationMode": {
+				"text": "BinarizationMode:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ConvertToBlackLevel": {
+				"text": "ConvertToBlackLevel:"
+			},
+			"ConvertToWhiteLevel": {
+				"text": "ConvertToWhiteLevel:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"LuminanceComputationMode": {
+				"text": "LuminanceComputationMode:"
+			},
+			"MaxLevelDifference": {
+				"text": "MaxLevelDifference:"
+			},
+			"MinLevelDifference": {
+				"text": "MinLevelDifference:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"Threshold": {
+				"text": "Limite:"
+			},
+			"WindowRadius": {
+				"text": "WindowRadius:"
+			},
+			"FillBorderSize": {
+				"text": "FillBorderSize:"
+			},
+			"FillColor": {
+				"text": "FillColor:"
+			},
+			"FillColorAutoDetection": {
+				"text": "FillColorAutoDetection:"
+			},
+			"HolePunchLocation": {
+				"text": "HolePunchLocation:"
+			},
+			"selectAllLabel": {
+				"text": "Selecionar tudo"
+			},
+			"bottom": {
+				"text": "Inferior"
+			},
+			"left": {
+				"text": "Esquerda"
+			},
+			"right": {
+				"text": "Certo"
+			},
+			"top": {
+				"text": "Topo"
+			},
+			"undefined": {
+				"text": "Indefinido"
+			},
+			"MaxHoleSize": {
+				"text": "MaxHoleSize:"
+			},
+			"MinHoleSize": {
+				"text": "MinHoleSize:"
+			},
+			"+ Region": {
+				"text": "+ Região:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "Largura:"
+			},
+			"height": {
+				"text": "Altura:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"imageProcessingSettingsDialog-LineRemoval": {
+			"title": "Configurações do comando de processamento de imagem (LineRemoval)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"+ Binarization": {
+				"text": "+ Binarização:"
+			},
+			"BinarizationMode": {
+				"text": "BinarizationMode:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ConvertToBlackLevel": {
+				"text": "ConvertToBlackLevel:"
+			},
+			"ConvertToWhiteLevel": {
+				"text": "ConvertToWhiteLevel:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"LuminanceComputationMode": {
+				"text": "LuminanceComputationMode:"
+			},
+			"MaxLevelDifference": {
+				"text": "MaxLevelDifference:"
+			},
+			"MinLevelDifference": {
+				"text": "MinLevelDifference:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"Threshold": {
+				"text": "Limite:"
+			},
+			"WindowRadius": {
+				"text": "WindowRadius:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"Direction": {
+				"text": "Direção:"
+			},
+			"selectAllLabel": {
+				"text": "Selecionar tudo"
+			},
+			"horizontal": {
+				"text": "Horizontal"
+			},
+			"vertical": {
+				"text": "Vertical"
+			},
+			"FillColor": {
+				"text": "FillColor:"
+			},
+			"FillColorAutoDetection": {
+				"text": "FillColorAutoDetection:"
+			},
+			"LineEndsType": {
+				"text": "LineEndsType:"
+			},
+			"LinesType": {
+				"text": "LinesType:"
+			},
+			"MaxCurvature": {
+				"text": "MaxCurvature:"
+			},
+			"MaxDeviationAngle": {
+				"text": "MaxDeviationAngle:"
+			},
+			"MaxGapLength": {
+				"text": "MaxGapLength:"
+			},
+			"MaxLength": {
+				"text": "MaxLength:"
+			},
+			"MaxWidth": {
+				"text": "MaxWidth:"
+			},
+			"MinConfidence": {
+				"text": "MinConfidence:"
+			},
+			"MinLength": {
+				"text": "MinLength:"
+			},
+			"MinSizeRatio": {
+				"text": "MinSizeRatio:"
+			},
+			"MinWidth": {
+				"text": "MinWidth:"
+			},
+			"ReconnectBrokenObjects": {
+				"text": "ReconnectBrokenObjects:"
+			},
+			"+ Region": {
+				"text": "+ Região:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "Largura:"
+			},
+			"height": {
+				"text": "Altura:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		}
+	},
+	"downloadResultLink": {
+		"text": "Baixe os resultados do reconhecimento"
+	},
+	"strings": {
+		"vsdv-uploadAndOpenFileButton-uploadFileString": "Baixe e abra o arquivo",
+		"vsdv-uploadAndAddFileButton-addFileString": "Carregar e adicionar arquivo",
+		"vsui-imageProcessingPanel-imageProcessingString": "Processamento de imagem",
+		"vsui-textSearchPanel-pageLabel": "Página",
+		"vsdv-openFile-addFileString": "Adicionar ficheiro",
+		"vsdv-openFile-authenticateFileString": "Autenticar arquivo",
+		"vsdv-downloadFile-actionMessage": "Baixar arquivo",
+		"vsdv-saveChanges-saveChangesInImages": "Salvar alterações nas imagens",
+		"vsui-documentNavigationTool-getActions": "Obter ações",
+		"vsdv-saveChanges-saveChangesInAnnotations": "Salvar alterações nas anotações",
+		"vsdv-saveChanges-burnAnnotationsInImages": "Gravar anotações em imagens",
+		"vsui-dialog-okButton": "OK",
+		"vsui-multiselect-noneSelected": "Nenhum está selecionado",
+		"vsui-multiselect-allSelected": "Todos selecionados",
+		"vsui-multiselect-selected": "selecionado",
+		"vsdv-saveChanges-saveChangesInPdfDocument": "Salvar alterações no documento PDF",
+		"vsui-documentPasswordDialog-title": "Senha do documento",
+		"vsui-dialog-cancelButton": "Cancelar",
+		"vsui-documentPasswordPanel-authenticateFileString": "Autenticar arquivo",
+		"vsui-imageSelectionDialog-title": "Selecionar imagens",
+		"vsui-imageSelectionDialog-currentImageString": "Imagem Atual",
+		"vsui-imageSelectionDialog-allImagesString": "Todas as imagens",
+		"vsui-imageSelectionDialog-customImagesString": "Personalizado",
+		"vsui-printImagesDialog-title": "imprimir imagens",
+		"vsui-printImagesPanel-imagePrintingString": "A imagem está sendo impressa",
+		"vsui-printImagesPanel-withAnnotationsLabel": "com anotações",
+		"vsui-imageViewerSettingsDialog-title": "Configurações do visualizador de imagens",
+		"vsui-thumbnailViewerSettingDialog-title": "Configurações do visualizador de miniaturas",
+		"vsui-thumbnailViewerSettingsDialog-showAnnotationsLabel": "Exibir anotações nas miniaturas:",
+		"vsdv-uploadImageFromUrlDialog-title": "Carregar imagem do URL",
+		"vsdv-dialog-okButton": "OK",
+		"vsdv-dialog-cancelButton": "Cancelar"
+	}
+}

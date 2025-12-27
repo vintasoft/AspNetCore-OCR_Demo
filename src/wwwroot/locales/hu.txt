@@ -1,0 +1,1154 @@
+﻿{
+	"documentViewer": {
+		"fileLabel": {
+			"text": "Fájl"
+		},
+		"viewLabel": {
+			"text": "Megtekintés"
+		},
+		"toolsLabel": {
+			"text": "Eszközök"
+		},
+		"ocrPanelLabel": {
+			"text": "OCR"
+		},
+		"uploadAndOpenFileButton": {
+			"title": "Fájl letöltése és megnyitása"
+		},
+		"uploadAndAddFileButton": {
+			"title": "Fájl feltöltése és hozzáadása"
+		},
+		"previousUploadFilesButton": {
+			"title": "A korábban letöltött fájlok listájának megtekintése"
+		},
+		"openFileFromUrlButton": {
+			"title": "Fájl megnyitása az URL-ből"
+		},
+		"printImagesButton": {
+			"title": "Képek nyomtatása"
+		},
+		"downloadFileButton": {
+			"title": "Fájl letöltése"
+		},
+		"exportAndDownloadFileButton": {
+			"title": "Fájl exportálása és letöltése"
+		},
+		"clearSessionCacheButton": {
+			"title": "A munkamenet gyorsítótárának törlése"
+		},
+		"fitToWidthSizeModeButton": {
+			"title": "Szélességhez igazítás"
+		},
+		"rotateViewsCounterClockwiseButton": {
+			"title": "Forgassa el az összes nézetet az óramutató járásával ellentétes irányba"
+		},
+		"rotateAngleInput": {
+			"title": "Elforgatási szög"
+		},
+		"rotateViewsClockwiseButton": {
+			"title": "Forgassa el az összes nézetet az óramutató járásával megegyező irányba"
+		},
+		"imageViewerSettingsButton": {
+			"title": "A képnézegető beállításai"
+		},
+		"thumbnailViewerSettingsButton": {
+			"title": "Miniatűr-nézegető beállításai"
+		},
+		"panToolButton": {
+			"title": "Pan"
+		},
+		"rectangularSelectionToolButton": {
+			"title": "Téglalap alakú kiválasztás"
+		},
+		"magnifierToolButton": {
+			"title": "Nagyító"
+		},
+		"zoomToolButton": {
+			"title": "Skála"
+		},
+		"zoomSelectionToolButton": {
+			"title": "Skála kiválasztása"
+		},
+		"TextSelectionToolButton": {
+			"title": "Szöveg kiemelése"
+		},
+		"recognizeTextFromAllPagesAndOpenResultButton": {
+			"title": "Szöveg felismerése minden oldalról, és fájl megnyitása felismert szöveggel"
+		},
+		"recognizeTextFromAllPagesAndDownloadResultButton": {
+			"title": "Szöveg felismerése minden oldalról, és fájl letöltése felismert szöveggel"
+		},
+		"recognizeTextFromFocusedPageAndDownloadResultButton": {
+			"title": "Szöveg felismerése a fókuszált oldalról, és letölthető a felismert szöveget tartalmazó fájl"
+		},
+		"recognizeTextFromRegionOfFocusedPageAndDownloadResultButton": {
+			"title": "Szöveg felismerése a fókuszált oldal régiójából, és letölthető a felismert szöveget tartalmazó fájl"
+		},
+		"ocrSettingsButton": {
+			"title": "OCR beállítások"
+		},
+		"sidePanelCloseButton": {
+			"title": "Oldalsáv megjelenítése"
+		},
+		"showThumbnailViewerPanelButton": {
+			"title": "Indexképek"
+		},
+		"showPanelButton": {
+			"title": "Képfeldolgozás"
+		},
+		"showTextSelectionPanelButton": {
+			"title": "Szöveg kiemelése"
+		},
+		"showTextSearchPanelButton": {
+			"title": "Szöveg keresése"
+		},
+		"imageProcessingPanel": {
+			"parametersButton": {
+				"value": "Beállítások"
+			},
+			"runButton": {
+				"value": "Alkalmaz"
+			}
+		},
+		"textSelectionPanel": {
+			"selectionModeLabel": {
+				"text": "Szövegkiválasztási mód:"
+			},
+			"rectangleOption": {
+				"text": "Téglalap"
+			},
+			"fullLinesOption": {
+				"text": "Teljes sorok"
+			},
+			"selectionColorLabel": {
+				"text": "A kiválasztott szöveg színe:"
+			},
+			"selectedTextLabel": {
+				"text": "Kiválasztott szöveg:"
+			}
+		},
+		"textSearchPanel": {
+			"findLabel": {
+				"text": "Keresés:"
+			},
+			"whereLookLabel": {
+				"text": "Keresés itt:"
+			},
+			"currentPageOption": {
+				"text": "Aktuális oldal"
+			},
+			"allPagesOption": {
+				"text": "Minden oldal"
+			},
+			"wholeWordLabel": {
+				"text": "A teljes szó keresése"
+			},
+			"caseSensitiveLabel": {
+				"text": "Kis- és nagybetűk megkülönböztetése"
+			},
+			"startSearchButton": {
+				"value": "Keresés indítása"
+			},
+			"stopSearchButton": {
+				"value": "Hagyja abba a keresést"
+			},
+			"textNotFoundLabel": {
+				"text": "A szöveg nem található."
+			}
+		},
+		"gotoFirstPageButton": {
+			"title": "Ugrás az első képre"
+		},
+		"gotoPreviousPageButton": {
+			"title": "Ugrás az előző képre"
+		},
+		"gotoPageInput": {
+			"title": "Oldal"
+		},
+		"gotoNextPageButton": {
+			"title": "Ugrás a következő képre"
+		},
+		"gotoLastPageButton": {
+			"title": "Ugrás az utolsó képre"
+		},
+		"zoomOutButton": {
+			"title": "Kicsinyítés"
+		},
+		"zoomValueInput": {
+			"title": "Skála"
+		},
+		"zoomInButton": {
+			"title": "Nagyítás"
+		},
+		"ocrSettingsDialog": {
+			"title": "OCR beállítások",
+			"ImageBinarizationMode": {
+				"text": "ImageBinarizationMode:"
+			},
+			"Languages": {
+				"text": "Nyelvek:"
+			},
+			"selectAllLabel": {
+				"text": "Mindet kiválaszt"
+			},
+			"english": {
+				"text": "angol"
+			},
+			"french": {
+				"text": "A francia nyelv"
+			},
+			"german": {
+				"text": "A német nyelv"
+			},
+			"italian": {
+				"text": "Az olasz nyelv"
+			},
+			"osd": {
+				"text": "A tájékozódás észlelése"
+			},
+			"portuguese": {
+				"text": "A portugál nyelv"
+			},
+			"russian": {
+				"text": "Az orosz nyelv"
+			},
+			"spanish": {
+				"text": "A spanyol nyelv"
+			},
+			"RecognitionMode": {
+				"text": "RecognitionMode:"
+			},
+			"RecognitionRegionType": {
+				"text": "RecognitionRegionType:"
+			},
+			"ResultFileFormat": {
+				"text": "ResultFileFormat:"
+			},
+			"ResultFileName": {
+				"text": "ResultFileName:"
+			},
+			"okButton": {
+				"value": "Rendben"
+			}
+		},
+		"normalSizeModeButton": {
+			"title": "Normál"
+		},
+		"bestFitSizeModeButton": {
+			"title": "A legalkalmasabb"
+		},
+		"fitToHeightSizeModeButton": {
+			"title": "Fitt magasság"
+		},
+		"pixelToPixelSizeModeButton": {
+			"title": "Pixel–pixel"
+		},
+		"zoomSizeModeButton": {
+			"title": "Skála"
+		},
+		"documentPasswordDialog": {
+			"pleaseEnterPasswordLabel": {
+				"text": "Ez a dokumentum jelszóval védett. Adjon meg egy jelszót."
+			},
+			"passwordLabel": {
+				"text": "Jelszó:"
+			},
+			"showPasswordLabel": {
+				"text": "Jelszó megjelenítése"
+			},
+			"incorrectPasswordLabel": {
+				"text": "Rossz jelszó"
+			},
+			"okButton": {
+				"value": "Rendben"
+			},
+			"сancelButton": {
+				"value": "Mégse"
+			}
+		},
+		"selectImagesDialog": {
+			"imagesLabel": {
+				"text": "Képek:"
+			},
+			"currentImageOption": {
+				"text": "Aktuális kép"
+			},
+			"allImagesOption": {
+				"text": "Minden kép"
+			},
+			"customImagesOption": {
+				"text": "Egyedi"
+			},
+			"imageRangeLabel": {
+				"text": "Képtartomány:"
+			},
+			"invalidRangeErrorMessageLabel": {
+				"text": "Érvénytelen oldaltartomány. Példa: 1-5, 8, 12-15."
+			},
+			"outOfRangeErrorMessageLabel": {
+				"text": "Az index nincs a képgyűjtemény indextartományán belül."
+			},
+			"okButton": {
+				"value": "Rendben"
+			},
+			"сancelButton": {
+				"value": "Mégse"
+			}
+		},
+		"printImagesDialog": {
+			"imagesLabel": {
+				"text": "Képek:"
+			},
+			"currentImageOption": {
+				"text": "Aktuális kép"
+			},
+			"allImagesOption": {
+				"text": "Minden kép"
+			},
+			"customImagesOption": {
+				"text": "Egyedi"
+			},
+			"imageRangeLabel": {
+				"text": "Képtartomány:"
+			},
+			"invalidRangeErrorMessageLabel": {
+				"text": "Érvénytelen oldaltartomány. Példa: 1-5, 8, 12-15."
+			},
+			"outOfRangeErrorMessageLabel": {
+				"text": "Az index nincs a képgyűjtemény indextartományán belül."
+			},
+			"okButton": {
+				"value": "Rendben"
+			},
+			"cancelButton": {
+				"value": "Mégse"
+			}
+		},
+		"imageViewerSettingsDialog": {
+			"imageDisplayModeLabel": {
+				"text": "Képmegjelenítési mód:"
+			},
+			"imageAnchorLabel": {
+				"text": "Képhorgony:"
+			},
+			"noneOption": {
+				"text": "Nem"
+			},
+			"topLeftOption": {
+				"text": "Fent|Bal"
+			},
+			"topOption": {
+				"text": "Felső"
+			},
+			"topRightOption": {
+				"text": "Fent|Jobbra"
+			},
+			"rightOption": {
+				"text": "Jobb"
+			},
+			"bottomRightOption": {
+				"text": "Alul|Jobbra"
+			},
+			"bottomOption": {
+				"text": "Alul"
+			},
+			"bottomLeftOption": {
+				"text": "Alul|Bal"
+			},
+			"leftOption": {
+				"text": "Bal"
+			},
+			"multipageDisplayModeLabel": {
+				"text": "Többoldalas megjelenítési mód:"
+			},
+			"allImagesOption": {
+				"text": "AllImages"
+			},
+			"fixedImagesOption": {
+				"text": "FixedImages"
+			},
+			"layoutDirectionLabel": {
+				"text": "Elrendezés iránya:"
+			},
+			"horizontalOption": {
+				"text": "Vízszintes"
+			},
+			"verticalOption": {
+				"text": "Függőleges"
+			},
+			"rowColumnCountLabel": {
+				"text": "Képek a sorban/oszlopban:"
+			},
+			"imagePaddingLabel": {
+				"text": "Képek kitöltése:"
+			},
+			"appearancesLabel": {
+				"text": "Megjelenések"
+			},
+			"imageAppearanceLabel": {
+				"text": "Kép megjelenése"
+			},
+			"imageAppearanceBackColorLabel": {
+				"text": "Háttérszín:"
+			},
+			"imageAppearanceBorderColorLabel": {
+				"text": "Szegély színe:"
+			},
+			"imageAppearanceBorderWidthLabel": {
+				"text": "Szegély szélessége:"
+			},
+			"focusedImageAppearanceLabel": {
+				"text": "Az éles kép megjelenése"
+			},
+			"focusedImageAppearanceBackColorLabel": {
+				"text": "Háttérszín:"
+			},
+			"focusedImageAppearanceBorderColorLabel": {
+				"text": "Szegély színe:"
+			},
+			"focusedImageAppearanceBorderWidthLabel": {
+				"text": "Szegély szélessége:"
+			},
+			"useAppearanceInSinglePageModeLabel": {
+				"text": "A képmegjelenés használata egyoldalas módban"
+			},
+			"renderingSettingsLabel": {
+				"text": "Renderezési beállítások"
+			},
+			"defaultRenderingSettingsLabel": {
+				"text": "Alapértelmezett beállítások"
+			},
+			"horizontalResolutionLabel": {
+				"text": "Vízszintes felbontás:"
+			},
+			"verticalResolutionLabel ": {
+				"text": "Függőleges felbontás:"
+			},
+			"smoothingModeLabel": {
+				"text": "Sima mód:"
+			},
+			"AntiAlias": {
+				"text": "AntiAlias"
+			},
+			"None": {
+				"text": "Nem"
+			},
+			"interpolationModeLabel": {
+				"text": "Interpolációs mód:"
+			},
+			"Bicubic": {
+				"text": "Bicubic"
+			},
+			"Bilinear": {
+				"text": "Bilinear"
+			},
+			"HighQualityBicubic": {
+				"text": "HighQualityBicubic"
+			},
+			"HighQualityBilinear": {
+				"text": "HighQualityBilinear"
+			},
+			"NearestNeighbor": {
+				"text": "NearestNeighbor"
+			},
+			"otherSettingsLabel": {
+				"text": "Egyéb beállítások"
+			},
+			"backgroundColorLabel": {
+				"text": "Képnézegető háttérszíne:"
+			},
+			"centerImageLabel": {
+				"text": "Kép középső része:"
+			},
+			"resizeTimeoutLabel ": {
+				"text": "Átméretezés időtúllépése:"
+			},
+			"tileSizeLabel": {
+				"text": "Csempe mérete:"
+			},
+			"colorManagementLabel": {
+				"text": "Színkezelés engedélyezése:"
+			},
+			"useVectorRenderingLabel": {
+				"text": "Vektoros renderelés használata dokumentumokhoz:"
+			},
+			"vectorContentBackgroundColorLabel": {
+				"text": "Vektortartalom háttérszíne:"
+			},
+			"okButton": {
+				"value": "Rendben"
+			},
+			"сancelButton": {
+				"value": "Mégse"
+			}
+		},
+		"thumbnailViewerSettingsDialog": {
+			"sizeLabel": {
+				"text": "Indexkép mérete:"
+			},
+			"scaleLabel": {
+				"text": "Indexkép léptéke:"
+			},
+			"smallestOption": {
+				"text": "Legkisebb"
+			},
+			"smallOption": {
+				"text": "Kicsi"
+			},
+			"normalOption": {
+				"text": "Normál"
+			},
+			"largeOption": {
+				"text": "Nagy"
+			},
+			"flowStyleLabel": {
+				"text": "Miniatűr elhelyezési stílus:"
+			},
+			"singleColumnOption": {
+				"text": "SingleColumn"
+			},
+			"singleRowOption": {
+				"text": "SingleRow"
+			},
+			"fixedColumnsOption": {
+				"text": "FixedColumns"
+			},
+			"wrappedRowsOption": {
+				"text": "WrappedRows"
+			},
+			"columnCountLabel": {
+				"text": "Oszlopok száma:"
+			},
+			"marginLabel": {
+				"text": "Külső párnázás:"
+			},
+			"paddingTopLabel": {
+				"text": "Felső párnázás:"
+			},
+			"paddingRightLabel": {
+				"text": "Jobb behúzás:"
+			},
+			"paddingBottomLabel": {
+				"text": "Alsó párnázás:"
+			},
+			"paddingLeftLabel": {
+				"text": "Bal behúzás:"
+			},
+			"showCaptionLabel": {
+				"text": "Miniatűr feliratok megjelenítése:"
+			},
+			"captionFormatLabel": {
+				"text": "Aláírás formátuma:"
+			},
+			"captionAnchorLabel": {
+				"text": "Aláírási horgony:"
+			},
+			"topLeftOption": {
+				"text": "Fent|Bal"
+			},
+			"topOption": {
+				"text": "Felső"
+			},
+			"topRightOption": {
+				"text": "Fent|Jobbra"
+			},
+			"rightOption": {
+				"text": "Jobb"
+			},
+			"bottomRightOption": {
+				"text": "Alul|Jobbra"
+			},
+			"bottomOption": {
+				"text": "Alul"
+			},
+			"bottomLeftOption": {
+				"text": "Alul|Bal"
+			},
+			"leftOption": {
+				"text": "Bal"
+			},
+			"centerOption": {
+				"text": "Igazítás középre"
+			},
+			"focusOnHoverLabel": {
+				"text": "Hover fókusz:"
+			},
+			"multiSelectLabel": {
+				"text": "Több indexkép kiválasztásának engedélyezése:"
+			},
+			"useThumbnailCheckboxesLabel": {
+				"text": "Használjon jelölőnégyzeteket az indexképhez:"
+			},
+			"useThumbnailActionsPanelLabel": {
+				"text": "A műveletek panel használata indexképhez:"
+			},
+			"canDragThumbnailsLabel": {
+				"text": "Bélyegképek húzása:"
+			},
+			"canNavigateThumbnailsUsingKeyboardLabel": {
+				"text": "Mozoghat a miniatűrök között a billentyűzet segítségével:"
+			},
+			"canSelectThumbnailsUsingKeyboardLabel": {
+				"text": "Kiválaszthat miniatűröket a billentyűzet segítségével:"
+			},
+			"canDeleteThumbnailsUsingKeyboardLabel": {
+				"text": "Törölheti a miniatűröket a billentyűzet segítségével:"
+			},
+			"okButton": {
+				"value": "Rendben"
+			},
+			"сancelButton": {
+				"value": "Mégse"
+			}
+		},
+		"uploadImageFromUrlDialog": {
+			"okButton": {
+				"value": "Rendben"
+			},
+			"cancelButton": {
+				"value": "Mégse"
+			}
+		},
+		"imageProcessingSettingsDialog-AutoInvert": {
+			"title": "Képfeldolgozási parancs beállításai (AutoInvert)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "Rendben"
+			}
+		},
+		"imageProcessingSettingsDialog-AutoTextOrientation": {
+			"title": "Képfeldolgozási parancs beállításai (AutoTextOrientation)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"+ Binarization": {
+				"text": "+ Binarizálás:"
+			},
+			"BinarizationMode": {
+				"text": "BinarizationMode:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ConvertToBlackLevel": {
+				"text": "ConvertToBlackLevel:"
+			},
+			"ConvertToWhiteLevel": {
+				"text": "ConvertToWhiteLevel:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"LuminanceComputationMode": {
+				"text": "LuminanceComputationMode:"
+			},
+			"MaxLevelDifference": {
+				"text": "MaxLevelDifference:"
+			},
+			"MinLevelDifference": {
+				"text": "MinLevelDifference:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"Threshold": {
+				"text": "Küszöb:"
+			},
+			"WindowRadius": {
+				"text": "WindowRadius:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"MinConfidence": {
+				"text": "MinConfidence:"
+			},
+			"StripWidth": {
+				"text": "StripWidth:"
+			},
+			"okButton": {
+				"value": "Rendben"
+			}
+		},
+		"imageProcessingSettingsDialog-BorderClear": {
+			"title": "Képfeldolgozási parancs beállításai (BorderClear)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "Rendben"
+			}
+		},
+		"imageProcessingSettingsDialog-Deskew": {
+			"title": "Képfeldolgozási parancs beállításai (Deskew)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"BorderColor": {
+				"text": "BorderColor:"
+			},
+			"BorderColorType": {
+				"text": "BorderColorType:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"MaxAngle": {
+				"text": "MaxAngle:"
+			},
+			"MinConfidence": {
+				"text": "MinConfidence:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"ScanIntervalX": {
+				"text": "ScanIntervalX:"
+			},
+			"ScanIntervalY": {
+				"text": "ScanIntervalY:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "Rendben"
+			}
+		},
+		"imageProcessingSettingsDialog-Despeckle": {
+			"title": "Képfeldolgozási parancs beállításai (Despeckle)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"AutoConfigureLevels": {
+				"text": "AutoConfigureLevels:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"Level1": {
+				"text": "1. szint:"
+			},
+			"Level2": {
+				"text": "2. szint:"
+			},
+			"Radius": {
+				"text": "Sugár:"
+			},
+			"+ Region": {
+				"text": "+ Régió:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "Szélesség:"
+			},
+			"height": {
+				"text": "Magasság:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "Rendben"
+			}
+		},
+		"imageProcessingSettingsDialog-HalftoneRemoval": {
+			"title": "Képfeldolgozási parancs beállításai (HalftoneRemoval)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"AutoThreshold": {
+				"text": "AutoThreshold:"
+			},
+			"BlackPixelRemovalThreshold": {
+				"text": "BlackPixelRemovalThreshold:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"CellSize": {
+				"text": "CellSize:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"MaxSegmentSize": {
+				"text": "MaxSegmentSize:"
+			},
+			"MinHalftoneHeight": {
+				"text": "MinHalftoneHeight:"
+			},
+			"MinHalftoneWidth": {
+				"text": "MinHalftoneWidth:"
+			},
+			"+ Region": {
+				"text": "+ Régió:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "Szélesség:"
+			},
+			"height": {
+				"text": "Magasság:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"WhitePixelRemovalThreshold": {
+				"text": "WhitePixelRemovalThreshold:"
+			},
+			"okButton": {
+				"value": "Rendben"
+			}
+		},
+		"imageProcessingSettingsDialog-HolePunchRemoval": {
+			"title": "Képfeldolgozási parancs beállításai (HolePunchRemoval)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"+ Binarization": {
+				"text": "+ Binarizálás:"
+			},
+			"BinarizationMode": {
+				"text": "BinarizationMode:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ConvertToBlackLevel": {
+				"text": "ConvertToBlackLevel:"
+			},
+			"ConvertToWhiteLevel": {
+				"text": "ConvertToWhiteLevel:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"LuminanceComputationMode": {
+				"text": "LuminanceComputationMode:"
+			},
+			"MaxLevelDifference": {
+				"text": "MaxLevelDifference:"
+			},
+			"MinLevelDifference": {
+				"text": "MinLevelDifference:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"Threshold": {
+				"text": "Küszöb:"
+			},
+			"WindowRadius": {
+				"text": "WindowRadius:"
+			},
+			"FillBorderSize": {
+				"text": "FillBorderSize:"
+			},
+			"FillColor": {
+				"text": "FillColor:"
+			},
+			"FillColorAutoDetection": {
+				"text": "FillColorAutoDetection:"
+			},
+			"HolePunchLocation": {
+				"text": "HolePunchLocation:"
+			},
+			"selectAllLabel": {
+				"text": "Mindet kiválaszt"
+			},
+			"bottom": {
+				"text": "Alul"
+			},
+			"left": {
+				"text": "Bal"
+			},
+			"right": {
+				"text": "Jobb"
+			},
+			"top": {
+				"text": "Felső"
+			},
+			"undefined": {
+				"text": "Határozatlan"
+			},
+			"MaxHoleSize": {
+				"text": "MaxHoleSize:"
+			},
+			"MinHoleSize": {
+				"text": "MinHoleSize:"
+			},
+			"+ Region": {
+				"text": "+ Régió:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "Szélesség:"
+			},
+			"height": {
+				"text": "Magasság:"
+			},
+			"okButton": {
+				"value": "Rendben"
+			}
+		},
+		"imageProcessingSettingsDialog-LineRemoval": {
+			"title": "Képfeldolgozási parancs beállításai (LineRemoval)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"+ Binarization": {
+				"text": "+ Binarizálás:"
+			},
+			"BinarizationMode": {
+				"text": "BinarizationMode:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ConvertToBlackLevel": {
+				"text": "ConvertToBlackLevel:"
+			},
+			"ConvertToWhiteLevel": {
+				"text": "ConvertToWhiteLevel:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"LuminanceComputationMode": {
+				"text": "LuminanceComputationMode:"
+			},
+			"MaxLevelDifference": {
+				"text": "MaxLevelDifference:"
+			},
+			"MinLevelDifference": {
+				"text": "MinLevelDifference:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"Threshold": {
+				"text": "Küszöb:"
+			},
+			"WindowRadius": {
+				"text": "WindowRadius:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"Direction": {
+				"text": "Irány:"
+			},
+			"selectAllLabel": {
+				"text": "Mindet kiválaszt"
+			},
+			"horizontal": {
+				"text": "Vízszintes"
+			},
+			"vertical": {
+				"text": "Függőleges"
+			},
+			"FillColor": {
+				"text": "FillColor:"
+			},
+			"FillColorAutoDetection": {
+				"text": "FillColorAutoDetection:"
+			},
+			"LineEndsType": {
+				"text": "LineEndsType:"
+			},
+			"LinesType": {
+				"text": "LinesType:"
+			},
+			"MaxCurvature": {
+				"text": "MaxCurvature:"
+			},
+			"MaxDeviationAngle": {
+				"text": "MaxDeviationAngle:"
+			},
+			"MaxGapLength": {
+				"text": "MaxGapLength:"
+			},
+			"MaxLength": {
+				"text": "MaxLength:"
+			},
+			"MaxWidth": {
+				"text": "MaxWidth:"
+			},
+			"MinConfidence": {
+				"text": "MinConfidence:"
+			},
+			"MinLength": {
+				"text": "MinLength:"
+			},
+			"MinSizeRatio": {
+				"text": "MinSizeRatio:"
+			},
+			"MinWidth": {
+				"text": "MinWidth:"
+			},
+			"ReconnectBrokenObjects": {
+				"text": "ReconnectBrokenObjects:"
+			},
+			"+ Region": {
+				"text": "+ Régió:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "Szélesség:"
+			},
+			"height": {
+				"text": "Magasság:"
+			},
+			"okButton": {
+				"value": "Rendben"
+			}
+		}
+	},
+	"downloadResultLink": {
+		"text": "Az elismerés eredményeinek letöltése"
+	},
+	"strings": {
+		"vsdv-uploadAndOpenFileButton-uploadFileString": "Fájl letöltése és megnyitása",
+		"vsdv-uploadAndAddFileButton-addFileString": "Fájl feltöltése és hozzáadása",
+		"vsui-imageProcessingPanel-imageProcessingString": "Képfeldolgozás",
+		"vsui-textSearchPanel-pageLabel": "Oldal",
+		"vsdv-openFile-addFileString": "Fájl hozzáadása",
+		"vsdv-openFile-authenticateFileString": "Fájl hitelesítése",
+		"vsdv-downloadFile-actionMessage": "Fájl letöltése",
+		"vsdv-saveChanges-saveChangesInImages": "Mentse el a változásokat a képeken",
+		"vsui-documentNavigationTool-getActions": "Szerezzen akciókat",
+		"vsdv-saveChanges-saveChangesInAnnotations": "Mentse el a megjegyzések módosításait",
+		"vsdv-saveChanges-burnAnnotationsInImages": "Írjon megjegyzéseket a képekre",
+		"vsui-dialog-okButton": "Rendben",
+		"vsui-multiselect-noneSelected": "Egyik sincs kiválasztva",
+		"vsui-multiselect-allSelected": "Minden kiválasztva",
+		"vsui-multiselect-selected": "kiválasztott",
+		"vsdv-saveChanges-saveChangesInPdfDocument": "Mentse el a változtatásokat PDF dokumentumban",
+		"vsui-documentPasswordDialog-title": "Dokumentum jelszava",
+		"vsui-dialog-cancelButton": "Mégse",
+		"vsui-documentPasswordPanel-authenticateFileString": "Fájl hitelesítése",
+		"vsui-imageSelectionDialog-title": "Képek kiválasztása",
+		"vsui-imageSelectionDialog-currentImageString": "Aktuális kép",
+		"vsui-imageSelectionDialog-allImagesString": "Minden kép",
+		"vsui-imageSelectionDialog-customImagesString": "Egyedi",
+		"vsui-printImagesDialog-title": "Képek nyomtatása",
+		"vsui-printImagesPanel-imagePrintingString": "A kép nyomtatása folyamatban van",
+		"vsui-printImagesPanel-withAnnotationsLabel": "jegyzetekkel",
+		"vsui-imageViewerSettingsDialog-title": "A képnézegető beállításai",
+		"vsui-thumbnailViewerSettingDialog-title": "Miniatűr-nézegető beállításai",
+		"vsui-thumbnailViewerSettingsDialog-showAnnotationsLabel": "Megjegyzések megjelenítése a bélyegképeken:",
+		"vsdv-uploadImageFromUrlDialog-title": "Kép feltöltése az URL-ről",
+		"vsdv-dialog-okButton": "Rendben",
+		"vsdv-dialog-cancelButton": "Mégse"
+	}
+}

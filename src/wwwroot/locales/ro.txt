@@ -1,0 +1,1154 @@
+﻿{
+	"documentViewer": {
+		"fileLabel": {
+			"text": "Fișier"
+		},
+		"viewLabel": {
+			"text": "Vizualizare"
+		},
+		"toolsLabel": {
+			"text": "Unelte"
+		},
+		"ocrPanelLabel": {
+			"text": "OCR"
+		},
+		"uploadAndOpenFileButton": {
+			"title": "Descărcați și deschideți fișierul"
+		},
+		"uploadAndAddFileButton": {
+			"title": "Încărcați și adăugați fișier"
+		},
+		"previousUploadFilesButton": {
+			"title": "Vedeți o listă de fișiere descărcate anterior"
+		},
+		"openFileFromUrlButton": {
+			"title": "Deschideți fișierul de la URL"
+		},
+		"printImagesButton": {
+			"title": "Tipărește imagini"
+		},
+		"downloadFileButton": {
+			"title": "Descărcare fișier"
+		},
+		"exportAndDownloadFileButton": {
+			"title": "Exportați și descărcați fișierul"
+		},
+		"clearSessionCacheButton": {
+			"title": "Goliți memoria cache a sesiunii"
+		},
+		"fitToWidthSizeModeButton": {
+			"title": "Potrivire la lățime"
+		},
+		"rotateViewsCounterClockwiseButton": {
+			"title": "Rotiți toate vizualizările în sens invers acelor de ceasornic"
+		},
+		"rotateAngleInput": {
+			"title": "Unghiul de rotație"
+		},
+		"rotateViewsClockwiseButton": {
+			"title": "Rotiți toate vizualizările în sensul acelor de ceasornic"
+		},
+		"imageViewerSettingsButton": {
+			"title": "Setări pentru vizualizarea imaginilor"
+		},
+		"thumbnailViewerSettingsButton": {
+			"title": "Setări pentru vizualizatorul de miniaturi"
+		},
+		"panToolButton": {
+			"title": "Pan"
+		},
+		"rectangularSelectionToolButton": {
+			"title": "Selecție dreptunghiulară"
+		},
+		"magnifierToolButton": {
+			"title": "Lupă"
+		},
+		"zoomToolButton": {
+			"title": "Scală"
+		},
+		"zoomSelectionToolButton": {
+			"title": "Selectare scară"
+		},
+		"TextSelectionToolButton": {
+			"title": "Evidențiați text"
+		},
+		"recognizeTextFromAllPagesAndOpenResultButton": {
+			"title": "Recunoașteți textul din toate paginile și deschideți fișierul cu text recunoscut"
+		},
+		"recognizeTextFromAllPagesAndDownloadResultButton": {
+			"title": "Recunoașteți textul din toate paginile și descărcați fișierul cu text recunoscut"
+		},
+		"recognizeTextFromFocusedPageAndDownloadResultButton": {
+			"title": "Recunoașteți textul din pagina focalizată și descărcați fișierul cu text recunoscut"
+		},
+		"recognizeTextFromRegionOfFocusedPageAndDownloadResultButton": {
+			"title": "Recunoașteți textul din regiunea paginii focalizate și descărcați fișierul cu text recunoscut"
+		},
+		"ocrSettingsButton": {
+			"title": "setări OCR"
+		},
+		"sidePanelCloseButton": {
+			"title": "Afișează bara laterală"
+		},
+		"showThumbnailViewerPanelButton": {
+			"title": "Miniaturi"
+		},
+		"showPanelButton": {
+			"title": "Procesarea imaginii"
+		},
+		"showTextSelectionPanelButton": {
+			"title": "Evidențiați text"
+		},
+		"showTextSearchPanelButton": {
+			"title": "Căutați text"
+		},
+		"imageProcessingPanel": {
+			"parametersButton": {
+				"value": "Setări"
+			},
+			"runButton": {
+				"value": "aplica"
+			}
+		},
+		"textSelectionPanel": {
+			"selectionModeLabel": {
+				"text": "Modul de selectare a textului:"
+			},
+			"rectangleOption": {
+				"text": "Dreptunghi"
+			},
+			"fullLinesOption": {
+				"text": "Linii complete"
+			},
+			"selectionColorLabel": {
+				"text": "Culoarea textului selectat:"
+			},
+			"selectedTextLabel": {
+				"text": "Text selectat:"
+			}
+		},
+		"textSearchPanel": {
+			"findLabel": {
+				"text": "Găsiți:"
+			},
+			"whereLookLabel": {
+				"text": "Căutare pe:"
+			},
+			"currentPageOption": {
+				"text": "Pagina curentă"
+			},
+			"allPagesOption": {
+				"text": "Toate paginile"
+			},
+			"wholeWordLabel": {
+				"text": "Căutați cuvântul întreg"
+			},
+			"caseSensitiveLabel": {
+				"text": "Se face distincție între majuscule și minuscule"
+			},
+			"startSearchButton": {
+				"value": "Începe căutarea"
+			},
+			"stopSearchButton": {
+				"value": "Opriți căutarea"
+			},
+			"textNotFoundLabel": {
+				"text": "Textul nu a fost găsit."
+			}
+		},
+		"gotoFirstPageButton": {
+			"title": "Mergeți la prima imagine"
+		},
+		"gotoPreviousPageButton": {
+			"title": "Mergeți la imaginea anterioară"
+		},
+		"gotoPageInput": {
+			"title": "Pagină"
+		},
+		"gotoNextPageButton": {
+			"title": "Mergeți la imaginea următoare"
+		},
+		"gotoLastPageButton": {
+			"title": "Mergeți la ultima imagine"
+		},
+		"zoomOutButton": {
+			"title": "Mărire"
+		},
+		"zoomValueInput": {
+			"title": "Scală"
+		},
+		"zoomInButton": {
+			"title": "Măriți"
+		},
+		"ocrSettingsDialog": {
+			"title": "setări OCR",
+			"ImageBinarizationMode": {
+				"text": "ImageBinarizationMode:"
+			},
+			"Languages": {
+				"text": "Limbi:"
+			},
+			"selectAllLabel": {
+				"text": "Selectează tot"
+			},
+			"english": {
+				"text": "Engleză"
+			},
+			"french": {
+				"text": "Limba franceză"
+			},
+			"german": {
+				"text": "Limba germana"
+			},
+			"italian": {
+				"text": "Limba italiana"
+			},
+			"osd": {
+				"text": "Detectarea orientării"
+			},
+			"portuguese": {
+				"text": "Limba portugheză"
+			},
+			"russian": {
+				"text": "Limba rusă"
+			},
+			"spanish": {
+				"text": "Limba spaniolă"
+			},
+			"RecognitionMode": {
+				"text": "RecognitionMode:"
+			},
+			"RecognitionRegionType": {
+				"text": "RecognitionRegionType:"
+			},
+			"ResultFileFormat": {
+				"text": "ResultFileFormat:"
+			},
+			"ResultFileName": {
+				"text": "ResultFileName:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"normalSizeModeButton": {
+			"title": "Normal"
+		},
+		"bestFitSizeModeButton": {
+			"title": "Cel mai potrivit"
+		},
+		"fitToHeightSizeModeButton": {
+			"title": "Înălțime de potrivire"
+		},
+		"pixelToPixelSizeModeButton": {
+			"title": "Pixel în pixel"
+		},
+		"zoomSizeModeButton": {
+			"title": "Scală"
+		},
+		"documentPasswordDialog": {
+			"pleaseEnterPasswordLabel": {
+				"text": "Acest document este protejat prin parolă. Vă rugăm să introduceți o parolă."
+			},
+			"passwordLabel": {
+				"text": "Parola:"
+			},
+			"showPasswordLabel": {
+				"text": "Afișați parola"
+			},
+			"incorrectPasswordLabel": {
+				"text": "Parolă greșită"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"сancelButton": {
+				"value": "Anulează"
+			}
+		},
+		"selectImagesDialog": {
+			"imagesLabel": {
+				"text": "Imagini:"
+			},
+			"currentImageOption": {
+				"text": "Imaginea curentă"
+			},
+			"allImagesOption": {
+				"text": "Toate imaginile"
+			},
+			"customImagesOption": {
+				"text": "Personalizat"
+			},
+			"imageRangeLabel": {
+				"text": "Interval de imagini:"
+			},
+			"invalidRangeErrorMessageLabel": {
+				"text": "Interval de pagini nevalid. Exemplu: 1-5, 8, 12-15."
+			},
+			"outOfRangeErrorMessageLabel": {
+				"text": "Indexul nu se află în intervalul de index al colecției de imagini."
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"сancelButton": {
+				"value": "Anulează"
+			}
+		},
+		"printImagesDialog": {
+			"imagesLabel": {
+				"text": "Imagini:"
+			},
+			"currentImageOption": {
+				"text": "Imaginea curentă"
+			},
+			"allImagesOption": {
+				"text": "Toate imaginile"
+			},
+			"customImagesOption": {
+				"text": "Personalizat"
+			},
+			"imageRangeLabel": {
+				"text": "Interval de imagini:"
+			},
+			"invalidRangeErrorMessageLabel": {
+				"text": "Interval de pagini nevalid. Exemplu: 1-5, 8, 12-15."
+			},
+			"outOfRangeErrorMessageLabel": {
+				"text": "Indexul nu se află în intervalul de index al colecției de imagini."
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"cancelButton": {
+				"value": "Anulează"
+			}
+		},
+		"imageViewerSettingsDialog": {
+			"imageDisplayModeLabel": {
+				"text": "Mod de afișare a imaginii:"
+			},
+			"imageAnchorLabel": {
+				"text": "Ancora imaginii:"
+			},
+			"noneOption": {
+				"text": "Nu"
+			},
+			"topLeftOption": {
+				"text": "Sus|Stânga"
+			},
+			"topOption": {
+				"text": "Sus"
+			},
+			"topRightOption": {
+				"text": "Sus|Dreapta"
+			},
+			"rightOption": {
+				"text": "Corect"
+			},
+			"bottomRightOption": {
+				"text": "Jos|Dreapta"
+			},
+			"bottomOption": {
+				"text": "De jos"
+			},
+			"bottomLeftOption": {
+				"text": "Jos|Stânga"
+			},
+			"leftOption": {
+				"text": "Stânga"
+			},
+			"multipageDisplayModeLabel": {
+				"text": "Mod de afișare cu mai multe pagini:"
+			},
+			"allImagesOption": {
+				"text": "AllImages"
+			},
+			"fixedImagesOption": {
+				"text": "FixedImages"
+			},
+			"layoutDirectionLabel": {
+				"text": "Directia aspectului:"
+			},
+			"horizontalOption": {
+				"text": "Orizontal"
+			},
+			"verticalOption": {
+				"text": "Verticală"
+			},
+			"rowColumnCountLabel": {
+				"text": "Imagini pe rând/coloană:"
+			},
+			"imagePaddingLabel": {
+				"text": "Umplutură cu imagini:"
+			},
+			"appearancesLabel": {
+				"text": "Apariții"
+			},
+			"imageAppearanceLabel": {
+				"text": "Aspectul imaginii"
+			},
+			"imageAppearanceBackColorLabel": {
+				"text": "Culoarea fundalului:"
+			},
+			"imageAppearanceBorderColorLabel": {
+				"text": "Culoarea chenarului:"
+			},
+			"imageAppearanceBorderWidthLabel": {
+				"text": "Lățimea chenarului:"
+			},
+			"focusedImageAppearanceLabel": {
+				"text": "Aspectul imaginii focalizate"
+			},
+			"focusedImageAppearanceBackColorLabel": {
+				"text": "Culoarea fundalului:"
+			},
+			"focusedImageAppearanceBorderColorLabel": {
+				"text": "Culoarea chenarului:"
+			},
+			"focusedImageAppearanceBorderWidthLabel": {
+				"text": "Lățimea chenarului:"
+			},
+			"useAppearanceInSinglePageModeLabel": {
+				"text": "Utilizați aspectul imaginii în modul o singură pagină"
+			},
+			"renderingSettingsLabel": {
+				"text": "Setări de randare"
+			},
+			"defaultRenderingSettingsLabel": {
+				"text": "Setări implicite"
+			},
+			"horizontalResolutionLabel": {
+				"text": "Rezoluție orizontală:"
+			},
+			"verticalResolutionLabel ": {
+				"text": "Rezoluție verticală:"
+			},
+			"smoothingModeLabel": {
+				"text": "Mod neted:"
+			},
+			"AntiAlias": {
+				"text": "AntiAlias"
+			},
+			"None": {
+				"text": "Nu"
+			},
+			"interpolationModeLabel": {
+				"text": "Modul de interpolare:"
+			},
+			"Bicubic": {
+				"text": "Bicubic"
+			},
+			"Bilinear": {
+				"text": "Bilinear"
+			},
+			"HighQualityBicubic": {
+				"text": "HighQualityBicubic"
+			},
+			"HighQualityBilinear": {
+				"text": "HighQualityBilinear"
+			},
+			"NearestNeighbor": {
+				"text": "NearestNeighbor"
+			},
+			"otherSettingsLabel": {
+				"text": "Alte setări"
+			},
+			"backgroundColorLabel": {
+				"text": "Culoarea de fundal a vizualizatorului de imagini:"
+			},
+			"centerImageLabel": {
+				"text": "Imaginea din centru:"
+			},
+			"resizeTimeoutLabel ": {
+				"text": "Redimensionare Timeout:"
+			},
+			"tileSizeLabel": {
+				"text": "Dimensiunea plăcilor:"
+			},
+			"colorManagementLabel": {
+				"text": "Activați gestionarea culorilor:"
+			},
+			"useVectorRenderingLabel": {
+				"text": "Utilizați redarea vectorială pentru documente:"
+			},
+			"vectorContentBackgroundColorLabel": {
+				"text": "Culoarea de fundal a conținutului vectorial:"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"сancelButton": {
+				"value": "Anulează"
+			}
+		},
+		"thumbnailViewerSettingsDialog": {
+			"sizeLabel": {
+				"text": "Dimensiunea miniaturii:"
+			},
+			"scaleLabel": {
+				"text": "Scara miniaturi:"
+			},
+			"smallestOption": {
+				"text": "Cel puțin"
+			},
+			"smallOption": {
+				"text": "Mic"
+			},
+			"normalOption": {
+				"text": "Normal"
+			},
+			"largeOption": {
+				"text": "Mare"
+			},
+			"flowStyleLabel": {
+				"text": "Stil de plasare a miniaturii:"
+			},
+			"singleColumnOption": {
+				"text": "SingleColumn"
+			},
+			"singleRowOption": {
+				"text": "SingleRow"
+			},
+			"fixedColumnsOption": {
+				"text": "FixedColumns"
+			},
+			"wrappedRowsOption": {
+				"text": "WrappedRows"
+			},
+			"columnCountLabel": {
+				"text": "Număr de coloane:"
+			},
+			"marginLabel": {
+				"text": "Umplutură exterioară:"
+			},
+			"paddingTopLabel": {
+				"text": "Umplutură superioară:"
+			},
+			"paddingRightLabel": {
+				"text": "Indentație dreapta:"
+			},
+			"paddingBottomLabel": {
+				"text": "Umplutură inferioară:"
+			},
+			"paddingLeftLabel": {
+				"text": "Indentatură din stânga:"
+			},
+			"showCaptionLabel": {
+				"text": "Afișează subtitrările miniaturilor:"
+			},
+			"captionFormatLabel": {
+				"text": "Format semnătură:"
+			},
+			"captionAnchorLabel": {
+				"text": "Ancora semnăturii:"
+			},
+			"topLeftOption": {
+				"text": "Sus|Stânga"
+			},
+			"topOption": {
+				"text": "Sus"
+			},
+			"topRightOption": {
+				"text": "Sus|Dreapta"
+			},
+			"rightOption": {
+				"text": "Corect"
+			},
+			"bottomRightOption": {
+				"text": "Jos|Dreapta"
+			},
+			"bottomOption": {
+				"text": "De jos"
+			},
+			"bottomLeftOption": {
+				"text": "Jos|Stânga"
+			},
+			"leftOption": {
+				"text": "Stânga"
+			},
+			"centerOption": {
+				"text": "Aliniere la centru"
+			},
+			"focusOnHoverLabel": {
+				"text": "Hover Focus:"
+			},
+			"multiSelectLabel": {
+				"text": "Permite selecția mai multor miniaturi:"
+			},
+			"useThumbnailCheckboxesLabel": {
+				"text": "Utilizați casetele de selectare pentru miniatură:"
+			},
+			"useThumbnailActionsPanelLabel": {
+				"text": "Utilizați panoul de acțiuni pentru miniatură:"
+			},
+			"canDragThumbnailsLabel": {
+				"text": "Poate trage miniaturi:"
+			},
+			"canNavigateThumbnailsUsingKeyboardLabel": {
+				"text": "Poate naviga prin miniaturi folosind tastatura:"
+			},
+			"canSelectThumbnailsUsingKeyboardLabel": {
+				"text": "Poate selecta miniaturi folosind tastatura:"
+			},
+			"canDeleteThumbnailsUsingKeyboardLabel": {
+				"text": "Poate șterge miniaturile folosind tastatura:"
+			},
+			"okButton": {
+				"value": "OK"
+			},
+			"сancelButton": {
+				"value": "Anulează"
+			}
+		},
+		"uploadImageFromUrlDialog": {
+			"okButton": {
+				"value": "OK"
+			},
+			"cancelButton": {
+				"value": "Anulează"
+			}
+		},
+		"imageProcessingSettingsDialog-AutoInvert": {
+			"title": "Setările comenzii de procesare a imaginii (AutoInvert)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"imageProcessingSettingsDialog-AutoTextOrientation": {
+			"title": "Setările comenzii de procesare a imaginii (AutoTextOrientation)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"+ Binarization": {
+				"text": "+ Binarizare:"
+			},
+			"BinarizationMode": {
+				"text": "BinarizationMode:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ConvertToBlackLevel": {
+				"text": "ConvertToBlackLevel:"
+			},
+			"ConvertToWhiteLevel": {
+				"text": "ConvertToWhiteLevel:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"LuminanceComputationMode": {
+				"text": "LuminanceComputationMode:"
+			},
+			"MaxLevelDifference": {
+				"text": "MaxLevelDifference:"
+			},
+			"MinLevelDifference": {
+				"text": "MinLevelDifference:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"Threshold": {
+				"text": "Prag:"
+			},
+			"WindowRadius": {
+				"text": "WindowRadius:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"MinConfidence": {
+				"text": "MinConfidence:"
+			},
+			"StripWidth": {
+				"text": "StripWidth:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"imageProcessingSettingsDialog-BorderClear": {
+			"title": "Setările comenzii de procesare a imaginii (BorderClear)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"imageProcessingSettingsDialog-Deskew": {
+			"title": "Setări de comandă de procesare a imaginii (Deskew)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"BorderColor": {
+				"text": "BorderColor:"
+			},
+			"BorderColorType": {
+				"text": "BorderColorType:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"MaxAngle": {
+				"text": "MaxAngle:"
+			},
+			"MinConfidence": {
+				"text": "MinConfidence:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"ScanIntervalX": {
+				"text": "ScanIntervalX:"
+			},
+			"ScanIntervalY": {
+				"text": "ScanIntervalY:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"imageProcessingSettingsDialog-Despeckle": {
+			"title": "Setările comenzii de procesare a imaginii (Despeckle)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"AutoConfigureLevels": {
+				"text": "AutoConfigureLevels:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"Level1": {
+				"text": "Nivelul 1:"
+			},
+			"Level2": {
+				"text": "Nivelul 2:"
+			},
+			"Radius": {
+				"text": "Raza:"
+			},
+			"+ Region": {
+				"text": "+ Regiune:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "Latime:"
+			},
+			"height": {
+				"text": "Înălțime:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"imageProcessingSettingsDialog-HalftoneRemoval": {
+			"title": "Setările comenzii de procesare a imaginii (HalftoneRemoval)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"AutoThreshold": {
+				"text": "AutoThreshold:"
+			},
+			"BlackPixelRemovalThreshold": {
+				"text": "BlackPixelRemovalThreshold:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"CellSize": {
+				"text": "CellSize:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"MaxSegmentSize": {
+				"text": "MaxSegmentSize:"
+			},
+			"MinHalftoneHeight": {
+				"text": "MinHalftoneHeight:"
+			},
+			"MinHalftoneWidth": {
+				"text": "MinHalftoneWidth:"
+			},
+			"+ Region": {
+				"text": "+ Regiune:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "Latime:"
+			},
+			"height": {
+				"text": "Înălțime:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"WhitePixelRemovalThreshold": {
+				"text": "WhitePixelRemovalThreshold:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"imageProcessingSettingsDialog-HolePunchRemoval": {
+			"title": "Setările comenzii de procesare a imaginii (HolePunchRemoval)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"+ Binarization": {
+				"text": "+ Binarizare:"
+			},
+			"BinarizationMode": {
+				"text": "BinarizationMode:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"ConvertToBlackLevel": {
+				"text": "ConvertToBlackLevel:"
+			},
+			"ConvertToWhiteLevel": {
+				"text": "ConvertToWhiteLevel:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"LuminanceComputationMode": {
+				"text": "LuminanceComputationMode:"
+			},
+			"MaxLevelDifference": {
+				"text": "MaxLevelDifference:"
+			},
+			"MinLevelDifference": {
+				"text": "MinLevelDifference:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"Threshold": {
+				"text": "Prag:"
+			},
+			"WindowRadius": {
+				"text": "WindowRadius:"
+			},
+			"FillBorderSize": {
+				"text": "FillBorderSize:"
+			},
+			"FillColor": {
+				"text": "FillColor:"
+			},
+			"FillColorAutoDetection": {
+				"text": "FillColorAutoDetection:"
+			},
+			"HolePunchLocation": {
+				"text": "HolePunchLocation:"
+			},
+			"selectAllLabel": {
+				"text": "Selectează tot"
+			},
+			"bottom": {
+				"text": "De jos"
+			},
+			"left": {
+				"text": "Stânga"
+			},
+			"right": {
+				"text": "Corect"
+			},
+			"top": {
+				"text": "Sus"
+			},
+			"undefined": {
+				"text": "Nedefinit"
+			},
+			"MaxHoleSize": {
+				"text": "MaxHoleSize:"
+			},
+			"MinHoleSize": {
+				"text": "MinHoleSize:"
+			},
+			"+ Region": {
+				"text": "+ Regiune:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "Latime:"
+			},
+			"height": {
+				"text": "Înălțime:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		},
+		"imageProcessingSettingsDialog-LineRemoval": {
+			"title": "Setările comenzii de procesare a imaginii (LineRemoval)",
+			"ActionName": {
+				"text": "ActionName:"
+			},
+			"+ Binarization": {
+				"text": "+ Binarizare:"
+			},
+			"BinarizationMode": {
+				"text": "BinarizationMode:"
+			},
+			"CanModifyImage": {
+				"text": "CanModifyImage:"
+			},
+			"ConvertToBlackLevel": {
+				"text": "ConvertToBlackLevel:"
+			},
+			"ConvertToWhiteLevel": {
+				"text": "ConvertToWhiteLevel:"
+			},
+			"ExpandSupportedPixelFormats": {
+				"text": "ExpandSupportedPixelFormats:"
+			},
+			"LuminanceComputationMode": {
+				"text": "LuminanceComputationMode:"
+			},
+			"MaxLevelDifference": {
+				"text": "MaxLevelDifference:"
+			},
+			"MinLevelDifference": {
+				"text": "MinLevelDifference:"
+			},
+			"RestoreSourcePixelFormat": {
+				"text": "RestoreSourcePixelFormat:"
+			},
+			"SupportedNativePixelFormats": {
+				"text": "SupportedNativePixelFormats:"
+			},
+			"SupportedPixelFormats": {
+				"text": "SupportedPixelFormats:"
+			},
+			"Threshold": {
+				"text": "Prag:"
+			},
+			"WindowRadius": {
+				"text": "WindowRadius:"
+			},
+			"ChangeSource": {
+				"text": "ChangeSource:"
+			},
+			"Direction": {
+				"text": "Direcţie:"
+			},
+			"selectAllLabel": {
+				"text": "Selectează tot"
+			},
+			"horizontal": {
+				"text": "Orizontal"
+			},
+			"vertical": {
+				"text": "Verticală"
+			},
+			"FillColor": {
+				"text": "FillColor:"
+			},
+			"FillColorAutoDetection": {
+				"text": "FillColorAutoDetection:"
+			},
+			"LineEndsType": {
+				"text": "LineEndsType:"
+			},
+			"LinesType": {
+				"text": "LinesType:"
+			},
+			"MaxCurvature": {
+				"text": "MaxCurvature:"
+			},
+			"MaxDeviationAngle": {
+				"text": "MaxDeviationAngle:"
+			},
+			"MaxGapLength": {
+				"text": "MaxGapLength:"
+			},
+			"MaxLength": {
+				"text": "MaxLength:"
+			},
+			"MaxWidth": {
+				"text": "MaxWidth:"
+			},
+			"MinConfidence": {
+				"text": "MinConfidence:"
+			},
+			"MinLength": {
+				"text": "MinLength:"
+			},
+			"MinSizeRatio": {
+				"text": "MinSizeRatio:"
+			},
+			"MinWidth": {
+				"text": "MinWidth:"
+			},
+			"ReconnectBrokenObjects": {
+				"text": "ReconnectBrokenObjects:"
+			},
+			"+ Region": {
+				"text": "+ Regiune:"
+			},
+			"x": {
+				"text": "x:"
+			},
+			"y": {
+				"text": "y:"
+			},
+			"width": {
+				"text": "Latime:"
+			},
+			"height": {
+				"text": "Înălțime:"
+			},
+			"okButton": {
+				"value": "OK"
+			}
+		}
+	},
+	"downloadResultLink": {
+		"text": "Descărcați rezultatele recunoașterii"
+	},
+	"strings": {
+		"vsdv-uploadAndOpenFileButton-uploadFileString": "Descărcați și deschideți fișierul",
+		"vsdv-uploadAndAddFileButton-addFileString": "Încărcați și adăugați fișier",
+		"vsui-imageProcessingPanel-imageProcessingString": "Procesarea imaginii",
+		"vsui-textSearchPanel-pageLabel": "Pagină",
+		"vsdv-openFile-addFileString": "Adauga fisier",
+		"vsdv-openFile-authenticateFileString": "Autentificați fișierul",
+		"vsdv-downloadFile-actionMessage": "Descărcare fișier",
+		"vsdv-saveChanges-saveChangesInImages": "Salvați modificările în imagini",
+		"vsui-documentNavigationTool-getActions": "Obțineți acțiuni",
+		"vsdv-saveChanges-saveChangesInAnnotations": "Salvați modificările în adnotări",
+		"vsdv-saveChanges-burnAnnotationsInImages": "Ardeți adnotări pe imagini",
+		"vsui-dialog-okButton": "OK",
+		"vsui-multiselect-noneSelected": "Nu este selectat niciunul",
+		"vsui-multiselect-allSelected": "Toate selectate",
+		"vsui-multiselect-selected": "selectat",
+		"vsdv-saveChanges-saveChangesInPdfDocument": "Salvați modificările în documentul PDF",
+		"vsui-documentPasswordDialog-title": "Parola documentului",
+		"vsui-dialog-cancelButton": "Anulează",
+		"vsui-documentPasswordPanel-authenticateFileString": "Autentificați fișierul",
+		"vsui-imageSelectionDialog-title": "Selectați imagini",
+		"vsui-imageSelectionDialog-currentImageString": "Imaginea curentă",
+		"vsui-imageSelectionDialog-allImagesString": "Toate imaginile",
+		"vsui-imageSelectionDialog-customImagesString": "Personalizat",
+		"vsui-printImagesDialog-title": "Tipărește imagini",
+		"vsui-printImagesPanel-imagePrintingString": "Imaginea se imprimă",
+		"vsui-printImagesPanel-withAnnotationsLabel": "cu adnotări",
+		"vsui-imageViewerSettingsDialog-title": "Setări pentru vizualizarea imaginilor",
+		"vsui-thumbnailViewerSettingDialog-title": "Setări pentru vizualizatorul de miniaturi",
+		"vsui-thumbnailViewerSettingsDialog-showAnnotationsLabel": "Afișează adnotări pe miniaturi:",
+		"vsdv-uploadImageFromUrlDialog-title": "Încărcați imaginea de la URL",
+		"vsdv-dialog-okButton": "OK",
+		"vsdv-dialog-cancelButton": "Anulează"
+	}
+}
